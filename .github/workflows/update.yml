@@ -2,19 +2,23 @@ name: Update HR Data
 on:
   schedule:
     - cron: '0 0 * * *' # Runs daily at midnight
-  workflow_dispatch: # This keeps the "Run workflow" button active
+  workflow_dispatch: 
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    # This line tells the runner to use the new Node version for all steps
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+      
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4 # Updated from v3
+        uses: actions/checkout@v4
       
       - name: Set up Python
-        uses: actions/setup-python@v5 # Updated from v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.11' # Using a more modern Python version
+          python-version: '3.11'
           
       - name: Install requests
         run: pip install requests
