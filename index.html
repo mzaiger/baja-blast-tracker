@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>420' Club: <span id="year-title"></span> Regular Season</title>
+    <title>420' Club: Regular Season</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-gray-900 text-white p-8">
@@ -27,9 +27,8 @@
     </div>
 
     <script>
-        // Set current year everywhere
+        // Set current year in subtitle and browser tab
         const currentYear = new Date().getFullYear();
-        document.getElementById('year-title').textContent = currentYear;
         document.getElementById('year-sub').textContent = currentYear;
         document.title = `420' Club: ${currentYear} Regular Season`;
 
@@ -39,45 +38,41 @@
             const container = document.getElementById('hr-list');
             container.innerHTML = '';
 
+            // Sort most recent first
+            data.sort((a, b) => {
+                if (a.date !== b.date) return b.date.localeCompare(a.date);
+                return (b.game_pk || 0) - (a.game_pk || 0);
+            });
+
             if (data.length === 0) {
-                container.innerHTML = '<p class="text-center">No 420ft+ homers in the last 7 days. Pitchers are winning.</p>';
+                container.innerHTML = '<p class="text-center">No 420ft+ homers yet this season. Pitchers are winning.</p>';
                 return;
             }
 
             data.forEach(hr => {
-                const velo     = hr.exit_velo     ? `${parseFloat(hr.exit_velo).toFixed(1)} <span class="text-xs text-gray-500">mph</span>`  : '<span class="text-gray-600">—</span>';
-                const angle    = hr.launch_angle  ? `${parseFloat(hr.launch_angle).toFixed(1)}<span class="text-xs text-gray-500">°</span>`   : '<span class="text-gray-600">—</span>';
+                const velo  = hr.exit_velo    ? `${parseFloat(hr.exit_velo).toFixed(1)} <span class="text-xs text-gray-500">mph</span>`  : '<span class="text-gray-600">—</span>';
+                const angle = hr.launch_angle ? `${parseFloat(hr.launch_angle).toFixed(1)}<span class="text-xs text-gray-500">°</span>`   : '<span class="text-gray-600">—</span>';
 
                 const card = `
                     <div class="bg-gray-800 rounded-lg border-l-4 border-green-500 shadow-lg
                                 grid grid-cols-[1fr_auto] md:grid-cols-[1fr_auto_auto_auto]
                                 gap-x-4 items-center px-4 py-3">
-
-                        <!-- Player + matchup -->
                         <div>
                             <div class="text-lg font-bold leading-tight">${hr.player}</div>
                             <div class="text-xs text-gray-400 mt-0.5">${hr.team} vs ${hr.opponent} &bull; ${hr.date}</div>
                         </div>
-
-                        <!-- Exit velo (hidden on mobile, shown inline below) -->
                         <div class="hidden md:flex flex-col items-center w-24">
                             <div class="text-lg font-semibold text-yellow-400">${velo}</div>
                             <div class="text-xs text-gray-500 uppercase tracking-wide">Exit Velo</div>
                         </div>
-
-                        <!-- Launch angle (hidden on mobile) -->
                         <div class="hidden md:flex flex-col items-center w-24">
                             <div class="text-lg font-semibold text-blue-400">${angle}</div>
                             <div class="text-xs text-gray-500 uppercase tracking-wide">Launch Angle</div>
                         </div>
-
-                        <!-- Distance — always visible -->
                         <div class="flex flex-col items-center w-24">
                             <div class="text-2xl font-black text-green-400">${hr.distance}<span class="text-base font-normal">'</span></div>
                             <div class="text-xs text-gray-500 uppercase tracking-wide">Distance</div>
                         </div>
-
-                        <!-- Mobile-only second row for the two extra stats -->
                         <div class="md:hidden col-span-2 flex gap-6 mt-2 pt-2 border-t border-gray-700">
                             <div>
                                 <span class="text-yellow-400 font-semibold">${velo}</span>
@@ -93,6 +88,7 @@
                 container.innerHTML += card;
             });
         }
+
         loadHRs();
     </script>
 </body>
