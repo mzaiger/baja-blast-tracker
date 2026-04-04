@@ -1,51 +1,79 @@
 import requests
-from datetime import datetime
+import csv
 import json
+import io
+from datetime import datetime
 
-def get_season_baja_bombs():
-    # Use the ISO format which the Search API prefers
-    start_date = "2026-03-20" 
+def get_season_baja_bombs(min_distance=420):
+    start_date = "2026-03-20"
     end_date = datetime.now().strftime('%Y-%m-%d')
-    
-    # We add gameType=R for Regular Season and explicitly ask for hit_distance_sc
+
+    # Baseball Savant CSV export — the correct source for Statcast hit distance
     url = (
-        f"https://statsapi.mlb.com/api/v1/statcast/search?sportId=1"
-        f"&gameType=R&startDate={start_date}&endDate={end_date}"
-        f"&hitResult=Home+Run&limit=1000"
+        "https://baseballsavant.mlb.com/statcast_search/csv"
+        "?all=true"
+        "&hfAB=home_run%7C"   # home runs only
+        "&hfGT=R%7C"          # regular season only
+        f"&game_date_gt={start_date}"
+        f"&game_date_lt={end_date}"
+        "&hfSea=2026%7C"
+        "&type=details"
+        "&player_type=batter"
     )
-    
-    print(f"Checking for bombs since {start_date}...")
 
-    try:
-        response = requests.get(url)
-        response.raise_for_status()
-        data = response.json().get('data', [])
-        
-        baja_list = []
-        for play in data:
-            # The distance can sometimes be in different fields depending on the API version
-            dist = play.get('hit_distance_sc') or play.get('launch_data', {}).get('distance', 0)
-            
-            if dist and float(dist) >= 420:
-                baja_list.append({
-                    "player": play.get('player_name', 'Unknown Slugger'),
-                    "distance": int(dist),
-                    "team": play.get('team_name', 'MLB'),
-                    "opponent": play.get('opponent_name', 'Opponent'),
-                    "date": play.get('game_date', '2026-00-00')
-                })
-        
-        # Remove duplicates (sometimes search returns multiple entries for one play)
-        unique_list = { (h['player'], h['date']): h for h in baja_list }.values()
-        sorted_list = sorted(unique_list, key=lambda x: x['distance'], reverse=True)
-        
-        with open('data.json', 'w') as f:
-            json.dump(list(sorted_list), f, indent=4)
-            
-        print(f"Success! Found {len(sorted_list)} Baja Blasts.")
+    headers = {
+        "User-Agent": "Mozilla/5.0 (compatible; StatcastFetcher/1.0)"
+    }
 
-    except Exception as e:
-        print(f"Error: {e}")
+    print(f"Fetching Statcast data from Baseball Savant ({start_date} → {end_date})...")
+
+    response = requests.get(url, headers=headers, timeout=30)
+    response.raise_for_status()  # raises immediately on HTTP errors — no silent failures
+
+    content = response.text
+    if not content.strip():
+        raise ValueError("Baseball Savant returned an empty response.")
+
+    reader = csv.DictReader(io.StringIO(content))
+
+    baja_list = []
+    for row in reader:
+        dist_str = row.get("hit_distance_sc", "").strip()
+        if not dist_str:
+            continue
+        try:
+            dist = float(dist_str)
+        except ValueError:
+            continue
+
+        if dist >= min_distance:
+            baja_list.append({
+                "player":   row.get("player_name", "Unknown Slugger"),
+                "distance": int(dist),
+                "team":     row.get("home_team", "MLB"),    # batter's team varies by home/away
+                "opponent": row.get("away_team", "Opp"),
+                "date":     row.get("game_date", ""),
+                "exit_velo": row.get("launch_speed", ""),
+                "launch_angle": row.get("launch_angle", ""),
+            })
+
+    # Deduplicate by (player, date) — Savant can return one row per pitch/play
+    seen = {}
+    for h in baja_list:
+        key = (h["player"], h["date"])
+        # keep the longer bomb if there's a collision
+        if key not in seen or h["distance"] > seen[key]["distance"]:
+            seen[key] = h
+
+    sorted_list = sorted(seen.values(), key=lambda x: x["distance"], reverse=True)
+
+    output_file = "data.json"
+    with open(output_file, "w") as f:
+        json.dump(sorted_list, f, indent=4)
+
+    print(f"✅ Found {len(sorted_list)} Baja Blasts (≥{min_distance}ft). Saved to {output_file}.")
+    for bomb in sorted_list:
+        print(f"  💣 {bomb['player']:25s} {bomb['distance']}ft  ({bomb['date']})")
 
 if __name__ == "__main__":
     get_season_baja_bombs()
