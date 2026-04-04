@@ -48,12 +48,14 @@ def get_season_baja_bombs(min_distance=420):
 
         if dist >= min_distance:
             baja_list.append({
-                "player":   row.get("player_name", "Unknown Slugger"),
-                "distance": int(dist),
-                "team":     row.get("home_team", "MLB"),    # batter's team varies by home/away
-                "opponent": row.get("away_team", "Opp"),
-                "date":     row.get("game_date", ""),
-                "exit_velo": row.get("launch_speed", ""),
+                "player":       row.get("player_name", "Unknown Slugger"),
+                "distance":     int(dist),
+                "team":         row.get("home_team", "MLB"),
+                "opponent":     row.get("away_team", "Opp"),
+                "date":         row.get("game_date", ""),
+                "game_pk":      int(row.get("game_pk", 0) or 0),  # unique game ID — cast to int for correct sort
+                "inning":       int(row.get("inning", 0) or 0),
+                "exit_velo":    row.get("launch_speed", ""),
                 "launch_angle": row.get("launch_angle", ""),
             })
 
@@ -65,7 +67,11 @@ def get_season_baja_bombs(min_distance=420):
         if key not in seen or h["distance"] > seen[key]["distance"]:
             seen[key] = h
 
-    sorted_list = sorted(seen.values(), key=lambda x: x["distance"], reverse=True)
+    # Sort by date then game_pk (proxy for game time) then inning for full chronological order
+    sorted_list = sorted(
+        seen.values(),
+        key=lambda x: (x["date"], x["game_pk"], x["inning"])
+    )
 
     output_file = "data.json"
     with open(output_file, "w") as f:
@@ -73,7 +79,7 @@ def get_season_baja_bombs(min_distance=420):
 
     print(f"✅ Found {len(sorted_list)} Baja Blasts (≥{min_distance}ft). Saved to {output_file}.")
     for bomb in sorted_list:
-        print(f"  💣 {bomb['player']:25s} {bomb['distance']}ft  ({bomb['date']})")
+        print(f"  💣 {bomb['date']}  Inning {bomb['inning']}  {bomb['player']:25s} {bomb['distance']}ft")
 
 if __name__ == "__main__":
     get_season_baja_bombs()
