@@ -5,7 +5,8 @@ import io
 from datetime import datetime
 
 def get_season_baja_bombs(min_distance=420):
-    start_date = "2026-03-20"
+    year = datetime.now().year
+    start_date = f"{year}-03-20"
     end_date = datetime.now().strftime('%Y-%m-%d')
 
     # Baseball Savant CSV export — the correct source for Statcast hit distance
@@ -16,7 +17,7 @@ def get_season_baja_bombs(min_distance=420):
         "&hfGT=R%7C"          # regular season only
         f"&game_date_gt={start_date}"
         f"&game_date_lt={end_date}"
-        "&hfSea=2026%7C"
+        f"&hfSea={year}%7C"
         "&type=details"
         "&player_type=batter"
     )
@@ -67,11 +68,10 @@ def get_season_baja_bombs(min_distance=420):
         if key not in seen or h["distance"] > seen[key]["distance"]:
             seen[key] = h
 
-    # Sort most recent first
+    # Sort by date then game_pk (proxy for game time) then inning for full chronological order
     sorted_list = sorted(
         seen.values(),
-        key=lambda x: (x["date"], x["game_pk"], x["inning"]),
-        reverse=True
+        key=lambda x: (x["date"], x["game_pk"], x["inning"])
     )
 
     output_file = "data.json"

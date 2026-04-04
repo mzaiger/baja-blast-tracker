@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>420' Club: 2026 Regular Season</title>
+    <title>420' Club: <span id="year-title"></span> Regular Season</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-gray-900 text-white p-8">
     <div class="max-w-5xl mx-auto">
         <header class="mb-8 text-center">
             <h1 class="text-4xl font-bold text-green-400">🔥 The 420' Club</h1>
-            <p class="text-gray-400">MLB Home Runs ≥ 420ft — 2026 Regular Season</p>
+            <p class="text-gray-400">MLB Home Runs ≥ 420ft — <span id="year-sub"></span> Regular Season</p>
         </header>
 
         <!-- Column headers -->
@@ -27,17 +27,17 @@
     </div>
 
     <script>
+        // Set current year everywhere
+        const currentYear = new Date().getFullYear();
+        document.getElementById('year-title').textContent = currentYear;
+        document.getElementById('year-sub').textContent = currentYear;
+        document.title = `420' Club: ${currentYear} Regular Season`;
+
         async function loadHRs() {
             const response = await fetch('./data.json');
             const data = await response.json();
             const container = document.getElementById('hr-list');
             container.innerHTML = '';
-
-            // Sort most recent first
-            data.sort((a, b) => {
-                if (a.date !== b.date) return b.date.localeCompare(a.date);
-                return (b.game_pk || 0) - (a.game_pk || 0);
-            });
 
             if (data.length === 0) {
                 container.innerHTML = '<p class="text-center">No 420ft+ homers in the last 7 days. Pitchers are winning.</p>';
