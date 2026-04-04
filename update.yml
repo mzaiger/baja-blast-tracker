@@ -1,0 +1,35 @@
+name: Update HR Data
+on:
+  schedule:
+    - cron: '0 13-23 * 3-10 *' # Runs hourly 1pm-11pm UTC (8am-6pm CT), March-October
+  workflow_dispatch: 
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    # This line tells the runner to use the new Node version for all steps
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+      
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          
+      - name: Install requests
+        run: pip install requests
+        
+      - name: Run fetch script
+        run: python fetch_stats.py
+        
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "HR-Bot"
+          git config --global user.email "bot@github.com"
+          git add data.json
+          git commit -m "Automated HR update" || exit 0
+          git push
