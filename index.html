@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Baja Blast Tracker</title>
+  <style>
+    body { font-family: Arial; text-align: center; }
+    li { margin: 10px; }
+  </style>
+</head>
+<body>
+  <h1>🧃 420+ FT HOMER TRACKER</h1>
+  <p>Auto-alerts when a Baja Blast bomb happens</p>
+  <ul id="alerts"></ul>
+
+  <script>
+    const seenKey = "seenHRs";
+    let seen = JSON.parse(localStorage.getItem(seenKey)) || [];
+
+    async function getGames() {
+      const res = await fetch("https://statsapi.mlb.com/api/v1/schedule?sportId=1");
+      const data = await res.json();
+      return data.dates[0]?.games || [];
+    }
+
+    async function checkHomeRuns() {
+      const games = await getGames();
+
+      for (let game of games) {
+        const res = await fetch(`https://statsapi.mlb.com/api/v1.1/game/${game.gamePk}/feed/live`);
+        const data = await res.json();
+
+        const plays = data.liveData.plays.allPlays;
+
+        plays.forEach(play => {
+          if (play.result.event === "Home Run") {
+
+            const distance =
+              play.hitData?.totalDistance ||
+              play.result?.hitDistance;
+
+            if (distance && distance >= 420) {
+
+              const id = `${game.gamePk}-${play.about.atBatIndex}`;
+
+              if (!seen.includes(id)) {
+                seen.push(id);
+                localStorage.setItem(seenKey, JSON.stringify(seen));
+
+                showAlert(play.matchup.batter.fullName, distance);
+              }
+            }
+          }
+        });
+      }
+    }
+
+    function showAlert(player, distance) {
+      const li = document.createElement("li");
+      li.textContent = `💣 ${player} hit ${distance} ft!`;
+      document.getElementById("alerts").prepend(li);
+
+      // 🔔 Notification
+      if (Notification.permission === "granted") {
+        new Notification("Baja Blast Alert!", {
+          body: `${player} hit ${distance} ft 💣`
+        });
+      }
+
+      // 🔊 Sound
+      new Audio("https://www.myinstants.com/media/sounds/airhorn.mp3").play();
+    }
+
+    // Ask for notification permission
+    Notification.requestPermission();
+
+    // Run every 15 sec
+    setInterval(checkHomeRuns, 15000);
+
+    // Initial load
+    checkHomeRuns();
+  </script>
+</body>
+</html>
