@@ -67,10 +67,11 @@ def get_season_baja_bombs(min_distance=420):
         if key not in seen or h["distance"] > seen[key]["distance"]:
             seen[key] = h
 
-    # Sort by date then game_pk (proxy for game time) then inning for full chronological order
+    # Sort most recent first
     sorted_list = sorted(
         seen.values(),
-        key=lambda x: (x["date"], x["game_pk"], x["inning"])
+        key=lambda x: (x["date"], x["game_pk"], x["inning"]),
+        reverse=True
     )
 
     output_file = "data.json"

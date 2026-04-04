@@ -33,6 +33,12 @@
             const container = document.getElementById('hr-list');
             container.innerHTML = '';
 
+            // Sort most recent first
+            data.sort((a, b) => {
+                if (a.date !== b.date) return b.date.localeCompare(a.date);
+                return (b.game_pk || 0) - (a.game_pk || 0);
+            });
+
             if (data.length === 0) {
                 container.innerHTML = '<p class="text-center">No 420ft+ homers in the last 7 days. Pitchers are winning.</p>';
                 return;
