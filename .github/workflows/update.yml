@@ -1,7 +1,7 @@
 name: Update HR Data
 on:
   schedule:
-    - cron: '0 13-23 * 3-10 *' # Runs hourly 1pm-11pm UTC (8am-6pm CT), March-October
+    - cron: '0 13-23,0-5 * 3-10 *' # Runs hourly 8am-midnight CT (13-23 + 0-5 UTC), March-October
   workflow_dispatch: 
 
 jobs:
