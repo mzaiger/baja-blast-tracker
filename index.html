@@ -3,17 +3,25 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>420' Club: Last 7 Days</title>
+    <title>420' Club: 2026 Regular Season</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-gray-900 text-white p-8">
-    <div class="max-w-4xl mx-auto">
+    <div class="max-w-5xl mx-auto">
         <header class="mb-8 text-center">
             <h1 class="text-4xl font-bold text-green-400">🔥 The 420' Club</h1>
-            <p class="text-gray-400">MLB Home Runs ≥ 420ft in the last 7 days</p>
+            <p class="text-gray-400">MLB Home Runs ≥ 420ft — 2026 Regular Season</p>
         </header>
 
-        <div id="hr-list" class="grid gap-4">
+        <!-- Column headers -->
+        <div class="hidden md:grid grid-cols-[1fr_auto_auto_auto] gap-4 px-4 mb-2 text-xs uppercase tracking-widest text-gray-500 font-semibold">
+            <span>Player / Matchup</span>
+            <span class="text-center w-24">Exit Velo</span>
+            <span class="text-center w-24">Launch Angle</span>
+            <span class="text-center w-24">Distance</span>
+        </div>
+
+        <div id="hr-list" class="grid gap-3">
             <p class="text-center italic text-gray-500">Loading the bombs...</p>
         </div>
     </div>
@@ -31,13 +39,49 @@
             }
 
             data.forEach(hr => {
+                const velo     = hr.exit_velo     ? `${parseFloat(hr.exit_velo).toFixed(1)} <span class="text-xs text-gray-500">mph</span>`  : '<span class="text-gray-600">—</span>';
+                const angle    = hr.launch_angle  ? `${parseFloat(hr.launch_angle).toFixed(1)}<span class="text-xs text-gray-500">°</span>`   : '<span class="text-gray-600">—</span>';
+
                 const card = `
-                    <div class="bg-gray-800 p-4 rounded-lg border-l-4 border-green-500 flex justify-between items-center shadow-lg">
+                    <div class="bg-gray-800 rounded-lg border-l-4 border-green-500 shadow-lg
+                                grid grid-cols-[1fr_auto] md:grid-cols-[1fr_auto_auto_auto]
+                                gap-x-4 items-center px-4 py-3">
+
+                        <!-- Player + matchup -->
                         <div>
-                            <div class="text-xl font-bold">${hr.player}</div>
-                            <div class="text-sm text-gray-400">${hr.team} vs ${hr.opponent} • ${hr.date}</div>
+                            <div class="text-lg font-bold leading-tight">${hr.player}</div>
+                            <div class="text-xs text-gray-400 mt-0.5">${hr.team} vs ${hr.opponent} &bull; ${hr.date}</div>
                         </div>
-                        <div class="text-3xl font-black text-green-400">${hr.distance}'</div>
+
+                        <!-- Exit velo (hidden on mobile, shown inline below) -->
+                        <div class="hidden md:flex flex-col items-center w-24">
+                            <div class="text-lg font-semibold text-yellow-400">${velo}</div>
+                            <div class="text-xs text-gray-500 uppercase tracking-wide">Exit Velo</div>
+                        </div>
+
+                        <!-- Launch angle (hidden on mobile) -->
+                        <div class="hidden md:flex flex-col items-center w-24">
+                            <div class="text-lg font-semibold text-blue-400">${angle}</div>
+                            <div class="text-xs text-gray-500 uppercase tracking-wide">Launch Angle</div>
+                        </div>
+
+                        <!-- Distance — always visible -->
+                        <div class="flex flex-col items-center w-24">
+                            <div class="text-2xl font-black text-green-400">${hr.distance}<span class="text-base font-normal">'</span></div>
+                            <div class="text-xs text-gray-500 uppercase tracking-wide">Distance</div>
+                        </div>
+
+                        <!-- Mobile-only second row for the two extra stats -->
+                        <div class="md:hidden col-span-2 flex gap-6 mt-2 pt-2 border-t border-gray-700">
+                            <div>
+                                <span class="text-yellow-400 font-semibold">${velo}</span>
+                                <span class="ml-1 text-xs text-gray-500">exit velo</span>
+                            </div>
+                            <div>
+                                <span class="text-blue-400 font-semibold">${angle}</span>
+                                <span class="ml-1 text-xs text-gray-500">launch angle</span>
+                            </div>
+                        </div>
                     </div>
                 `;
                 container.innerHTML += card;
