@@ -1,0 +1,299 @@
+[
+    {
+        "player": "Schwarber, Kyle",
+        "distance": 460,
+        "team": "COL",
+        "opponent": "PHI",
+        "date": "2026-04-03",
+        "exit_velo": "110.7",
+        "launch_angle": "29"
+    },
+    {
+        "player": "Marsh, Brandon",
+        "distance": 454,
+        "team": "COL",
+        "opponent": "PHI",
+        "date": "2026-04-03",
+        "exit_velo": "106.1",
+        "launch_angle": "29"
+    },
+    {
+        "player": "Cruz, Oneil",
+        "distance": 444,
+        "team": "CIN",
+        "opponent": "PIT",
+        "date": "2026-03-31",
+        "exit_velo": "111.1",
+        "launch_angle": "24"
+    },
+    {
+        "player": "Canzone, Dominic",
+        "distance": 444,
+        "team": "SEA",
+        "opponent": "CLE",
+        "date": "2026-03-26",
+        "exit_velo": "109.3",
+        "launch_angle": "26"
+    },
+    {
+        "player": "Gorman, Nolan",
+        "distance": 443,
+        "team": "STL",
+        "opponent": "TB",
+        "date": "2026-03-29",
+        "exit_velo": "108.8",
+        "launch_angle": "34"
+    },
+    {
+        "player": "DeLuca, Jonny",
+        "distance": 438,
+        "team": "MIL",
+        "opponent": "TB",
+        "date": "2026-03-30",
+        "exit_velo": "109",
+        "launch_angle": "22"
+    },
+    {
+        "player": "Burger, Jake",
+        "distance": 438,
+        "team": "PHI",
+        "opponent": "TEX",
+        "date": "2026-03-26",
+        "exit_velo": "108.1",
+        "launch_angle": "21"
+    },
+    {
+        "player": "Basallo, Samuel",
+        "distance": 437,
+        "team": "BAL",
+        "opponent": "TEX",
+        "date": "2026-04-01",
+        "exit_velo": "109.5",
+        "launch_angle": "24"
+    },
+    {
+        "player": "Goodman, Hunter",
+        "distance": 435,
+        "team": "TOR",
+        "opponent": "COL",
+        "date": "2026-03-31",
+        "exit_velo": "110.9",
+        "launch_angle": "29"
+    },
+    {
+        "player": "Matthews, Brice",
+        "distance": 434,
+        "team": "HOU",
+        "opponent": "BOS",
+        "date": "2026-03-30",
+        "exit_velo": "111.1",
+        "launch_angle": "28"
+    },
+    {
+        "player": "Dingler, Dillon",
+        "distance": 433,
+        "team": "DET",
+        "opponent": "STL",
+        "date": "2026-04-03",
+        "exit_velo": "105.9",
+        "launch_angle": "29"
+    },
+    {
+        "player": "Burleson, Alec",
+        "distance": 432,
+        "team": "STL",
+        "opponent": "TB",
+        "date": "2026-03-26",
+        "exit_velo": "109",
+        "launch_angle": "32"
+    },
+    {
+        "player": "Vargas, Ildemaro",
+        "distance": 431,
+        "team": "AZ",
+        "opponent": "DET",
+        "date": "2026-03-30",
+        "exit_velo": "108.9",
+        "launch_angle": "21"
+    },
+    {
+        "player": "Su\u00e1rez, Eugenio",
+        "distance": 431,
+        "team": "CIN",
+        "opponent": "BOS",
+        "date": "2026-03-29",
+        "exit_velo": "109.6",
+        "launch_angle": "27"
+    },
+    {
+        "player": "Smith, Dominic",
+        "distance": 430,
+        "team": "AZ",
+        "opponent": "ATL",
+        "date": "2026-04-02",
+        "exit_velo": "109.1",
+        "launch_angle": "33"
+    },
+    {
+        "player": "Olson, Matt",
+        "distance": 430,
+        "team": "AZ",
+        "opponent": "ATL",
+        "date": "2026-04-02",
+        "exit_velo": "108",
+        "launch_angle": "31"
+    },
+    {
+        "player": "Alvarez, Francisco",
+        "distance": 429,
+        "team": "NYM",
+        "opponent": "PIT",
+        "date": "2026-03-26",
+        "exit_velo": "109",
+        "launch_angle": "27"
+    },
+    {
+        "player": "Rice, Ben",
+        "distance": 427,
+        "team": "SEA",
+        "opponent": "NYY",
+        "date": "2026-04-01",
+        "exit_velo": "108.2",
+        "launch_angle": "29"
+    },
+    {
+        "player": "Olson, Matt",
+        "distance": 426,
+        "team": "AZ",
+        "opponent": "ATL",
+        "date": "2026-04-03",
+        "exit_velo": "107.3",
+        "launch_angle": "30"
+    },
+    {
+        "player": "Harper, Bryce",
+        "distance": 425,
+        "team": "PHI",
+        "opponent": "WSH",
+        "date": "2026-04-01",
+        "exit_velo": "106",
+        "launch_angle": "25"
+    },
+    {
+        "player": "Wetherholt, JJ",
+        "distance": 425,
+        "team": "STL",
+        "opponent": "TB",
+        "date": "2026-03-26",
+        "exit_velo": "101.7",
+        "launch_angle": "28"
+    },
+    {
+        "player": "Lawlar, Jordan",
+        "distance": 424,
+        "team": "AZ",
+        "opponent": "ATL",
+        "date": "2026-04-02",
+        "exit_velo": "105.5",
+        "launch_angle": "28"
+    },
+    {
+        "player": "Wallner, Matt",
+        "distance": 424,
+        "team": "KC",
+        "opponent": "MIN",
+        "date": "2026-03-30",
+        "exit_velo": "108.7",
+        "launch_angle": "23"
+    },
+    {
+        "player": "Contreras, Willson",
+        "distance": 423,
+        "team": "BOS",
+        "opponent": "SD",
+        "date": "2026-04-03",
+        "exit_velo": "108.7",
+        "launch_angle": "32"
+    },
+    {
+        "player": "Johnston, Troy",
+        "distance": 423,
+        "team": "TOR",
+        "opponent": "COL",
+        "date": "2026-03-30",
+        "exit_velo": "106.3",
+        "launch_angle": "28"
+    },
+    {
+        "player": "Rumfield, TJ",
+        "distance": 423,
+        "team": "MIA",
+        "opponent": "COL",
+        "date": "2026-03-28",
+        "exit_velo": "106.6",
+        "launch_angle": "27"
+    },
+    {
+        "player": "Laureano, Ram\u00f3n",
+        "distance": 423,
+        "team": "SD",
+        "opponent": "DET",
+        "date": "2026-03-26",
+        "exit_velo": "106",
+        "launch_angle": "33"
+    },
+    {
+        "player": "Seager, Corey",
+        "distance": 422,
+        "team": "BAL",
+        "opponent": "TEX",
+        "date": "2026-04-01",
+        "exit_velo": "101.8",
+        "launch_angle": "29"
+    },
+    {
+        "player": "DeLauter, Chase",
+        "distance": 422,
+        "team": "SEA",
+        "opponent": "CLE",
+        "date": "2026-03-26",
+        "exit_velo": "111.1",
+        "launch_angle": "24"
+    },
+    {
+        "player": "Harper, Bryce",
+        "distance": 421,
+        "team": "COL",
+        "opponent": "PHI",
+        "date": "2026-04-03",
+        "exit_velo": "108.9",
+        "launch_angle": "25"
+    },
+    {
+        "player": "Yelich, Christian",
+        "distance": 421,
+        "team": "MIL",
+        "opponent": "CWS",
+        "date": "2026-03-29",
+        "exit_velo": "111.1",
+        "launch_angle": "35"
+    },
+    {
+        "player": "Okamoto, Kazuma",
+        "distance": 420,
+        "team": "TOR",
+        "opponent": "ATH",
+        "date": "2026-03-29",
+        "exit_velo": "110.4",
+        "launch_angle": "25"
+    },
+    {
+        "player": "Langeliers, Shea",
+        "distance": 420,
+        "team": "TOR",
+        "opponent": "ATH",
+        "date": "2026-03-28",
+        "exit_velo": "109.7",
+        "launch_angle": "20"
+    }
+]
