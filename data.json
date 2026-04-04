@@ -8,7 +8,8 @@
         "game_pk": 823081,
         "inning": 3,
         "exit_velo": "101.7",
-        "launch_angle": "28"
+        "launch_angle": "28",
+        "source": "savant"
     },
     {
         "player": "Burleson, Alec",
@@ -19,7 +20,8 @@
         "game_pk": 823081,
         "inning": 6,
         "exit_velo": "109",
-        "launch_angle": "32"
+        "launch_angle": "32",
+        "source": "savant"
     },
     {
         "player": "Canzone, Dominic",
@@ -30,7 +32,8 @@
         "game_pk": 823163,
         "inning": 7,
         "exit_velo": "109.3",
-        "launch_angle": "26"
+        "launch_angle": "26",
+        "source": "savant"
     },
     {
         "player": "DeLauter, Chase",
@@ -41,7 +44,8 @@
         "game_pk": 823163,
         "inning": 9,
         "exit_velo": "111.1",
-        "launch_angle": "24"
+        "launch_angle": "24",
+        "source": "savant"
     },
     {
         "player": "Laureano, Ram\u00f3n",
@@ -52,7 +56,8 @@
         "game_pk": 823325,
         "inning": 7,
         "exit_velo": "106",
-        "launch_angle": "33"
+        "launch_angle": "33",
+        "source": "savant"
     },
     {
         "player": "Burger, Jake",
@@ -63,7 +68,8 @@
         "game_pk": 823486,
         "inning": 9,
         "exit_velo": "108.1",
-        "launch_angle": "21"
+        "launch_angle": "21",
+        "source": "savant"
     },
     {
         "player": "Alvarez, Francisco",
@@ -74,7 +80,8 @@
         "game_pk": 823649,
         "inning": 6,
         "exit_velo": "109",
-        "launch_angle": "27"
+        "launch_angle": "27",
+        "source": "savant"
     },
     {
         "player": "Langeliers, Shea",
@@ -85,7 +92,8 @@
         "game_pk": 822838,
         "inning": 7,
         "exit_velo": "109.7",
-        "launch_angle": "20"
+        "launch_angle": "20",
+        "source": "savant"
     },
     {
         "player": "Rumfield, TJ",
@@ -96,7 +104,8 @@
         "game_pk": 823892,
         "inning": 2,
         "exit_velo": "106.6",
-        "launch_angle": "27"
+        "launch_angle": "27",
+        "source": "savant"
     },
     {
         "player": "Okamoto, Kazuma",
@@ -107,7 +116,8 @@
         "game_pk": 822837,
         "inning": 4,
         "exit_velo": "110.4",
-        "launch_angle": "25"
+        "launch_angle": "25",
+        "source": "savant"
     },
     {
         "player": "Gorman, Nolan",
@@ -118,7 +128,8 @@
         "game_pk": 823079,
         "inning": 8,
         "exit_velo": "108.8",
-        "launch_angle": "34"
+        "launch_angle": "34",
+        "source": "savant"
     },
     {
         "player": "Yelich, Christian",
@@ -129,7 +140,8 @@
         "game_pk": 823810,
         "inning": 8,
         "exit_velo": "111.1",
-        "launch_angle": "35"
+        "launch_angle": "35",
+        "source": "savant"
     },
     {
         "player": "Su\u00e1rez, Eugenio",
@@ -140,7 +152,8 @@
         "game_pk": 824538,
         "inning": 6,
         "exit_velo": "109.6",
-        "launch_angle": "27"
+        "launch_angle": "27",
+        "source": "savant"
     },
     {
         "player": "Johnston, Troy",
@@ -151,7 +164,8 @@
         "game_pk": 822834,
         "inning": 6,
         "exit_velo": "106.3",
-        "launch_angle": "28"
+        "launch_angle": "28",
+        "source": "savant"
     },
     {
         "player": "DeLuca, Jonny",
@@ -162,7 +176,8 @@
         "game_pk": 823809,
         "inning": 7,
         "exit_velo": "109",
-        "launch_angle": "22"
+        "launch_angle": "22",
+        "source": "savant"
     },
     {
         "player": "Wallner, Matt",
@@ -173,7 +188,8 @@
         "game_pk": 824135,
         "inning": 2,
         "exit_velo": "108.7",
-        "launch_angle": "23"
+        "launch_angle": "23",
+        "source": "savant"
     },
     {
         "player": "Matthews, Brice",
@@ -184,7 +200,8 @@
         "game_pk": 824214,
         "inning": 5,
         "exit_velo": "111.1",
-        "launch_angle": "28"
+        "launch_angle": "28",
+        "source": "savant"
     },
     {
         "player": "Vargas, Ildemaro",
@@ -195,7 +212,8 @@
         "game_pk": 825108,
         "inning": 7,
         "exit_velo": "108.9",
-        "launch_angle": "21"
+        "launch_angle": "21",
+        "source": "savant"
     },
     {
         "player": "Goodman, Hunter",
@@ -206,7 +224,8 @@
         "game_pk": 822836,
         "inning": 6,
         "exit_velo": "110.9",
-        "launch_angle": "29"
+        "launch_angle": "29",
+        "source": "savant"
     },
     {
         "player": "Cruz, Oneil",
@@ -217,7 +236,8 @@
         "game_pk": 824537,
         "inning": 4,
         "exit_velo": "111.1",
-        "launch_angle": "24"
+        "launch_angle": "24",
+        "source": "savant"
     },
     {
         "player": "Rice, Ben",
@@ -228,7 +248,8 @@
         "game_pk": 823157,
         "inning": 9,
         "exit_velo": "108.2",
-        "launch_angle": "29"
+        "launch_angle": "29",
+        "source": "savant"
     },
     {
         "player": "Harper, Bryce",
@@ -239,7 +260,8 @@
         "game_pk": 823483,
         "inning": 8,
         "exit_velo": "106",
-        "launch_angle": "25"
+        "launch_angle": "25",
+        "source": "savant"
     },
     {
         "player": "Basallo, Samuel",
@@ -250,7 +272,8 @@
         "game_pk": 824860,
         "inning": 5,
         "exit_velo": "109.5",
-        "launch_angle": "24"
+        "launch_angle": "24",
+        "source": "savant"
     },
     {
         "player": "Seager, Corey",
@@ -261,7 +284,8 @@
         "game_pk": 824860,
         "inning": 8,
         "exit_velo": "101.8",
-        "launch_angle": "29"
+        "launch_angle": "29",
+        "source": "savant"
     },
     {
         "player": "Olson, Matt",
@@ -272,7 +296,8 @@
         "game_pk": 825105,
         "inning": 1,
         "exit_velo": "108",
-        "launch_angle": "31"
+        "launch_angle": "31",
+        "source": "savant"
     },
     {
         "player": "Lawlar, Jordan",
@@ -283,7 +308,8 @@
         "game_pk": 825105,
         "inning": 3,
         "exit_velo": "105.5",
-        "launch_angle": "28"
+        "launch_angle": "28",
+        "source": "savant"
     },
     {
         "player": "Smith, Dominic",
@@ -294,7 +320,8 @@
         "game_pk": 825105,
         "inning": 3,
         "exit_velo": "109.1",
-        "launch_angle": "33"
+        "launch_angle": "33",
+        "source": "savant"
     },
     {
         "player": "Dingler, Dillon",
@@ -305,7 +332,8 @@
         "game_pk": 824299,
         "inning": 4,
         "exit_velo": "105.9",
-        "launch_angle": "29"
+        "launch_angle": "29",
+        "source": "savant"
     },
     {
         "player": "Marsh, Brandon",
@@ -316,7 +344,8 @@
         "game_pk": 824377,
         "inning": 1,
         "exit_velo": "106.1",
-        "launch_angle": "29"
+        "launch_angle": "29",
+        "source": "savant"
     },
     {
         "player": "Harper, Bryce",
@@ -327,7 +356,8 @@
         "game_pk": 824377,
         "inning": 2,
         "exit_velo": "108.9",
-        "launch_angle": "25"
+        "launch_angle": "25",
+        "source": "savant"
     },
     {
         "player": "Schwarber, Kyle",
@@ -338,7 +368,8 @@
         "game_pk": 824377,
         "inning": 5,
         "exit_velo": "110.7",
-        "launch_angle": "29"
+        "launch_angle": "29",
+        "source": "savant"
     },
     {
         "player": "Contreras, Willson",
@@ -349,7 +380,8 @@
         "game_pk": 824786,
         "inning": 6,
         "exit_velo": "108.7",
-        "launch_angle": "32"
+        "launch_angle": "32",
+        "source": "savant"
     },
     {
         "player": "Olson, Matt",
@@ -360,6 +392,7 @@
         "game_pk": 825103,
         "inning": 9,
         "exit_velo": "107.3",
-        "launch_angle": "30"
+        "launch_angle": "30",
+        "source": "savant"
     }
 ]
