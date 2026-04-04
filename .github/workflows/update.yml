@@ -2,22 +2,26 @@ name: Update HR Data
 on:
   schedule:
     - cron: '0 0 * * *' # Runs daily at midnight
-  workflow_dispatch: # Allows you to run it manually
+  workflow_dispatch: # This keeps the "Run workflow" button active
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # Updated from v3
+      
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5 # Updated from v4
         with:
-          python-version: '3.9'
+          python-version: '3.11' # Using a more modern Python version
+          
       - name: Install requests
         run: pip install requests
+        
       - name: Run fetch script
         run: python fetch_stats.py
+        
       - name: Commit and push changes
         run: |
           git config --global user.name "HR-Bot"
