@@ -33,7 +33,7 @@
         document.title = `420' Club: ${currentYear} Regular Season`;
 
         async function loadHRs() {
-            const response = await fetch('./data.json');
+            const response = await fetch(`./data.json?t=${Date.now()}`);
             const data = await response.json();
             const container = document.getElementById('hr-list');
             container.innerHTML = '';
