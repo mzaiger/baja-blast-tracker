@@ -1,94 +1,49 @@
-<script>
-  const seenKey = "seenHRs";
-  let seen = JSON.parse(localStorage.getItem(seenKey)) || [];
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>420' Club: Last 7 Days</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-900 text-white p-8">
+    <div class="max-w-4xl mx-auto">
+        <header class="mb-8 text-center">
+            <h1 class="text-4xl font-bold text-green-400">🔥 The 420' Club</h1>
+            <p class="text-gray-400">MLB Home Runs ≥ 420ft in the last 7 days</p>
+        </header>
 
-  // 🗓️ Get last 7 days
-  function getDateRange() {
-    const today = new Date();
-    const past = new Date();
-    past.setDate(today.getDate() - 6);
+        <div id="hr-list" class="grid gap-4">
+            <p class="text-center italic text-gray-500">Loading the bombs...</p>
+        </div>
+    </div>
 
-    const format = d => d.toISOString().split("T")[0];
+    <script>
+        async function loadHRs() {
+            const response = await fetch('./data.json');
+            const data = await response.json();
+            const container = document.getElementById('hr-list');
+            container.innerHTML = '';
 
-    return {
-      start: format(past),
-      end: format(today)
-    };
-  }
-
-  async function getGames() {
-    const { start, end } = getDateRange();
-
-    const url = `https://statsapi.mlb.com/api/v1/schedule?sportId=1&startDate=${start}&endDate=${end}`;
-
-    const res = await fetch(url);
-    const data = await res.json();
-
-    let games = [];
-    data.dates.forEach(date => {
-      games = games.concat(date.games);
-    });
-
-    return games;
-  }
-
-  async function checkHomeRuns() {
-    const games = await getGames();
-
-    for (let game of games) {
-      const res = await fetch(`https://statsapi.mlb.com/api/v1.1/game/${game.gamePk}/feed/live`);
-      const data = await res.json();
-
-      const plays = data.liveData.plays.allPlays;
-
-      plays.forEach(play => {
-        if (play.result.event === "Home Run") {
-
-          const distance =
-            play.hitData?.totalDistance ||
-            play.result?.hitDistance;
-
-          if (distance && distance >= 420) {
-
-            const id = `${game.gamePk}-${play.about.atBatIndex}`;
-
-            if (!seen.includes(id)) {
-              seen.push(id);
-              localStorage.setItem(seenKey, JSON.stringify(seen));
-
-              showAlert(
-                play.matchup.batter.fullName,
-                distance,
-                game.gameDate
-              );
+            if (data.length === 0) {
+                container.innerHTML = '<p class="text-center">No 420ft+ homers in the last 7 days. Pitchers are winning.</p>';
+                return;
             }
-          }
+
+            data.forEach(hr => {
+                const card = `
+                    <div class="bg-gray-800 p-4 rounded-lg border-l-4 border-green-500 flex justify-between items-center shadow-lg">
+                        <div>
+                            <div class="text-xl font-bold">${hr.player}</div>
+                            <div class="text-sm text-gray-400">${hr.team} vs ${hr.opponent} • ${hr.date}</div>
+                        </div>
+                        <div class="text-3xl font-black text-green-400">${hr.distance}'</div>
+                    </div>
+                `;
+                container.innerHTML += card;
+            });
         }
-      });
-    }
-  }
-
-  function showAlert(player, distance, date) {
-    const li = document.createElement("li");
-    const d = new Date(date).toLocaleDateString();
-
-    li.textContent = `💣 ${player} hit ${distance} ft (${d})`;
-    document.getElementById("alerts").prepend(li);
-
-    // 🔔 Notify only for TODAY (optional)
-    if (new Date(date).toDateString() === new Date().toDateString()) {
-      if (Notification.permission === "granted") {
-        new Notification("Baja Blast Alert!", {
-          body: `${player} hit ${distance} ft 💣`
-        });
-      }
-
-      new Audio("https://www.myinstants.com/media/sounds/airhorn.mp3").play();
-    }
-  }
-
-  Notification.requestPermission();
-
-  setInterval(checkHomeRuns, 15000);
-  checkHomeRuns();
-</script>
+        loadHRs();
+    </script>
+</body>
+</html>
