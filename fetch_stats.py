@@ -5,8 +5,7 @@ import io
 from datetime import datetime
 
 def get_season_baja_bombs(min_distance=420):
-    year = datetime.now().year
-    start_date = f"{year}-03-20"
+    start_date = "2026-03-20"
     end_date = datetime.now().strftime('%Y-%m-%d')
 
     # Baseball Savant CSV export — the correct source for Statcast hit distance
@@ -17,7 +16,7 @@ def get_season_baja_bombs(min_distance=420):
         "&hfGT=R%7C"          # regular season only
         f"&game_date_gt={start_date}"
         f"&game_date_lt={end_date}"
-        f"&hfSea={year}%7C"
+        "&hfSea=2026%7C"
         "&type=details"
         "&player_type=batter"
     )
@@ -75,12 +74,14 @@ def get_season_baja_bombs(min_distance=420):
     )
 
     output_file = "data.json"
-    with open(output_file, "w") as f:
-        json.dump(sorted_list, f, indent=4)
-
-    print(f"✅ Found {len(sorted_list)} Baja Blasts (≥{min_distance}ft). Saved to {output_file}.")
-    for bomb in sorted_list:
-        print(f"  💣 {bomb['date']}  Inning {bomb['inning']}  {bomb['player']:25s} {bomb['distance']}ft")
+    if not sorted_list:
+        print("⚠️ No results returned from Baseball Savant — keeping existing data.json unchanged.")
+    else:
+        with open(output_file, "w") as f:
+            json.dump(sorted_list, f, indent=4)
+        print(f"✅ Found {len(sorted_list)} Baja Blasts (≥{min_distance}ft). Saved to {output_file}.")
+        for bomb in sorted_list:
+            print(f"  💣 {bomb['date']}  Inning {bomb['inning']}  {bomb['player']:25s} {bomb['distance']}ft")
 
 if __name__ == "__main__":
     get_season_baja_bombs()
