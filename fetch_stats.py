@@ -3,41 +3,49 @@ from datetime import datetime
 import json
 
 def get_season_baja_bombs():
-    # Start of 2026 Season/Spring Training
-    start_date = "03/01/2026" 
-    # Today's date
-    end_date = datetime.now().strftime('%m/%d/%Y')
+    # Use the ISO format which the Search API prefers
+    start_date = "2026-03-20" 
+    end_date = datetime.now().strftime('%Y-%m-%d')
     
-    # We add &limit=500 to make sure we don't miss any throughout the year
-    url = f"https://statsapi.mlb.com/api/v1/statcast/search?sportId=1&startDate={start_date}&endDate={end_date}&hitResult=Home+Run&limit=500"
+    # We add gameType=R for Regular Season and explicitly ask for hit_distance_sc
+    url = (
+        f"https://statsapi.mlb.com/api/v1/statcast/search?sportId=1"
+        f"&gameType=R&startDate={start_date}&endDate={end_date}"
+        f"&hitResult=Home+Run&limit=1000"
+    )
     
+    print(f"Checking for bombs since {start_date}...")
+
     try:
         response = requests.get(url)
+        response.raise_for_status()
         data = response.json().get('data', [])
         
         baja_list = []
         for play in data:
-            dist = play.get('hit_distance_sc', 0)
+            # The distance can sometimes be in different fields depending on the API version
+            dist = play.get('hit_distance_sc') or play.get('launch_data', {}).get('distance', 0)
             
-            # The 420' Club Filter
-            if dist and dist >= 420:
+            if dist and float(dist) >= 420:
                 baja_list.append({
-                    "player": play.get('player_name', 'Unknown'),
-                    "distance": dist,
+                    "player": play.get('player_name', 'Unknown Slugger'),
+                    "distance": int(dist),
                     "team": play.get('team_name', 'MLB'),
                     "opponent": play.get('opponent_name', 'Opponent'),
                     "date": play.get('game_date', '2026-00-00')
                 })
         
-        # Sort by distance (Longest first)
-        baja_list.sort(key=lambda x: x['distance'], reverse=True)
+        # Remove duplicates (sometimes search returns multiple entries for one play)
+        unique_list = { (h['player'], h['date']): h for h in baja_list }.values()
+        sorted_list = sorted(unique_list, key=lambda x: x['distance'], reverse=True)
         
         with open('data.json', 'w') as f:
-            json.dump(baja_list, f, indent=4)
-        print(f"Successfully tracked {len(baja_list)} Baja Blasts for the 2026 season.")
+            json.dump(list(sorted_list), f, indent=4)
+            
+        print(f"Success! Found {len(sorted_list)} Baja Blasts.")
 
     except Exception as e:
-        print(f"Error fetching data: {e}")
+        print(f"Error: {e}")
 
 if __name__ == "__main__":
     get_season_baja_bombs()
