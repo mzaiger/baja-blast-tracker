@@ -21,7 +21,7 @@ for date_block in sched.get("dates", []):
 
 print(f"Games today: {game_pks}\n")
 
-for pk in game_pks[:2]:  # limit to first 2 games
+for pk in game_pks:  # limit to first 2 games
     feed = requests.get(
         f"https://statsapi.mlb.com/api/v1.1/game/{pk}/feed/live",
         timeout=15
