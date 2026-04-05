@@ -394,53 +394,5 @@
         "exit_velo": "107.3",
         "launch_angle": "30",
         "source": "savant"
-    },
-    {
-        "player": "Garrett Mitchell",
-        "distance": 420,
-        "team": "MIL",
-        "opponent": "KC",
-        "date": "2026-04-04",
-        "game_pk": 824132,
-        "inning": 3,
-        "exit_velo": "106.1",
-        "launch_angle": "26.0",
-        "source": "live"
-    },
-    {
-        "player": "Jordan Walker",
-        "distance": 459,
-        "team": "STL",
-        "opponent": "DET",
-        "date": "2026-04-04",
-        "game_pk": 824295,
-        "inning": 5,
-        "exit_velo": "113.7",
-        "launch_angle": "22.0",
-        "source": "live"
-    },
-    {
-        "player": "Vladimir Guerrero Jr.",
-        "distance": 437,
-        "team": "TOR",
-        "opponent": "CWS",
-        "date": "2026-04-04",
-        "game_pk": 824622,
-        "inning": 6,
-        "exit_velo": "108.5",
-        "launch_angle": "25.0",
-        "source": "live"
-    },
-    {
-        "player": "Munetaka Murakami",
-        "distance": 431,
-        "team": "CWS",
-        "opponent": "TOR",
-        "date": "2026-04-04",
-        "game_pk": 824622,
-        "inning": 6,
-        "exit_velo": "111.1",
-        "launch_angle": "24.0",
-        "source": "live"
     }
 ]
