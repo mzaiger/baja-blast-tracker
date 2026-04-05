@@ -10,7 +10,7 @@ START_DATE   = "2026-03-20"
 # Savant refreshes around 4 AM ET each morning. We keep yesterday's games
 # in the "live" (MLB Stats API) bucket until 08:00 UTC the following day
 # to ensure Savant has had time to populate before we switch sources.
-SAVANT_READY_HOUR_UTC = 8  # switch to Savant after this hour (UTC)
+SAVANT_READY_HOUR_UTC = 15  # matches first cron run (10am CDT); live feed covers until then
 
 
 def get_live_date():
@@ -26,9 +26,31 @@ def get_live_date():
     return now.strftime('%Y-%m-%d')
 
 
-# ---------------------------------------------------------------------------
-# 1. HISTORICAL — Baseball Savant CSV (season start → day before live_date)
-# ---------------------------------------------------------------------------
+def get_game_start_times(game_pks):
+    """Return {game_pk: iso_datetime_str} from the MLB schedule API.
+    Batches lookups by fetching one schedule call per unique date."""
+    if not game_pks:
+        return {}
+
+    # Fetch each game individually via gamePk — most reliable
+    start_times = {}
+    for pk in set(game_pks):
+        try:
+            url  = f"https://statsapi.mlb.com/api/v1/schedule?sportId=1&gamePk={pk}"
+            data = requests.get(url, timeout=10).json()
+            for date_block in data.get("dates", []):
+                for game in date_block.get("games", []):
+                    if game.get("gamePk") == pk:
+                        dt = game.get("gameDate", "")  # ISO UTC string
+                        if dt:
+                            start_times[pk] = dt
+        except Exception as e:
+            print(f"WARNING [Schedule] Could not fetch start time for {pk}: {e}")
+
+    return start_times
+
+
+
 def get_savant_bombs(min_distance=MIN_DISTANCE, live_date=None):
     if live_date is None:
         live_date = get_live_date()
@@ -89,13 +111,20 @@ def get_savant_bombs(min_distance=MIN_DISTANCE, live_date=None):
             "team":         row.get("home_team", "MLB"),
             "opponent":     row.get("away_team", "Opp"),
             "date":         game_date,
-            "time_utc":     row.get("game_datetime", ""),
+            "time_utc":     "",  # filled in below after batch lookup
             "game_pk":      int(row.get("game_pk", 0) or 0),
             "inning":       int(row.get("inning", 0) or 0),
             "exit_velo":    row.get("launch_speed", ""),
             "launch_angle": row.get("launch_angle", ""),
             "source":       "savant",
         })
+
+    # Batch-fetch game start times so we can sort within a day
+    unique_pks = {h["game_pk"] for h in results if h["game_pk"]}
+    print(f"[Savant] Fetching start times for {len(unique_pks)} unique game(s)...")
+    start_times = get_game_start_times(unique_pks)
+    for h in results:
+        h["time_utc"] = start_times.get(h["game_pk"], "")
 
     seen = {}
     for h in results:
