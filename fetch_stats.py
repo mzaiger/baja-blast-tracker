@@ -89,6 +89,7 @@ def get_savant_bombs(min_distance=MIN_DISTANCE, live_date=None):
             "team":         row.get("home_team", "MLB"),
             "opponent":     row.get("away_team", "Opp"),
             "date":         game_date,
+            "time_utc":     row.get("game_datetime", ""),
             "game_pk":      int(row.get("game_pk", 0) or 0),
             "inning":       int(row.get("inning", 0) or 0),
             "exit_velo":    row.get("launch_speed", ""),
@@ -203,6 +204,7 @@ def get_live_bombs(min_distance=MIN_DISTANCE, live_date=None):
 
             inning = play.get("about", {}).get("inning", 0)
             is_top = play.get("about", {}).get("isTopInning", True)
+            time_utc = play.get("about", {}).get("startTime", "")
 
             batting_team  = away_team if is_top else home_team
             fielding_team = home_team if is_top else away_team
@@ -216,6 +218,7 @@ def get_live_bombs(min_distance=MIN_DISTANCE, live_date=None):
                 "team":         batting_team,
                 "opponent":     fielding_team,
                 "date":         game_date,
+                "time_utc":     time_utc,
                 "game_pk":      pk,
                 "inning":       inning,
                 "exit_velo":    str(exit_velo) if exit_velo is not None else "",
