@@ -239,9 +239,8 @@ def get_live_bombs(min_distance=MIN_DISTANCE, live_date=None):
 # ---------------------------------------------------------------------------
 def get_season_baja_bombs(min_distance=MIN_DISTANCE):
     live_date = get_live_date()
-    print(f"[Main]   live_date={live_date}  (Savant covers up to {(\
-        datetime.strptime(live_date, '%Y-%m-%d') - timedelta(days=1)\
-    ).strftime('%Y-%m-%d')}, live feed covers {live_date})")
+    savant_thru = (datetime.strptime(live_date, "%Y-%m-%d") - timedelta(days=1)).strftime("%Y-%m-%d")
+    print(f"[Main]   live_date={live_date}  (Savant covers up to {savant_thru}, live feed covers {live_date})")
 
     historical = get_savant_bombs(min_distance, live_date=live_date)
     live       = get_live_bombs(min_distance, live_date=live_date)
