@@ -492,5 +492,18 @@
         "exit_velo": "111.1",
         "launch_angle": "24",
         "source": "savant"
+    },
+    {
+        "player": "Mickey Moniak",
+        "distance": 433,
+        "team": "COL",
+        "opponent": "PHI",
+        "date": "2026-04-05",
+        "time_utc": "2026-04-05T19:22:00.502Z",
+        "game_pk": 824379,
+        "inning": 1,
+        "exit_velo": "108.7",
+        "launch_angle": "28.0",
+        "source": "live"
     }
 ]
