@@ -7,20 +7,41 @@ from datetime import datetime, timedelta, timezone
 MIN_DISTANCE = 420
 START_DATE   = "2026-03-20"
 
-# ---------------------------------------------------------------------------
-# 1. HISTORICAL — Baseball Savant CSV (season start → yesterday)
-# ---------------------------------------------------------------------------
-def get_savant_bombs(min_distance=MIN_DISTANCE):
-    today     = datetime.now(timezone.utc).strftime('%Y-%m-%d')
-    yesterday = (datetime.now(timezone.utc) - timedelta(days=1)).strftime('%Y-%m-%d')
+# Savant refreshes around 4 AM ET each morning. We keep yesterday's games
+# in the "live" (MLB Stats API) bucket until 08:00 UTC the following day
+# to ensure Savant has had time to populate before we switch sources.
+SAVANT_READY_HOUR_UTC = 8  # switch to Savant after this hour (UTC)
 
+
+def get_live_date():
+    """Return the calendar date whose games are still treated as 'live'.
+
+    Before 08:00 UTC  → yesterday (Savant hasn't refreshed yet)
+    After  08:00 UTC  → today     (Savant is current through yesterday)
+    """
+    now     = datetime.now(timezone.utc)
+    cutoff  = now.replace(hour=SAVANT_READY_HOUR_UTC, minute=0, second=0, microsecond=0)
+    if now < cutoff:
+        return (now - timedelta(days=1)).strftime('%Y-%m-%d')
+    return now.strftime('%Y-%m-%d')
+
+
+# ---------------------------------------------------------------------------
+# 1. HISTORICAL — Baseball Savant CSV (season start → day before live_date)
+# ---------------------------------------------------------------------------
+def get_savant_bombs(min_distance=MIN_DISTANCE, live_date=None):
+    if live_date is None:
+        live_date = get_live_date()
+
+    # Fetch everything strictly before live_date so there's no overlap with
+    # the live feed (game_date_lt is exclusive on the Savant side).
     url = (
         "https://baseballsavant.mlb.com/statcast_search/csv"
         "?all=true"
         "&hfAB=home_run%7C"
         "&hfGT=R%7C"
         f"&game_date_gt={START_DATE}"
-        f"&game_date_lt={today}"
+        f"&game_date_lt={live_date}"
         "&hfSea=2026%7C"
         "&type=details"
         "&player_type=batter"
@@ -28,7 +49,10 @@ def get_savant_bombs(min_distance=MIN_DISTANCE):
 
     headers = {"User-Agent": "Mozilla/5.0 (compatible; StatcastFetcher/1.0)"}
 
-    print(f"[Savant] Fetching historical data ({START_DATE} -> {yesterday})...")
+    savant_thru = (
+        datetime.strptime(live_date, "%Y-%m-%d") - timedelta(days=1)
+    ).strftime("%Y-%m-%d")
+    print(f"[Savant] Fetching historical data ({START_DATE} -> {savant_thru})...")
 
     response = requests.get(url, headers=headers, timeout=30)
     response.raise_for_status()
@@ -54,7 +78,9 @@ def get_savant_bombs(min_distance=MIN_DISTANCE):
             continue
 
         game_date = row.get("game_date", "")
-        if game_date == today:
+        # Safety net: drop anything on or after live_date even if Savant
+        # somehow returned it (e.g. the query boundary is inclusive).
+        if game_date >= live_date:
             continue
 
         results.append({
@@ -81,14 +107,15 @@ def get_savant_bombs(min_distance=MIN_DISTANCE):
 
 
 # ---------------------------------------------------------------------------
-# 2. LIVE — MLB Stats API play-by-play (today only)
+# 2. LIVE — MLB Stats API play-by-play (live_date only)
 # ---------------------------------------------------------------------------
-def get_live_bombs(min_distance=MIN_DISTANCE):
-    today = datetime.now(timezone.utc).strftime('%Y-%m-%d')
+def get_live_bombs(min_distance=MIN_DISTANCE, live_date=None):
+    if live_date is None:
+        live_date = get_live_date()
 
-    sched_url = f"https://statsapi.mlb.com/api/v1/schedule?sportId=1&date={today}"
+    sched_url = f"https://statsapi.mlb.com/api/v1/schedule?sportId=1&date={live_date}"
 
-    print(f"[Live]   Fetching schedule for {today}...")
+    print(f"[Live]   Fetching schedule for {live_date}...")
 
     try:
         resp = requests.get(sched_url, timeout=10)
@@ -128,7 +155,7 @@ def get_live_bombs(min_distance=MIN_DISTANCE):
         plays     = feed.get("liveData", {}).get("plays", {}).get("allPlays", [])
         home_team = game_data.get("teams", {}).get("home", {}).get("abbreviation", "MLB")
         away_team = game_data.get("teams", {}).get("away", {}).get("abbreviation", "Opp")
-        game_date = game_data.get("datetime", {}).get("officialDate") or today
+        game_date = game_data.get("datetime", {}).get("officialDate") or live_date
 
         print(f"[Live]   Game {pk} ({away_team} @ {home_team}) — {len(plays)} total plays")
 
@@ -211,8 +238,13 @@ def get_live_bombs(min_distance=MIN_DISTANCE):
 # 3. MAIN — merge both, sort, save
 # ---------------------------------------------------------------------------
 def get_season_baja_bombs(min_distance=MIN_DISTANCE):
-    historical = get_savant_bombs(min_distance)
-    live       = get_live_bombs(min_distance)
+    live_date = get_live_date()
+    print(f"[Main]   live_date={live_date}  (Savant covers up to {(\
+        datetime.strptime(live_date, '%Y-%m-%d') - timedelta(days=1)\
+    ).strftime('%Y-%m-%d')}, live feed covers {live_date})")
+
+    historical = get_savant_bombs(min_distance, live_date=live_date)
+    live       = get_live_bombs(min_distance, live_date=live_date)
 
     combined = {}
     for h in historical:
