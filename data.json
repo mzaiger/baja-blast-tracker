@@ -429,68 +429,68 @@
         "source": "savant"
     },
     {
-        "player": "Zach Neto",
+        "player": "Neto, Zach",
         "distance": 443,
         "team": "LAA",
         "opponent": "SEA",
         "date": "2026-04-04",
-        "time_utc": "2026-04-05T01:48:09.434Z",
+        "time_utc": "2026-04-05T01:38:00Z",
         "game_pk": 824054,
         "inning": 1,
         "exit_velo": "106.8",
-        "launch_angle": "33.0",
-        "source": "live"
+        "launch_angle": "33",
+        "source": "savant"
     },
     {
-        "player": "Garrett Mitchell",
+        "player": "Mitchell, Garrett",
         "distance": 420,
-        "team": "MIL",
-        "opponent": "KC",
+        "team": "KC",
+        "opponent": "MIL",
         "date": "2026-04-04",
-        "time_utc": "2026-04-04T18:54:25.920Z",
+        "time_utc": "2026-04-04T18:10:00Z",
         "game_pk": 824132,
         "inning": 3,
         "exit_velo": "106.1",
-        "launch_angle": "26.0",
-        "source": "live"
+        "launch_angle": "26",
+        "source": "savant"
     },
     {
-        "player": "Jordan Walker",
+        "player": "Walker, Jordan",
         "distance": 459,
-        "team": "STL",
-        "opponent": "DET",
+        "team": "DET",
+        "opponent": "STL",
         "date": "2026-04-04",
-        "time_utc": "2026-04-04T18:47:26.208Z",
+        "time_utc": "2026-04-04T17:10:00Z",
         "game_pk": 824295,
         "inning": 5,
         "exit_velo": "113.7",
-        "launch_angle": "22.0",
-        "source": "live"
+        "launch_angle": "22",
+        "source": "savant"
     },
     {
-        "player": "Vladimir Guerrero Jr.",
+        "player": "Guerrero Jr., Vladimir",
         "distance": 437,
-        "team": "TOR",
-        "opponent": "CWS",
+        "team": "CWS",
+        "opponent": "TOR",
         "date": "2026-04-04",
-        "time_utc": "2026-04-04T19:38:19.989Z",
+        "time_utc": "2026-04-04T18:10:00Z",
         "game_pk": 824622,
         "inning": 6,
         "exit_velo": "108.5",
-        "launch_angle": "25.0",
-        "source": "live"
+        "launch_angle": "25",
+        "source": "savant"
     },
     {
-        "player": "Munetaka Murakami",
+        "player": "Murakami, Munetaka",
         "distance": 431,
         "team": "CWS",
         "opponent": "TOR",
         "date": "2026-04-04",
-        "time_utc": "2026-04-04T19:48:58.610Z",
+        "time_utc": "2026-04-04T18:10:00Z",
         "game_pk": 824622,
         "inning": 6,
         "exit_velo": "111.1",
-        "launch_angle": "24.0",
-        "source": "live"
+        "launch_angle": "24",
+        "source": "savant"
     }
 ]
