@@ -1,7 +1,7 @@
 name: Update HR Data
 on:
   schedule:
-    - cron: '0 8,13-23,0-5 * 3-10 *' # 8am UTC = Savant morning refresh; 13-23+0-5 UTC = 8am-midnight CT game window
+    - cron: '0 15-23,0-6 * 3-10 *' # 10am-1am CDT (15-23 + 0-6 UTC), March-October
   workflow_dispatch: 
 
 jobs:
