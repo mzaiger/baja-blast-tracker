@@ -494,42 +494,42 @@
         "source": "savant"
     },
     {
-        "player": "Shohei Ohtani",
+        "player": "Ohtani, Shohei",
         "distance": 438,
-        "team": "LAD",
-        "opponent": "WSH",
+        "team": "WSH",
+        "opponent": "LAD",
         "date": "2026-04-05",
-        "time_utc": "2026-04-05T20:19:05.515Z",
+        "time_utc": "2026-04-05T17:35:00Z",
         "game_pk": 822756,
         "inning": 3,
         "exit_velo": "114.6",
-        "launch_angle": "26.0",
-        "source": "live"
+        "launch_angle": "26",
+        "source": "savant"
     },
     {
-        "player": "Kerry Carpenter",
+        "player": "Carpenter, Kerry",
         "distance": 425,
         "team": "DET",
         "opponent": "STL",
         "date": "2026-04-05",
-        "time_utc": "2026-04-06T00:08:54.469Z",
+        "time_utc": "2026-04-05T23:20:00Z",
         "game_pk": 824296,
         "inning": 3,
         "exit_velo": "103.3",
-        "launch_angle": "32.0",
-        "source": "live"
+        "launch_angle": "32",
+        "source": "savant"
     },
     {
-        "player": "Mickey Moniak",
+        "player": "Moniak, Mickey",
         "distance": 437,
         "team": "COL",
         "opponent": "PHI",
         "date": "2026-04-05",
-        "time_utc": "2026-04-05T20:29:15.014Z",
+        "time_utc": "2026-04-05T19:10:00Z",
         "game_pk": 824379,
         "inning": 5,
         "exit_velo": "103.1",
-        "launch_angle": "32.0",
-        "source": "live"
+        "launch_angle": "32",
+        "source": "savant"
     }
 ]
