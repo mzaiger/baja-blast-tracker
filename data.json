@@ -507,6 +507,19 @@
         "source": "live"
     },
     {
+        "player": "Kerry Carpenter",
+        "distance": 425,
+        "team": "DET",
+        "opponent": "STL",
+        "date": "2026-04-05",
+        "time_utc": "2026-04-06T00:08:54.469Z",
+        "game_pk": 824296,
+        "inning": 3,
+        "exit_velo": "103.3",
+        "launch_angle": "32.0",
+        "source": "live"
+    },
+    {
         "player": "Mickey Moniak",
         "distance": 437,
         "team": "COL",
