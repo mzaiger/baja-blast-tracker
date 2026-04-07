@@ -533,42 +533,42 @@
         "source": "savant"
     },
     {
-        "player": "Brady House",
+        "player": "House, Brady",
         "distance": 423,
         "team": "WSH",
         "opponent": "STL",
         "date": "2026-04-06",
-        "time_utc": "2026-04-07T01:27:26.709Z",
+        "time_utc": "2026-04-06T22:45:00Z",
         "game_pk": 822755,
         "inning": 8,
-        "exit_velo": "110.0",
-        "launch_angle": "22.0",
-        "source": "live"
+        "exit_velo": "110",
+        "launch_angle": "22",
+        "source": "savant"
     },
     {
-        "player": "Freddie Freeman",
+        "player": "Freeman, Freddie",
         "distance": 438,
-        "team": "LAD",
-        "opponent": "TOR",
+        "team": "TOR",
+        "opponent": "LAD",
         "date": "2026-04-06",
-        "time_utc": "2026-04-06T23:49:18.187Z",
+        "time_utc": "2026-04-06T23:07:00Z",
         "game_pk": 822832,
         "inning": 3,
         "exit_velo": "108.5",
-        "launch_angle": "35.0",
-        "source": "live"
+        "launch_angle": "35",
+        "source": "savant"
     },
     {
-        "player": "Cam Smith",
+        "player": "Smith, Cam",
         "distance": 462,
-        "team": "HOU",
-        "opponent": "COL",
+        "team": "COL",
+        "opponent": "HOU",
         "date": "2026-04-06",
-        "time_utc": "2026-04-07T01:30:28.520Z",
+        "time_utc": "2026-04-07T00:40:00Z",
         "game_pk": 824376,
         "inning": 4,
         "exit_velo": "110.9",
-        "launch_angle": "29.0",
-        "source": "live"
+        "launch_angle": "29",
+        "source": "savant"
     }
 ]
