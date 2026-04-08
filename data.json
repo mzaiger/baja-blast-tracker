@@ -572,29 +572,29 @@
         "source": "savant"
     },
     {
-        "player": "Willi Castro",
+        "player": "Castro, Willi",
         "distance": 436,
         "team": "COL",
         "opponent": "HOU",
         "date": "2026-04-07",
-        "time_utc": "2026-04-08T01:45:09.220Z",
+        "time_utc": "2026-04-08T00:40:00Z",
         "game_pk": 824375,
         "inning": 4,
         "exit_velo": "106.5",
-        "launch_angle": "25.0",
-        "source": "live"
+        "launch_angle": "25",
+        "source": "savant"
     },
     {
-        "player": "Mickey Moniak",
+        "player": "Moniak, Mickey",
         "distance": 426,
         "team": "COL",
         "opponent": "HOU",
         "date": "2026-04-07",
-        "time_utc": "2026-04-08T02:37:16.234Z",
+        "time_utc": "2026-04-08T00:40:00Z",
         "game_pk": 824375,
         "inning": 7,
-        "exit_velo": "97.0",
-        "launch_angle": "39.0",
-        "source": "live"
+        "exit_velo": "97",
+        "launch_angle": "39",
+        "source": "savant"
     }
 ]
