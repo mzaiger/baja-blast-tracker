@@ -596,5 +596,70 @@
         "exit_velo": "97",
         "launch_angle": "39",
         "source": "savant"
+    },
+    {
+        "player": "Jake Bauers",
+        "distance": 428,
+        "team": "MIL",
+        "opponent": "WSH",
+        "date": "2026-04-10",
+        "time_utc": "2026-04-11T00:00:21.468Z",
+        "game_pk": 823808,
+        "inning": 1,
+        "exit_velo": "112.4",
+        "launch_angle": "34.0",
+        "source": "live"
+    },
+    {
+        "player": "Carter Jensen",
+        "distance": 425,
+        "team": "KC",
+        "opponent": "CWS",
+        "date": "2026-04-10",
+        "time_utc": "2026-04-11T01:11:23.940Z",
+        "game_pk": 824128,
+        "inning": 7,
+        "exit_velo": "113.7",
+        "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
+        "player": "Kyle Manzardo",
+        "distance": 454,
+        "team": "CLE",
+        "opponent": "ATL",
+        "date": "2026-04-10",
+        "time_utc": "2026-04-11T00:00:31.684Z",
+        "game_pk": 824941,
+        "inning": 4,
+        "exit_velo": "108.4",
+        "launch_angle": "31.0",
+        "source": "live"
+    },
+    {
+        "player": "Matt Olson",
+        "distance": 441,
+        "team": "ATL",
+        "opponent": "CLE",
+        "date": "2026-04-10",
+        "time_utc": "2026-04-11T00:45:30.940Z",
+        "game_pk": 824941,
+        "inning": 6,
+        "exit_velo": "111.6",
+        "launch_angle": "34.0",
+        "source": "live"
+    },
+    {
+        "player": "Michael Harris II",
+        "distance": 425,
+        "team": "ATL",
+        "opponent": "CLE",
+        "date": "2026-04-10",
+        "time_utc": "2026-04-11T00:54:15.635Z",
+        "game_pk": 824941,
+        "inning": 6,
+        "exit_velo": "106.7",
+        "launch_angle": "25.0",
+        "source": "live"
     }
 ]
