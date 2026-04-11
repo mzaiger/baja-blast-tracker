@@ -598,6 +598,19 @@
         "source": "savant"
     },
     {
+        "player": "Randy Arozarena",
+        "distance": 426,
+        "team": "SEA",
+        "opponent": "HOU",
+        "date": "2026-04-10",
+        "time_utc": "2026-04-11T03:24:29.035Z",
+        "game_pk": 823156,
+        "inning": 5,
+        "exit_velo": "107.6",
+        "launch_angle": "34.0",
+        "source": "live"
+    },
+    {
         "player": "Jake Bauers",
         "distance": 428,
         "team": "MIL",
