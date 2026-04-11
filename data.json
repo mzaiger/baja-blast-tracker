@@ -611,6 +611,19 @@
         "source": "live"
     },
     {
+        "player": "Gavin Sheets",
+        "distance": 434,
+        "team": "SD",
+        "opponent": "COL",
+        "date": "2026-04-10",
+        "time_utc": "2026-04-11T04:13:51.172Z",
+        "game_pk": 823318,
+        "inning": 9,
+        "exit_velo": "109.2",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
         "player": "Jake Bauers",
         "distance": 428,
         "team": "MIL",
