@@ -767,6 +767,19 @@
         "source": "live"
     },
     {
+        "player": "Jackson Merrill",
+        "distance": 425,
+        "team": "SD",
+        "opponent": "COL",
+        "date": "2026-04-12",
+        "time_utc": "2026-04-12T22:19:32.462Z",
+        "game_pk": 823317,
+        "inning": 7,
+        "exit_velo": "107.2",
+        "launch_angle": "31.0",
+        "source": "live"
+    },
+    {
         "player": "Brice Turang",
         "distance": 433,
         "team": "MIL",
