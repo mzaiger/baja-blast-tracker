@@ -689,6 +689,19 @@
         "source": "savant"
     },
     {
+        "player": "Jordan Walker",
+        "distance": 429,
+        "team": "STL",
+        "opponent": "BOS",
+        "date": "2026-04-11",
+        "time_utc": "2026-04-12T01:41:45.403Z",
+        "game_pk": 823074,
+        "inning": 8,
+        "exit_velo": "109.6",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
         "player": "Tyler Soderstrom",
         "distance": 420,
         "team": "ATH",
