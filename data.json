@@ -726,5 +726,18 @@
         "exit_velo": "109.6",
         "launch_angle": "25",
         "source": "savant"
+    },
+    {
+        "player": "Oneil Cruz",
+        "distance": 422,
+        "team": "PIT",
+        "opponent": "CHC",
+        "date": "2026-04-12",
+        "time_utc": "2026-04-12T18:19:58.610Z",
+        "game_pk": 824696,
+        "inning": 1,
+        "exit_velo": "111.0",
+        "launch_angle": "41.0",
+        "source": "live"
     }
 ]
