@@ -728,6 +728,32 @@
         "source": "savant"
     },
     {
+        "player": "Jordan Walker",
+        "distance": 432,
+        "team": "STL",
+        "opponent": "BOS",
+        "date": "2026-04-12",
+        "time_utc": "2026-04-12T18:47:36.799Z",
+        "game_pk": 823075,
+        "inning": 2,
+        "exit_velo": "103.8",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
+        "player": "Brice Turang",
+        "distance": 433,
+        "team": "MIL",
+        "opponent": "WSH",
+        "date": "2026-04-12",
+        "time_utc": "2026-04-12T19:24:19.692Z",
+        "game_pk": 823804,
+        "inning": 5,
+        "exit_velo": "109.6",
+        "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
         "player": "Oneil Cruz",
         "distance": 422,
         "team": "PIT",
@@ -738,6 +764,32 @@
         "inning": 1,
         "exit_velo": "111.0",
         "launch_angle": "41.0",
+        "source": "live"
+    },
+    {
+        "player": "Mois\u00e9s Ballesteros",
+        "distance": 427,
+        "team": "CHC",
+        "opponent": "PIT",
+        "date": "2026-04-12",
+        "time_utc": "2026-04-12T19:09:24.972Z",
+        "game_pk": 824696,
+        "inning": 3,
+        "exit_velo": "101.9",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
+        "player": "Brandon Lowe",
+        "distance": 444,
+        "team": "PIT",
+        "opponent": "CHC",
+        "date": "2026-04-12",
+        "time_utc": "2026-04-12T19:31:25.205Z",
+        "game_pk": 824696,
+        "inning": 5,
+        "exit_velo": "108.5",
+        "launch_angle": "27.0",
         "source": "live"
     }
 ]
