@@ -702,6 +702,19 @@
         "source": "live"
     },
     {
+        "player": "Julio Rodr\u00edguez",
+        "distance": 426,
+        "team": "SEA",
+        "opponent": "HOU",
+        "date": "2026-04-11",
+        "time_utc": "2026-04-12T03:22:08.995Z",
+        "game_pk": 823155,
+        "inning": 5,
+        "exit_velo": "107.8",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
         "player": "Tyler Soderstrom",
         "distance": 420,
         "team": "ATH",
