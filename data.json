@@ -843,5 +843,31 @@
         "exit_velo": "111.5",
         "launch_angle": "27.0",
         "source": "live"
+    },
+    {
+        "player": "Aaron Judge",
+        "distance": 456,
+        "team": "NYY",
+        "opponent": "LAA",
+        "date": "2026-04-13",
+        "time_utc": "2026-04-13T23:19:08.885Z",
+        "game_pk": 823563,
+        "inning": 1,
+        "exit_velo": "116.2",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
+        "player": "Ketel Marte",
+        "distance": 443,
+        "team": "AZ",
+        "opponent": "BAL",
+        "date": "2026-04-13",
+        "time_utc": "2026-04-13T22:37:44.535Z",
+        "game_pk": 824856,
+        "inning": 1,
+        "exit_velo": "108.6",
+        "launch_angle": "28.0",
+        "source": "live"
     }
 ]
