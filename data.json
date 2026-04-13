@@ -830,5 +830,18 @@
         "exit_velo": "108.5",
         "launch_angle": "27",
         "source": "savant"
+    },
+    {
+        "player": "Josh Naylor",
+        "distance": 433,
+        "team": "SEA",
+        "opponent": "HOU",
+        "date": "2026-04-13",
+        "time_utc": "2026-04-13T20:48:01.138Z",
+        "game_pk": 823153,
+        "inning": 3,
+        "exit_velo": "111.5",
+        "launch_angle": "27.0",
+        "source": "live"
     }
 ]
