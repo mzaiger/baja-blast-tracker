@@ -858,6 +858,71 @@
         "source": "live"
     },
     {
+        "player": "Mike Trout",
+        "distance": 421,
+        "team": "LAA",
+        "opponent": "NYY",
+        "date": "2026-04-13",
+        "time_utc": "2026-04-14T01:21:49.576Z",
+        "game_pk": 823563,
+        "inning": 6,
+        "exit_velo": "108.7",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
+        "player": "Victor Caratini",
+        "distance": 423,
+        "team": "MIN",
+        "opponent": "BOS",
+        "date": "2026-04-13",
+        "time_utc": "2026-04-14T00:20:04.251Z",
+        "game_pk": 823725,
+        "inning": 2,
+        "exit_velo": "106.0",
+        "launch_angle": "32.0",
+        "source": "live"
+    },
+    {
+        "player": "Ryan Kreidler",
+        "distance": 438,
+        "team": "MIN",
+        "opponent": "BOS",
+        "date": "2026-04-13",
+        "time_utc": "2026-04-14T00:22:09.840Z",
+        "game_pk": 823725,
+        "inning": 2,
+        "exit_velo": "108.9",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
+        "player": "Jarren Duran",
+        "distance": 424,
+        "team": "BOS",
+        "opponent": "MIN",
+        "date": "2026-04-13",
+        "time_utc": "2026-04-14T00:33:59.565Z",
+        "game_pk": 823725,
+        "inning": 3,
+        "exit_velo": "112.2",
+        "launch_angle": "22.0",
+        "source": "live"
+    },
+    {
+        "player": "Byron Buxton",
+        "distance": 420,
+        "team": "MIN",
+        "opponent": "BOS",
+        "date": "2026-04-13",
+        "time_utc": "2026-04-14T01:09:08.706Z",
+        "game_pk": 823725,
+        "inning": 5,
+        "exit_velo": "105.4",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
         "player": "Ketel Marte",
         "distance": 443,
         "team": "AZ",
@@ -868,6 +933,19 @@
         "inning": 1,
         "exit_velo": "108.6",
         "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
+        "player": "Jeremiah Jackson",
+        "distance": 427,
+        "team": "BAL",
+        "opponent": "AZ",
+        "date": "2026-04-13",
+        "time_utc": "2026-04-14T01:13:23.545Z",
+        "game_pk": 824856,
+        "inning": 8,
+        "exit_velo": "106.3",
+        "launch_angle": "29.0",
         "source": "live"
     }
 ]
