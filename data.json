@@ -947,5 +947,57 @@
         "exit_velo": "106.3",
         "launch_angle": "29",
         "source": "savant"
+    },
+    {
+        "player": "Edmundo Sosa",
+        "distance": 442,
+        "team": "PHI",
+        "opponent": "CHC",
+        "date": "2026-04-14",
+        "time_utc": "2026-04-14T23:08:01.783Z",
+        "game_pk": 823478,
+        "inning": 2,
+        "exit_velo": "105.7",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
+        "player": "Mike Trout",
+        "distance": 432,
+        "team": "LAA",
+        "opponent": "NYY",
+        "date": "2026-04-14",
+        "time_utc": "2026-04-14T23:10:38.890Z",
+        "game_pk": 823562,
+        "inning": 1,
+        "exit_velo": "110.1",
+        "launch_angle": "35.0",
+        "source": "live"
+    },
+    {
+        "player": "Jo Adell",
+        "distance": 445,
+        "team": "LAA",
+        "opponent": "NYY",
+        "date": "2026-04-14",
+        "time_utc": "2026-04-14T23:12:14.898Z",
+        "game_pk": 823562,
+        "inning": 1,
+        "exit_velo": "110.5",
+        "launch_angle": "21.0",
+        "source": "live"
+    },
+    {
+        "player": "Samuel Basallo",
+        "distance": 431,
+        "team": "BAL",
+        "opponent": "AZ",
+        "date": "2026-04-14",
+        "time_utc": "2026-04-14T22:58:20.716Z",
+        "game_pk": 824853,
+        "inning": 2,
+        "exit_velo": "109.3",
+        "launch_angle": "34.0",
+        "source": "live"
     }
 ]
