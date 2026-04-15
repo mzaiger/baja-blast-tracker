@@ -1051,5 +1051,18 @@
         "exit_velo": "109.3",
         "launch_angle": "34",
         "source": "savant"
+    },
+    {
+        "player": "Adrian Del Castillo",
+        "distance": 420,
+        "team": "AZ",
+        "opponent": "BAL",
+        "date": "2026-04-15",
+        "time_utc": "2026-04-15T19:11:47.986Z",
+        "game_pk": 824855,
+        "inning": 10,
+        "exit_velo": "103.3",
+        "launch_angle": "29.0",
+        "source": "live"
     }
 ]
