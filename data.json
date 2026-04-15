@@ -949,6 +949,19 @@
         "source": "savant"
     },
     {
+        "player": "Daniel Schneemann",
+        "distance": 424,
+        "team": "CLE",
+        "opponent": "STL",
+        "date": "2026-04-14",
+        "time_utc": "2026-04-15T00:11:27.874Z",
+        "game_pk": 823072,
+        "inning": 2,
+        "exit_velo": "105.6",
+        "launch_angle": "33.0",
+        "source": "live"
+    },
+    {
         "player": "Edmundo Sosa",
         "distance": 442,
         "team": "PHI",
@@ -959,6 +972,19 @@
         "inning": 2,
         "exit_velo": "105.7",
         "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
+        "player": "Carson Kelly",
+        "distance": 422,
+        "team": "CHC",
+        "opponent": "PHI",
+        "date": "2026-04-14",
+        "time_utc": "2026-04-15T01:34:00.508Z",
+        "game_pk": 823478,
+        "inning": 9,
+        "exit_velo": "103.3",
+        "launch_angle": "30.0",
         "source": "live"
     },
     {
@@ -985,6 +1011,32 @@
         "inning": 1,
         "exit_velo": "110.5",
         "launch_angle": "21.0",
+        "source": "live"
+    },
+    {
+        "player": "Byron Buxton",
+        "distance": 438,
+        "team": "MIN",
+        "opponent": "BOS",
+        "date": "2026-04-14",
+        "time_utc": "2026-04-15T01:26:15.610Z",
+        "game_pk": 823723,
+        "inning": 6,
+        "exit_velo": "107.9",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
+        "player": "Christian Walker",
+        "distance": 422,
+        "team": "HOU",
+        "opponent": "COL",
+        "date": "2026-04-14",
+        "time_utc": "2026-04-15T00:34:57.205Z",
+        "game_pk": 824210,
+        "inning": 2,
+        "exit_velo": "106.2",
+        "launch_angle": "28.0",
         "source": "live"
     },
     {
