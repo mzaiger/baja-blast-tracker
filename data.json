@@ -1053,6 +1053,19 @@
         "source": "savant"
     },
     {
+        "player": "Luke Raley",
+        "distance": 434,
+        "team": "SEA",
+        "opponent": "SD",
+        "date": "2026-04-15",
+        "time_utc": "2026-04-16T03:00:28.020Z",
+        "game_pk": 823314,
+        "inning": 5,
+        "exit_velo": "113.2",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
         "player": "Trea Turner",
         "distance": 423,
         "team": "PHI",
@@ -1115,6 +1128,19 @@
         "inning": 7,
         "exit_velo": "106.8",
         "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
+        "player": "Shea Langeliers",
+        "distance": 467,
+        "team": "ATH",
+        "opponent": "TEX",
+        "date": "2026-04-15",
+        "time_utc": "2026-04-16T03:41:35.056Z",
+        "game_pk": 825021,
+        "inning": 6,
+        "exit_velo": "112.4",
+        "launch_angle": "28.0",
         "source": "live"
     }
 ]
