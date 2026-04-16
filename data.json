@@ -1053,94 +1053,94 @@
         "source": "savant"
     },
     {
-        "player": "Luke Raley",
+        "player": "Raley, Luke",
         "distance": 434,
-        "team": "SEA",
-        "opponent": "SD",
+        "team": "SD",
+        "opponent": "SEA",
         "date": "2026-04-15",
-        "time_utc": "2026-04-16T03:00:28.020Z",
+        "time_utc": "2026-04-16T01:40:00Z",
         "game_pk": 823314,
         "inning": 5,
         "exit_velo": "113.2",
-        "launch_angle": "27.0",
-        "source": "live"
+        "launch_angle": "27",
+        "source": "savant"
     },
     {
-        "player": "Trea Turner",
+        "player": "Turner, Trea",
         "distance": 423,
         "team": "PHI",
         "opponent": "CHC",
         "date": "2026-04-15",
-        "time_utc": "2026-04-15T22:45:55.790Z",
+        "time_utc": "2026-04-15T22:40:00Z",
         "game_pk": 823477,
         "inning": 1,
         "exit_velo": "105.2",
-        "launch_angle": "28.0",
-        "source": "live"
+        "launch_angle": "28",
+        "source": "savant"
     },
     {
-        "player": "Logan O'Hoppe",
+        "player": "O'Hoppe, Logan",
         "distance": 427,
-        "team": "LAA",
-        "opponent": "NYY",
+        "team": "NYY",
+        "opponent": "LAA",
         "date": "2026-04-15",
-        "time_utc": "2026-04-16T00:15:07.736Z",
+        "time_utc": "2026-04-15T23:05:00Z",
         "game_pk": 823561,
         "inning": 5,
         "exit_velo": "114.3",
-        "launch_angle": "24.0",
-        "source": "live"
+        "launch_angle": "24",
+        "source": "savant"
     },
     {
-        "player": "Elly De La Cruz",
+        "player": "De La Cruz, Elly",
         "distance": 442,
         "team": "CIN",
         "opponent": "SF",
         "date": "2026-04-15",
-        "time_utc": "2026-04-15T23:45:46.550Z",
+        "time_utc": "2026-04-15T22:40:00Z",
         "game_pk": 824532,
         "inning": 4,
         "exit_velo": "109.3",
-        "launch_angle": "30.0",
-        "source": "live"
+        "launch_angle": "30",
+        "source": "savant"
     },
     {
-        "player": "Adrian Del Castillo",
+        "player": "Del Castillo, Adrian",
         "distance": 420,
-        "team": "AZ",
-        "opponent": "BAL",
+        "team": "BAL",
+        "opponent": "AZ",
         "date": "2026-04-15",
-        "time_utc": "2026-04-15T19:11:47.986Z",
+        "time_utc": "2026-04-15T16:35:00Z",
         "game_pk": 824855,
         "inning": 10,
         "exit_velo": "103.3",
-        "launch_angle": "29.0",
-        "source": "live"
+        "launch_angle": "29",
+        "source": "savant"
     },
     {
-        "player": "Matt Olson",
+        "player": "Olson, Matt",
         "distance": 423,
         "team": "ATL",
         "opponent": "MIA",
         "date": "2026-04-15",
-        "time_utc": "2026-04-16T01:17:23.493Z",
+        "time_utc": "2026-04-15T23:15:00Z",
         "game_pk": 824936,
         "inning": 7,
         "exit_velo": "106.8",
-        "launch_angle": "25.0",
-        "source": "live"
+        "launch_angle": "25",
+        "source": "savant"
     },
     {
-        "player": "Shea Langeliers",
+        "player": "Langeliers, Shea",
         "distance": 467,
         "team": "ATH",
         "opponent": "TEX",
         "date": "2026-04-15",
-        "time_utc": "2026-04-16T03:41:35.056Z",
+        "time_utc": "2026-04-16T01:40:00Z",
         "game_pk": 825021,
         "inning": 6,
         "exit_velo": "112.4",
-        "launch_angle": "28.0",
-        "source": "live"
+        "launch_angle": "28",
+        "source": "savant"
     }
 ]
