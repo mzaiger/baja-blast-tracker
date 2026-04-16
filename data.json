@@ -1142,5 +1142,44 @@
         "exit_velo": "112.4",
         "launch_angle": "28",
         "source": "savant"
+    },
+    {
+        "player": "Marcell Ozuna",
+        "distance": 423,
+        "team": "PIT",
+        "opponent": "WSH",
+        "date": "2026-04-16",
+        "time_utc": "2026-04-16T18:05:37.351Z",
+        "game_pk": 823396,
+        "inning": 5,
+        "exit_velo": "109.6",
+        "launch_angle": "32.0",
+        "source": "live"
+    },
+    {
+        "player": "Giancarlo Stanton",
+        "distance": 446,
+        "team": "NYY",
+        "opponent": "LAA",
+        "date": "2026-04-16",
+        "time_utc": "2026-04-16T18:34:27.426Z",
+        "game_pk": 823560,
+        "inning": 3,
+        "exit_velo": "111.1",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "Mike Trout",
+        "distance": 446,
+        "team": "LAA",
+        "opponent": "NYY",
+        "date": "2026-04-16",
+        "time_utc": "2026-04-16T19:50:53.918Z",
+        "game_pk": 823560,
+        "inning": 7,
+        "exit_velo": "114.6",
+        "launch_angle": "31.0",
+        "source": "live"
     }
 ]
