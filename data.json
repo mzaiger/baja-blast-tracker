@@ -1207,5 +1207,18 @@
         "exit_velo": "107.9",
         "launch_angle": "25.0",
         "source": "live"
+    },
+    {
+        "player": "Munetaka Murakami",
+        "distance": 431,
+        "team": "CWS",
+        "opponent": "ATH",
+        "date": "2026-04-17",
+        "time_utc": "2026-04-18T03:42:32.864Z",
+        "game_pk": 825019,
+        "inning": 7,
+        "exit_velo": "114.1",
+        "launch_angle": "33.0",
+        "source": "live"
     }
 ]
