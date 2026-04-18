@@ -1183,42 +1183,42 @@
         "source": "savant"
     },
     {
-        "player": "James Wood",
+        "player": "Wood, James",
         "distance": 441,
         "team": "WSH",
         "opponent": "SF",
         "date": "2026-04-17",
-        "time_utc": "2026-04-18T00:47:49.027Z",
+        "time_utc": "2026-04-17T22:45:00Z",
         "game_pk": 822752,
         "inning": 7,
         "exit_velo": "110.5",
-        "launch_angle": "29.0",
-        "source": "live"
+        "launch_angle": "29",
+        "source": "savant"
     },
     {
-        "player": "Max Muncy",
+        "player": "Muncy, Max",
         "distance": 452,
-        "team": "LAD",
-        "opponent": "COL",
+        "team": "COL",
+        "opponent": "LAD",
         "date": "2026-04-17",
-        "time_utc": "2026-04-18T01:07:00.277Z",
+        "time_utc": "2026-04-18T00:40:00Z",
         "game_pk": 824373,
         "inning": 2,
         "exit_velo": "107.9",
-        "launch_angle": "25.0",
-        "source": "live"
+        "launch_angle": "25",
+        "source": "savant"
     },
     {
-        "player": "Munetaka Murakami",
+        "player": "Murakami, Munetaka",
         "distance": 431,
-        "team": "CWS",
-        "opponent": "ATH",
+        "team": "ATH",
+        "opponent": "CWS",
         "date": "2026-04-17",
-        "time_utc": "2026-04-18T03:42:32.864Z",
+        "time_utc": "2026-04-18T01:40:00Z",
         "game_pk": 825019,
         "inning": 7,
         "exit_velo": "114.1",
-        "launch_angle": "33.0",
-        "source": "live"
+        "launch_angle": "33",
+        "source": "savant"
     }
 ]
