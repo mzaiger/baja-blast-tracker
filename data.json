@@ -1220,5 +1220,31 @@
         "exit_velo": "114.1",
         "launch_angle": "33",
         "source": "savant"
+    },
+    {
+        "player": "Mark Vientos",
+        "distance": 434,
+        "team": "NYM",
+        "opponent": "CHC",
+        "date": "2026-04-18",
+        "time_utc": "2026-04-18T18:37:14.295Z",
+        "game_pk": 824694,
+        "inning": 2,
+        "exit_velo": "110.2",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
+        "player": "Ian Happ",
+        "distance": 431,
+        "team": "CHC",
+        "opponent": "NYM",
+        "date": "2026-04-18",
+        "time_utc": "2026-04-18T18:47:21.534Z",
+        "game_pk": 824694,
+        "inning": 2,
+        "exit_velo": "105.4",
+        "launch_angle": "30.0",
+        "source": "live"
     }
 ]
