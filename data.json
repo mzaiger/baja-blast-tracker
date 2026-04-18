@@ -1222,6 +1222,19 @@
         "source": "savant"
     },
     {
+        "player": "Yordan Alvarez",
+        "distance": 421,
+        "team": "HOU",
+        "opponent": "STL",
+        "date": "2026-04-18",
+        "time_utc": "2026-04-18T23:21:47.930Z",
+        "game_pk": 824206,
+        "inning": 1,
+        "exit_velo": "109.2",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
         "player": "Mark Vientos",
         "distance": 434,
         "team": "NYM",
