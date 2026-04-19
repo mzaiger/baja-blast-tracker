@@ -1272,5 +1272,57 @@
         "exit_velo": "105.4",
         "launch_angle": "30",
         "source": "savant"
+    },
+    {
+        "player": "Aaron Judge",
+        "distance": 425,
+        "team": "NYY",
+        "opponent": "KC",
+        "date": "2026-04-19",
+        "time_utc": "2026-04-19T20:30:30.201Z",
+        "game_pk": 823556,
+        "inning": 1,
+        "exit_velo": "111.6",
+        "launch_angle": "30.0",
+        "source": "live"
+    },
+    {
+        "player": "Kyle Karros",
+        "distance": 448,
+        "team": "COL",
+        "opponent": "LAD",
+        "date": "2026-04-19",
+        "time_utc": "2026-04-19T20:28:22.772Z",
+        "game_pk": 824371,
+        "inning": 5,
+        "exit_velo": "105.9",
+        "launch_angle": "30.0",
+        "source": "live"
+    },
+    {
+        "player": "Mickey Moniak",
+        "distance": 428,
+        "team": "COL",
+        "opponent": "LAD",
+        "date": "2026-04-19",
+        "time_utc": "2026-04-19T21:21:18.187Z",
+        "game_pk": 824371,
+        "inning": 7,
+        "exit_velo": "102.4",
+        "launch_angle": "30.0",
+        "source": "live"
+    },
+    {
+        "player": "Munetaka Murakami",
+        "distance": 425,
+        "team": "CWS",
+        "opponent": "ATH",
+        "date": "2026-04-19",
+        "time_utc": "2026-04-19T21:18:05.741Z",
+        "game_pk": 825018,
+        "inning": 5,
+        "exit_velo": "114.1",
+        "launch_angle": "35.0",
+        "source": "live"
     }
 ]
