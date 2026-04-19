@@ -1235,6 +1235,19 @@
         "source": "live"
     },
     {
+        "player": "Kyle Tucker",
+        "distance": 435,
+        "team": "LAD",
+        "opponent": "COL",
+        "date": "2026-04-18",
+        "time_utc": "2026-04-19T00:13:47.713Z",
+        "game_pk": 824372,
+        "inning": 1,
+        "exit_velo": "102.9",
+        "launch_angle": "32.0",
+        "source": "live"
+    },
+    {
         "player": "Mark Vientos",
         "distance": 434,
         "team": "NYM",
