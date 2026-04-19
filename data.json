@@ -1313,6 +1313,19 @@
         "source": "live"
     },
     {
+        "player": "Jahmai Jones",
+        "distance": 423,
+        "team": "DET",
+        "opponent": "BOS",
+        "date": "2026-04-19",
+        "time_utc": "2026-04-19T21:45:40.581Z",
+        "game_pk": 824777,
+        "inning": 5,
+        "exit_velo": "109.0",
+        "launch_angle": "24.0",
+        "source": "live"
+    },
+    {
         "player": "Munetaka Murakami",
         "distance": 425,
         "team": "CWS",
