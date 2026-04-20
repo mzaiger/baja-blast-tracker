@@ -1230,8 +1230,8 @@
         "time_utc": "2026-04-18T23:10:00Z",
         "game_pk": 824206,
         "inning": 1,
-        "exit_velo": "109.2",
-        "launch_angle": "29",
+        "exit_velo": "116.2",
+        "launch_angle": "28",
         "source": "savant"
     },
     {
@@ -1274,68 +1274,68 @@
         "source": "savant"
     },
     {
-        "player": "Aaron Judge",
+        "player": "Judge, Aaron",
         "distance": 425,
         "team": "NYY",
         "opponent": "KC",
         "date": "2026-04-19",
-        "time_utc": "2026-04-19T20:30:30.201Z",
+        "time_utc": "2026-04-19T17:35:00Z",
         "game_pk": 823556,
         "inning": 1,
         "exit_velo": "111.6",
-        "launch_angle": "30.0",
-        "source": "live"
+        "launch_angle": "30",
+        "source": "savant"
     },
     {
-        "player": "Kyle Karros",
+        "player": "Karros, Kyle",
         "distance": 448,
         "team": "COL",
         "opponent": "LAD",
         "date": "2026-04-19",
-        "time_utc": "2026-04-19T20:28:22.772Z",
+        "time_utc": "2026-04-19T19:10:00Z",
         "game_pk": 824371,
         "inning": 5,
         "exit_velo": "105.9",
-        "launch_angle": "30.0",
-        "source": "live"
+        "launch_angle": "30",
+        "source": "savant"
     },
     {
-        "player": "Mickey Moniak",
+        "player": "Moniak, Mickey",
         "distance": 428,
         "team": "COL",
         "opponent": "LAD",
         "date": "2026-04-19",
-        "time_utc": "2026-04-19T21:21:18.187Z",
+        "time_utc": "2026-04-19T19:10:00Z",
         "game_pk": 824371,
         "inning": 7,
         "exit_velo": "102.4",
-        "launch_angle": "30.0",
-        "source": "live"
+        "launch_angle": "30",
+        "source": "savant"
     },
     {
-        "player": "Jahmai Jones",
+        "player": "Jones, Jahmai",
         "distance": 423,
-        "team": "DET",
-        "opponent": "BOS",
+        "team": "BOS",
+        "opponent": "DET",
         "date": "2026-04-19",
-        "time_utc": "2026-04-19T21:45:40.581Z",
+        "time_utc": "2026-04-19T20:35:00Z",
         "game_pk": 824777,
         "inning": 5,
-        "exit_velo": "109.0",
-        "launch_angle": "24.0",
-        "source": "live"
+        "exit_velo": "109",
+        "launch_angle": "24",
+        "source": "savant"
     },
     {
-        "player": "Munetaka Murakami",
+        "player": "Murakami, Munetaka",
         "distance": 425,
-        "team": "CWS",
-        "opponent": "ATH",
+        "team": "ATH",
+        "opponent": "CWS",
         "date": "2026-04-19",
-        "time_utc": "2026-04-19T21:18:05.741Z",
+        "time_utc": "2026-04-19T20:05:00Z",
         "game_pk": 825018,
         "inning": 5,
         "exit_velo": "114.1",
-        "launch_angle": "35.0",
-        "source": "live"
+        "launch_angle": "35",
+        "source": "savant"
     }
 ]
