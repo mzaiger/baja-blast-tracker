@@ -1337,5 +1337,18 @@
         "exit_velo": "114.1",
         "launch_angle": "35",
         "source": "savant"
+    },
+    {
+        "player": "Sal Stewart",
+        "distance": 424,
+        "team": "CIN",
+        "opponent": "TB",
+        "date": "2026-04-20",
+        "time_utc": "2026-04-20T22:47:24.514Z",
+        "game_pk": 822994,
+        "inning": 1,
+        "exit_velo": "108.5",
+        "launch_angle": "25.0",
+        "source": "live"
     }
 ]
