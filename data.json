@@ -1350,5 +1350,31 @@
         "exit_velo": "108.5",
         "launch_angle": "25.0",
         "source": "live"
+    },
+    {
+        "player": "Jac Caglianone",
+        "distance": 437,
+        "team": "KC",
+        "opponent": "BAL",
+        "date": "2026-04-20",
+        "time_utc": "2026-04-21T00:09:05.431Z",
+        "game_pk": 824125,
+        "inning": 2,
+        "exit_velo": "109.7",
+        "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
+        "player": "Dansby Swanson",
+        "distance": 424,
+        "team": "CHC",
+        "opponent": "PHI",
+        "date": "2026-04-20",
+        "time_utc": "2026-04-21T00:12:52.948Z",
+        "game_pk": 824692,
+        "inning": 2,
+        "exit_velo": "110.3",
+        "launch_angle": "22.0",
+        "source": "live"
     }
 ]
