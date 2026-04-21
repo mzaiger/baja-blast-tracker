@@ -1352,6 +1352,32 @@
         "source": "live"
     },
     {
+        "player": "Shea Langeliers",
+        "distance": 432,
+        "team": "ATH",
+        "opponent": "SEA",
+        "date": "2026-04-20",
+        "time_utc": "2026-04-21T03:09:08.580Z",
+        "game_pk": 823149,
+        "inning": 6,
+        "exit_velo": "108.3",
+        "launch_angle": "30.0",
+        "source": "live"
+    },
+    {
+        "player": "Vladimir Guerrero Jr.",
+        "distance": 430,
+        "team": "TOR",
+        "opponent": "LAA",
+        "date": "2026-04-20",
+        "time_utc": "2026-04-21T02:20:09.789Z",
+        "game_pk": 824046,
+        "inning": 3,
+        "exit_velo": "107.5",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
         "player": "Jac Caglianone",
         "distance": 437,
         "team": "KC",
@@ -1362,6 +1388,32 @@
         "inning": 2,
         "exit_velo": "109.7",
         "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
+        "player": "TJ Rumfield",
+        "distance": 440,
+        "team": "COL",
+        "opponent": "LAD",
+        "date": "2026-04-20",
+        "time_utc": "2026-04-21T03:01:51.903Z",
+        "game_pk": 824370,
+        "inning": 8,
+        "exit_velo": "106.3",
+        "launch_angle": "37.0",
+        "source": "live"
+    },
+    {
+        "player": "Dalton Rushing",
+        "distance": 421,
+        "team": "LAD",
+        "opponent": "COL",
+        "date": "2026-04-20",
+        "time_utc": "2026-04-21T03:13:19.752Z",
+        "game_pk": 824370,
+        "inning": 9,
+        "exit_velo": "102.3",
+        "launch_angle": "28.0",
         "source": "live"
     },
     {
