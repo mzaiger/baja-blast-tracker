@@ -1469,6 +1469,19 @@
         "source": "savant"
     },
     {
+        "player": "Nick Kurtz",
+        "distance": 438,
+        "team": "ATH",
+        "opponent": "SEA",
+        "date": "2026-04-22",
+        "time_utc": "2026-04-22T22:47:35.454Z",
+        "game_pk": 823147,
+        "inning": 9,
+        "exit_velo": "110.6",
+        "launch_angle": "23.0",
+        "source": "live"
+    },
+    {
         "player": "Mike Trout",
         "distance": 428,
         "team": "LAA",
