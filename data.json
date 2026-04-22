@@ -1430,68 +1430,42 @@
         "source": "savant"
     },
     {
-        "player": "Drake Baldwin",
+        "player": "Baldwin, Drake",
         "distance": 438,
-        "team": "ATL",
-        "opponent": "WSH",
+        "team": "WSH",
+        "opponent": "ATL",
         "date": "2026-04-21",
-        "time_utc": "2026-04-21T23:40:39.268Z",
+        "time_utc": "2026-04-21T22:45:00Z",
         "game_pk": 822747,
         "inning": 3,
         "exit_velo": "105.5",
-        "launch_angle": "27.0",
-        "source": "live"
+        "launch_angle": "27",
+        "source": "savant"
     },
     {
-        "player": "Coby Mayo",
+        "player": "Mayo, Coby",
         "distance": 439,
-        "team": "BAL",
-        "opponent": "KC",
+        "team": "KC",
+        "opponent": "BAL",
         "date": "2026-04-21",
-        "time_utc": "2026-04-22T00:00:55.135Z",
+        "time_utc": "2026-04-21T23:40:00Z",
         "game_pk": 824127,
         "inning": 2,
         "exit_velo": "114.2",
-        "launch_angle": "32.0",
-        "source": "live"
+        "launch_angle": "32",
+        "source": "savant"
     },
     {
-        "player": "Seiya Suzuki",
+        "player": "Suzuki, Seiya",
         "distance": 441,
         "team": "CHC",
         "opponent": "PHI",
         "date": "2026-04-21",
-        "time_utc": "2026-04-22T01:48:57.243Z",
+        "time_utc": "2026-04-21T23:40:00Z",
         "game_pk": 824690,
         "inning": 7,
         "exit_velo": "109.8",
-        "launch_angle": "26.0",
-        "source": "live"
-    },
-    {
-        "player": "Munetaka Murakami",
-        "distance": 426,
-        "team": "CWS",
-        "opponent": "AZ",
-        "date": "2026-04-21",
-        "time_utc": "2026-04-22T02:10:32.772Z",
-        "game_pk": 825099,
-        "inning": 2,
-        "exit_velo": "113.0",
-        "launch_angle": "30.0",
-        "source": "live"
-    },
-    {
-        "player": "Colson Montgomery",
-        "distance": 440,
-        "team": "CWS",
-        "opponent": "AZ",
-        "date": "2026-04-21",
-        "time_utc": "2026-04-22T02:13:07.283Z",
-        "game_pk": 825099,
-        "inning": 2,
-        "exit_velo": "107.2",
-        "launch_angle": "32.0",
-        "source": "live"
+        "launch_angle": "26",
+        "source": "savant"
     }
 ]
