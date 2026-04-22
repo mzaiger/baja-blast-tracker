@@ -1469,6 +1469,58 @@
         "source": "savant"
     },
     {
+        "player": "Mike Trout",
+        "distance": 428,
+        "team": "LAA",
+        "opponent": "TOR",
+        "date": "2026-04-22",
+        "time_utc": "2026-04-22T20:28:51.359Z",
+        "game_pk": 824044,
+        "inning": 5,
+        "exit_velo": "113.2",
+        "launch_angle": "24.0",
+        "source": "live"
+    },
+    {
+        "player": "Vinnie Pasquantino",
+        "distance": 422,
+        "team": "KC",
+        "opponent": "BAL",
+        "date": "2026-04-22",
+        "time_utc": "2026-04-22T18:21:45.142Z",
+        "game_pk": 824123,
+        "inning": 1,
+        "exit_velo": "108.1",
+        "launch_angle": "24.0",
+        "source": "live"
+    },
+    {
+        "player": "Coby Mayo",
+        "distance": 452,
+        "team": "BAL",
+        "opponent": "KC",
+        "date": "2026-04-22",
+        "time_utc": "2026-04-22T19:44:42.271Z",
+        "game_pk": 824123,
+        "inning": 6,
+        "exit_velo": "110.0",
+        "launch_angle": "33.0",
+        "source": "live"
+    },
+    {
+        "player": "Carter Jensen",
+        "distance": 421,
+        "team": "KC",
+        "opponent": "BAL",
+        "date": "2026-04-22",
+        "time_utc": "2026-04-22T19:50:08.866Z",
+        "game_pk": 824123,
+        "inning": 6,
+        "exit_velo": "106.3",
+        "launch_angle": "22.0",
+        "source": "live"
+    },
+    {
         "player": "Yordan Alvarez",
         "distance": 422,
         "team": "HOU",
