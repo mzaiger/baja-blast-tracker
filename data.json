@@ -1428,5 +1428,44 @@
         "exit_velo": "110.3",
         "launch_angle": "22",
         "source": "savant"
+    },
+    {
+        "player": "Drake Baldwin",
+        "distance": 438,
+        "team": "ATL",
+        "opponent": "WSH",
+        "date": "2026-04-21",
+        "time_utc": "2026-04-21T23:40:39.268Z",
+        "game_pk": 822747,
+        "inning": 3,
+        "exit_velo": "105.5",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "Coby Mayo",
+        "distance": 439,
+        "team": "BAL",
+        "opponent": "KC",
+        "date": "2026-04-21",
+        "time_utc": "2026-04-22T00:00:55.135Z",
+        "game_pk": 824127,
+        "inning": 2,
+        "exit_velo": "114.2",
+        "launch_angle": "32.0",
+        "source": "live"
+    },
+    {
+        "player": "Seiya Suzuki",
+        "distance": 441,
+        "team": "CHC",
+        "opponent": "PHI",
+        "date": "2026-04-21",
+        "time_utc": "2026-04-22T01:48:57.243Z",
+        "game_pk": 824690,
+        "inning": 7,
+        "exit_velo": "109.8",
+        "launch_angle": "26.0",
+        "source": "live"
     }
 ]
