@@ -1467,5 +1467,18 @@
         "exit_velo": "109.8",
         "launch_angle": "26",
         "source": "savant"
+    },
+    {
+        "player": "Yordan Alvarez",
+        "distance": 422,
+        "team": "HOU",
+        "opponent": "CLE",
+        "date": "2026-04-22",
+        "time_utc": "2026-04-22T17:13:09.842Z",
+        "game_pk": 824449,
+        "inning": 1,
+        "exit_velo": "108.8",
+        "launch_angle": "27.0",
+        "source": "live"
     }
 ]
