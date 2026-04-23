@@ -1664,6 +1664,19 @@
         "source": "live"
     },
     {
+        "player": "Mickey Moniak",
+        "distance": 429,
+        "team": "COL",
+        "opponent": "SD",
+        "date": "2026-04-23",
+        "time_utc": "2026-04-23T21:07:26.837Z",
+        "game_pk": 824368,
+        "inning": 6,
+        "exit_velo": "106.2",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
         "player": "Brandon Marsh",
         "distance": 425,
         "team": "PHI",
