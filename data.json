@@ -1662,5 +1662,44 @@
         "exit_velo": "107.1",
         "launch_angle": "26.0",
         "source": "live"
+    },
+    {
+        "player": "Brandon Marsh",
+        "distance": 425,
+        "team": "PHI",
+        "opponent": "CHC",
+        "date": "2026-04-23",
+        "time_utc": "2026-04-23T18:32:46.177Z",
+        "game_pk": 824689,
+        "inning": 2,
+        "exit_velo": "107.0",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "Michael Busch",
+        "distance": 421,
+        "team": "CHC",
+        "opponent": "PHI",
+        "date": "2026-04-23",
+        "time_utc": "2026-04-23T19:00:20.354Z",
+        "game_pk": 824689,
+        "inning": 3,
+        "exit_velo": "106.0",
+        "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
+        "player": "Ian Happ",
+        "distance": 429,
+        "team": "CHC",
+        "opponent": "PHI",
+        "date": "2026-04-23",
+        "time_utc": "2026-04-23T19:17:27.772Z",
+        "game_pk": 824689,
+        "inning": 4,
+        "exit_velo": "110.7",
+        "launch_angle": "32.0",
+        "source": "live"
     }
 ]
