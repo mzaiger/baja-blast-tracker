@@ -1469,6 +1469,19 @@
         "source": "savant"
     },
     {
+        "player": "Oneil Cruz",
+        "distance": 432,
+        "team": "PIT",
+        "opponent": "TEX",
+        "date": "2026-04-22",
+        "time_utc": "2026-04-23T02:36:19.100Z",
+        "game_pk": 822913,
+        "inning": 9,
+        "exit_velo": "116.9",
+        "launch_angle": "30.0",
+        "source": "live"
+    },
+    {
         "player": "Nick Kurtz",
         "distance": 438,
         "team": "ATH",
@@ -1534,6 +1547,19 @@
         "source": "live"
     },
     {
+        "player": "Hunter Goodman",
+        "distance": 427,
+        "team": "COL",
+        "opponent": "SD",
+        "date": "2026-04-22",
+        "time_utc": "2026-04-23T03:39:21.587Z",
+        "game_pk": 824367,
+        "inning": 8,
+        "exit_velo": "105.7",
+        "launch_angle": "23.0",
+        "source": "live"
+    },
+    {
         "player": "Yordan Alvarez",
         "distance": 422,
         "team": "HOU",
@@ -1544,6 +1570,58 @@
         "inning": 1,
         "exit_velo": "108.8",
         "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "Ildemaro Vargas",
+        "distance": 420,
+        "team": "AZ",
+        "opponent": "CWS",
+        "date": "2026-04-22",
+        "time_utc": "2026-04-23T02:13:07.890Z",
+        "game_pk": 825097,
+        "inning": 2,
+        "exit_velo": "107.1",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "Miguel Vargas",
+        "distance": 428,
+        "team": "CWS",
+        "opponent": "AZ",
+        "date": "2026-04-22",
+        "time_utc": "2026-04-23T02:26:33.866Z",
+        "game_pk": 825097,
+        "inning": 3,
+        "exit_velo": "109.0",
+        "launch_angle": "34.0",
+        "source": "live"
+    },
+    {
+        "player": "Colson Montgomery",
+        "distance": 423,
+        "team": "CWS",
+        "opponent": "AZ",
+        "date": "2026-04-22",
+        "time_utc": "2026-04-23T02:43:49.445Z",
+        "game_pk": 825097,
+        "inning": 4,
+        "exit_velo": "105.8",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
+        "player": "Munetaka Murakami",
+        "distance": 451,
+        "team": "CWS",
+        "opponent": "AZ",
+        "date": "2026-04-22",
+        "time_utc": "2026-04-23T03:59:18.107Z",
+        "game_pk": 825097,
+        "inning": 7,
+        "exit_velo": "110.2",
+        "launch_angle": "29.0",
         "source": "live"
     }
 ]
