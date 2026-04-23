@@ -1649,5 +1649,18 @@
         "exit_velo": "110.2",
         "launch_angle": "29",
         "source": "savant"
+    },
+    {
+        "player": "CJ Abrams",
+        "distance": 426,
+        "team": "WSH",
+        "opponent": "ATL",
+        "date": "2026-04-23",
+        "time_utc": "2026-04-23T17:59:25.462Z",
+        "game_pk": 822745,
+        "inning": 4,
+        "exit_velo": "107.1",
+        "launch_angle": "26.0",
+        "source": "live"
     }
 ]
