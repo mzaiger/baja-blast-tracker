@@ -1714,5 +1714,31 @@
         "exit_velo": "110.7",
         "launch_angle": "32",
         "source": "savant"
+    },
+    {
+        "player": "Jes\u00fas S\u00e1nchez",
+        "distance": 422,
+        "team": "TOR",
+        "opponent": "CLE",
+        "date": "2026-04-24",
+        "time_utc": "2026-04-24T23:31:31.234Z",
+        "game_pk": 822827,
+        "inning": 1,
+        "exit_velo": "111.8",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
+        "player": "Junior Caminero",
+        "distance": 450,
+        "team": "TB",
+        "opponent": "MIN",
+        "date": "2026-04-24",
+        "time_utc": "2026-04-24T23:17:28.873Z",
+        "game_pk": 822992,
+        "inning": 1,
+        "exit_velo": "111.0",
+        "launch_angle": "26.0",
+        "source": "live"
     }
 ]
