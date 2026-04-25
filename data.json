@@ -1729,6 +1729,19 @@
         "source": "live"
     },
     {
+        "player": "Kazuma Okamoto",
+        "distance": 430,
+        "team": "TOR",
+        "opponent": "CLE",
+        "date": "2026-04-24",
+        "time_utc": "2026-04-24T23:50:39.184Z",
+        "game_pk": 822827,
+        "inning": 2,
+        "exit_velo": "109.9",
+        "launch_angle": "31.0",
+        "source": "live"
+    },
+    {
         "player": "Junior Caminero",
         "distance": 450,
         "team": "TB",
@@ -1739,6 +1752,32 @@
         "inning": 1,
         "exit_velo": "111.0",
         "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
+        "player": "Matt McLain",
+        "distance": 421,
+        "team": "CIN",
+        "opponent": "DET",
+        "date": "2026-04-24",
+        "time_utc": "2026-04-25T00:27:13.251Z",
+        "game_pk": 824529,
+        "inning": 5,
+        "exit_velo": "106.8",
+        "launch_angle": "24.0",
+        "source": "live"
+    },
+    {
+        "player": "Nathaniel Lowe",
+        "distance": 438,
+        "team": "CIN",
+        "opponent": "DET",
+        "date": "2026-04-24",
+        "time_utc": "2026-04-25T00:56:31.498Z",
+        "game_pk": 824529,
+        "inning": 6,
+        "exit_velo": "112.7",
+        "launch_angle": "29.0",
         "source": "live"
     }
 ]
