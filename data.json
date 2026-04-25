@@ -1794,6 +1794,19 @@
         "source": "savant"
     },
     {
+        "player": "Kazuma Okamoto",
+        "distance": 425,
+        "team": "TOR",
+        "opponent": "CLE",
+        "date": "2026-04-25",
+        "time_utc": "2026-04-25T20:01:45.849Z",
+        "game_pk": 822826,
+        "inning": 4,
+        "exit_velo": "108.9",
+        "launch_angle": "30.0",
+        "source": "live"
+    },
+    {
         "player": "Iv\u00e1n Herrera",
         "distance": 429,
         "team": "STL",
