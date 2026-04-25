@@ -1779,5 +1779,18 @@
         "exit_velo": "112.7",
         "launch_angle": "29.0",
         "source": "live"
+    },
+    {
+        "player": "Spencer Torkelson",
+        "distance": 435,
+        "team": "DET",
+        "opponent": "CIN",
+        "date": "2026-04-24",
+        "time_utc": "2026-04-25T03:25:47.880Z",
+        "game_pk": 824529,
+        "inning": 8,
+        "exit_velo": "108.3",
+        "launch_angle": "28.0",
+        "source": "live"
     }
 ]
