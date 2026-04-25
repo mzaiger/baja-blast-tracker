@@ -1805,5 +1805,31 @@
         "exit_velo": "108.9",
         "launch_angle": "30.0",
         "source": "live"
+    },
+    {
+        "player": "Iv\u00e1n Herrera",
+        "distance": 429,
+        "team": "STL",
+        "opponent": "SEA",
+        "date": "2026-04-25",
+        "time_utc": "2026-04-25T18:27:33.481Z",
+        "game_pk": 823070,
+        "inning": 1,
+        "exit_velo": "108.5",
+        "launch_angle": "23.0",
+        "source": "live"
+    },
+    {
+        "player": "Cole Young",
+        "distance": 423,
+        "team": "SEA",
+        "opponent": "STL",
+        "date": "2026-04-25",
+        "time_utc": "2026-04-25T19:15:43.439Z",
+        "game_pk": 823070,
+        "inning": 4,
+        "exit_velo": "109.9",
+        "launch_angle": "26.0",
+        "source": "live"
     }
 ]
