@@ -1792,5 +1792,18 @@
         "exit_velo": "108.3",
         "launch_angle": "28",
         "source": "savant"
+    },
+    {
+        "player": "Iv\u00e1n Herrera",
+        "distance": 429,
+        "team": "STL",
+        "opponent": "SEA",
+        "date": "2026-04-25",
+        "time_utc": "2026-04-25T18:27:33.481Z",
+        "game_pk": 823070,
+        "inning": 1,
+        "exit_velo": "108.5",
+        "launch_angle": "23.0",
+        "source": "live"
     }
 ]
