@@ -1716,81 +1716,81 @@
         "source": "savant"
     },
     {
-        "player": "Jes\u00fas S\u00e1nchez",
+        "player": "S\u00e1nchez, Jes\u00fas",
         "distance": 422,
         "team": "TOR",
         "opponent": "CLE",
         "date": "2026-04-24",
-        "time_utc": "2026-04-24T23:31:31.234Z",
+        "time_utc": "2026-04-24T23:07:00Z",
         "game_pk": 822827,
         "inning": 1,
         "exit_velo": "111.8",
-        "launch_angle": "29.0",
-        "source": "live"
+        "launch_angle": "29",
+        "source": "savant"
     },
     {
-        "player": "Kazuma Okamoto",
+        "player": "Okamoto, Kazuma",
         "distance": 430,
         "team": "TOR",
         "opponent": "CLE",
         "date": "2026-04-24",
-        "time_utc": "2026-04-24T23:50:39.184Z",
+        "time_utc": "2026-04-24T23:07:00Z",
         "game_pk": 822827,
         "inning": 2,
         "exit_velo": "109.9",
-        "launch_angle": "31.0",
-        "source": "live"
+        "launch_angle": "31",
+        "source": "savant"
     },
     {
-        "player": "Junior Caminero",
+        "player": "Caminero, Junior",
         "distance": 450,
         "team": "TB",
         "opponent": "MIN",
         "date": "2026-04-24",
-        "time_utc": "2026-04-24T23:17:28.873Z",
+        "time_utc": "2026-04-24T23:10:00Z",
         "game_pk": 822992,
         "inning": 1,
-        "exit_velo": "111.0",
-        "launch_angle": "26.0",
-        "source": "live"
+        "exit_velo": "111",
+        "launch_angle": "26",
+        "source": "savant"
     },
     {
-        "player": "Matt McLain",
+        "player": "McLain, Matt",
         "distance": 421,
         "team": "CIN",
         "opponent": "DET",
         "date": "2026-04-24",
-        "time_utc": "2026-04-25T00:27:13.251Z",
+        "time_utc": "2026-04-24T22:40:00Z",
         "game_pk": 824529,
         "inning": 5,
         "exit_velo": "106.8",
-        "launch_angle": "24.0",
-        "source": "live"
+        "launch_angle": "24",
+        "source": "savant"
     },
     {
-        "player": "Nathaniel Lowe",
+        "player": "Lowe, Nathaniel",
         "distance": 438,
         "team": "CIN",
         "opponent": "DET",
         "date": "2026-04-24",
-        "time_utc": "2026-04-25T00:56:31.498Z",
+        "time_utc": "2026-04-24T22:40:00Z",
         "game_pk": 824529,
         "inning": 6,
         "exit_velo": "112.7",
-        "launch_angle": "29.0",
-        "source": "live"
+        "launch_angle": "29",
+        "source": "savant"
     },
     {
-        "player": "Spencer Torkelson",
+        "player": "Torkelson, Spencer",
         "distance": 435,
-        "team": "DET",
-        "opponent": "CIN",
+        "team": "CIN",
+        "opponent": "DET",
         "date": "2026-04-24",
-        "time_utc": "2026-04-25T03:25:47.880Z",
+        "time_utc": "2026-04-24T22:40:00Z",
         "game_pk": 824529,
         "inning": 8,
         "exit_velo": "108.3",
-        "launch_angle": "28.0",
-        "source": "live"
+        "launch_angle": "28",
+        "source": "savant"
     }
 ]
