@@ -1833,6 +1833,19 @@
         "source": "savant"
     },
     {
+        "player": "Bobby Witt Jr.",
+        "distance": 427,
+        "team": "KC",
+        "opponent": "LAA",
+        "date": "2026-04-26",
+        "time_utc": "2026-04-26T21:44:45.779Z",
+        "game_pk": 824122,
+        "inning": 6,
+        "exit_velo": "108.4",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
         "player": "Christian Walker",
         "distance": 432,
         "team": "HOU",
@@ -1868,6 +1881,19 @@
         "game_pk": 825094,
         "inning": 3,
         "exit_velo": "104.6",
+        "launch_angle": "22.0",
+        "source": "live"
+    },
+    {
+        "player": "Luis Campusano",
+        "distance": 421,
+        "team": "SD",
+        "opponent": "AZ",
+        "date": "2026-04-26",
+        "time_utc": "2026-04-26T21:45:47.890Z",
+        "game_pk": 825094,
+        "inning": 6,
+        "exit_velo": "105.9",
         "launch_angle": "22.0",
         "source": "live"
     }
