@@ -1794,42 +1794,42 @@
         "source": "savant"
     },
     {
-        "player": "Kazuma Okamoto",
+        "player": "Okamoto, Kazuma",
         "distance": 425,
         "team": "TOR",
         "opponent": "CLE",
         "date": "2026-04-25",
-        "time_utc": "2026-04-25T20:01:45.849Z",
+        "time_utc": "2026-04-25T19:07:00Z",
         "game_pk": 822826,
         "inning": 4,
         "exit_velo": "108.9",
-        "launch_angle": "30.0",
-        "source": "live"
+        "launch_angle": "30",
+        "source": "savant"
     },
     {
-        "player": "Iv\u00e1n Herrera",
+        "player": "Herrera, Iv\u00e1n",
         "distance": 429,
         "team": "STL",
         "opponent": "SEA",
         "date": "2026-04-25",
-        "time_utc": "2026-04-25T18:27:33.481Z",
+        "time_utc": "2026-04-25T18:15:00Z",
         "game_pk": 823070,
         "inning": 1,
         "exit_velo": "108.5",
-        "launch_angle": "23.0",
-        "source": "live"
+        "launch_angle": "23",
+        "source": "savant"
     },
     {
-        "player": "Cole Young",
+        "player": "Young, Cole",
         "distance": 423,
-        "team": "SEA",
-        "opponent": "STL",
+        "team": "STL",
+        "opponent": "SEA",
         "date": "2026-04-25",
-        "time_utc": "2026-04-25T19:15:43.439Z",
+        "time_utc": "2026-04-25T18:15:00Z",
         "game_pk": 823070,
         "inning": 4,
         "exit_velo": "109.9",
-        "launch_angle": "26.0",
-        "source": "live"
+        "launch_angle": "26",
+        "source": "savant"
     }
 ]
