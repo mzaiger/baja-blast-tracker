@@ -1831,5 +1831,18 @@
         "exit_velo": "109.9",
         "launch_angle": "26",
         "source": "savant"
+    },
+    {
+        "player": "Christian Walker",
+        "distance": 432,
+        "team": "HOU",
+        "opponent": "NYY",
+        "date": "2026-04-26",
+        "time_utc": "2026-04-26T18:21:13.941Z",
+        "game_pk": 824202,
+        "inning": 1,
+        "exit_velo": "109.8",
+        "launch_angle": "23.0",
+        "source": "live"
     }
 ]
