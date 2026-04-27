@@ -1833,68 +1833,68 @@
         "source": "savant"
     },
     {
-        "player": "Bobby Witt Jr.",
+        "player": "Witt Jr., Bobby",
         "distance": 427,
         "team": "KC",
         "opponent": "LAA",
         "date": "2026-04-26",
-        "time_utc": "2026-04-26T21:44:45.779Z",
+        "time_utc": "2026-04-26T20:10:00Z",
         "game_pk": 824122,
         "inning": 6,
         "exit_velo": "108.4",
-        "launch_angle": "26.0",
-        "source": "live"
+        "launch_angle": "26",
+        "source": "savant"
     },
     {
-        "player": "Christian Walker",
+        "player": "Walker, Christian",
         "distance": 432,
         "team": "HOU",
         "opponent": "NYY",
         "date": "2026-04-26",
-        "time_utc": "2026-04-26T18:21:13.941Z",
+        "time_utc": "2026-04-26T18:10:00Z",
         "game_pk": 824202,
         "inning": 1,
         "exit_velo": "109.8",
-        "launch_angle": "23.0",
-        "source": "live"
+        "launch_angle": "23",
+        "source": "savant"
     },
     {
-        "player": "Spencer Torkelson",
+        "player": "Torkelson, Spencer",
         "distance": 421,
-        "team": "DET",
-        "opponent": "CIN",
+        "team": "CIN",
+        "opponent": "DET",
         "date": "2026-04-26",
-        "time_utc": "2026-04-26T19:34:38.759Z",
+        "time_utc": "2026-04-26T17:40:00Z",
         "game_pk": 824528,
         "inning": 7,
         "exit_velo": "107.3",
-        "launch_angle": "30.0",
-        "source": "live"
+        "launch_angle": "30",
+        "source": "savant"
     },
     {
-        "player": "Manny Machado",
+        "player": "Machado, Manny",
         "distance": 436,
-        "team": "SD",
-        "opponent": "AZ",
+        "team": "AZ",
+        "opponent": "SD",
         "date": "2026-04-26",
-        "time_utc": "2026-04-26T20:54:55.889Z",
+        "time_utc": "2026-04-26T20:05:00Z",
         "game_pk": 825094,
         "inning": 3,
         "exit_velo": "104.6",
-        "launch_angle": "22.0",
-        "source": "live"
+        "launch_angle": "22",
+        "source": "savant"
     },
     {
-        "player": "Luis Campusano",
+        "player": "Campusano, Luis",
         "distance": 421,
-        "team": "SD",
-        "opponent": "AZ",
+        "team": "AZ",
+        "opponent": "SD",
         "date": "2026-04-26",
-        "time_utc": "2026-04-26T21:45:47.890Z",
+        "time_utc": "2026-04-26T20:05:00Z",
         "game_pk": 825094,
         "inning": 6,
         "exit_velo": "105.9",
-        "launch_angle": "22.0",
-        "source": "live"
+        "launch_angle": "22",
+        "source": "savant"
     }
 ]
