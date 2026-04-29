@@ -1924,29 +1924,29 @@
         "source": "savant"
     },
     {
-        "player": "Aaron Judge",
+        "player": "Judge, Aaron",
         "distance": 424,
-        "team": "NYY",
-        "opponent": "TEX",
+        "team": "TEX",
+        "opponent": "NYY",
         "date": "2026-04-28",
-        "time_utc": "2026-04-29T02:28:21.558Z",
+        "time_utc": "2026-04-29T00:05:00Z",
         "game_pk": 822908,
         "inning": 9,
         "exit_velo": "112.7",
-        "launch_angle": "36.0",
-        "source": "live"
+        "launch_angle": "36",
+        "source": "savant"
     },
     {
-        "player": "Salvador Perez",
+        "player": "Perez, Salvador",
         "distance": 425,
-        "team": "KC",
-        "opponent": "ATH",
+        "team": "ATH",
+        "opponent": "KC",
         "date": "2026-04-28",
-        "time_utc": "2026-04-29T03:21:15.269Z",
+        "time_utc": "2026-04-29T01:40:00Z",
         "game_pk": 825017,
         "inning": 6,
         "exit_velo": "107.3",
-        "launch_angle": "22.0",
-        "source": "live"
+        "launch_angle": "22",
+        "source": "savant"
     }
 ]
