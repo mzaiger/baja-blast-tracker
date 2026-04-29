@@ -1922,5 +1922,31 @@
         "exit_velo": "107.9",
         "launch_angle": "24",
         "source": "savant"
+    },
+    {
+        "player": "Aaron Judge",
+        "distance": 424,
+        "team": "NYY",
+        "opponent": "TEX",
+        "date": "2026-04-28",
+        "time_utc": "2026-04-29T02:28:21.558Z",
+        "game_pk": 822908,
+        "inning": 9,
+        "exit_velo": "112.7",
+        "launch_angle": "36.0",
+        "source": "live"
+    },
+    {
+        "player": "Salvador Perez",
+        "distance": 425,
+        "team": "KC",
+        "opponent": "ATH",
+        "date": "2026-04-28",
+        "time_utc": "2026-04-29T03:21:15.269Z",
+        "game_pk": 825017,
+        "inning": 6,
+        "exit_velo": "107.3",
+        "launch_angle": "22.0",
+        "source": "live"
     }
 ]
