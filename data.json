@@ -1950,16 +1950,16 @@
         "source": "savant"
     },
     {
-        "player": "Corbin Carroll",
+        "player": "Carroll, Corbin",
         "distance": 430,
-        "team": "AZ",
-        "opponent": "MIL",
+        "team": "MIL",
+        "opponent": "AZ",
         "date": "2026-04-29",
-        "time_utc": "2026-04-30T02:23:24.813Z",
+        "time_utc": "2026-04-29T23:40:00Z",
         "game_pk": 823796,
         "inning": 9,
         "exit_velo": "106.4",
-        "launch_angle": "29.0",
-        "source": "live"
+        "launch_angle": "29",
+        "source": "savant"
     }
 ]
