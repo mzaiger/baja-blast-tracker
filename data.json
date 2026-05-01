@@ -1963,29 +1963,29 @@
         "source": "savant"
     },
     {
-        "player": "Kyle Schwarber",
+        "player": "Schwarber, Kyle",
         "distance": 446,
         "team": "PHI",
         "opponent": "SF",
         "date": "2026-04-30",
-        "time_utc": "2026-04-30T21:45:46.724Z",
+        "time_utc": "2026-04-30T21:35:00Z",
         "game_pk": 823471,
         "inning": 1,
         "exit_velo": "112.4",
-        "launch_angle": "25.0",
-        "source": "live"
+        "launch_angle": "25",
+        "source": "savant"
     },
     {
-        "player": "Yordan Alvarez",
+        "player": "Alvarez, Yordan",
         "distance": 424,
-        "team": "HOU",
-        "opponent": "BAL",
+        "team": "BAL",
+        "opponent": "HOU",
         "date": "2026-04-30",
-        "time_utc": "2026-04-30T20:19:03.594Z",
+        "time_utc": "2026-04-30T16:40:00Z",
         "game_pk": 824850,
         "inning": 2,
         "exit_velo": "107.4",
-        "launch_angle": "27.0",
-        "source": "live"
+        "launch_angle": "27",
+        "source": "savant"
     }
 ]
