@@ -2065,5 +2065,18 @@
         "exit_velo": "108.9",
         "launch_angle": "25",
         "source": "savant"
+    },
+    {
+        "player": "Kazuma Okamoto",
+        "distance": 453,
+        "team": "TOR",
+        "opponent": "MIN",
+        "date": "2026-05-02",
+        "time_utc": "2026-05-02T19:40:48.873Z",
+        "game_pk": 823715,
+        "inning": 6,
+        "exit_velo": "111.7",
+        "launch_angle": "33.0",
+        "source": "live"
     }
 ]
