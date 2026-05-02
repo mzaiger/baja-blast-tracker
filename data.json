@@ -1987,5 +1987,57 @@
         "exit_velo": "107.4",
         "launch_angle": "27",
         "source": "savant"
+    },
+    {
+        "player": "Junior Caminero",
+        "distance": 432,
+        "team": "TB",
+        "opponent": "SF",
+        "date": "2026-05-01",
+        "time_utc": "2026-05-01T23:56:43.871Z",
+        "game_pk": 822990,
+        "inning": 4,
+        "exit_velo": "112.9",
+        "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
+        "player": "Bryan Reynolds",
+        "distance": 443,
+        "team": "PIT",
+        "opponent": "CIN",
+        "date": "2026-05-01",
+        "time_utc": "2026-05-02T00:24:24.725Z",
+        "game_pk": 823389,
+        "inning": 1,
+        "exit_velo": "108.1",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
+        "player": "Marcell Ozuna",
+        "distance": 425,
+        "team": "PIT",
+        "opponent": "CIN",
+        "date": "2026-05-01",
+        "time_utc": "2026-05-02T01:41:20.179Z",
+        "game_pk": 823389,
+        "inning": 5,
+        "exit_velo": "107.5",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
+        "player": "Mickey Moniak",
+        "distance": 439,
+        "team": "COL",
+        "opponent": "ATL",
+        "date": "2026-05-01",
+        "time_utc": "2026-05-02T01:18:09.200Z",
+        "game_pk": 824366,
+        "inning": 2,
+        "exit_velo": "105.5",
+        "launch_angle": "29.0",
+        "source": "live"
     }
 ]
