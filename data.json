@@ -2080,6 +2080,19 @@
         "source": "live"
     },
     {
+        "player": "Dillon Dingler",
+        "distance": 443,
+        "team": "DET",
+        "opponent": "TEX",
+        "date": "2026-05-02",
+        "time_utc": "2026-05-02T23:26:46.594Z",
+        "game_pk": 824284,
+        "inning": 1,
+        "exit_velo": "107.8",
+        "launch_angle": "30.0",
+        "source": "live"
+    },
+    {
         "player": "Shea Langeliers",
         "distance": 433,
         "team": "ATH",
