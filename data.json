@@ -2028,6 +2028,19 @@
         "source": "live"
     },
     {
+        "player": "Ronny Mauricio",
+        "distance": 421,
+        "team": "NYM",
+        "opponent": "LAA",
+        "date": "2026-05-01",
+        "time_utc": "2026-05-02T03:27:07.664Z",
+        "game_pk": 824041,
+        "inning": 7,
+        "exit_velo": "111.3",
+        "launch_angle": "20.0",
+        "source": "live"
+    },
+    {
         "player": "Mickey Moniak",
         "distance": 439,
         "team": "COL",
@@ -2038,6 +2051,19 @@
         "inning": 2,
         "exit_velo": "105.5",
         "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
+        "player": "Brent Rooker",
+        "distance": 422,
+        "team": "ATH",
+        "opponent": "CLE",
+        "date": "2026-05-01",
+        "time_utc": "2026-05-02T01:58:49.063Z",
+        "game_pk": 825012,
+        "inning": 1,
+        "exit_velo": "108.9",
+        "launch_angle": "25.0",
         "source": "live"
     }
 ]
