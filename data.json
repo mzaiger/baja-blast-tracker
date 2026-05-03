@@ -2093,6 +2093,19 @@
         "source": "live"
     },
     {
+        "player": "Austin Riley",
+        "distance": 438,
+        "team": "ATL",
+        "opponent": "COL",
+        "date": "2026-05-02",
+        "time_utc": "2026-05-03T01:33:49.433Z",
+        "game_pk": 824365,
+        "inning": 5,
+        "exit_velo": "106.1",
+        "launch_angle": "30.0",
+        "source": "live"
+    },
+    {
         "player": "Shea Langeliers",
         "distance": 433,
         "team": "ATH",
