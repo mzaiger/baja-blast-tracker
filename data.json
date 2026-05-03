@@ -2117,5 +2117,18 @@
         "exit_velo": "107.8",
         "launch_angle": "25",
         "source": "savant"
+    },
+    {
+        "player": "Gabriel Moreno",
+        "distance": 427,
+        "team": "AZ",
+        "opponent": "CHC",
+        "date": "2026-05-03",
+        "time_utc": "2026-05-03T18:37:11.097Z",
+        "game_pk": 824687,
+        "inning": 2,
+        "exit_velo": "105.4",
+        "launch_angle": "27.0",
+        "source": "live"
     }
 ]
