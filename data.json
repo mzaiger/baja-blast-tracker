@@ -2159,14 +2159,14 @@
     },
     {
         "player": "Mickey Moniak",
-        "distance": 422,
+        "distance": 438,
         "team": "COL",
         "opponent": "ATL",
         "date": "2026-05-03",
-        "time_utc": "2026-05-03T20:30:19.645Z",
+        "time_utc": "2026-05-03T21:54:30.726Z",
         "game_pk": 824364,
-        "inning": 4,
-        "exit_velo": "104.0",
+        "inning": 8,
+        "exit_velo": "105.0",
         "launch_angle": "31.0",
         "source": "live"
     },
