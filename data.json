@@ -2067,55 +2067,55 @@
         "source": "savant"
     },
     {
-        "player": "Kazuma Okamoto",
+        "player": "Okamoto, Kazuma",
         "distance": 453,
-        "team": "TOR",
-        "opponent": "MIN",
+        "team": "MIN",
+        "opponent": "TOR",
         "date": "2026-05-02",
-        "time_utc": "2026-05-02T19:40:48.873Z",
+        "time_utc": "2026-05-02T18:10:00Z",
         "game_pk": 823715,
         "inning": 6,
         "exit_velo": "111.7",
-        "launch_angle": "33.0",
-        "source": "live"
+        "launch_angle": "33",
+        "source": "savant"
     },
     {
-        "player": "Dillon Dingler",
+        "player": "Dingler, Dillon",
         "distance": 443,
         "team": "DET",
         "opponent": "TEX",
         "date": "2026-05-02",
-        "time_utc": "2026-05-02T23:26:46.594Z",
+        "time_utc": "2026-05-02T23:15:00Z",
         "game_pk": 824284,
         "inning": 1,
         "exit_velo": "107.8",
-        "launch_angle": "30.0",
-        "source": "live"
+        "launch_angle": "30",
+        "source": "savant"
     },
     {
-        "player": "Austin Riley",
+        "player": "Riley, Austin",
         "distance": 438,
-        "team": "ATL",
-        "opponent": "COL",
+        "team": "COL",
+        "opponent": "ATL",
         "date": "2026-05-02",
-        "time_utc": "2026-05-03T01:33:49.433Z",
+        "time_utc": "2026-05-03T00:10:00Z",
         "game_pk": 824365,
         "inning": 5,
         "exit_velo": "106.1",
-        "launch_angle": "30.0",
-        "source": "live"
+        "launch_angle": "30",
+        "source": "savant"
     },
     {
-        "player": "Shea Langeliers",
+        "player": "Langeliers, Shea",
         "distance": 433,
         "team": "ATH",
         "opponent": "CLE",
         "date": "2026-05-02",
-        "time_utc": "2026-05-02T21:23:45.635Z",
+        "time_utc": "2026-05-02T20:05:00Z",
         "game_pk": 825014,
         "inning": 5,
         "exit_velo": "107.8",
-        "launch_angle": "25.0",
-        "source": "live"
+        "launch_angle": "25",
+        "source": "savant"
     }
 ]
