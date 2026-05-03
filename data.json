@@ -2119,6 +2119,19 @@
         "source": "savant"
     },
     {
+        "player": "Jonah Heim",
+        "distance": 425,
+        "team": "ATL",
+        "opponent": "COL",
+        "date": "2026-05-03",
+        "time_utc": "2026-05-03T19:34:57.680Z",
+        "game_pk": 824364,
+        "inning": 2,
+        "exit_velo": "104.6",
+        "launch_angle": "32.0",
+        "source": "live"
+    },
+    {
         "player": "Gabriel Moreno",
         "distance": 427,
         "team": "AZ",
