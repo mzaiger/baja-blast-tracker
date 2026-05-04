@@ -2119,81 +2119,81 @@
         "source": "savant"
     },
     {
-        "player": "Mark Vientos",
+        "player": "Vientos, Mark",
         "distance": 427,
-        "team": "NYM",
-        "opponent": "LAA",
+        "team": "LAA",
+        "opponent": "NYM",
         "date": "2026-05-03",
-        "time_utc": "2026-05-03T21:05:03.224Z",
+        "time_utc": "2026-05-03T20:07:00Z",
         "game_pk": 824043,
         "inning": 4,
-        "exit_velo": "107.0",
-        "launch_angle": "29.0",
-        "source": "live"
+        "exit_velo": "107",
+        "launch_angle": "29",
+        "source": "savant"
     },
     {
-        "player": "Jonah Heim",
+        "player": "Heim, Jonah",
         "distance": 425,
-        "team": "ATL",
-        "opponent": "COL",
+        "team": "COL",
+        "opponent": "ATL",
         "date": "2026-05-03",
-        "time_utc": "2026-05-03T19:34:57.680Z",
+        "time_utc": "2026-05-03T19:10:00Z",
         "game_pk": 824364,
         "inning": 2,
         "exit_velo": "104.6",
-        "launch_angle": "32.0",
-        "source": "live"
+        "launch_angle": "32",
+        "source": "savant"
     },
     {
-        "player": "TJ Rumfield",
+        "player": "Rumfield, TJ",
         "distance": 423,
         "team": "COL",
         "opponent": "ATL",
         "date": "2026-05-03",
-        "time_utc": "2026-05-03T20:02:15.172Z",
+        "time_utc": "2026-05-03T19:10:00Z",
         "game_pk": 824364,
         "inning": 3,
         "exit_velo": "103.9",
-        "launch_angle": "27.0",
-        "source": "live"
+        "launch_angle": "27",
+        "source": "savant"
     },
     {
-        "player": "Mickey Moniak",
+        "player": "Moniak, Mickey",
         "distance": 438,
         "team": "COL",
         "opponent": "ATL",
         "date": "2026-05-03",
-        "time_utc": "2026-05-03T21:54:30.726Z",
+        "time_utc": "2026-05-03T19:10:00Z",
         "game_pk": 824364,
         "inning": 8,
-        "exit_velo": "105.0",
-        "launch_angle": "31.0",
-        "source": "live"
+        "exit_velo": "105",
+        "launch_angle": "31",
+        "source": "savant"
     },
     {
-        "player": "Gabriel Moreno",
+        "player": "Moreno, Gabriel",
         "distance": 427,
-        "team": "AZ",
-        "opponent": "CHC",
+        "team": "CHC",
+        "opponent": "AZ",
         "date": "2026-05-03",
-        "time_utc": "2026-05-03T18:37:11.097Z",
+        "time_utc": "2026-05-03T18:20:00Z",
         "game_pk": 824687,
         "inning": 2,
         "exit_velo": "105.4",
-        "launch_angle": "27.0",
-        "source": "live"
+        "launch_angle": "27",
+        "source": "savant"
     },
     {
-        "player": "Zack Gelof",
+        "player": "Gelof, Zack",
         "distance": 429,
         "team": "ATH",
         "opponent": "CLE",
         "date": "2026-05-03",
-        "time_utc": "2026-05-03T21:15:03.173Z",
+        "time_utc": "2026-05-03T20:05:00Z",
         "game_pk": 825013,
         "inning": 5,
         "exit_velo": "105.6",
-        "launch_angle": "29.0",
-        "source": "live"
+        "launch_angle": "29",
+        "source": "savant"
     }
 ]
