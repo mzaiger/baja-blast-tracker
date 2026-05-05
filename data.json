@@ -2210,6 +2210,32 @@
         "source": "live"
     },
     {
+        "player": "Matt Olson",
+        "distance": 428,
+        "team": "ATL",
+        "opponent": "SEA",
+        "date": "2026-05-04",
+        "time_utc": "2026-05-05T03:03:37.437Z",
+        "game_pk": 823143,
+        "inning": 6,
+        "exit_velo": "109.7",
+        "launch_angle": "30.0",
+        "source": "live"
+    },
+    {
+        "player": "Austin Riley",
+        "distance": 427,
+        "team": "ATL",
+        "opponent": "SEA",
+        "date": "2026-05-04",
+        "time_utc": "2026-05-05T03:07:06.708Z",
+        "game_pk": 823143,
+        "inning": 6,
+        "exit_velo": "109.1",
+        "launch_angle": "24.0",
+        "source": "live"
+    },
+    {
         "player": "Jackson Merrill",
         "distance": 436,
         "team": "SD",
@@ -2220,6 +2246,32 @@
         "inning": 1,
         "exit_velo": "105.2",
         "launch_angle": "24.0",
+        "source": "live"
+    },
+    {
+        "player": "Ram\u00f3n Laureano",
+        "distance": 447,
+        "team": "SD",
+        "opponent": "SF",
+        "date": "2026-05-04",
+        "time_utc": "2026-05-05T03:47:17.334Z",
+        "game_pk": 823228,
+        "inning": 9,
+        "exit_velo": "106.3",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
+        "player": "Munetaka Murakami",
+        "distance": 429,
+        "team": "CWS",
+        "opponent": "LAA",
+        "date": "2026-05-04",
+        "time_utc": "2026-05-05T02:32:37.892Z",
+        "game_pk": 824039,
+        "inning": 4,
+        "exit_velo": "109.0",
+        "launch_angle": "32.0",
         "source": "live"
     },
     {
