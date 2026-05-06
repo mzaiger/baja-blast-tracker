@@ -2364,5 +2364,31 @@
         "exit_velo": "105.8",
         "launch_angle": "30",
         "source": "savant"
+    },
+    {
+        "player": "Julio Rodr\u00edguez",
+        "distance": 436,
+        "team": "SEA",
+        "opponent": "ATL",
+        "date": "2026-05-06",
+        "time_utc": "2026-05-06T21:40:51.754Z",
+        "game_pk": 823141,
+        "inning": 6,
+        "exit_velo": "110.4",
+        "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
+        "player": "Xander Bogaerts",
+        "distance": 424,
+        "team": "SD",
+        "opponent": "SF",
+        "date": "2026-05-06",
+        "time_utc": "2026-05-06T21:34:30.227Z",
+        "game_pk": 823226,
+        "inning": 8,
+        "exit_velo": "104.8",
+        "launch_angle": "31.0",
+        "source": "live"
     }
 ]
