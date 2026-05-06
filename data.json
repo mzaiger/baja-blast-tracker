@@ -2325,5 +2325,44 @@
         "exit_velo": "112.6",
         "launch_angle": "23",
         "source": "savant"
+    },
+    {
+        "player": "Liam Hicks",
+        "distance": 431,
+        "team": "MIA",
+        "opponent": "BAL",
+        "date": "2026-05-05",
+        "time_utc": "2026-05-06T00:54:06.278Z",
+        "game_pk": 823873,
+        "inning": 7,
+        "exit_velo": "107.5",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
+        "player": "Willson Contreras",
+        "distance": 449,
+        "team": "BOS",
+        "opponent": "DET",
+        "date": "2026-05-05",
+        "time_utc": "2026-05-05T23:48:41.986Z",
+        "game_pk": 824281,
+        "inning": 4,
+        "exit_velo": "111.9",
+        "launch_angle": "32.0",
+        "source": "live"
+    },
+    {
+        "player": "Michael Busch",
+        "distance": 427,
+        "team": "CHC",
+        "opponent": "CIN",
+        "date": "2026-05-05",
+        "time_utc": "2026-05-06T02:01:27.201Z",
+        "game_pk": 824682,
+        "inning": 8,
+        "exit_velo": "105.8",
+        "launch_angle": "30.0",
+        "source": "live"
     }
 ]
