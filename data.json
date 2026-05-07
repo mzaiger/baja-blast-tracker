@@ -2366,6 +2366,32 @@
         "source": "savant"
     },
     {
+        "player": "Matt Wallner",
+        "distance": 420,
+        "team": "MIN",
+        "opponent": "WSH",
+        "date": "2026-05-06",
+        "time_utc": "2026-05-06T23:51:14.714Z",
+        "game_pk": 822740,
+        "inning": 5,
+        "exit_velo": "108.9",
+        "launch_angle": "22.0",
+        "source": "live"
+    },
+    {
+        "player": "Brady House",
+        "distance": 425,
+        "team": "WSH",
+        "opponent": "MIN",
+        "date": "2026-05-06",
+        "time_utc": "2026-05-07T00:45:14.473Z",
+        "game_pk": 822740,
+        "inning": 7,
+        "exit_velo": "108.8",
+        "launch_angle": "35.0",
+        "source": "live"
+    },
+    {
         "player": "Julio Rodr\u00edguez",
         "distance": 436,
         "team": "SEA",
@@ -2389,6 +2415,45 @@
         "inning": 8,
         "exit_velo": "104.8",
         "launch_angle": "31.0",
+        "source": "live"
+    },
+    {
+        "player": "Adolis Garc\u00eda",
+        "distance": 421,
+        "team": "PHI",
+        "opponent": "ATH",
+        "date": "2026-05-06",
+        "time_utc": "2026-05-07T00:11:21.147Z",
+        "game_pk": 823470,
+        "inning": 6,
+        "exit_velo": "106.0",
+        "launch_angle": "31.0",
+        "source": "live"
+    },
+    {
+        "player": "Juan Soto",
+        "distance": 435,
+        "team": "NYM",
+        "opponent": "COL",
+        "date": "2026-05-06",
+        "time_utc": "2026-05-07T01:21:40.335Z",
+        "game_pk": 824361,
+        "inning": 1,
+        "exit_velo": "104.3",
+        "launch_angle": "30.0",
+        "source": "live"
+    },
+    {
+        "player": "Brandon Lowe",
+        "distance": 435,
+        "team": "PIT",
+        "opponent": "AZ",
+        "date": "2026-05-06",
+        "time_utc": "2026-05-07T01:41:09.825Z",
+        "game_pk": 825091,
+        "inning": 1,
+        "exit_velo": "104.9",
+        "launch_angle": "26.0",
         "source": "live"
     }
 ]
