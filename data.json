@@ -2457,55 +2457,55 @@
         "source": "savant"
     },
     {
-        "player": "Ryan Jeffers",
+        "player": "Jeffers, Ryan",
         "distance": 432,
-        "team": "MIN",
-        "opponent": "WSH",
+        "team": "WSH",
+        "opponent": "MIN",
         "date": "2026-05-07",
-        "time_utc": "2026-05-07T18:38:13.847Z",
+        "time_utc": "2026-05-07T17:05:00Z",
         "game_pk": 822741,
         "inning": 6,
         "exit_velo": "107.6",
-        "launch_angle": "27.0",
-        "source": "live"
+        "launch_angle": "27",
+        "source": "savant"
     },
     {
-        "player": "Jake McCarthy",
+        "player": "McCarthy, Jake",
         "distance": 448,
         "team": "COL",
         "opponent": "NYM",
         "date": "2026-05-07",
-        "time_utc": "2026-05-07T21:42:40.146Z",
+        "time_utc": "2026-05-07T19:10:00Z",
         "game_pk": 824362,
         "inning": 8,
         "exit_velo": "107.4",
-        "launch_angle": "33.0",
-        "source": "live"
+        "launch_angle": "33",
+        "source": "savant"
     },
     {
-        "player": "Junior Caminero",
+        "player": "Caminero, Junior",
         "distance": 449,
-        "team": "TB",
-        "opponent": "BOS",
+        "team": "BOS",
+        "opponent": "TB",
         "date": "2026-05-07",
-        "time_utc": "2026-05-08T01:43:13.833Z",
+        "time_utc": "2026-05-07T23:10:00Z",
         "game_pk": 824767,
         "inning": 9,
         "exit_velo": "114.3",
-        "launch_angle": "19.0",
-        "source": "live"
+        "launch_angle": "19",
+        "source": "savant"
     },
     {
-        "player": "Brandon Lowe",
+        "player": "Lowe, Brandon",
         "distance": 436,
-        "team": "PIT",
-        "opponent": "AZ",
+        "team": "AZ",
+        "opponent": "PIT",
         "date": "2026-05-07",
-        "time_utc": "2026-05-07T19:43:04.948Z",
+        "time_utc": "2026-05-07T19:40:00Z",
         "game_pk": 825090,
         "inning": 1,
         "exit_velo": "111.1",
-        "launch_angle": "37.0",
-        "source": "live"
+        "launch_angle": "37",
+        "source": "savant"
     }
 ]
