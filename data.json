@@ -2483,6 +2483,19 @@
         "source": "live"
     },
     {
+        "player": "Junior Caminero",
+        "distance": 449,
+        "team": "TB",
+        "opponent": "BOS",
+        "date": "2026-05-07",
+        "time_utc": "2026-05-08T01:43:13.833Z",
+        "game_pk": 824767,
+        "inning": 9,
+        "exit_velo": "114.3",
+        "launch_angle": "19.0",
+        "source": "live"
+    },
+    {
         "player": "Brandon Lowe",
         "distance": 436,
         "team": "PIT",
