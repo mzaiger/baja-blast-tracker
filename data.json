@@ -2509,29 +2509,29 @@
         "source": "savant"
     },
     {
-        "player": "Travis Bazzana",
+        "player": "Bazzana, Travis",
         "distance": 427,
         "team": "CLE",
         "opponent": "MIN",
         "date": "2026-05-08",
-        "time_utc": "2026-05-08T23:33:49.402Z",
+        "time_utc": "2026-05-08T23:15:00Z",
         "game_pk": 824443,
         "inning": 1,
         "exit_velo": "102.3",
-        "launch_angle": "31.0",
-        "source": "live"
+        "launch_angle": "31",
+        "source": "savant"
     },
     {
-        "player": "Wilyer Abreu",
+        "player": "Abreu, Wilyer",
         "distance": 427,
         "team": "BOS",
         "opponent": "TB",
         "date": "2026-05-08",
-        "time_utc": "2026-05-09T00:01:02.344Z",
+        "time_utc": "2026-05-08T23:10:00Z",
         "game_pk": 824768,
         "inning": 3,
         "exit_velo": "106.9",
-        "launch_angle": "23.0",
-        "source": "live"
+        "launch_angle": "23",
+        "source": "savant"
     }
 ]
