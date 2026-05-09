@@ -2520,5 +2520,18 @@
         "exit_velo": "102.3",
         "launch_angle": "31.0",
         "source": "live"
+    },
+    {
+        "player": "Wilyer Abreu",
+        "distance": 427,
+        "team": "BOS",
+        "opponent": "TB",
+        "date": "2026-05-08",
+        "time_utc": "2026-05-09T00:01:02.344Z",
+        "game_pk": 824768,
+        "inning": 3,
+        "exit_velo": "106.9",
+        "launch_angle": "23.0",
+        "source": "live"
     }
 ]
