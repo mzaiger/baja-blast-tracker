@@ -2546,5 +2546,18 @@
         "exit_velo": "109.6",
         "launch_angle": "28.0",
         "source": "live"
+    },
+    {
+        "player": "Xavier Edwards",
+        "distance": 422,
+        "team": "MIA",
+        "opponent": "WSH",
+        "date": "2026-05-09",
+        "time_utc": "2026-05-09T22:15:19.771Z",
+        "game_pk": 823869,
+        "inning": 7,
+        "exit_velo": "105.6",
+        "launch_angle": "26.0",
+        "source": "live"
     }
 ]
