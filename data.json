@@ -2533,5 +2533,18 @@
         "exit_velo": "106.9",
         "launch_angle": "23",
         "source": "savant"
+    },
+    {
+        "player": "James Wood",
+        "distance": 442,
+        "team": "WSH",
+        "opponent": "MIA",
+        "date": "2026-05-09",
+        "time_utc": "2026-05-09T20:11:27.731Z",
+        "game_pk": 823869,
+        "inning": 1,
+        "exit_velo": "109.6",
+        "launch_angle": "28.0",
+        "source": "live"
     }
 ]
