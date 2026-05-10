@@ -2535,6 +2535,19 @@
         "source": "savant"
     },
     {
+        "player": "Jake Bauers",
+        "distance": 420,
+        "team": "MIL",
+        "opponent": "NYY",
+        "date": "2026-05-09",
+        "time_utc": "2026-05-10T01:08:15.197Z",
+        "game_pk": 823792,
+        "inning": 7,
+        "exit_velo": "107.0",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
         "player": "James Wood",
         "distance": 442,
         "team": "WSH",
