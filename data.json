@@ -2572,5 +2572,18 @@
         "exit_velo": "105.6",
         "launch_angle": "26",
         "source": "savant"
+    },
+    {
+        "player": "Kyle Schwarber",
+        "distance": 432,
+        "team": "PHI",
+        "opponent": "COL",
+        "date": "2026-05-10",
+        "time_utc": "2026-05-10T17:46:12.529Z",
+        "game_pk": 823463,
+        "inning": 1,
+        "exit_velo": "107.4",
+        "launch_angle": "32.0",
+        "source": "live"
     }
 ]
