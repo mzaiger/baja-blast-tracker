@@ -2587,6 +2587,32 @@
         "source": "live"
     },
     {
+        "player": "Heliot Ramos",
+        "distance": 437,
+        "team": "SF",
+        "opponent": "PIT",
+        "date": "2026-05-10",
+        "time_utc": "2026-05-10T21:04:35.925Z",
+        "game_pk": 823221,
+        "inning": 4,
+        "exit_velo": "110.3",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "Jordan Walker",
+        "distance": 425,
+        "team": "STL",
+        "opponent": "SD",
+        "date": "2026-05-10",
+        "time_utc": "2026-05-10T21:03:13.225Z",
+        "game_pk": 823305,
+        "inning": 4,
+        "exit_velo": "108.3",
+        "launch_angle": "31.0",
+        "source": "live"
+    },
+    {
         "player": "Kyle Schwarber",
         "distance": 432,
         "team": "PHI",
