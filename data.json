@@ -2574,6 +2574,19 @@
         "source": "savant"
     },
     {
+        "player": "Jo Adell",
+        "distance": 449,
+        "team": "LAA",
+        "opponent": "TOR",
+        "date": "2026-05-10",
+        "time_utc": "2026-05-10T19:40:02.960Z",
+        "game_pk": 822819,
+        "inning": 9,
+        "exit_velo": "114.5",
+        "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
         "player": "Kyle Schwarber",
         "distance": 432,
         "team": "PHI",
