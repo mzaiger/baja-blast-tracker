@@ -2535,42 +2535,42 @@
         "source": "savant"
     },
     {
-        "player": "Jake Bauers",
+        "player": "Bauers, Jake",
         "distance": 420,
         "team": "MIL",
         "opponent": "NYY",
         "date": "2026-05-09",
-        "time_utc": "2026-05-10T01:08:15.197Z",
+        "time_utc": "2026-05-09T23:10:00Z",
         "game_pk": 823792,
         "inning": 7,
-        "exit_velo": "107.0",
-        "launch_angle": "28.0",
-        "source": "live"
+        "exit_velo": "107",
+        "launch_angle": "28",
+        "source": "savant"
     },
     {
-        "player": "James Wood",
+        "player": "Wood, James",
         "distance": 442,
-        "team": "WSH",
-        "opponent": "MIA",
+        "team": "MIA",
+        "opponent": "WSH",
         "date": "2026-05-09",
-        "time_utc": "2026-05-09T20:11:27.731Z",
+        "time_utc": "2026-05-09T20:10:00Z",
         "game_pk": 823869,
         "inning": 1,
         "exit_velo": "109.6",
-        "launch_angle": "28.0",
-        "source": "live"
+        "launch_angle": "28",
+        "source": "savant"
     },
     {
-        "player": "Xavier Edwards",
+        "player": "Edwards, Xavier",
         "distance": 422,
         "team": "MIA",
         "opponent": "WSH",
         "date": "2026-05-09",
-        "time_utc": "2026-05-09T22:15:19.771Z",
+        "time_utc": "2026-05-09T20:10:00Z",
         "game_pk": 823869,
         "inning": 7,
         "exit_velo": "105.6",
-        "launch_angle": "26.0",
-        "source": "live"
+        "launch_angle": "26",
+        "source": "savant"
     }
 ]
