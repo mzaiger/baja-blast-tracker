@@ -2574,68 +2574,68 @@
         "source": "savant"
     },
     {
-        "player": "Jo Adell",
+        "player": "Adell, Jo",
         "distance": 449,
-        "team": "LAA",
-        "opponent": "TOR",
+        "team": "TOR",
+        "opponent": "LAA",
         "date": "2026-05-10",
-        "time_utc": "2026-05-10T19:40:02.960Z",
+        "time_utc": "2026-05-10T17:37:00Z",
         "game_pk": 822819,
         "inning": 9,
         "exit_velo": "114.5",
-        "launch_angle": "25.0",
-        "source": "live"
+        "launch_angle": "25",
+        "source": "savant"
     },
     {
-        "player": "Heliot Ramos",
+        "player": "Ramos, Heliot",
         "distance": 437,
         "team": "SF",
         "opponent": "PIT",
         "date": "2026-05-10",
-        "time_utc": "2026-05-10T21:04:35.925Z",
+        "time_utc": "2026-05-10T20:05:00Z",
         "game_pk": 823221,
         "inning": 4,
         "exit_velo": "110.3",
-        "launch_angle": "27.0",
-        "source": "live"
+        "launch_angle": "27",
+        "source": "savant"
     },
     {
-        "player": "Jordan Walker",
+        "player": "Walker, Jordan",
         "distance": 425,
-        "team": "STL",
-        "opponent": "SD",
+        "team": "SD",
+        "opponent": "STL",
         "date": "2026-05-10",
-        "time_utc": "2026-05-10T21:03:13.225Z",
+        "time_utc": "2026-05-10T20:10:00Z",
         "game_pk": 823305,
         "inning": 4,
         "exit_velo": "108.3",
-        "launch_angle": "31.0",
-        "source": "live"
+        "launch_angle": "31",
+        "source": "savant"
     },
     {
-        "player": "Kyle Schwarber",
+        "player": "Schwarber, Kyle",
         "distance": 432,
         "team": "PHI",
         "opponent": "COL",
         "date": "2026-05-10",
-        "time_utc": "2026-05-10T17:46:12.529Z",
+        "time_utc": "2026-05-10T17:35:00Z",
         "game_pk": 823463,
         "inning": 1,
         "exit_velo": "107.4",
-        "launch_angle": "32.0",
-        "source": "live"
+        "launch_angle": "32",
+        "source": "savant"
     },
     {
-        "player": "Max Muncy",
+        "player": "Muncy, Max",
         "distance": 420,
         "team": "LAD",
         "opponent": "ATL",
         "date": "2026-05-10",
-        "time_utc": "2026-05-10T22:01:28.255Z",
+        "time_utc": "2026-05-10T20:10:00Z",
         "game_pk": 823954,
         "inning": 8,
         "exit_velo": "109.6",
-        "launch_angle": "34.0",
-        "source": "live"
+        "launch_angle": "34",
+        "source": "savant"
     }
 ]
