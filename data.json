@@ -2639,42 +2639,42 @@
         "source": "savant"
     },
     {
-        "player": "Ildemaro Vargas",
+        "player": "Vargas, Ildemaro",
         "distance": 422,
-        "team": "AZ",
-        "opponent": "TEX",
+        "team": "TEX",
+        "opponent": "AZ",
         "date": "2026-05-12",
-        "time_utc": "2026-05-13T00:26:41.000Z",
+        "time_utc": "2026-05-13T00:05:00Z",
         "game_pk": 822903,
         "inning": 2,
         "exit_velo": "103.9",
-        "launch_angle": "23.0",
-        "source": "live"
+        "launch_angle": "23",
+        "source": "savant"
     },
     {
-        "player": "Daylen Lile",
+        "player": "Lile, Daylen",
         "distance": 429,
-        "team": "WSH",
-        "opponent": "CIN",
+        "team": "CIN",
+        "opponent": "WSH",
         "date": "2026-05-12",
-        "time_utc": "2026-05-13T00:14:04.079Z",
+        "time_utc": "2026-05-12T22:40:00Z",
         "game_pk": 824521,
         "inning": 5,
         "exit_velo": "109.2",
-        "launch_angle": "26.0",
-        "source": "live"
+        "launch_angle": "26",
+        "source": "savant"
     },
     {
-        "player": "Shea Langeliers",
+        "player": "Langeliers, Shea",
         "distance": 448,
         "team": "ATH",
         "opponent": "STL",
         "date": "2026-05-12",
-        "time_utc": "2026-05-13T04:12:07.972Z",
+        "time_utc": "2026-05-13T01:40:00Z",
         "game_pk": 825011,
         "inning": 8,
         "exit_velo": "108.1",
-        "launch_angle": "29.0",
-        "source": "live"
+        "launch_angle": "29",
+        "source": "savant"
     }
 ]
