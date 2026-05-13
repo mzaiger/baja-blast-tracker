@@ -2663,5 +2663,18 @@
         "exit_velo": "109.2",
         "launch_angle": "26.0",
         "source": "live"
+    },
+    {
+        "player": "Shea Langeliers",
+        "distance": 448,
+        "team": "ATH",
+        "opponent": "STL",
+        "date": "2026-05-12",
+        "time_utc": "2026-05-13T04:12:07.972Z",
+        "game_pk": 825011,
+        "inning": 8,
+        "exit_velo": "108.1",
+        "launch_angle": "29.0",
+        "source": "live"
     }
 ]
