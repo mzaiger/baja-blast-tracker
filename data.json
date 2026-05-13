@@ -2637,5 +2637,31 @@
         "exit_velo": "109.6",
         "launch_angle": "34",
         "source": "savant"
+    },
+    {
+        "player": "Ildemaro Vargas",
+        "distance": 422,
+        "team": "AZ",
+        "opponent": "TEX",
+        "date": "2026-05-12",
+        "time_utc": "2026-05-13T00:26:41.000Z",
+        "game_pk": 822903,
+        "inning": 2,
+        "exit_velo": "103.9",
+        "launch_angle": "23.0",
+        "source": "live"
+    },
+    {
+        "player": "Daylen Lile",
+        "distance": 429,
+        "team": "WSH",
+        "opponent": "CIN",
+        "date": "2026-05-12",
+        "time_utc": "2026-05-13T00:14:04.079Z",
+        "game_pk": 824521,
+        "inning": 5,
+        "exit_velo": "109.2",
+        "launch_angle": "26.0",
+        "source": "live"
     }
 ]
