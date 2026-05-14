@@ -2676,5 +2676,18 @@
         "exit_velo": "108.1",
         "launch_angle": "29",
         "source": "savant"
+    },
+    {
+        "player": "Trevor Story",
+        "distance": 424,
+        "team": "BOS",
+        "opponent": "PHI",
+        "date": "2026-05-13",
+        "time_utc": "2026-05-13T23:07:34.977Z",
+        "game_pk": 824763,
+        "inning": 2,
+        "exit_velo": "106.6",
+        "launch_angle": "28.0",
+        "source": "live"
     }
 ]
