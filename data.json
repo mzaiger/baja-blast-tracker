@@ -2689,5 +2689,31 @@
         "exit_velo": "106.6",
         "launch_angle": "28",
         "source": "savant"
+    },
+    {
+        "player": "Yordan Alvarez",
+        "distance": 422,
+        "team": "HOU",
+        "opponent": "SEA",
+        "date": "2026-05-14",
+        "time_utc": "2026-05-14T19:01:21.859Z",
+        "game_pk": 824196,
+        "inning": 3,
+        "exit_velo": "110.7",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
+        "player": "Nick Kurtz",
+        "distance": 442,
+        "team": "ATH",
+        "opponent": "STL",
+        "date": "2026-05-14",
+        "time_utc": "2026-05-14T19:12:33.810Z",
+        "game_pk": 825008,
+        "inning": 1,
+        "exit_velo": "111.8",
+        "launch_angle": "26.0",
+        "source": "live"
     }
 ]
