@@ -2704,6 +2704,19 @@
         "source": "live"
     },
     {
+        "player": "Ian Happ",
+        "distance": 424,
+        "team": "CHC",
+        "opponent": "ATL",
+        "date": "2026-05-14",
+        "time_utc": "2026-05-15T01:14:21.666Z",
+        "game_pk": 824926,
+        "inning": 8,
+        "exit_velo": "107.6",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
         "player": "Nick Kurtz",
         "distance": 442,
         "team": "ATH",
