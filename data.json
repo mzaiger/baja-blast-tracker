@@ -2728,5 +2728,18 @@
         "exit_velo": "111.8",
         "launch_angle": "26",
         "source": "savant"
+    },
+    {
+        "player": "Marcell Ozuna",
+        "distance": 438,
+        "team": "PIT",
+        "opponent": "PHI",
+        "date": "2026-05-15",
+        "time_utc": "2026-05-15T23:32:38.455Z",
+        "game_pk": 823384,
+        "inning": 3,
+        "exit_velo": "109.5",
+        "launch_angle": "24.0",
+        "source": "live"
     }
 ]
