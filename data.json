@@ -2769,6 +2769,19 @@
         "source": "savant"
     },
     {
+        "player": "Heriberto Hern\u00e1ndez",
+        "distance": 439,
+        "team": "MIA",
+        "opponent": "TB",
+        "date": "2026-05-16",
+        "time_utc": "2026-05-16T21:58:21.017Z",
+        "game_pk": 822981,
+        "inning": 7,
+        "exit_velo": "107.9",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
         "player": "Jac Caglianone",
         "distance": 428,
         "team": "KC",
