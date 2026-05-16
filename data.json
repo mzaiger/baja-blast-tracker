@@ -2769,6 +2769,19 @@
         "source": "savant"
     },
     {
+        "player": "Jac Caglianone",
+        "distance": 428,
+        "team": "KC",
+        "opponent": "STL",
+        "date": "2026-05-16",
+        "time_utc": "2026-05-16T21:03:04.054Z",
+        "game_pk": 823060,
+        "inning": 9,
+        "exit_velo": "113.4",
+        "launch_angle": "30.0",
+        "source": "live"
+    },
+    {
         "player": "Bryce Harper",
         "distance": 457,
         "team": "PHI",
