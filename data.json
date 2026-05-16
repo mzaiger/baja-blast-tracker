@@ -2767,5 +2767,18 @@
         "exit_velo": "106.8",
         "launch_angle": "29",
         "source": "savant"
+    },
+    {
+        "player": "Bryce Harper",
+        "distance": 457,
+        "team": "PHI",
+        "opponent": "PIT",
+        "date": "2026-05-16",
+        "time_utc": "2026-05-16T20:10:57.062Z",
+        "game_pk": 823382,
+        "inning": 1,
+        "exit_velo": "111.3",
+        "launch_angle": "28.0",
+        "source": "live"
     }
 ]
