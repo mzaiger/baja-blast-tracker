@@ -2754,5 +2754,18 @@
         "exit_velo": "107.1",
         "launch_angle": "27.0",
         "source": "live"
+    },
+    {
+        "player": "Jarred Kelenic",
+        "distance": 446,
+        "team": "CWS",
+        "opponent": "CHC",
+        "date": "2026-05-15",
+        "time_utc": "2026-05-16T02:42:44.778Z",
+        "game_pk": 824601,
+        "inning": 9,
+        "exit_velo": "106.8",
+        "launch_angle": "29.0",
+        "source": "live"
     }
 ]
