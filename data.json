@@ -2730,42 +2730,42 @@
         "source": "savant"
     },
     {
-        "player": "Marcell Ozuna",
+        "player": "Ozuna, Marcell",
         "distance": 438,
         "team": "PIT",
         "opponent": "PHI",
         "date": "2026-05-15",
-        "time_utc": "2026-05-15T23:32:38.455Z",
+        "time_utc": "2026-05-15T22:40:00Z",
         "game_pk": 823384,
         "inning": 3,
         "exit_velo": "109.5",
-        "launch_angle": "24.0",
-        "source": "live"
+        "launch_angle": "24",
+        "source": "savant"
     },
     {
-        "player": "Brandon Lowe",
+        "player": "Lowe, Brandon",
         "distance": 422,
         "team": "PIT",
         "opponent": "PHI",
         "date": "2026-05-15",
-        "time_utc": "2026-05-16T00:09:48.839Z",
+        "time_utc": "2026-05-15T22:40:00Z",
         "game_pk": 823384,
         "inning": 5,
         "exit_velo": "107.1",
-        "launch_angle": "27.0",
-        "source": "live"
+        "launch_angle": "27",
+        "source": "savant"
     },
     {
-        "player": "Jarred Kelenic",
+        "player": "Kelenic, Jarred",
         "distance": 446,
         "team": "CWS",
         "opponent": "CHC",
         "date": "2026-05-15",
-        "time_utc": "2026-05-16T02:42:44.778Z",
+        "time_utc": "2026-05-15T23:40:00Z",
         "game_pk": 824601,
         "inning": 9,
         "exit_velo": "106.8",
-        "launch_angle": "29.0",
-        "source": "live"
+        "launch_angle": "29",
+        "source": "savant"
     }
 ]
