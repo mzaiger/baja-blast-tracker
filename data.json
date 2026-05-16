@@ -2806,5 +2806,31 @@
         "exit_velo": "111.3",
         "launch_angle": "28.0",
         "source": "live"
+    },
+    {
+        "player": "Miguel Vargas",
+        "distance": 421,
+        "team": "CWS",
+        "opponent": "CHC",
+        "date": "2026-05-16",
+        "time_utc": "2026-05-16T23:20:59.035Z",
+        "game_pk": 824600,
+        "inning": 1,
+        "exit_velo": "108.4",
+        "launch_angle": "24.0",
+        "source": "live"
+    },
+    {
+        "player": "Drake Baldwin",
+        "distance": 421,
+        "team": "ATL",
+        "opponent": "BOS",
+        "date": "2026-05-16",
+        "time_utc": "2026-05-16T23:22:51.060Z",
+        "game_pk": 824924,
+        "inning": 1,
+        "exit_velo": "106.2",
+        "launch_angle": "22.0",
+        "source": "live"
     }
 ]
