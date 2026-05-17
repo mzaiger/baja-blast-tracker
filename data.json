@@ -2899,6 +2899,19 @@
         "source": "live"
     },
     {
+        "player": "Corbin Carroll",
+        "distance": 448,
+        "team": "AZ",
+        "opponent": "COL",
+        "date": "2026-05-17",
+        "time_utc": "2026-05-17T22:35:36.438Z",
+        "game_pk": 824358,
+        "inning": 6,
+        "exit_velo": "111.8",
+        "launch_angle": "24.0",
+        "source": "live"
+    },
+    {
         "player": "Austin Riley",
         "distance": 431,
         "team": "ATL",
