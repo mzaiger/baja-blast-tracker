@@ -2808,6 +2808,19 @@
         "source": "live"
     },
     {
+        "player": "Christian Walker",
+        "distance": 422,
+        "team": "HOU",
+        "opponent": "TEX",
+        "date": "2026-05-16",
+        "time_utc": "2026-05-17T00:11:50.648Z",
+        "game_pk": 824193,
+        "inning": 4,
+        "exit_velo": "109.1",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
         "player": "Miguel Vargas",
         "distance": 421,
         "team": "CWS",
@@ -2821,6 +2834,32 @@
         "source": "live"
     },
     {
+        "player": "Colson Montgomery",
+        "distance": 442,
+        "team": "CWS",
+        "opponent": "CHC",
+        "date": "2026-05-16",
+        "time_utc": "2026-05-16T23:49:04.158Z",
+        "game_pk": 824600,
+        "inning": 3,
+        "exit_velo": "112.4",
+        "launch_angle": "33.0",
+        "source": "live"
+    },
+    {
+        "player": "Munetaka Murakami",
+        "distance": 428,
+        "team": "CWS",
+        "opponent": "CHC",
+        "date": "2026-05-16",
+        "time_utc": "2026-05-17T00:34:44.773Z",
+        "game_pk": 824600,
+        "inning": 5,
+        "exit_velo": "109.0",
+        "launch_angle": "36.0",
+        "source": "live"
+    },
+    {
         "player": "Drake Baldwin",
         "distance": 421,
         "team": "ATL",
@@ -2831,6 +2870,19 @@
         "inning": 1,
         "exit_velo": "106.2",
         "launch_angle": "22.0",
+        "source": "live"
+    },
+    {
+        "player": "Willson Contreras",
+        "distance": 426,
+        "team": "BOS",
+        "opponent": "ATL",
+        "date": "2026-05-16",
+        "time_utc": "2026-05-17T00:53:49.083Z",
+        "game_pk": 824924,
+        "inning": 8,
+        "exit_velo": "106.1",
+        "launch_angle": "26.0",
         "source": "live"
     }
 ]
