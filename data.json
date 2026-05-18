@@ -2886,42 +2886,42 @@
         "source": "savant"
     },
     {
-        "player": "Yandy D\u00edaz",
+        "player": "D\u00edaz, Yandy",
         "distance": 426,
         "team": "TB",
         "opponent": "MIA",
         "date": "2026-05-17",
-        "time_utc": "2026-05-17T17:57:11.309Z",
+        "time_utc": "2026-05-17T16:15:00Z",
         "game_pk": 822982,
         "inning": 5,
         "exit_velo": "108.5",
-        "launch_angle": "27.0",
-        "source": "live"
+        "launch_angle": "27",
+        "source": "savant"
     },
     {
-        "player": "Corbin Carroll",
+        "player": "Carroll, Corbin",
         "distance": 448,
-        "team": "AZ",
-        "opponent": "COL",
+        "team": "COL",
+        "opponent": "AZ",
         "date": "2026-05-17",
-        "time_utc": "2026-05-17T22:35:36.438Z",
+        "time_utc": "2026-05-17T19:10:00Z",
         "game_pk": 824358,
         "inning": 6,
         "exit_velo": "111.8",
-        "launch_angle": "24.0",
-        "source": "live"
+        "launch_angle": "24",
+        "source": "savant"
     },
     {
-        "player": "Austin Riley",
+        "player": "Riley, Austin",
         "distance": 431,
         "team": "ATL",
         "opponent": "BOS",
         "date": "2026-05-17",
-        "time_utc": "2026-05-17T17:52:17.974Z",
+        "time_utc": "2026-05-17T17:35:00Z",
         "game_pk": 824923,
         "inning": 1,
-        "exit_velo": "104.0",
-        "launch_angle": "31.0",
-        "source": "live"
+        "exit_velo": "104",
+        "launch_angle": "31",
+        "source": "savant"
     }
 ]
