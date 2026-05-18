@@ -2923,5 +2923,18 @@
         "exit_velo": "104",
         "launch_angle": "31",
         "source": "savant"
+    },
+    {
+        "player": "Brett Baty",
+        "distance": 451,
+        "team": "NYM",
+        "opponent": "WSH",
+        "date": "2026-05-18",
+        "time_utc": "2026-05-18T23:51:45.954Z",
+        "game_pk": 822734,
+        "inning": 4,
+        "exit_velo": "111.2",
+        "launch_angle": "23.0",
+        "source": "live"
     }
 ]
