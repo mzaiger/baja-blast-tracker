@@ -2925,68 +2925,68 @@
         "source": "savant"
     },
     {
-        "player": "Brett Baty",
+        "player": "Baty, Brett",
         "distance": 451,
-        "team": "NYM",
-        "opponent": "WSH",
+        "team": "WSH",
+        "opponent": "NYM",
         "date": "2026-05-18",
-        "time_utc": "2026-05-18T23:51:45.954Z",
+        "time_utc": "2026-05-18T22:45:00Z",
         "game_pk": 822734,
         "inning": 4,
         "exit_velo": "111.2",
-        "launch_angle": "23.0",
-        "source": "live"
+        "launch_angle": "23",
+        "source": "savant"
     },
     {
-        "player": "Josh Bell",
+        "player": "Bell, Josh",
         "distance": 429,
         "team": "MIN",
         "opponent": "HOU",
         "date": "2026-05-18",
-        "time_utc": "2026-05-19T00:06:49.722Z",
+        "time_utc": "2026-05-18T23:40:00Z",
         "game_pk": 823705,
         "inning": 2,
         "exit_velo": "112.3",
-        "launch_angle": "21.0",
-        "source": "live"
+        "launch_angle": "21",
+        "source": "savant"
     },
     {
-        "player": "Willson Contreras",
+        "player": "Contreras, Willson",
         "distance": 435,
-        "team": "BOS",
-        "opponent": "KC",
+        "team": "KC",
+        "opponent": "BOS",
         "date": "2026-05-18",
-        "time_utc": "2026-05-19T00:30:05.227Z",
+        "time_utc": "2026-05-18T23:10:00Z",
         "game_pk": 824114,
         "inning": 6,
-        "exit_velo": "110.0",
-        "launch_angle": "32.0",
-        "source": "live"
+        "exit_velo": "110",
+        "launch_angle": "32",
+        "source": "savant"
     },
     {
-        "player": "Justin Foscue",
+        "player": "Foscue, Justin",
         "distance": 425,
-        "team": "TEX",
-        "opponent": "COL",
+        "team": "COL",
+        "opponent": "TEX",
         "date": "2026-05-18",
-        "time_utc": "2026-05-19T02:02:05.377Z",
+        "time_utc": "2026-05-19T00:40:00Z",
         "game_pk": 824357,
         "inning": 5,
         "exit_velo": "103.9",
-        "launch_angle": "29.0",
-        "source": "live"
+        "launch_angle": "29",
+        "source": "savant"
     },
     {
-        "player": "Dansby Swanson",
+        "player": "Swanson, Dansby",
         "distance": 430,
         "team": "CHC",
         "opponent": "MIL",
         "date": "2026-05-18",
-        "time_utc": "2026-05-19T01:06:59.025Z",
+        "time_utc": "2026-05-18T23:40:00Z",
         "game_pk": 824680,
         "inning": 5,
         "exit_velo": "108.6",
-        "launch_angle": "29.0",
-        "source": "live"
+        "launch_angle": "29",
+        "source": "savant"
     }
 ]
