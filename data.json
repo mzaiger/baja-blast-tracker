@@ -2936,5 +2936,57 @@
         "exit_velo": "111.2",
         "launch_angle": "23.0",
         "source": "live"
+    },
+    {
+        "player": "Josh Bell",
+        "distance": 429,
+        "team": "MIN",
+        "opponent": "HOU",
+        "date": "2026-05-18",
+        "time_utc": "2026-05-19T00:06:49.722Z",
+        "game_pk": 823705,
+        "inning": 2,
+        "exit_velo": "112.3",
+        "launch_angle": "21.0",
+        "source": "live"
+    },
+    {
+        "player": "Willson Contreras",
+        "distance": 435,
+        "team": "BOS",
+        "opponent": "KC",
+        "date": "2026-05-18",
+        "time_utc": "2026-05-19T00:30:05.227Z",
+        "game_pk": 824114,
+        "inning": 6,
+        "exit_velo": "110.0",
+        "launch_angle": "32.0",
+        "source": "live"
+    },
+    {
+        "player": "Justin Foscue",
+        "distance": 425,
+        "team": "TEX",
+        "opponent": "COL",
+        "date": "2026-05-18",
+        "time_utc": "2026-05-19T02:02:05.377Z",
+        "game_pk": 824357,
+        "inning": 5,
+        "exit_velo": "103.9",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
+        "player": "Dansby Swanson",
+        "distance": 430,
+        "team": "CHC",
+        "opponent": "MIL",
+        "date": "2026-05-18",
+        "time_utc": "2026-05-19T01:06:59.025Z",
+        "game_pk": 824680,
+        "inning": 5,
+        "exit_velo": "108.6",
+        "launch_angle": "29.0",
+        "source": "live"
     }
 ]
