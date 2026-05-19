@@ -2988,5 +2988,18 @@
         "exit_velo": "108.6",
         "launch_angle": "29",
         "source": "savant"
+    },
+    {
+        "player": "Michael Harris II",
+        "distance": 421,
+        "team": "ATL",
+        "opponent": "MIA",
+        "date": "2026-05-19",
+        "time_utc": "2026-05-19T21:43:22.290Z",
+        "game_pk": 823865,
+        "inning": 6,
+        "exit_velo": "110.1",
+        "launch_angle": "19.0",
+        "source": "live"
     }
 ]
