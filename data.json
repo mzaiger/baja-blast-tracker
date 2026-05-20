@@ -3079,5 +3079,18 @@
         "exit_velo": "107.2",
         "launch_angle": "23.0",
         "source": "live"
+    },
+    {
+        "player": "Sal Stewart",
+        "distance": 441,
+        "team": "CIN",
+        "opponent": "PHI",
+        "date": "2026-05-20",
+        "time_utc": "2026-05-20T19:40:42.062Z",
+        "game_pk": 823462,
+        "inning": 9,
+        "exit_velo": "109.7",
+        "launch_angle": "27.0",
+        "source": "live"
     }
 ]
