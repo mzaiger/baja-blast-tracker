@@ -3068,55 +3068,55 @@
         "source": "savant"
     },
     {
-        "player": "Hunter Feduccia",
+        "player": "Feduccia, Hunter",
         "distance": 421,
         "team": "TB",
         "opponent": "BAL",
         "date": "2026-05-20",
-        "time_utc": "2026-05-20T17:41:20.502Z",
+        "time_utc": "2026-05-20T17:10:00Z",
         "game_pk": 822977,
         "inning": 2,
         "exit_velo": "107.2",
-        "launch_angle": "23.0",
-        "source": "live"
+        "launch_angle": "23",
+        "source": "savant"
     },
     {
-        "player": "Sal Stewart",
+        "player": "Stewart, Sal",
         "distance": 441,
-        "team": "CIN",
-        "opponent": "PHI",
+        "team": "PHI",
+        "opponent": "CIN",
         "date": "2026-05-20",
-        "time_utc": "2026-05-20T19:40:42.062Z",
+        "time_utc": "2026-05-20T17:05:00Z",
         "game_pk": 823462,
         "inning": 9,
         "exit_velo": "109.7",
-        "launch_angle": "27.0",
-        "source": "live"
+        "launch_angle": "27",
+        "source": "savant"
     },
     {
-        "player": "Jorge Soler",
+        "player": "Soler, Jorge",
         "distance": 432,
         "team": "LAA",
         "opponent": "ATH",
         "date": "2026-05-20",
-        "time_utc": "2026-05-21T01:56:13.863Z",
+        "time_utc": "2026-05-21T01:38:00Z",
         "game_pk": 824032,
         "inning": 1,
         "exit_velo": "108.6",
-        "launch_angle": "29.0",
-        "source": "live"
+        "launch_angle": "29",
+        "source": "savant"
     },
     {
-        "player": "Josh Lowe",
+        "player": "Lowe, Josh",
         "distance": 426,
         "team": "LAA",
         "opponent": "ATH",
         "date": "2026-05-20",
-        "time_utc": "2026-05-21T02:17:34.741Z",
+        "time_utc": "2026-05-21T01:38:00Z",
         "game_pk": 824032,
         "inning": 2,
         "exit_velo": "109.2",
-        "launch_angle": "28.0",
-        "source": "live"
+        "launch_angle": "28",
+        "source": "savant"
     }
 ]
