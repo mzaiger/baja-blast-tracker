@@ -3144,5 +3144,18 @@
         "exit_velo": "108.7",
         "launch_angle": "23.0",
         "source": "live"
+    },
+    {
+        "player": "Zach Neto",
+        "distance": 427,
+        "team": "LAA",
+        "opponent": "TEX",
+        "date": "2026-05-22",
+        "time_utc": "2026-05-23T04:00:33.297Z",
+        "game_pk": 824029,
+        "inning": 8,
+        "exit_velo": "109.6",
+        "launch_angle": "26.0",
+        "source": "live"
     }
 ]
