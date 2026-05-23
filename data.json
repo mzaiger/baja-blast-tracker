@@ -3144,5 +3144,18 @@
         "exit_velo": "108.7",
         "launch_angle": "23",
         "source": "savant"
+    },
+    {
+        "player": "Harrison Bader",
+        "distance": 425,
+        "team": "SF",
+        "opponent": "CWS",
+        "date": "2026-05-23",
+        "time_utc": "2026-05-23T21:48:07.334Z",
+        "game_pk": 823222,
+        "inning": 5,
+        "exit_velo": "105.8",
+        "launch_angle": "23.0",
+        "source": "live"
     }
 ]
