@@ -3157,5 +3157,31 @@
         "exit_velo": "105.8",
         "launch_angle": "23.0",
         "source": "live"
+    },
+    {
+        "player": "Nathaniel Lowe",
+        "distance": 435,
+        "team": "CIN",
+        "opponent": "STL",
+        "date": "2026-05-23",
+        "time_utc": "2026-05-24T00:32:39.137Z",
+        "game_pk": 824516,
+        "inning": 5,
+        "exit_velo": "105.4",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
+        "player": "Jordan Walker",
+        "distance": 427,
+        "team": "STL",
+        "opponent": "CIN",
+        "date": "2026-05-23",
+        "time_utc": "2026-05-24T00:38:28.796Z",
+        "game_pk": 824516,
+        "inning": 6,
+        "exit_velo": "112.1",
+        "launch_angle": "30.0",
+        "source": "live"
     }
 ]
