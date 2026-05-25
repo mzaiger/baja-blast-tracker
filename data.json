@@ -3211,29 +3211,29 @@
         "source": "savant"
     },
     {
-        "player": "Christian Walker",
+        "player": "Walker, Christian",
         "distance": 426,
-        "team": "HOU",
-        "opponent": "CHC",
+        "team": "CHC",
+        "opponent": "HOU",
         "date": "2026-05-24",
-        "time_utc": "2026-05-24T19:41:58.942Z",
+        "time_utc": "2026-05-24T18:20:00Z",
         "game_pk": 824676,
         "inning": 5,
         "exit_velo": "105.1",
-        "launch_angle": "24.0",
-        "source": "live"
+        "launch_angle": "24",
+        "source": "savant"
     },
     {
-        "player": "Colton Cowser",
+        "player": "Cowser, Colton",
         "distance": 440,
         "team": "BAL",
         "opponent": "DET",
         "date": "2026-05-24",
-        "time_utc": "2026-05-24T19:19:01.469Z",
+        "time_utc": "2026-05-24T16:35:00Z",
         "game_pk": 824839,
         "inning": 9,
         "exit_velo": "111.5",
-        "launch_angle": "31.0",
-        "source": "live"
+        "launch_angle": "31",
+        "source": "savant"
     }
 ]
