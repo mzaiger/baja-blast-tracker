@@ -3237,6 +3237,32 @@
         "source": "savant"
     },
     {
+        "player": "Salvador Perez",
+        "distance": 422,
+        "team": "KC",
+        "opponent": "NYY",
+        "date": "2026-05-25",
+        "time_utc": "2026-05-25T21:08:52.945Z",
+        "game_pk": 824107,
+        "inning": 6,
+        "exit_velo": "107.3",
+        "launch_angle": "24.0",
+        "source": "live"
+    },
+    {
+        "player": "Bobby Witt Jr.",
+        "distance": 432,
+        "team": "KC",
+        "opponent": "NYY",
+        "date": "2026-05-25",
+        "time_utc": "2026-05-25T21:38:02.009Z",
+        "game_pk": 824107,
+        "inning": 8,
+        "exit_velo": "108.7",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
         "player": "Victor Mesa Jr.",
         "distance": 421,
         "team": "TB",
@@ -3247,6 +3273,19 @@
         "inning": 11,
         "exit_velo": "105.9",
         "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
+        "player": "Colton Cowser",
+        "distance": 425,
+        "team": "BAL",
+        "opponent": "TB",
+        "date": "2026-05-25",
+        "time_utc": "2026-05-25T21:47:30.709Z",
+        "game_pk": 824838,
+        "inning": 13,
+        "exit_velo": "109.3",
+        "launch_angle": "34.0",
         "source": "live"
     }
 ]
