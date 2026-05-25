@@ -3235,5 +3235,18 @@
         "exit_velo": "111.5",
         "launch_angle": "31",
         "source": "savant"
+    },
+    {
+        "player": "Victor Mesa Jr.",
+        "distance": 421,
+        "team": "TB",
+        "opponent": "BAL",
+        "date": "2026-05-25",
+        "time_utc": "2026-05-25T20:50:50.130Z",
+        "game_pk": 824838,
+        "inning": 11,
+        "exit_velo": "105.9",
+        "launch_angle": "28.0",
+        "source": "live"
     }
 ]
