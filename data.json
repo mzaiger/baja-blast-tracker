@@ -3237,81 +3237,81 @@
         "source": "savant"
     },
     {
-        "player": "Ezequiel Tovar",
+        "player": "Tovar, Ezequiel",
         "distance": 431,
-        "team": "COL",
-        "opponent": "LAD",
+        "team": "LAD",
+        "opponent": "COL",
         "date": "2026-05-25",
-        "time_utc": "2026-05-26T02:59:34.253Z",
+        "time_utc": "2026-05-26T01:10:00Z",
         "game_pk": 823948,
         "inning": 7,
         "exit_velo": "109.1",
-        "launch_angle": "30.0",
-        "source": "live"
+        "launch_angle": "30",
+        "source": "savant"
     },
     {
-        "player": "Salvador Perez",
+        "player": "Perez, Salvador",
         "distance": 422,
         "team": "KC",
         "opponent": "NYY",
         "date": "2026-05-25",
-        "time_utc": "2026-05-25T21:08:52.945Z",
+        "time_utc": "2026-05-25T19:40:00Z",
         "game_pk": 824107,
         "inning": 6,
         "exit_velo": "107.3",
-        "launch_angle": "24.0",
-        "source": "live"
+        "launch_angle": "24",
+        "source": "savant"
     },
     {
-        "player": "Bobby Witt Jr.",
+        "player": "Witt Jr., Bobby",
         "distance": 432,
         "team": "KC",
         "opponent": "NYY",
         "date": "2026-05-25",
-        "time_utc": "2026-05-25T21:38:02.009Z",
+        "time_utc": "2026-05-25T19:40:00Z",
         "game_pk": 824107,
         "inning": 8,
         "exit_velo": "108.7",
-        "launch_angle": "28.0",
-        "source": "live"
+        "launch_angle": "28",
+        "source": "savant"
     },
     {
-        "player": "Victor Mesa Jr.",
+        "player": "Mesa Jr., Victor",
         "distance": 421,
-        "team": "TB",
-        "opponent": "BAL",
+        "team": "BAL",
+        "opponent": "TB",
         "date": "2026-05-25",
-        "time_utc": "2026-05-25T20:50:50.130Z",
+        "time_utc": "2026-05-25T17:35:00Z",
         "game_pk": 824838,
         "inning": 11,
         "exit_velo": "105.9",
-        "launch_angle": "28.0",
-        "source": "live"
+        "launch_angle": "28",
+        "source": "savant"
     },
     {
-        "player": "Colton Cowser",
+        "player": "Cowser, Colton",
         "distance": 425,
         "team": "BAL",
         "opponent": "TB",
         "date": "2026-05-25",
-        "time_utc": "2026-05-25T21:47:30.709Z",
+        "time_utc": "2026-05-25T17:35:00Z",
         "game_pk": 824838,
         "inning": 13,
         "exit_velo": "109.3",
-        "launch_angle": "34.0",
-        "source": "live"
+        "launch_angle": "34",
+        "source": "savant"
     },
     {
-        "player": "Randy Arozarena",
+        "player": "Arozarena, Randy",
         "distance": 437,
-        "team": "SEA",
-        "opponent": "ATH",
+        "team": "ATH",
+        "opponent": "SEA",
         "date": "2026-05-25",
-        "time_utc": "2026-05-26T04:07:18.586Z",
+        "time_utc": "2026-05-26T01:40:00Z",
         "game_pk": 825005,
         "inning": 9,
         "exit_velo": "104.1",
-        "launch_angle": "30.0",
-        "source": "live"
+        "launch_angle": "30",
+        "source": "savant"
     }
 ]
