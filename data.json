@@ -3237,6 +3237,19 @@
         "source": "savant"
     },
     {
+        "player": "Ezequiel Tovar",
+        "distance": 431,
+        "team": "COL",
+        "opponent": "LAD",
+        "date": "2026-05-25",
+        "time_utc": "2026-05-26T02:59:34.253Z",
+        "game_pk": 823948,
+        "inning": 7,
+        "exit_velo": "109.1",
+        "launch_angle": "30.0",
+        "source": "live"
+    },
+    {
         "player": "Salvador Perez",
         "distance": 422,
         "team": "KC",
