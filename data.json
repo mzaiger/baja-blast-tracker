@@ -3300,5 +3300,18 @@
         "exit_velo": "109.3",
         "launch_angle": "34.0",
         "source": "live"
+    },
+    {
+        "player": "Randy Arozarena",
+        "distance": 437,
+        "team": "SEA",
+        "opponent": "ATH",
+        "date": "2026-05-25",
+        "time_utc": "2026-05-26T04:07:18.586Z",
+        "game_pk": 825005,
+        "inning": 9,
+        "exit_velo": "104.1",
+        "launch_angle": "30.0",
+        "source": "live"
     }
 ]
