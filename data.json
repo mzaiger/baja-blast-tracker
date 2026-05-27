@@ -3354,6 +3354,19 @@
         "source": "live"
     },
     {
+        "player": "Ketel Marte",
+        "distance": 452,
+        "team": "AZ",
+        "opponent": "SF",
+        "date": "2026-05-26",
+        "time_utc": "2026-05-27T03:30:32.034Z",
+        "game_pk": 823216,
+        "inning": 7,
+        "exit_velo": "113.7",
+        "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
         "player": "Trea Turner",
         "distance": 434,
         "team": "PHI",
