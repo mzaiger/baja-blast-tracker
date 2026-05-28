@@ -3430,5 +3430,57 @@
         "exit_velo": "104.1",
         "launch_angle": "25",
         "source": "savant"
+    },
+    {
+        "player": "Joc Pederson",
+        "distance": 423,
+        "team": "TEX",
+        "opponent": "HOU",
+        "date": "2026-05-27",
+        "time_utc": "2026-05-28T00:45:08.936Z",
+        "game_pk": 822897,
+        "inning": 3,
+        "exit_velo": "103.3",
+        "launch_angle": "32.0",
+        "source": "live"
+    },
+    {
+        "player": "Yordan Alvarez",
+        "distance": 448,
+        "team": "HOU",
+        "opponent": "TEX",
+        "date": "2026-05-27",
+        "time_utc": "2026-05-28T02:04:07.453Z",
+        "game_pk": 822897,
+        "inning": 8,
+        "exit_velo": "110.0",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "Shohei Ohtani",
+        "distance": 424,
+        "team": "LAD",
+        "opponent": "COL",
+        "date": "2026-05-27",
+        "time_utc": "2026-05-28T02:18:01.998Z",
+        "game_pk": 823947,
+        "inning": 1,
+        "exit_velo": "111.3",
+        "launch_angle": "21.0",
+        "source": "live"
+    },
+    {
+        "player": "Munetaka Murakami",
+        "distance": 432,
+        "team": "CWS",
+        "opponent": "MIN",
+        "date": "2026-05-27",
+        "time_utc": "2026-05-28T01:33:35.353Z",
+        "game_pk": 824596,
+        "inning": 7,
+        "exit_velo": "108.3",
+        "launch_angle": "24.0",
+        "source": "live"
     }
 ]
