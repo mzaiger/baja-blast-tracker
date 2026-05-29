@@ -3482,5 +3482,31 @@
         "exit_velo": "108.3",
         "launch_angle": "24",
         "source": "savant"
+    },
+    {
+        "player": "Jeremy Pe\u00f1a",
+        "distance": 424,
+        "team": "HOU",
+        "opponent": "TEX",
+        "date": "2026-05-28",
+        "time_utc": "2026-05-29T00:10:09.177Z",
+        "game_pk": 822896,
+        "inning": 1,
+        "exit_velo": "108.8",
+        "launch_angle": "32.0",
+        "source": "live"
+    },
+    {
+        "player": "Josh Jung",
+        "distance": 424,
+        "team": "TEX",
+        "opponent": "HOU",
+        "date": "2026-05-28",
+        "time_utc": "2026-05-29T00:37:30.607Z",
+        "game_pk": 822896,
+        "inning": 2,
+        "exit_velo": "103.6",
+        "launch_angle": "29.0",
+        "source": "live"
     }
 ]
