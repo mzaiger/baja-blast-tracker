@@ -3508,5 +3508,18 @@
         "exit_velo": "103.6",
         "launch_angle": "29",
         "source": "savant"
+    },
+    {
+        "player": "Ronald Acu\u00f1a Jr.",
+        "distance": 429,
+        "team": "ATL",
+        "opponent": "CIN",
+        "date": "2026-05-29",
+        "time_utc": "2026-05-29T22:41:17.041Z",
+        "game_pk": 824515,
+        "inning": 1,
+        "exit_velo": "113.3",
+        "launch_angle": "33.0",
+        "source": "live"
     }
 ]
