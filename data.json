@@ -3588,6 +3588,19 @@
         "source": "live"
     },
     {
+        "player": "Ezequiel Tovar",
+        "distance": 441,
+        "team": "COL",
+        "opponent": "SF",
+        "date": "2026-05-29",
+        "time_utc": "2026-05-30T03:15:18.684Z",
+        "game_pk": 824353,
+        "inning": 8,
+        "exit_velo": "105.3",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
         "player": "Ronald Acu\u00f1a Jr.",
         "distance": 429,
         "team": "ATL",
