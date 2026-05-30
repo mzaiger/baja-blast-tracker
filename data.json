@@ -3627,6 +3627,19 @@
         "source": "live"
     },
     {
+        "player": "Jo Adell",
+        "distance": 431,
+        "team": "LAA",
+        "opponent": "TB",
+        "date": "2026-05-30",
+        "time_utc": "2026-05-30T23:06:46.046Z",
+        "game_pk": 822975,
+        "inning": 9,
+        "exit_velo": "113.2",
+        "launch_angle": "32.0",
+        "source": "live"
+    },
+    {
         "player": "Oneil Cruz",
         "distance": 420,
         "team": "PIT",
