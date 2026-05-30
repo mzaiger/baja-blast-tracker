@@ -3612,5 +3612,31 @@
         "exit_velo": "113.3",
         "launch_angle": "33",
         "source": "savant"
+    },
+    {
+        "player": "Fernando Tatis Jr.",
+        "distance": 451,
+        "team": "SD",
+        "opponent": "WSH",
+        "date": "2026-05-30",
+        "time_utc": "2026-05-30T21:03:40.547Z",
+        "game_pk": 822731,
+        "inning": 5,
+        "exit_velo": "114.0",
+        "launch_angle": "24.0",
+        "source": "live"
+    },
+    {
+        "player": "Oneil Cruz",
+        "distance": 420,
+        "team": "PIT",
+        "opponent": "MIN",
+        "date": "2026-05-30",
+        "time_utc": "2026-05-30T20:46:44.656Z",
+        "game_pk": 823375,
+        "inning": 2,
+        "exit_velo": "106.1",
+        "launch_angle": "30.0",
+        "source": "live"
     }
 ]
