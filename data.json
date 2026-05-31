@@ -3718,6 +3718,19 @@
         "source": "live"
     },
     {
+        "player": "Bryce Eldridge",
+        "distance": 453,
+        "team": "SF",
+        "opponent": "COL",
+        "date": "2026-05-31",
+        "time_utc": "2026-05-31T21:30:15.503Z",
+        "game_pk": 824354,
+        "inning": 6,
+        "exit_velo": "108.2",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
         "player": "Ronald Acu\u00f1a Jr.",
         "distance": 438,
         "team": "ATL",
