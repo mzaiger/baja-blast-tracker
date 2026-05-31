@@ -3679,6 +3679,19 @@
         "source": "live"
     },
     {
+        "player": "Drew Gilbert",
+        "distance": 421,
+        "team": "SF",
+        "opponent": "COL",
+        "date": "2026-05-30",
+        "time_utc": "2026-05-31T03:25:00.360Z",
+        "game_pk": 824352,
+        "inning": 8,
+        "exit_velo": "105.9",
+        "launch_angle": "23.0",
+        "source": "live"
+    },
+    {
         "player": "Shea Langeliers",
         "distance": 426,
         "team": "ATH",
