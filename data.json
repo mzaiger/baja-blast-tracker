@@ -3718,6 +3718,19 @@
         "source": "live"
     },
     {
+        "player": "Max Muncy",
+        "distance": 431,
+        "team": "LAD",
+        "opponent": "PHI",
+        "date": "2026-05-31",
+        "time_utc": "2026-05-31T22:41:47.475Z",
+        "game_pk": 823944,
+        "inning": 7,
+        "exit_velo": "106.0",
+        "launch_angle": "31.0",
+        "source": "live"
+    },
+    {
         "player": "Bryce Eldridge",
         "distance": 453,
         "team": "SF",
