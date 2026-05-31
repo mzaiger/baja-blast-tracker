@@ -3640,6 +3640,19 @@
         "source": "live"
     },
     {
+        "player": "Pete Crow-Armstrong",
+        "distance": 444,
+        "team": "CHC",
+        "opponent": "STL",
+        "date": "2026-05-30",
+        "time_utc": "2026-05-31T01:31:41.842Z",
+        "game_pk": 823054,
+        "inning": 8,
+        "exit_velo": "114.6",
+        "launch_angle": "30.0",
+        "source": "live"
+    },
+    {
         "player": "Oneil Cruz",
         "distance": 420,
         "team": "PIT",
@@ -3650,6 +3663,32 @@
         "inning": 2,
         "exit_velo": "106.1",
         "launch_angle": "30.0",
+        "source": "live"
+    },
+    {
+        "player": "Jake McCarthy",
+        "distance": 427,
+        "team": "COL",
+        "opponent": "SF",
+        "date": "2026-05-30",
+        "time_utc": "2026-05-31T02:14:55.058Z",
+        "game_pk": 824352,
+        "inning": 4,
+        "exit_velo": "103.7",
+        "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
+        "player": "Shea Langeliers",
+        "distance": 426,
+        "team": "ATH",
+        "opponent": "NYY",
+        "date": "2026-05-30",
+        "time_utc": "2026-05-31T02:15:50.759Z",
+        "game_pk": 825000,
+        "inning": 1,
+        "exit_velo": "109.2",
+        "launch_angle": "25.0",
         "source": "live"
     }
 ]
