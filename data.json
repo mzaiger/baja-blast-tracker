@@ -3705,6 +3705,32 @@
         "source": "savant"
     },
     {
+        "player": "Ronald Acu\u00f1a Jr.",
+        "distance": 438,
+        "team": "ATL",
+        "opponent": "CIN",
+        "date": "2026-05-31",
+        "time_utc": "2026-05-31T17:41:41.221Z",
+        "game_pk": 824512,
+        "inning": 1,
+        "exit_velo": "112.0",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "Jorge Mateo",
+        "distance": 425,
+        "team": "ATL",
+        "opponent": "CIN",
+        "date": "2026-05-31",
+        "time_utc": "2026-05-31T18:44:24.480Z",
+        "game_pk": 824512,
+        "inning": 5,
+        "exit_velo": "108.4",
+        "launch_angle": "24.0",
+        "source": "live"
+    },
+    {
         "player": "Colton Cowser",
         "distance": 424,
         "team": "BAL",
@@ -3715,6 +3741,19 @@
         "inning": 3,
         "exit_velo": "108.0",
         "launch_angle": "35.0",
+        "source": "live"
+    },
+    {
+        "player": "Yohendrick Pi\u00f1ango",
+        "distance": 421,
+        "team": "TOR",
+        "opponent": "BAL",
+        "date": "2026-05-31",
+        "time_utc": "2026-05-31T18:40:53.520Z",
+        "game_pk": 824832,
+        "inning": 8,
+        "exit_velo": "107.8",
+        "launch_angle": "26.0",
         "source": "live"
     }
 ]
