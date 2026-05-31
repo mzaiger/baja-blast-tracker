@@ -3705,6 +3705,19 @@
         "source": "savant"
     },
     {
+        "player": "Juan Soto",
+        "distance": 433,
+        "team": "NYM",
+        "opponent": "MIA",
+        "date": "2026-05-31",
+        "time_utc": "2026-05-31T19:52:07.689Z",
+        "game_pk": 823621,
+        "inning": 6,
+        "exit_velo": "109.0",
+        "launch_angle": "30.0",
+        "source": "live"
+    },
+    {
         "player": "Ronald Acu\u00f1a Jr.",
         "distance": 438,
         "team": "ATL",
