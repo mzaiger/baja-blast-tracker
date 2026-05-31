@@ -3703,5 +3703,18 @@
         "exit_velo": "109.2",
         "launch_angle": "25",
         "source": "savant"
+    },
+    {
+        "player": "Colton Cowser",
+        "distance": 424,
+        "team": "BAL",
+        "opponent": "TOR",
+        "date": "2026-05-31",
+        "time_utc": "2026-05-31T17:06:33.634Z",
+        "game_pk": 824832,
+        "inning": 3,
+        "exit_velo": "108.0",
+        "launch_angle": "35.0",
+        "source": "live"
     }
 ]
