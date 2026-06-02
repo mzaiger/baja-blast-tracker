@@ -3859,5 +3859,18 @@
         "exit_velo": "107.2",
         "launch_angle": "26",
         "source": "savant"
+    },
+    {
+        "player": "Gleyber Torres",
+        "distance": 433,
+        "team": "DET",
+        "opponent": "TB",
+        "date": "2026-06-02",
+        "time_utc": "2026-06-02T22:40:24.930Z",
+        "game_pk": 822971,
+        "inning": 1,
+        "exit_velo": "106.3",
+        "launch_angle": "27.0",
+        "source": "live"
     }
 ]
