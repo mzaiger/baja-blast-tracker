@@ -3861,55 +3861,55 @@
         "source": "savant"
     },
     {
-        "player": "Gleyber Torres",
+        "player": "Torres, Gleyber",
         "distance": 433,
-        "team": "DET",
-        "opponent": "TB",
+        "team": "TB",
+        "opponent": "DET",
         "date": "2026-06-02",
-        "time_utc": "2026-06-02T22:40:24.930Z",
+        "time_utc": "2026-06-02T22:40:00Z",
         "game_pk": 822971,
         "inning": 1,
         "exit_velo": "106.3",
-        "launch_angle": "27.0",
-        "source": "live"
+        "launch_angle": "27",
+        "source": "savant"
     },
     {
-        "player": "Patrick Wisdom",
+        "player": "Wisdom, Patrick",
         "distance": 429,
         "team": "SEA",
         "opponent": "NYM",
         "date": "2026-06-02",
-        "time_utc": "2026-06-03T02:05:29.490Z",
+        "time_utc": "2026-06-03T01:40:00Z",
         "game_pk": 823129,
         "inning": 2,
         "exit_velo": "105.9",
-        "launch_angle": "31.0",
-        "source": "live"
+        "launch_angle": "31",
+        "source": "savant"
     },
     {
-        "player": "Willi Castro",
+        "player": "Castro, Willi",
         "distance": 433,
-        "team": "COL",
-        "opponent": "LAA",
+        "team": "LAA",
+        "opponent": "COL",
         "date": "2026-06-02",
-        "time_utc": "2026-06-03T02:49:16.458Z",
+        "time_utc": "2026-06-03T01:38:00Z",
         "game_pk": 824026,
         "inning": 4,
         "exit_velo": "109.2",
-        "launch_angle": "30.0",
-        "source": "live"
+        "launch_angle": "30",
+        "source": "savant"
     },
     {
-        "player": "Spencer Steer",
+        "player": "Steer, Spencer",
         "distance": 420,
         "team": "CIN",
         "opponent": "KC",
         "date": "2026-06-02",
-        "time_utc": "2026-06-03T00:23:09.063Z",
+        "time_utc": "2026-06-02T23:10:00Z",
         "game_pk": 824511,
         "inning": 5,
         "exit_velo": "106.3",
-        "launch_angle": "28.0",
-        "source": "live"
+        "launch_angle": "28",
+        "source": "savant"
     }
 ]
