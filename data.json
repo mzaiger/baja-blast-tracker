@@ -3913,42 +3913,42 @@
         "source": "savant"
     },
     {
-        "player": "J.T. Realmuto",
+        "player": "Realmuto, J.T.",
         "distance": 422,
         "team": "PHI",
         "opponent": "SD",
         "date": "2026-06-03",
-        "time_utc": "2026-06-04T00:18:40.063Z",
+        "time_utc": "2026-06-03T22:40:00Z",
         "game_pk": 823456,
         "inning": 7,
         "exit_velo": "104.4",
-        "launch_angle": "27.0",
-        "source": "live"
+        "launch_angle": "27",
+        "source": "savant"
     },
     {
-        "player": "Colby Thomas",
+        "player": "Thomas, Colby",
         "distance": 426,
-        "team": "ATH",
-        "opponent": "CHC",
+        "team": "CHC",
+        "opponent": "ATH",
         "date": "2026-06-03",
-        "time_utc": "2026-06-04T02:09:07.689Z",
+        "time_utc": "2026-06-04T00:05:00Z",
         "game_pk": 824671,
         "inning": 8,
         "exit_velo": "108.7",
-        "launch_angle": "29.0",
-        "source": "live"
+        "launch_angle": "29",
+        "source": "savant"
     },
     {
-        "player": "Kyle Tucker",
+        "player": "Tucker, Kyle",
         "distance": 424,
-        "team": "LAD",
-        "opponent": "AZ",
+        "team": "AZ",
+        "opponent": "LAD",
         "date": "2026-06-03",
-        "time_utc": "2026-06-04T01:57:26.491Z",
+        "time_utc": "2026-06-04T01:40:00Z",
         "game_pk": 825077,
         "inning": 2,
         "exit_velo": "107.6",
-        "launch_angle": "31.0",
-        "source": "live"
+        "launch_angle": "31",
+        "source": "savant"
     }
 ]
