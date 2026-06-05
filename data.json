@@ -3978,6 +3978,19 @@
         "source": "live"
     },
     {
+        "player": "Byron Buxton",
+        "distance": 430,
+        "team": "MIN",
+        "opponent": "KC",
+        "date": "2026-06-04",
+        "time_utc": "2026-06-04T23:54:52.354Z",
+        "game_pk": 823698,
+        "inning": 1,
+        "exit_velo": "109.6",
+        "launch_angle": "23.0",
+        "source": "live"
+    },
+    {
         "player": "Jackson Chourio",
         "distance": 423,
         "team": "MIL",
@@ -3988,6 +4001,32 @@
         "inning": 7,
         "exit_velo": "105.5",
         "launch_angle": "33.0",
+        "source": "live"
+    },
+    {
+        "player": "Jonah Heim",
+        "distance": 421,
+        "team": "ATH",
+        "opponent": "CHC",
+        "date": "2026-06-04",
+        "time_utc": "2026-06-05T01:39:37.753Z",
+        "game_pk": 824672,
+        "inning": 7,
+        "exit_velo": "103.4",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
+        "player": "Ian Happ",
+        "distance": 446,
+        "team": "CHC",
+        "opponent": "ATH",
+        "date": "2026-06-04",
+        "time_utc": "2026-06-05T01:54:26.030Z",
+        "game_pk": 824672,
+        "inning": 7,
+        "exit_velo": "108.1",
+        "launch_angle": "37.0",
         "source": "live"
     }
 ]
