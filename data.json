@@ -3952,94 +3952,94 @@
         "source": "savant"
     },
     {
-        "player": "Adolis Garc\u00eda",
+        "player": "Garc\u00eda, Adolis",
         "distance": 429,
         "team": "PHI",
         "opponent": "SD",
         "date": "2026-06-04",
-        "time_utc": "2026-06-04T18:13:41.963Z",
+        "time_utc": "2026-06-04T17:05:00Z",
         "game_pk": 823457,
         "inning": 5,
-        "exit_velo": "109.0",
-        "launch_angle": "23.0",
-        "source": "live"
+        "exit_velo": "109",
+        "launch_angle": "23",
+        "source": "savant"
     },
     {
-        "player": "Manny Machado",
+        "player": "Machado, Manny",
         "distance": 435,
-        "team": "SD",
-        "opponent": "PHI",
+        "team": "PHI",
+        "opponent": "SD",
         "date": "2026-06-04",
-        "time_utc": "2026-06-04T18:47:52.404Z",
+        "time_utc": "2026-06-04T17:05:00Z",
         "game_pk": 823457,
         "inning": 7,
         "exit_velo": "107.3",
-        "launch_angle": "29.0",
-        "source": "live"
+        "launch_angle": "29",
+        "source": "savant"
     },
     {
-        "player": "Byron Buxton",
+        "player": "Buxton, Byron",
         "distance": 430,
         "team": "MIN",
         "opponent": "KC",
         "date": "2026-06-04",
-        "time_utc": "2026-06-04T23:54:52.354Z",
+        "time_utc": "2026-06-04T23:40:00Z",
         "game_pk": 823698,
         "inning": 1,
         "exit_velo": "109.6",
-        "launch_angle": "23.0",
-        "source": "live"
+        "launch_angle": "23",
+        "source": "savant"
     },
     {
-        "player": "Jackson Chourio",
+        "player": "Chourio, Jackson",
         "distance": 423,
         "team": "MIL",
         "opponent": "SF",
         "date": "2026-06-04",
-        "time_utc": "2026-06-04T20:43:14.827Z",
+        "time_utc": "2026-06-04T18:10:00Z",
         "game_pk": 823779,
         "inning": 7,
         "exit_velo": "105.5",
-        "launch_angle": "33.0",
-        "source": "live"
+        "launch_angle": "33",
+        "source": "savant"
     },
     {
-        "player": "Jonah Heim",
+        "player": "Heim, Jonah",
         "distance": 421,
-        "team": "ATH",
-        "opponent": "CHC",
+        "team": "CHC",
+        "opponent": "ATH",
         "date": "2026-06-04",
-        "time_utc": "2026-06-05T01:39:37.753Z",
+        "time_utc": "2026-06-05T00:05:00Z",
         "game_pk": 824672,
         "inning": 7,
         "exit_velo": "103.4",
-        "launch_angle": "26.0",
-        "source": "live"
+        "launch_angle": "26",
+        "source": "savant"
     },
     {
-        "player": "Ian Happ",
+        "player": "Happ, Ian",
         "distance": 446,
         "team": "CHC",
         "opponent": "ATH",
         "date": "2026-06-04",
-        "time_utc": "2026-06-05T01:54:26.030Z",
+        "time_utc": "2026-06-05T00:05:00Z",
         "game_pk": 824672,
         "inning": 7,
         "exit_velo": "108.1",
-        "launch_angle": "37.0",
-        "source": "live"
+        "launch_angle": "37",
+        "source": "savant"
     },
     {
-        "player": "Ketel Marte",
+        "player": "Marte, Ketel",
         "distance": 431,
         "team": "AZ",
         "opponent": "LAD",
         "date": "2026-06-04",
-        "time_utc": "2026-06-05T04:01:58.764Z",
+        "time_utc": "2026-06-05T01:40:00Z",
         "game_pk": 825076,
         "inning": 9,
-        "exit_velo": "113.0",
-        "launch_angle": "29.0",
-        "source": "live"
+        "exit_velo": "113",
+        "launch_angle": "29",
+        "source": "savant"
     }
 ]
