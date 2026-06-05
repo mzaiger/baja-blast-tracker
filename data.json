@@ -4028,5 +4028,18 @@
         "exit_velo": "108.1",
         "launch_angle": "37.0",
         "source": "live"
+    },
+    {
+        "player": "Ketel Marte",
+        "distance": 431,
+        "team": "AZ",
+        "opponent": "LAD",
+        "date": "2026-06-04",
+        "time_utc": "2026-06-05T04:01:58.764Z",
+        "game_pk": 825076,
+        "inning": 9,
+        "exit_velo": "113.0",
+        "launch_angle": "29.0",
+        "source": "live"
     }
 ]
