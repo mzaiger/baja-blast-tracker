@@ -4054,5 +4054,44 @@
         "exit_velo": "107.0",
         "launch_angle": "29.0",
         "source": "live"
+    },
+    {
+        "player": "Matt Chapman",
+        "distance": 432,
+        "team": "SF",
+        "opponent": "CHC",
+        "date": "2026-06-05",
+        "time_utc": "2026-06-05T21:18:04.743Z",
+        "game_pk": 824673,
+        "inning": 6,
+        "exit_velo": "109.6",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
+        "player": "Jonah Cox",
+        "distance": 446,
+        "team": "SF",
+        "opponent": "CHC",
+        "date": "2026-06-05",
+        "time_utc": "2026-06-05T22:05:21.277Z",
+        "game_pk": 824673,
+        "inning": 9,
+        "exit_velo": "104.7",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "Casey Schmitt",
+        "distance": 424,
+        "team": "SF",
+        "opponent": "CHC",
+        "date": "2026-06-05",
+        "time_utc": "2026-06-05T22:06:02.132Z",
+        "game_pk": 824673,
+        "inning": 9,
+        "exit_velo": "101.9",
+        "launch_angle": "37.0",
+        "source": "live"
     }
 ]
