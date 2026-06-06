@@ -4145,5 +4145,31 @@
         "exit_velo": "103.9",
         "launch_angle": "27",
         "source": "savant"
+    },
+    {
+        "player": "Colton Cowser",
+        "distance": 427,
+        "team": "BAL",
+        "opponent": "TOR",
+        "date": "2026-06-06",
+        "time_utc": "2026-06-06T19:27:47.441Z",
+        "game_pk": 822808,
+        "inning": 2,
+        "exit_velo": "105.0",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
+        "player": "Dominic Canzone",
+        "distance": 451,
+        "team": "SEA",
+        "opponent": "DET",
+        "date": "2026-06-06",
+        "time_utc": "2026-06-06T18:11:00.068Z",
+        "game_pk": 824269,
+        "inning": 4,
+        "exit_velo": "107.1",
+        "launch_angle": "27.0",
+        "source": "live"
     }
 ]
