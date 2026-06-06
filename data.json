@@ -4160,6 +4160,45 @@
         "source": "live"
     },
     {
+        "player": "Pete Alonso",
+        "distance": 421,
+        "team": "BAL",
+        "opponent": "TOR",
+        "date": "2026-06-06",
+        "time_utc": "2026-06-06T20:53:42.755Z",
+        "game_pk": 822808,
+        "inning": 6,
+        "exit_velo": "107.7",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
+        "player": "Lars Nootbaar",
+        "distance": 433,
+        "team": "STL",
+        "opponent": "CIN",
+        "date": "2026-06-06",
+        "time_utc": "2026-06-06T20:47:44.704Z",
+        "game_pk": 823048,
+        "inning": 8,
+        "exit_velo": "109.9",
+        "launch_angle": "22.0",
+        "source": "live"
+    },
+    {
+        "player": "Jacob Gonzalez",
+        "distance": 428,
+        "team": "CWS",
+        "opponent": "PHI",
+        "date": "2026-06-06",
+        "time_utc": "2026-06-06T20:56:33.537Z",
+        "game_pk": 823454,
+        "inning": 3,
+        "exit_velo": "107.5",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
         "player": "Dominic Canzone",
         "distance": 451,
         "team": "SEA",
@@ -4170,6 +4209,19 @@
         "inning": 4,
         "exit_velo": "107.1",
         "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "Dylan Crews",
+        "distance": 432,
+        "team": "WSH",
+        "opponent": "AZ",
+        "date": "2026-06-06",
+        "time_utc": "2026-06-06T21:37:43.514Z",
+        "game_pk": 825075,
+        "inning": 7,
+        "exit_velo": "108.6",
+        "launch_angle": "30.0",
         "source": "live"
     }
 ]
