@@ -4212,6 +4212,32 @@
         "source": "live"
     },
     {
+        "player": "Brice Turang",
+        "distance": 444,
+        "team": "MIL",
+        "opponent": "COL",
+        "date": "2026-06-06",
+        "time_utc": "2026-06-07T01:17:39.824Z",
+        "game_pk": 824351,
+        "inning": 1,
+        "exit_velo": "105.5",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
+        "player": "David Hamilton",
+        "distance": 426,
+        "team": "MIL",
+        "opponent": "COL",
+        "date": "2026-06-06",
+        "time_utc": "2026-06-07T01:34:51.206Z",
+        "game_pk": 824351,
+        "inning": 2,
+        "exit_velo": "102.4",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
         "player": "Dylan Crews",
         "distance": 432,
         "team": "WSH",
