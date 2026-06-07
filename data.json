@@ -4238,6 +4238,19 @@
         "source": "live"
     },
     {
+        "player": "William Contreras",
+        "distance": 434,
+        "team": "MIL",
+        "opponent": "COL",
+        "date": "2026-06-06",
+        "time_utc": "2026-06-07T03:08:28.361Z",
+        "game_pk": 824351,
+        "inning": 7,
+        "exit_velo": "104.1",
+        "launch_angle": "36.0",
+        "source": "live"
+    },
+    {
         "player": "Dylan Crews",
         "distance": 432,
         "team": "WSH",
