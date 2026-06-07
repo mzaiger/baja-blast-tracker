@@ -4303,6 +4303,19 @@
         "source": "live"
     },
     {
+        "player": "Jo Adell",
+        "distance": 433,
+        "team": "LAA",
+        "opponent": "LAD",
+        "date": "2026-06-07",
+        "time_utc": "2026-06-07T22:33:41.843Z",
+        "game_pk": 823941,
+        "inning": 7,
+        "exit_velo": "112.0",
+        "launch_angle": "34.0",
+        "source": "live"
+    },
+    {
         "player": "Kevin McGonigle",
         "distance": 420,
         "team": "DET",
@@ -4325,6 +4338,19 @@
         "game_pk": 824349,
         "inning": 6,
         "exit_velo": "104.6",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
+        "player": "Hunter Goodman",
+        "distance": 424,
+        "team": "COL",
+        "opponent": "MIL",
+        "date": "2026-06-07",
+        "time_utc": "2026-06-07T21:52:03.245Z",
+        "game_pk": 824349,
+        "inning": 9,
+        "exit_velo": "99.9",
         "launch_angle": "26.0",
         "source": "live"
     }
