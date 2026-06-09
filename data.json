@@ -4353,5 +4353,44 @@
         "exit_velo": "99.9",
         "launch_angle": "26",
         "source": "savant"
+    },
+    {
+        "player": "Brice Turang",
+        "distance": 443,
+        "team": "MIL",
+        "opponent": "ATH",
+        "date": "2026-06-08",
+        "time_utc": "2026-06-09T02:50:22.191Z",
+        "game_pk": 824998,
+        "inning": 3,
+        "exit_velo": "108.2",
+        "launch_angle": "24.0",
+        "source": "live"
+    },
+    {
+        "player": "Andrew Vaughn",
+        "distance": 420,
+        "team": "MIL",
+        "opponent": "ATH",
+        "date": "2026-06-08",
+        "time_utc": "2026-06-09T02:54:47.235Z",
+        "game_pk": 824998,
+        "inning": 3,
+        "exit_velo": "101.1",
+        "launch_angle": "30.0",
+        "source": "live"
+    },
+    {
+        "player": "Tyler Soderstrom",
+        "distance": 434,
+        "team": "ATH",
+        "opponent": "MIL",
+        "date": "2026-06-08",
+        "time_utc": "2026-06-09T03:06:05.655Z",
+        "game_pk": 824998,
+        "inning": 3,
+        "exit_velo": "103.8",
+        "launch_angle": "30.0",
+        "source": "live"
     }
 ]
