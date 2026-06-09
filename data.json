@@ -4431,5 +4431,31 @@
         "exit_velo": "106.7",
         "launch_angle": "27",
         "source": "savant"
+    },
+    {
+        "player": "Bryan Reynolds",
+        "distance": 422,
+        "team": "PIT",
+        "opponent": "LAD",
+        "date": "2026-06-09",
+        "time_utc": "2026-06-09T22:52:17.542Z",
+        "game_pk": 823374,
+        "inning": 1,
+        "exit_velo": "111.6",
+        "launch_angle": "23.0",
+        "source": "live"
+    },
+    {
+        "player": "Spencer Jones",
+        "distance": 443,
+        "team": "NYY",
+        "opponent": "CLE",
+        "date": "2026-06-09",
+        "time_utc": "2026-06-09T23:01:36.506Z",
+        "game_pk": 824429,
+        "inning": 2,
+        "exit_velo": "112.2",
+        "launch_angle": "25.0",
+        "source": "live"
     }
 ]
