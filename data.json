@@ -4392,5 +4392,44 @@
         "exit_velo": "103.8",
         "launch_angle": "30.0",
         "source": "live"
+    },
+    {
+        "player": "Jake Bauers",
+        "distance": 457,
+        "team": "MIL",
+        "opponent": "ATH",
+        "date": "2026-06-08",
+        "time_utc": "2026-06-09T04:09:54.236Z",
+        "game_pk": 824998,
+        "inning": 7,
+        "exit_velo": "106.1",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
+        "player": "William Contreras",
+        "distance": 463,
+        "team": "MIL",
+        "opponent": "ATH",
+        "date": "2026-06-08",
+        "time_utc": "2026-06-09T05:22:59.641Z",
+        "game_pk": 824998,
+        "inning": 10,
+        "exit_velo": "106.7",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "Nick Kurtz",
+        "distance": 447,
+        "team": "ATH",
+        "opponent": "MIL",
+        "date": "2026-06-08",
+        "time_utc": "2026-06-09T05:36:54.066Z",
+        "game_pk": 824998,
+        "inning": 10,
+        "exit_velo": "110.3",
+        "launch_angle": "26.0",
+        "source": "live"
     }
 ]
