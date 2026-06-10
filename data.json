@@ -4574,5 +4574,18 @@
         "exit_velo": "102.5",
         "launch_angle": "38",
         "source": "savant"
+    },
+    {
+        "player": "Matt Chapman",
+        "distance": 421,
+        "team": "SF",
+        "opponent": "WSH",
+        "date": "2026-06-10",
+        "time_utc": "2026-06-10T21:29:36.486Z",
+        "game_pk": 823215,
+        "inning": 6,
+        "exit_velo": "107.0",
+        "launch_angle": "22.0",
+        "source": "live"
     }
 ]
