@@ -4446,6 +4446,58 @@
         "source": "live"
     },
     {
+        "player": "Jac Caglianone",
+        "distance": 431,
+        "team": "KC",
+        "opponent": "TEX",
+        "date": "2026-06-09",
+        "time_utc": "2026-06-10T01:25:42.848Z",
+        "game_pk": 824105,
+        "inning": 6,
+        "exit_velo": "105.0",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
+        "player": "Byron Buxton",
+        "distance": 428,
+        "team": "MIN",
+        "opponent": "DET",
+        "date": "2026-06-09",
+        "time_utc": "2026-06-10T00:31:34.771Z",
+        "game_pk": 824267,
+        "inning": 1,
+        "exit_velo": "111.9",
+        "launch_angle": "20.0",
+        "source": "live"
+    },
+    {
+        "player": "Ezequiel Tovar",
+        "distance": 433,
+        "team": "COL",
+        "opponent": "CHC",
+        "date": "2026-06-09",
+        "time_utc": "2026-06-10T01:08:51.412Z",
+        "game_pk": 824347,
+        "inning": 2,
+        "exit_velo": "106.0",
+        "launch_angle": "24.0",
+        "source": "live"
+    },
+    {
+        "player": "Michael Busch",
+        "distance": 424,
+        "team": "CHC",
+        "opponent": "COL",
+        "date": "2026-06-09",
+        "time_utc": "2026-06-10T02:19:06.495Z",
+        "game_pk": 824347,
+        "inning": 6,
+        "exit_velo": "105.6",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
         "player": "Spencer Jones",
         "distance": 443,
         "team": "NYY",
@@ -4456,6 +4508,32 @@
         "inning": 2,
         "exit_velo": "112.2",
         "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
+        "player": "Coby Mayo",
+        "distance": 422,
+        "team": "BAL",
+        "opponent": "SEA",
+        "date": "2026-06-09",
+        "time_utc": "2026-06-10T01:13:01.145Z",
+        "game_pk": 824830,
+        "inning": 9,
+        "exit_velo": "110.2",
+        "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
+        "player": "Henry Bolte",
+        "distance": 446,
+        "team": "ATH",
+        "opponent": "MIL",
+        "date": "2026-06-09",
+        "time_utc": "2026-06-10T02:34:33.777Z",
+        "game_pk": 824999,
+        "inning": 2,
+        "exit_velo": "106.9",
+        "launch_angle": "27.0",
         "source": "live"
     }
 ]
