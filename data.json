@@ -4535,5 +4535,31 @@
         "exit_velo": "106.9",
         "launch_angle": "27.0",
         "source": "live"
+    },
+    {
+        "player": "Jonah Heim",
+        "distance": 426,
+        "team": "ATH",
+        "opponent": "MIL",
+        "date": "2026-06-09",
+        "time_utc": "2026-06-10T03:33:00.648Z",
+        "game_pk": 824999,
+        "inning": 5,
+        "exit_velo": "104.1",
+        "launch_angle": "21.0",
+        "source": "live"
+    },
+    {
+        "player": "Zack Gelof",
+        "distance": 427,
+        "team": "ATH",
+        "opponent": "MIL",
+        "date": "2026-06-09",
+        "time_utc": "2026-06-10T03:54:56.360Z",
+        "game_pk": 824999,
+        "inning": 6,
+        "exit_velo": "102.5",
+        "launch_angle": "38.0",
+        "source": "live"
     }
 ]
