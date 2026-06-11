@@ -4587,5 +4587,31 @@
         "exit_velo": "107.0",
         "launch_angle": "22.0",
         "source": "live"
+    },
+    {
+        "player": "Tyler Callihan",
+        "distance": 427,
+        "team": "PIT",
+        "opponent": "LAD",
+        "date": "2026-06-10",
+        "time_utc": "2026-06-10T23:46:52.949Z",
+        "game_pk": 823372,
+        "inning": 4,
+        "exit_velo": "107.3",
+        "launch_angle": "35.0",
+        "source": "live"
+    },
+    {
+        "player": "Kyle Stowers",
+        "distance": 425,
+        "team": "MIA",
+        "opponent": "AZ",
+        "date": "2026-06-10",
+        "time_utc": "2026-06-10T23:57:25.056Z",
+        "game_pk": 823856,
+        "inning": 4,
+        "exit_velo": "110.8",
+        "launch_angle": "26.0",
+        "source": "live"
     }
 ]
