@@ -4730,5 +4730,18 @@
         "exit_velo": "102.6",
         "launch_angle": "29.0",
         "source": "live"
+    },
+    {
+        "player": "Carson Kelly",
+        "distance": 428,
+        "team": "CHC",
+        "opponent": "COL",
+        "date": "2026-06-11",
+        "time_utc": "2026-06-11T21:27:58.208Z",
+        "game_pk": 824346,
+        "inning": 8,
+        "exit_velo": "105.5",
+        "launch_angle": "29.0",
+        "source": "live"
     }
 ]
