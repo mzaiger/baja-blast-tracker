@@ -4717,5 +4717,18 @@
         "exit_velo": "109.2",
         "launch_angle": "28.0",
         "source": "live"
+    },
+    {
+        "player": "Brett Sullivan",
+        "distance": 434,
+        "team": "COL",
+        "opponent": "CHC",
+        "date": "2026-06-11",
+        "time_utc": "2026-06-11T19:46:56.413Z",
+        "game_pk": 824346,
+        "inning": 3,
+        "exit_velo": "102.6",
+        "launch_angle": "29.0",
+        "source": "live"
     }
 ]
