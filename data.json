@@ -4693,6 +4693,19 @@
         "source": "savant"
     },
     {
+        "player": "Rafael Flores Jr.",
+        "distance": 440,
+        "team": "PIT",
+        "opponent": "LAD",
+        "date": "2026-06-11",
+        "time_utc": "2026-06-12T00:12:08.044Z",
+        "game_pk": 823371,
+        "inning": 5,
+        "exit_velo": "108.7",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
         "player": "Alec Burleson",
         "distance": 424,
         "team": "STL",
@@ -4742,6 +4755,19 @@
         "inning": 8,
         "exit_velo": "105.5",
         "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
+        "player": "Pete Alonso",
+        "distance": 439,
+        "team": "BAL",
+        "opponent": "SEA",
+        "date": "2026-06-11",
+        "time_utc": "2026-06-12T00:09:49.248Z",
+        "game_pk": 824827,
+        "inning": 3,
+        "exit_velo": "110.6",
+        "launch_angle": "33.0",
         "source": "live"
     }
 ]
