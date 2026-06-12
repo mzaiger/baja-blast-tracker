@@ -4693,81 +4693,81 @@
         "source": "savant"
     },
     {
-        "player": "Rafael Flores Jr.",
+        "player": "Flores Jr., Rafael",
         "distance": 440,
         "team": "PIT",
         "opponent": "LAD",
         "date": "2026-06-11",
-        "time_utc": "2026-06-12T00:12:08.044Z",
+        "time_utc": "2026-06-11T22:40:00Z",
         "game_pk": 823371,
         "inning": 5,
         "exit_velo": "108.7",
-        "launch_angle": "26.0",
-        "source": "live"
+        "launch_angle": "26",
+        "source": "savant"
     },
     {
-        "player": "Alec Burleson",
+        "player": "Burleson, Alec",
         "distance": 424,
-        "team": "STL",
-        "opponent": "NYM",
+        "team": "NYM",
+        "opponent": "STL",
         "date": "2026-06-11",
-        "time_utc": "2026-06-11T17:13:47.899Z",
+        "time_utc": "2026-06-11T17:10:00Z",
         "game_pk": 823619,
         "inning": 1,
         "exit_velo": "107.5",
-        "launch_angle": "30.0",
-        "source": "live"
+        "launch_angle": "30",
+        "source": "savant"
     },
     {
-        "player": "Lars Nootbaar",
+        "player": "Nootbaar, Lars",
         "distance": 445,
-        "team": "STL",
-        "opponent": "NYM",
+        "team": "NYM",
+        "opponent": "STL",
         "date": "2026-06-11",
-        "time_utc": "2026-06-11T17:27:05.542Z",
+        "time_utc": "2026-06-11T17:10:00Z",
         "game_pk": 823619,
         "inning": 2,
         "exit_velo": "109.2",
-        "launch_angle": "28.0",
-        "source": "live"
+        "launch_angle": "28",
+        "source": "savant"
     },
     {
-        "player": "Brett Sullivan",
+        "player": "Sullivan, Brett",
         "distance": 434,
         "team": "COL",
         "opponent": "CHC",
         "date": "2026-06-11",
-        "time_utc": "2026-06-11T19:46:56.413Z",
+        "time_utc": "2026-06-11T19:10:00Z",
         "game_pk": 824346,
         "inning": 3,
         "exit_velo": "102.6",
-        "launch_angle": "29.0",
-        "source": "live"
+        "launch_angle": "29",
+        "source": "savant"
     },
     {
-        "player": "Carson Kelly",
+        "player": "Kelly, Carson",
         "distance": 428,
-        "team": "CHC",
-        "opponent": "COL",
+        "team": "COL",
+        "opponent": "CHC",
         "date": "2026-06-11",
-        "time_utc": "2026-06-11T21:27:58.208Z",
+        "time_utc": "2026-06-11T19:10:00Z",
         "game_pk": 824346,
         "inning": 8,
         "exit_velo": "105.5",
-        "launch_angle": "29.0",
-        "source": "live"
+        "launch_angle": "29",
+        "source": "savant"
     },
     {
-        "player": "Pete Alonso",
+        "player": "Alonso, Pete",
         "distance": 439,
         "team": "BAL",
         "opponent": "SEA",
         "date": "2026-06-11",
-        "time_utc": "2026-06-12T00:09:49.248Z",
+        "time_utc": "2026-06-11T23:05:00Z",
         "game_pk": 824827,
         "inning": 3,
         "exit_velo": "110.6",
-        "launch_angle": "33.0",
-        "source": "live"
+        "launch_angle": "33",
+        "source": "savant"
     }
 ]
