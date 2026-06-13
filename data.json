@@ -4912,5 +4912,31 @@
         "exit_velo": "111.8",
         "launch_angle": "23.0",
         "source": "live"
+    },
+    {
+        "player": "Jake Burger",
+        "distance": 421,
+        "team": "TEX",
+        "opponent": "BOS",
+        "date": "2026-06-13",
+        "time_utc": "2026-06-13T22:28:50.822Z",
+        "game_pk": 824749,
+        "inning": 8,
+        "exit_velo": "107.3",
+        "launch_angle": "24.0",
+        "source": "live"
+    },
+    {
+        "player": "Manny Machado",
+        "distance": 429,
+        "team": "SD",
+        "opponent": "BAL",
+        "date": "2026-06-13",
+        "time_utc": "2026-06-13T22:38:03.832Z",
+        "game_pk": 824828,
+        "inning": 9,
+        "exit_velo": "106.2",
+        "launch_angle": "22.0",
+        "source": "live"
     }
 ]
