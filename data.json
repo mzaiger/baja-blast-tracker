@@ -4769,5 +4769,57 @@
         "exit_velo": "110.6",
         "launch_angle": "33",
         "source": "savant"
+    },
+    {
+        "player": "Kazuma Okamoto",
+        "distance": 423,
+        "team": "TOR",
+        "opponent": "NYY",
+        "date": "2026-06-12",
+        "time_utc": "2026-06-12T23:50:25.656Z",
+        "game_pk": 822803,
+        "inning": 1,
+        "exit_velo": "111.4",
+        "launch_angle": "36.0",
+        "source": "live"
+    },
+    {
+        "player": "Byron Buxton",
+        "distance": 425,
+        "team": "MIN",
+        "opponent": "STL",
+        "date": "2026-06-12",
+        "time_utc": "2026-06-13T00:23:52.434Z",
+        "game_pk": 823695,
+        "inning": 1,
+        "exit_velo": "108.5",
+        "launch_angle": "21.0",
+        "source": "live"
+    },
+    {
+        "player": "Noelvi Marte",
+        "distance": 427,
+        "team": "CIN",
+        "opponent": "AZ",
+        "date": "2026-06-12",
+        "time_utc": "2026-06-12T23:59:57.397Z",
+        "game_pk": 824507,
+        "inning": 2,
+        "exit_velo": "106.5",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
+        "player": "Wilyer Abreu",
+        "distance": 421,
+        "team": "BOS",
+        "opponent": "TEX",
+        "date": "2026-06-12",
+        "time_utc": "2026-06-13T01:18:54.467Z",
+        "game_pk": 824752,
+        "inning": 7,
+        "exit_velo": "106.1",
+        "launch_angle": "29.0",
+        "source": "live"
     }
 ]
