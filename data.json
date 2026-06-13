@@ -4771,6 +4771,19 @@
         "source": "savant"
     },
     {
+        "player": "Dylan Crews",
+        "distance": 440,
+        "team": "WSH",
+        "opponent": "SEA",
+        "date": "2026-06-12",
+        "time_utc": "2026-06-13T03:09:19.330Z",
+        "game_pk": 822726,
+        "inning": 8,
+        "exit_velo": "109.5",
+        "launch_angle": "22.0",
+        "source": "live"
+    },
+    {
         "player": "Kazuma Okamoto",
         "distance": 423,
         "team": "TOR",
@@ -4797,6 +4810,19 @@
         "source": "live"
     },
     {
+        "player": "Brice Matthews",
+        "distance": 433,
+        "team": "HOU",
+        "opponent": "KC",
+        "date": "2026-06-12",
+        "time_utc": "2026-06-13T03:14:44.322Z",
+        "game_pk": 824102,
+        "inning": 9,
+        "exit_velo": "107.5",
+        "launch_angle": "34.0",
+        "source": "live"
+    },
+    {
         "player": "Noelvi Marte",
         "distance": 427,
         "team": "CIN",
@@ -4820,6 +4846,32 @@
         "inning": 7,
         "exit_velo": "106.1",
         "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
+        "player": "Shea Langeliers",
+        "distance": 450,
+        "team": "ATH",
+        "opponent": "COL",
+        "date": "2026-06-12",
+        "time_utc": "2026-06-13T03:23:04.807Z",
+        "game_pk": 824997,
+        "inning": 5,
+        "exit_velo": "104.2",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "Nick Kurtz",
+        "distance": 471,
+        "team": "ATH",
+        "opponent": "COL",
+        "date": "2026-06-12",
+        "time_utc": "2026-06-13T03:24:11.568Z",
+        "game_pk": 824997,
+        "inning": 5,
+        "exit_velo": "108.9",
+        "launch_angle": "31.0",
         "source": "live"
     }
 ]
