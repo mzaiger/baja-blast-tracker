@@ -4899,5 +4899,18 @@
         "exit_velo": "116.6",
         "launch_angle": "24.0",
         "source": "live"
+    },
+    {
+        "player": "Corbin Carroll",
+        "distance": 433,
+        "team": "AZ",
+        "opponent": "CIN",
+        "date": "2026-06-13",
+        "time_utc": "2026-06-13T20:12:44.763Z",
+        "game_pk": 824508,
+        "inning": 1,
+        "exit_velo": "111.8",
+        "launch_angle": "23.0",
+        "source": "live"
     }
 ]
