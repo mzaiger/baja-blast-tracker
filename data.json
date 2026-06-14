@@ -4914,6 +4914,19 @@
         "source": "live"
     },
     {
+        "player": "Jose Siri",
+        "distance": 431,
+        "team": "LAA",
+        "opponent": "TB",
+        "date": "2026-06-13",
+        "time_utc": "2026-06-14T04:05:32.756Z",
+        "game_pk": 824019,
+        "inning": 7,
+        "exit_velo": "106.0",
+        "launch_angle": "30.0",
+        "source": "live"
+    },
+    {
         "player": "Lane Thomas",
         "distance": 432,
         "team": "KC",
