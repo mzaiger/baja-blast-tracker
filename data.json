@@ -4901,6 +4901,45 @@
         "source": "live"
     },
     {
+        "player": "Garrett Mitchell",
+        "distance": 425,
+        "team": "MIL",
+        "opponent": "PHI",
+        "date": "2026-06-13",
+        "time_utc": "2026-06-14T00:14:09.526Z",
+        "game_pk": 823776,
+        "inning": 4,
+        "exit_velo": "105.8",
+        "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
+        "player": "Lane Thomas",
+        "distance": 432,
+        "team": "KC",
+        "opponent": "HOU",
+        "date": "2026-06-13",
+        "time_utc": "2026-06-14T00:23:15.547Z",
+        "game_pk": 824100,
+        "inning": 4,
+        "exit_velo": "105.4",
+        "launch_angle": "31.0",
+        "source": "live"
+    },
+    {
+        "player": "Brice Matthews",
+        "distance": 434,
+        "team": "HOU",
+        "opponent": "KC",
+        "date": "2026-06-13",
+        "time_utc": "2026-06-14T00:30:14.542Z",
+        "game_pk": 824100,
+        "inning": 5,
+        "exit_velo": "105.3",
+        "launch_angle": "32.0",
+        "source": "live"
+    },
+    {
         "player": "Corbin Carroll",
         "distance": 433,
         "team": "AZ",
