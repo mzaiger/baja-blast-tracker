@@ -5005,6 +5005,19 @@
         "source": "savant"
     },
     {
+        "player": "Jos\u00e9 Caballero",
+        "distance": 420,
+        "team": "NYY",
+        "opponent": "TOR",
+        "date": "2026-06-14",
+        "time_utc": "2026-06-14T20:42:53.352Z",
+        "game_pk": 822801,
+        "inning": 9,
+        "exit_velo": "104.9",
+        "launch_angle": "33.0",
+        "source": "live"
+    },
+    {
         "player": "Joe Mack",
         "distance": 424,
         "team": "MIA",
@@ -5067,6 +5080,19 @@
         "inning": 1,
         "exit_velo": "106.4",
         "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
+        "player": "Tyler Soderstrom",
+        "distance": 462,
+        "team": "ATH",
+        "opponent": "COL",
+        "date": "2026-06-14",
+        "time_utc": "2026-06-14T21:38:15.524Z",
+        "game_pk": 824994,
+        "inning": 7,
+        "exit_velo": "108.2",
+        "launch_angle": "22.0",
         "source": "live"
     }
 ]
