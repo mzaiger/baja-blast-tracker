@@ -5003,5 +5003,18 @@
         "exit_velo": "106.2",
         "launch_angle": "22",
         "source": "savant"
+    },
+    {
+        "player": "Joe Mack",
+        "distance": 424,
+        "team": "MIA",
+        "opponent": "PIT",
+        "date": "2026-06-14",
+        "time_utc": "2026-06-14T16:41:22.674Z",
+        "game_pk": 823368,
+        "inning": 2,
+        "exit_velo": "102.3",
+        "launch_angle": "27.0",
+        "source": "live"
     }
 ]
