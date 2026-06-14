@@ -5016,5 +5016,57 @@
         "exit_velo": "102.3",
         "launch_angle": "27.0",
         "source": "live"
+    },
+    {
+        "player": "Bryan Reynolds",
+        "distance": 422,
+        "team": "PIT",
+        "opponent": "MIA",
+        "date": "2026-06-14",
+        "time_utc": "2026-06-14T19:11:44.114Z",
+        "game_pk": 823368,
+        "inning": 9,
+        "exit_velo": "105.3",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "Noelvi Marte",
+        "distance": 448,
+        "team": "CIN",
+        "opponent": "AZ",
+        "date": "2026-06-14",
+        "time_utc": "2026-06-14T19:19:06.653Z",
+        "game_pk": 824506,
+        "inning": 6,
+        "exit_velo": "110.0",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "Rodolfo Dur\u00e1n",
+        "distance": 432,
+        "team": "SD",
+        "opponent": "BAL",
+        "date": "2026-06-14",
+        "time_utc": "2026-06-14T19:22:19.916Z",
+        "game_pk": 824823,
+        "inning": 7,
+        "exit_velo": "106.3",
+        "launch_angle": "31.0",
+        "source": "live"
+    },
+    {
+        "player": "Hunter Goodman",
+        "distance": 421,
+        "team": "COL",
+        "opponent": "ATH",
+        "date": "2026-06-14",
+        "time_utc": "2026-06-14T19:12:01.136Z",
+        "game_pk": 824994,
+        "inning": 1,
+        "exit_velo": "106.4",
+        "launch_angle": "25.0",
+        "source": "live"
     }
 ]
