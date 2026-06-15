@@ -5094,5 +5094,18 @@
         "exit_velo": "108.2",
         "launch_angle": "22.0",
         "source": "live"
+    },
+    {
+        "player": "Willi Castro",
+        "distance": 444,
+        "team": "COL",
+        "opponent": "ATH",
+        "date": "2026-06-14",
+        "time_utc": "2026-06-14T22:00:07.846Z",
+        "game_pk": 824994,
+        "inning": 8,
+        "exit_velo": "104.5",
+        "launch_angle": "32.0",
+        "source": "live"
     }
 ]
