@@ -5109,29 +5109,29 @@
         "source": "savant"
     },
     {
-        "player": "Ryan Vilade",
+        "player": "Vilade, Ryan",
         "distance": 422,
-        "team": "TB",
-        "opponent": "LAD",
+        "team": "LAD",
+        "opponent": "TB",
         "date": "2026-06-15",
-        "time_utc": "2026-06-16T02:15:57.710Z",
+        "time_utc": "2026-06-16T02:10:00Z",
         "game_pk": 823938,
         "inning": 1,
         "exit_velo": "109.7",
-        "launch_angle": "32.0",
-        "source": "live"
+        "launch_angle": "32",
+        "source": "savant"
     },
     {
-        "player": "Pete Crow-Armstrong",
+        "player": "Crow-Armstrong, Pete",
         "distance": 434,
         "team": "CHC",
         "opponent": "COL",
         "date": "2026-06-15",
-        "time_utc": "2026-06-16T00:15:18.793Z",
+        "time_utc": "2026-06-16T00:05:00Z",
         "game_pk": 824666,
         "inning": 1,
-        "exit_velo": "106.0",
-        "launch_angle": "28.0",
-        "source": "live"
+        "exit_velo": "106",
+        "launch_angle": "28",
+        "source": "savant"
     }
 ]
