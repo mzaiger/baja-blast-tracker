@@ -5304,6 +5304,19 @@
         "source": "live"
     },
     {
+        "player": "Jackson Merrill",
+        "distance": 423,
+        "team": "SD",
+        "opponent": "STL",
+        "date": "2026-06-17",
+        "time_utc": "2026-06-17T20:46:57.999Z",
+        "game_pk": 823044,
+        "inning": 9,
+        "exit_velo": "106.2",
+        "launch_angle": "31.0",
+        "source": "live"
+    },
+    {
         "player": "Kyle Stowers",
         "distance": 436,
         "team": "MIA",
