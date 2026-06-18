@@ -5330,6 +5330,32 @@
         "source": "live"
     },
     {
+        "player": "Sam Antonacci",
+        "distance": 422,
+        "team": "CWS",
+        "opponent": "NYY",
+        "date": "2026-06-17",
+        "time_utc": "2026-06-18T02:01:56.749Z",
+        "game_pk": 823536,
+        "inning": 9,
+        "exit_velo": "105.1",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
+        "player": "Marcell Ozuna",
+        "distance": 448,
+        "team": "PIT",
+        "opponent": "ATH",
+        "date": "2026-06-17",
+        "time_utc": "2026-06-18T03:36:55.536Z",
+        "game_pk": 824992,
+        "inning": 7,
+        "exit_velo": "107.1",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
         "player": "Zach Neto",
         "distance": 431,
         "team": "LAA",
