@@ -5252,19 +5252,6 @@
         "source": "savant"
     },
     {
-        "player": "Drake Baldwin",
-        "distance": 473,
-        "team": "ATL",
-        "opponent": "SF",
-        "date": "2026-06-16",
-        "time_utc": "2026-06-16T23:30:52.471Z",
-        "game_pk": 824912,
-        "inning": 1,
-        "exit_velo": "112.8",
-        "launch_angle": "26.0",
-        "source": "live"
-    },
-    {
         "player": "Adames, Willy",
         "distance": 424,
         "team": "ATL",
@@ -5276,19 +5263,6 @@
         "exit_velo": "104.8",
         "launch_angle": "30",
         "source": "savant"
-    },
-    {
-        "player": "Willy Adames",
-        "distance": 424,
-        "team": "SF",
-        "opponent": "ATL",
-        "date": "2026-06-16",
-        "time_utc": "2026-06-17T19:25:24.727Z",
-        "game_pk": 824912,
-        "inning": 8,
-        "exit_velo": "104.8",
-        "launch_angle": "30.0",
-        "source": "live"
     },
     {
         "player": "Neto, Zach",
@@ -5317,81 +5291,81 @@
         "source": "savant"
     },
     {
-        "player": "Michael Massey",
+        "player": "Massey, Michael",
         "distance": 430,
-        "team": "KC",
-        "opponent": "WSH",
+        "team": "WSH",
+        "opponent": "KC",
         "date": "2026-06-17",
-        "time_utc": "2026-06-17T17:44:38.155Z",
+        "time_utc": "2026-06-17T17:05:00Z",
         "game_pk": 822721,
         "inning": 3,
         "exit_velo": "105.6",
-        "launch_angle": "23.0",
-        "source": "live"
+        "launch_angle": "23",
+        "source": "savant"
     },
     {
-        "player": "Jackson Merrill",
+        "player": "Merrill, Jackson",
         "distance": 423,
-        "team": "SD",
-        "opponent": "STL",
+        "team": "STL",
+        "opponent": "SD",
         "date": "2026-06-17",
-        "time_utc": "2026-06-17T20:46:57.999Z",
+        "time_utc": "2026-06-17T18:15:00Z",
         "game_pk": 823044,
         "inning": 9,
         "exit_velo": "106.2",
-        "launch_angle": "31.0",
-        "source": "live"
+        "launch_angle": "31",
+        "source": "savant"
     },
     {
-        "player": "Kyle Stowers",
+        "player": "Stowers, Kyle",
         "distance": 436,
-        "team": "MIA",
-        "opponent": "PHI",
+        "team": "PHI",
+        "opponent": "MIA",
         "date": "2026-06-17",
-        "time_utc": "2026-06-17T18:56:02.572Z",
+        "time_utc": "2026-06-17T17:05:00Z",
         "game_pk": 823450,
         "inning": 6,
         "exit_velo": "107.7",
-        "launch_angle": "25.0",
-        "source": "live"
+        "launch_angle": "25",
+        "source": "savant"
     },
     {
-        "player": "Sam Antonacci",
+        "player": "Antonacci, Sam",
         "distance": 422,
-        "team": "CWS",
-        "opponent": "NYY",
+        "team": "NYY",
+        "opponent": "CWS",
         "date": "2026-06-17",
-        "time_utc": "2026-06-18T02:01:56.749Z",
+        "time_utc": "2026-06-17T23:05:00Z",
         "game_pk": 823536,
         "inning": 9,
         "exit_velo": "105.1",
-        "launch_angle": "28.0",
-        "source": "live"
+        "launch_angle": "28",
+        "source": "savant"
     },
     {
-        "player": "Marcell Ozuna",
+        "player": "Ozuna, Marcell",
         "distance": 448,
-        "team": "PIT",
-        "opponent": "ATH",
+        "team": "ATH",
+        "opponent": "PIT",
         "date": "2026-06-17",
-        "time_utc": "2026-06-18T03:36:55.536Z",
+        "time_utc": "2026-06-18T01:40:00Z",
         "game_pk": 824992,
         "inning": 7,
         "exit_velo": "107.1",
-        "launch_angle": "26.0",
-        "source": "live"
+        "launch_angle": "26",
+        "source": "savant"
     },
     {
-        "player": "Zach Neto",
+        "player": "Neto, Zach",
         "distance": 431,
-        "team": "LAA",
-        "opponent": "AZ",
+        "team": "AZ",
+        "opponent": "LAA",
         "date": "2026-06-17",
-        "time_utc": "2026-06-17T19:40:41.005Z",
+        "time_utc": "2026-06-17T19:40:00Z",
         "game_pk": 825072,
         "inning": 1,
         "exit_velo": "106.8",
-        "launch_angle": "28.0",
-        "source": "live"
+        "launch_angle": "28",
+        "source": "savant"
     }
 ]
