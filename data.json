@@ -5239,6 +5239,19 @@
         "source": "savant"
     },
     {
+        "player": "Baldwin, Drake",
+        "distance": 473,
+        "team": "ATL",
+        "opponent": "SF",
+        "date": "2026-06-16",
+        "time_utc": "2026-06-17T18:00:00Z",
+        "game_pk": 824912,
+        "inning": 1,
+        "exit_velo": "112.8",
+        "launch_angle": "26",
+        "source": "savant"
+    },
+    {
         "player": "Drake Baldwin",
         "distance": 473,
         "team": "ATL",
@@ -5250,6 +5263,19 @@
         "exit_velo": "112.8",
         "launch_angle": "26.0",
         "source": "live"
+    },
+    {
+        "player": "Adames, Willy",
+        "distance": 424,
+        "team": "ATL",
+        "opponent": "SF",
+        "date": "2026-06-16",
+        "time_utc": "2026-06-17T18:00:00Z",
+        "game_pk": 824912,
+        "inning": 8,
+        "exit_velo": "104.8",
+        "launch_angle": "30",
+        "source": "savant"
     },
     {
         "player": "Willy Adames",
