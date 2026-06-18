@@ -5367,5 +5367,18 @@
         "exit_velo": "106.8",
         "launch_angle": "28",
         "source": "savant"
+    },
+    {
+        "player": "Justin Foscue",
+        "distance": 429,
+        "team": "TEX",
+        "opponent": "MIN",
+        "date": "2026-06-18",
+        "time_utc": "2026-06-18T21:32:45.382Z",
+        "game_pk": 822889,
+        "inning": 9,
+        "exit_velo": "102.8",
+        "launch_angle": "27.0",
+        "source": "live"
     }
 ]
