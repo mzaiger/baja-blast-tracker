@@ -5419,5 +5419,18 @@
         "exit_velo": "103.8",
         "launch_angle": "30",
         "source": "savant"
+    },
+    {
+        "player": "Carson Kelly",
+        "distance": 428,
+        "team": "CHC",
+        "opponent": "TOR",
+        "date": "2026-06-19",
+        "time_utc": "2026-06-19T18:40:47.258Z",
+        "game_pk": 824663,
+        "inning": 1,
+        "exit_velo": "105.3",
+        "launch_angle": "28.0",
+        "source": "live"
     }
 ]
