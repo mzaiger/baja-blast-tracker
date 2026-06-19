@@ -5369,55 +5369,55 @@
         "source": "savant"
     },
     {
-        "player": "Justin Foscue",
+        "player": "Foscue, Justin",
         "distance": 429,
         "team": "TEX",
         "opponent": "MIN",
         "date": "2026-06-18",
-        "time_utc": "2026-06-18T21:32:45.382Z",
+        "time_utc": "2026-06-18T18:35:00Z",
         "game_pk": 822889,
         "inning": 9,
         "exit_velo": "102.8",
-        "launch_angle": "27.0",
-        "source": "live"
+        "launch_angle": "27",
+        "source": "savant"
     },
     {
-        "player": "Colson Montgomery",
+        "player": "Montgomery, Colson",
         "distance": 420,
-        "team": "CWS",
-        "opponent": "NYY",
+        "team": "NYY",
+        "opponent": "CWS",
         "date": "2026-06-18",
-        "time_utc": "2026-06-18T23:23:58.340Z",
+        "time_utc": "2026-06-18T23:05:00Z",
         "game_pk": 823533,
         "inning": 2,
         "exit_velo": "107.2",
-        "launch_angle": "27.0",
-        "source": "live"
+        "launch_angle": "27",
+        "source": "savant"
     },
     {
-        "player": "Ryan McMahon",
+        "player": "McMahon, Ryan",
         "distance": 430,
         "team": "NYY",
         "opponent": "CWS",
         "date": "2026-06-18",
-        "time_utc": "2026-06-18T23:50:10.704Z",
+        "time_utc": "2026-06-18T23:05:00Z",
         "game_pk": 823533,
         "inning": 3,
         "exit_velo": "108.3",
-        "launch_angle": "28.0",
-        "source": "live"
+        "launch_angle": "28",
+        "source": "savant"
     },
     {
-        "player": "Shea Langeliers",
+        "player": "Langeliers, Shea",
         "distance": 430,
         "team": "ATH",
         "opponent": "LAA",
         "date": "2026-06-18",
-        "time_utc": "2026-06-19T01:48:49.873Z",
+        "time_utc": "2026-06-19T01:40:00Z",
         "game_pk": 824989,
         "inning": 1,
         "exit_velo": "103.8",
-        "launch_angle": "30.0",
-        "source": "live"
+        "launch_angle": "30",
+        "source": "savant"
     }
 ]
