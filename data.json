@@ -5380,5 +5380,31 @@
         "exit_velo": "102.8",
         "launch_angle": "27.0",
         "source": "live"
+    },
+    {
+        "player": "Colson Montgomery",
+        "distance": 420,
+        "team": "CWS",
+        "opponent": "NYY",
+        "date": "2026-06-18",
+        "time_utc": "2026-06-18T23:23:58.340Z",
+        "game_pk": 823533,
+        "inning": 2,
+        "exit_velo": "107.2",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "Ryan McMahon",
+        "distance": 430,
+        "team": "NYY",
+        "opponent": "CWS",
+        "date": "2026-06-18",
+        "time_utc": "2026-06-18T23:50:10.704Z",
+        "game_pk": 823533,
+        "inning": 3,
+        "exit_velo": "108.3",
+        "launch_angle": "28.0",
+        "source": "live"
     }
 ]
