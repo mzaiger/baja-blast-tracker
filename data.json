@@ -5421,6 +5421,19 @@
         "source": "savant"
     },
     {
+        "player": "Ben Rice",
+        "distance": 433,
+        "team": "NYY",
+        "opponent": "CIN",
+        "date": "2026-06-19",
+        "time_utc": "2026-06-19T23:44:03.008Z",
+        "game_pk": 823534,
+        "inning": 2,
+        "exit_velo": "109.1",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
         "player": "Randal Grichuk",
         "distance": 420,
         "team": "CWS",
