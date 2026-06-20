@@ -5562,5 +5562,18 @@
         "exit_velo": "107.1",
         "launch_angle": "27",
         "source": "savant"
+    },
+    {
+        "player": "Dillon Dingler",
+        "distance": 430,
+        "team": "DET",
+        "opponent": "CWS",
+        "date": "2026-06-20",
+        "time_utc": "2026-06-20T19:00:04.398Z",
+        "game_pk": 824263,
+        "inning": 7,
+        "exit_velo": "105.8",
+        "launch_angle": "25.0",
+        "source": "live"
     }
 ]
