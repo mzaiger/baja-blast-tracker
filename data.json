@@ -5421,6 +5421,19 @@
         "source": "savant"
     },
     {
+        "player": "Wyatt Langford",
+        "distance": 430,
+        "team": "TEX",
+        "opponent": "SD",
+        "date": "2026-06-19",
+        "time_utc": "2026-06-20T02:47:47.466Z",
+        "game_pk": 822886,
+        "inning": 8,
+        "exit_velo": "107.1",
+        "launch_angle": "36.0",
+        "source": "live"
+    },
+    {
         "player": "Ben Rice",
         "distance": 433,
         "team": "NYY",
@@ -5447,6 +5460,19 @@
         "source": "live"
     },
     {
+        "player": "TJ Rumfield",
+        "distance": 427,
+        "team": "COL",
+        "opponent": "PIT",
+        "date": "2026-06-19",
+        "time_utc": "2026-06-20T01:24:44.069Z",
+        "game_pk": 824345,
+        "inning": 4,
+        "exit_velo": "101.3",
+        "launch_angle": "35.0",
+        "source": "live"
+    },
+    {
         "player": "Carson Kelly",
         "distance": 428,
         "team": "CHC",
@@ -5456,6 +5482,84 @@
         "game_pk": 824663,
         "inning": 1,
         "exit_velo": "105.3",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
+        "player": "Denzer Guzman",
+        "distance": 433,
+        "team": "LAA",
+        "opponent": "ATH",
+        "date": "2026-06-19",
+        "time_utc": "2026-06-20T02:49:25.203Z",
+        "game_pk": 824990,
+        "inning": 4,
+        "exit_velo": "104.3",
+        "launch_angle": "30.0",
+        "source": "live"
+    },
+    {
+        "player": "Jose Siri",
+        "distance": 444,
+        "team": "LAA",
+        "opponent": "ATH",
+        "date": "2026-06-19",
+        "time_utc": "2026-06-20T02:57:37.257Z",
+        "game_pk": 824990,
+        "inning": 4,
+        "exit_velo": "106.9",
+        "launch_angle": "37.0",
+        "source": "live"
+    },
+    {
+        "player": "Max Muncy",
+        "distance": 426,
+        "team": "ATH",
+        "opponent": "LAA",
+        "date": "2026-06-19",
+        "time_utc": "2026-06-20T04:23:46.436Z",
+        "game_pk": 824990,
+        "inning": 8,
+        "exit_velo": "101.8",
+        "launch_angle": "30.0",
+        "source": "live"
+    },
+    {
+        "player": "Victor Caratini",
+        "distance": 430,
+        "team": "MIN",
+        "opponent": "AZ",
+        "date": "2026-06-19",
+        "time_utc": "2026-06-20T02:12:13.700Z",
+        "game_pk": 825069,
+        "inning": 2,
+        "exit_velo": "106.1",
+        "launch_angle": "30.0",
+        "source": "live"
+    },
+    {
+        "player": "Josh Bell",
+        "distance": 435,
+        "team": "MIN",
+        "opponent": "AZ",
+        "date": "2026-06-19",
+        "time_utc": "2026-06-20T04:06:47.281Z",
+        "game_pk": 825069,
+        "inning": 8,
+        "exit_velo": "107.1",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "Royce Lewis",
+        "distance": 427,
+        "team": "MIN",
+        "opponent": "AZ",
+        "date": "2026-06-19",
+        "time_utc": "2026-06-20T04:07:39.133Z",
+        "game_pk": 825069,
+        "inning": 8,
+        "exit_velo": "105.2",
         "launch_angle": "28.0",
         "source": "live"
     }
