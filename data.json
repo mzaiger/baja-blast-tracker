@@ -5564,68 +5564,68 @@
         "source": "savant"
     },
     {
-        "player": "Dylan Crews",
+        "player": "Crews, Dylan",
         "distance": 442,
-        "team": "WSH",
-        "opponent": "TB",
+        "team": "TB",
+        "opponent": "WSH",
         "date": "2026-06-20",
-        "time_utc": "2026-06-20T22:43:30.451Z",
+        "time_utc": "2026-06-20T20:10:00Z",
         "game_pk": 822967,
         "inning": 9,
         "exit_velo": "106.8",
-        "launch_angle": "25.0",
-        "source": "live"
+        "launch_angle": "25",
+        "source": "savant"
     },
     {
-        "player": "Kyle Schwarber",
+        "player": "Schwarber, Kyle",
         "distance": 457,
         "team": "PHI",
         "opponent": "NYM",
         "date": "2026-06-20",
-        "time_utc": "2026-06-21T00:34:00.906Z",
+        "time_utc": "2026-06-20T23:15:00Z",
         "game_pk": 823447,
         "inning": 3,
         "exit_velo": "111.1",
-        "launch_angle": "28.0",
-        "source": "live"
+        "launch_angle": "28",
+        "source": "savant"
     },
     {
-        "player": "Carson Benge",
+        "player": "Benge, Carson",
         "distance": 420,
-        "team": "NYM",
-        "opponent": "PHI",
+        "team": "PHI",
+        "opponent": "NYM",
         "date": "2026-06-20",
-        "time_utc": "2026-06-21T01:29:08.939Z",
+        "time_utc": "2026-06-20T23:15:00Z",
         "game_pk": 823447,
         "inning": 7,
         "exit_velo": "105.4",
-        "launch_angle": "32.0",
-        "source": "live"
+        "launch_angle": "32",
+        "source": "savant"
     },
     {
-        "player": "Dillon Dingler",
+        "player": "Dingler, Dillon",
         "distance": 430,
         "team": "DET",
         "opponent": "CWS",
         "date": "2026-06-20",
-        "time_utc": "2026-06-20T19:00:04.398Z",
+        "time_utc": "2026-06-20T17:10:00Z",
         "game_pk": 824263,
         "inning": 7,
         "exit_velo": "105.8",
-        "launch_angle": "25.0",
-        "source": "live"
+        "launch_angle": "25",
+        "source": "savant"
     },
     {
-        "player": "Spencer Horwitz",
+        "player": "Horwitz, Spencer",
         "distance": 434,
-        "team": "PIT",
-        "opponent": "COL",
+        "team": "COL",
+        "opponent": "PIT",
         "date": "2026-06-20",
-        "time_utc": "2026-06-21T01:11:41.082Z",
+        "time_utc": "2026-06-21T01:10:00Z",
         "game_pk": 824342,
         "inning": 1,
         "exit_velo": "102.7",
-        "launch_angle": "32.0",
-        "source": "live"
+        "launch_angle": "32",
+        "source": "savant"
     }
 ]
