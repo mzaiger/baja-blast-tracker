@@ -5627,5 +5627,18 @@
         "exit_velo": "102.7",
         "launch_angle": "32",
         "source": "savant"
+    },
+    {
+        "player": "Kyle Stowers",
+        "distance": 426,
+        "team": "MIA",
+        "opponent": "SF",
+        "date": "2026-06-21",
+        "time_utc": "2026-06-21T18:04:59.575Z",
+        "game_pk": 823852,
+        "inning": 2,
+        "exit_velo": "106.2",
+        "launch_angle": "31.0",
+        "source": "live"
     }
 ]
