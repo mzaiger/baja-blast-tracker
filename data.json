@@ -5577,6 +5577,32 @@
         "source": "live"
     },
     {
+        "player": "Kyle Schwarber",
+        "distance": 457,
+        "team": "PHI",
+        "opponent": "NYM",
+        "date": "2026-06-20",
+        "time_utc": "2026-06-21T00:34:00.906Z",
+        "game_pk": 823447,
+        "inning": 3,
+        "exit_velo": "111.1",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
+        "player": "Carson Benge",
+        "distance": 420,
+        "team": "NYM",
+        "opponent": "PHI",
+        "date": "2026-06-20",
+        "time_utc": "2026-06-21T01:29:08.939Z",
+        "game_pk": 823447,
+        "inning": 7,
+        "exit_velo": "105.4",
+        "launch_angle": "32.0",
+        "source": "live"
+    },
+    {
         "player": "Dillon Dingler",
         "distance": 430,
         "team": "DET",
@@ -5587,6 +5613,19 @@
         "inning": 7,
         "exit_velo": "105.8",
         "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
+        "player": "Spencer Horwitz",
+        "distance": 434,
+        "team": "PIT",
+        "opponent": "COL",
+        "date": "2026-06-20",
+        "time_utc": "2026-06-21T01:11:41.082Z",
+        "game_pk": 824342,
+        "inning": 1,
+        "exit_velo": "102.7",
+        "launch_angle": "32.0",
         "source": "live"
     }
 ]
