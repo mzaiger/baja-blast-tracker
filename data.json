@@ -5564,6 +5564,19 @@
         "source": "savant"
     },
     {
+        "player": "Dylan Crews",
+        "distance": 442,
+        "team": "WSH",
+        "opponent": "TB",
+        "date": "2026-06-20",
+        "time_utc": "2026-06-20T22:43:30.451Z",
+        "game_pk": 822967,
+        "inning": 9,
+        "exit_velo": "106.8",
+        "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
         "player": "Dillon Dingler",
         "distance": 430,
         "team": "DET",
