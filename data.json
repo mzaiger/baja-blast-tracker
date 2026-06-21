@@ -5629,6 +5629,19 @@
         "source": "savant"
     },
     {
+        "player": "Ryan Vilade",
+        "distance": 436,
+        "team": "TB",
+        "opponent": "WSH",
+        "date": "2026-06-21",
+        "time_utc": "2026-06-21T19:14:06.048Z",
+        "game_pk": 822968,
+        "inning": 6,
+        "exit_velo": "106.8",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
         "player": "Kyle Stowers",
         "distance": 426,
         "team": "MIA",
@@ -5639,6 +5652,45 @@
         "inning": 2,
         "exit_velo": "106.2",
         "launch_angle": "31.0",
+        "source": "live"
+    },
+    {
+        "player": "Jac Caglianone",
+        "distance": 444,
+        "team": "KC",
+        "opponent": "STL",
+        "date": "2026-06-21",
+        "time_utc": "2026-06-21T19:00:40.839Z",
+        "game_pk": 824095,
+        "inning": 2,
+        "exit_velo": "108.2",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "Nick Gonzales",
+        "distance": 431,
+        "team": "PIT",
+        "opponent": "COL",
+        "date": "2026-06-21",
+        "time_utc": "2026-06-21T20:02:05.910Z",
+        "game_pk": 824343,
+        "inning": 4,
+        "exit_velo": "102.2",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
+        "player": "Rowdy Tellez",
+        "distance": 422,
+        "team": "ATL",
+        "opponent": "MIL",
+        "date": "2026-06-21",
+        "time_utc": "2026-06-21T20:02:23.364Z",
+        "game_pk": 824908,
+        "inning": 9,
+        "exit_velo": "105.8",
+        "launch_angle": "28.0",
         "source": "live"
     }
 ]
