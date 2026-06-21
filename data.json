@@ -5681,6 +5681,19 @@
         "source": "live"
     },
     {
+        "player": "Bryan Reynolds",
+        "distance": 433,
+        "team": "PIT",
+        "opponent": "COL",
+        "date": "2026-06-21",
+        "time_utc": "2026-06-21T21:03:24.162Z",
+        "game_pk": 824343,
+        "inning": 7,
+        "exit_velo": "107.0",
+        "launch_angle": "37.0",
+        "source": "live"
+    },
+    {
         "player": "Rowdy Tellez",
         "distance": 422,
         "team": "ATL",
@@ -5691,6 +5704,19 @@
         "inning": 9,
         "exit_velo": "105.8",
         "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
+        "player": "Nick Kurtz",
+        "distance": 437,
+        "team": "ATH",
+        "opponent": "LAA",
+        "date": "2026-06-21",
+        "time_utc": "2026-06-21T22:00:01.542Z",
+        "game_pk": 824987,
+        "inning": 7,
+        "exit_velo": "109.2",
+        "launch_angle": "27.0",
         "source": "live"
     }
 ]
