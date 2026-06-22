@@ -5629,94 +5629,94 @@
         "source": "savant"
     },
     {
-        "player": "Ryan Vilade",
+        "player": "Vilade, Ryan",
         "distance": 436,
         "team": "TB",
         "opponent": "WSH",
         "date": "2026-06-21",
-        "time_utc": "2026-06-21T19:14:06.048Z",
+        "time_utc": "2026-06-21T17:40:00Z",
         "game_pk": 822968,
         "inning": 6,
         "exit_velo": "106.8",
-        "launch_angle": "26.0",
-        "source": "live"
+        "launch_angle": "26",
+        "source": "savant"
     },
     {
-        "player": "Kyle Stowers",
+        "player": "Stowers, Kyle",
         "distance": 426,
         "team": "MIA",
         "opponent": "SF",
         "date": "2026-06-21",
-        "time_utc": "2026-06-21T18:04:59.575Z",
+        "time_utc": "2026-06-21T17:40:00Z",
         "game_pk": 823852,
         "inning": 2,
         "exit_velo": "106.2",
-        "launch_angle": "31.0",
-        "source": "live"
+        "launch_angle": "31",
+        "source": "savant"
     },
     {
-        "player": "Jac Caglianone",
+        "player": "Caglianone, Jac",
         "distance": 444,
         "team": "KC",
         "opponent": "STL",
         "date": "2026-06-21",
-        "time_utc": "2026-06-21T19:00:40.839Z",
+        "time_utc": "2026-06-21T18:10:00Z",
         "game_pk": 824095,
         "inning": 2,
         "exit_velo": "108.2",
-        "launch_angle": "27.0",
-        "source": "live"
+        "launch_angle": "27",
+        "source": "savant"
     },
     {
-        "player": "Nick Gonzales",
+        "player": "Gonzales, Nick",
         "distance": 431,
-        "team": "PIT",
-        "opponent": "COL",
+        "team": "COL",
+        "opponent": "PIT",
         "date": "2026-06-21",
-        "time_utc": "2026-06-21T20:02:05.910Z",
+        "time_utc": "2026-06-21T19:10:00Z",
         "game_pk": 824343,
         "inning": 4,
         "exit_velo": "102.2",
-        "launch_angle": "29.0",
-        "source": "live"
+        "launch_angle": "29",
+        "source": "savant"
     },
     {
-        "player": "Bryan Reynolds",
+        "player": "Reynolds, Bryan",
         "distance": 433,
-        "team": "PIT",
-        "opponent": "COL",
+        "team": "COL",
+        "opponent": "PIT",
         "date": "2026-06-21",
-        "time_utc": "2026-06-21T21:03:24.162Z",
+        "time_utc": "2026-06-21T19:10:00Z",
         "game_pk": 824343,
         "inning": 7,
-        "exit_velo": "107.0",
-        "launch_angle": "37.0",
-        "source": "live"
+        "exit_velo": "107",
+        "launch_angle": "37",
+        "source": "savant"
     },
     {
-        "player": "Rowdy Tellez",
+        "player": "Tellez, Rowdy",
         "distance": 422,
         "team": "ATL",
         "opponent": "MIL",
         "date": "2026-06-21",
-        "time_utc": "2026-06-21T20:02:23.364Z",
+        "time_utc": "2026-06-21T17:35:00Z",
         "game_pk": 824908,
         "inning": 9,
         "exit_velo": "105.8",
-        "launch_angle": "28.0",
-        "source": "live"
+        "launch_angle": "28",
+        "source": "savant"
     },
     {
-        "player": "Nick Kurtz",
+        "player": "Kurtz, Nick",
         "distance": 437,
         "team": "ATH",
         "opponent": "LAA",
         "date": "2026-06-21",
-        "time_utc": "2026-06-21T22:00:01.542Z",
+        "time_utc": "2026-06-21T20:05:00Z",
         "game_pk": 824987,
         "inning": 7,
         "exit_velo": "109.2",
-        "launch_angle": "27.0",
-        "source": "live"
+        "launch_angle": "27",
+        "source": "savant"
     }
 ]
