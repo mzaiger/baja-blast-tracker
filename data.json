@@ -5718,5 +5718,57 @@
         "exit_velo": "109.2",
         "launch_angle": "27",
         "source": "savant"
+    },
+    {
+        "player": "Luis Garc\u00eda Jr.",
+        "distance": 427,
+        "team": "WSH",
+        "opponent": "PHI",
+        "date": "2026-06-22",
+        "time_utc": "2026-06-23T00:48:40.600Z",
+        "game_pk": 822720,
+        "inning": 2,
+        "exit_velo": "108.7",
+        "launch_angle": "22.0",
+        "source": "live"
+    },
+    {
+        "player": "Tommy Troy",
+        "distance": 444,
+        "team": "AZ",
+        "opponent": "STL",
+        "date": "2026-06-22",
+        "time_utc": "2026-06-23T01:30:23.207Z",
+        "game_pk": 823040,
+        "inning": 7,
+        "exit_velo": "109.9",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
+        "player": "Freddie Freeman",
+        "distance": 423,
+        "team": "LAD",
+        "opponent": "MIN",
+        "date": "2026-06-22",
+        "time_utc": "2026-06-23T01:09:24.063Z",
+        "game_pk": 823692,
+        "inning": 6,
+        "exit_velo": "104.2",
+        "launch_angle": "32.0",
+        "source": "live"
+    },
+    {
+        "player": "Riley Greene",
+        "distance": 422,
+        "team": "DET",
+        "opponent": "NYY",
+        "date": "2026-06-22",
+        "time_utc": "2026-06-22T23:44:06.691Z",
+        "game_pk": 824261,
+        "inning": 5,
+        "exit_velo": "107.5",
+        "launch_angle": "39.0",
+        "source": "live"
     }
 ]
