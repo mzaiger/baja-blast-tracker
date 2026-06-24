@@ -5835,5 +5835,57 @@
         "exit_velo": "103",
         "launch_angle": "34",
         "source": "savant"
+    },
+    {
+        "player": "Francisco Alvarez",
+        "distance": 437,
+        "team": "NYM",
+        "opponent": "CHC",
+        "date": "2026-06-24",
+        "time_utc": "2026-06-24T18:13:46.393Z",
+        "game_pk": 823613,
+        "inning": 4,
+        "exit_velo": "106.5",
+        "launch_angle": "34.0",
+        "source": "live"
+    },
+    {
+        "player": "Wyatt Langford",
+        "distance": 437,
+        "team": "TEX",
+        "opponent": "MIA",
+        "date": "2026-06-24",
+        "time_utc": "2026-06-24T17:03:24.102Z",
+        "game_pk": 823850,
+        "inning": 4,
+        "exit_velo": "106.5",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "Otto Lopez",
+        "distance": 427,
+        "team": "MIA",
+        "opponent": "TEX",
+        "date": "2026-06-24",
+        "time_utc": "2026-06-24T18:24:04.023Z",
+        "game_pk": 823850,
+        "inning": 8,
+        "exit_velo": "106.2",
+        "launch_angle": "23.0",
+        "source": "live"
+    },
+    {
+        "player": "Joc Pederson",
+        "distance": 426,
+        "team": "TEX",
+        "opponent": "MIA",
+        "date": "2026-06-24",
+        "time_utc": "2026-06-24T18:33:45.242Z",
+        "game_pk": 823850,
+        "inning": 9,
+        "exit_velo": "102.0",
+        "launch_angle": "28.0",
+        "source": "live"
     }
 ]
