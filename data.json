@@ -5887,5 +5887,18 @@
         "exit_velo": "102.0",
         "launch_angle": "28.0",
         "source": "live"
+    },
+    {
+        "player": "Samuel Basallo",
+        "distance": 434,
+        "team": "BAL",
+        "opponent": "LAA",
+        "date": "2026-06-24",
+        "time_utc": "2026-06-24T20:27:10.406Z",
+        "game_pk": 824018,
+        "inning": 2,
+        "exit_velo": "106.9",
+        "launch_angle": "31.0",
+        "source": "live"
     }
 ]
