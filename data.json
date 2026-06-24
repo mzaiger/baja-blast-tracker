@@ -5799,7 +5799,7 @@
     },
     {
         "player": "Jac Caglianone",
-        "distance": 435,
+        "distance": 443,
         "team": "KC",
         "opponent": "TB",
         "date": "2026-06-23",
@@ -5808,6 +5808,32 @@
         "inning": 1,
         "exit_velo": "109.1",
         "launch_angle": "30.0",
+        "source": "live"
+    },
+    {
+        "player": "Willi Castro",
+        "distance": 435,
+        "team": "COL",
+        "opponent": "BOS",
+        "date": "2026-06-23",
+        "time_utc": "2026-06-24T01:12:29.695Z",
+        "game_pk": 824340,
+        "inning": 2,
+        "exit_velo": "107.9",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "Wilyer Abreu",
+        "distance": 443,
+        "team": "BOS",
+        "opponent": "COL",
+        "date": "2026-06-23",
+        "time_utc": "2026-06-24T01:58:51.128Z",
+        "game_pk": 824340,
+        "inning": 5,
+        "exit_velo": "103.0",
+        "launch_angle": "34.0",
         "source": "live"
     }
 ]
