@@ -5965,5 +5965,18 @@
         "exit_velo": "105.7",
         "launch_angle": "30.0",
         "source": "live"
+    },
+    {
+        "player": "Victor Bericoto",
+        "distance": 445,
+        "team": "SF",
+        "opponent": "ATH",
+        "date": "2026-06-25",
+        "time_utc": "2026-06-25T21:31:02.573Z",
+        "game_pk": 823209,
+        "inning": 6,
+        "exit_velo": "108.7",
+        "launch_angle": "28.0",
+        "source": "live"
     }
 ]
