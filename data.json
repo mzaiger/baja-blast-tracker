@@ -5954,6 +5954,45 @@
         "source": "savant"
     },
     {
+        "player": "Brandon Marsh",
+        "distance": 420,
+        "team": "PHI",
+        "opponent": "WSH",
+        "date": "2026-06-25",
+        "time_utc": "2026-06-26T00:25:46.234Z",
+        "game_pk": 822717,
+        "inning": 6,
+        "exit_velo": "103.6",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
+        "player": "Derek Hill",
+        "distance": 441,
+        "team": "PHI",
+        "opponent": "WSH",
+        "date": "2026-06-25",
+        "time_utc": "2026-06-26T01:36:46.934Z",
+        "game_pk": 822717,
+        "inning": 9,
+        "exit_velo": "109.8",
+        "launch_angle": "24.0",
+        "source": "live"
+    },
+    {
+        "player": "Kazuma Okamoto",
+        "distance": 420,
+        "team": "TOR",
+        "opponent": "TEX",
+        "date": "2026-06-25",
+        "time_utc": "2026-06-26T01:35:23.933Z",
+        "game_pk": 822797,
+        "inning": 9,
+        "exit_velo": "108.1",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
         "player": "Carter Jensen",
         "distance": 425,
         "team": "KC",
@@ -5977,6 +6016,32 @@
         "inning": 6,
         "exit_velo": "108.7",
         "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
+        "player": "Taylor Trammell",
+        "distance": 422,
+        "team": "HOU",
+        "opponent": "DET",
+        "date": "2026-06-25",
+        "time_utc": "2026-06-25T23:59:01.392Z",
+        "game_pk": 824258,
+        "inning": 6,
+        "exit_velo": "110.5",
+        "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
+        "player": "Dillon Dingler",
+        "distance": 432,
+        "team": "DET",
+        "opponent": "HOU",
+        "date": "2026-06-25",
+        "time_utc": "2026-06-26T01:01:12.927Z",
+        "game_pk": 824258,
+        "inning": 9,
+        "exit_velo": "103.3",
+        "launch_angle": "31.0",
         "source": "live"
     }
 ]
