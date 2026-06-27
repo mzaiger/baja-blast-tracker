@@ -6071,6 +6071,19 @@
         "source": "live"
     },
     {
+        "player": "Cedric Mullins",
+        "distance": 433,
+        "team": "TB",
+        "opponent": "AZ",
+        "date": "2026-06-26",
+        "time_utc": "2026-06-27T00:51:05.469Z",
+        "game_pk": 822962,
+        "inning": 7,
+        "exit_velo": "110.4",
+        "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
         "player": "Konnor Griffin",
         "distance": 435,
         "team": "PIT",
@@ -6081,6 +6094,32 @@
         "inning": 1,
         "exit_velo": "108.9",
         "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
+        "player": "Hunter Goodman",
+        "distance": 451,
+        "team": "COL",
+        "opponent": "MIN",
+        "date": "2026-06-26",
+        "time_utc": "2026-06-27T02:42:42.793Z",
+        "game_pk": 823688,
+        "inning": 9,
+        "exit_velo": "116.2",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "William Contreras",
+        "distance": 449,
+        "team": "MIL",
+        "opponent": "CHC",
+        "date": "2026-06-26",
+        "time_utc": "2026-06-27T01:59:54.269Z",
+        "game_pk": 823773,
+        "inning": 7,
+        "exit_velo": "109.3",
+        "launch_angle": "23.0",
         "source": "live"
     }
 ]
