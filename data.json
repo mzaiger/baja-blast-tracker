@@ -6045,81 +6045,81 @@
         "source": "savant"
     },
     {
-        "player": "Geraldo Perdomo",
-        "distance": 421,
-        "team": "AZ",
-        "opponent": "TB",
-        "date": "2026-06-26",
-        "time_utc": "2026-06-26T23:11:15.408Z",
-        "game_pk": 822962,
-        "inning": 1,
-        "exit_velo": "103.3",
-        "launch_angle": "30.0",
-        "source": "live"
-    },
-    {
-        "player": "Junior Caminero",
+        "player": "Caminero, Junior",
         "distance": 437,
         "team": "TB",
         "opponent": "AZ",
         "date": "2026-06-26",
-        "time_utc": "2026-06-26T23:21:23.769Z",
+        "time_utc": "2026-06-26T23:10:00Z",
         "game_pk": 822962,
         "inning": 1,
         "exit_velo": "111.3",
-        "launch_angle": "25.0",
-        "source": "live"
+        "launch_angle": "25",
+        "source": "savant"
     },
     {
-        "player": "Cedric Mullins",
+        "player": "Perdomo, Geraldo",
+        "distance": 421,
+        "team": "TB",
+        "opponent": "AZ",
+        "date": "2026-06-26",
+        "time_utc": "2026-06-26T23:10:00Z",
+        "game_pk": 822962,
+        "inning": 1,
+        "exit_velo": "103.3",
+        "launch_angle": "30",
+        "source": "savant"
+    },
+    {
+        "player": "Mullins, Cedric",
         "distance": 433,
         "team": "TB",
         "opponent": "AZ",
         "date": "2026-06-26",
-        "time_utc": "2026-06-27T00:51:05.469Z",
+        "time_utc": "2026-06-26T23:10:00Z",
         "game_pk": 822962,
         "inning": 7,
         "exit_velo": "110.4",
-        "launch_angle": "25.0",
-        "source": "live"
+        "launch_angle": "25",
+        "source": "savant"
     },
     {
-        "player": "Konnor Griffin",
+        "player": "Griffin, Konnor",
         "distance": 435,
         "team": "PIT",
         "opponent": "CIN",
         "date": "2026-06-26",
-        "time_utc": "2026-06-26T22:51:37.900Z",
+        "time_utc": "2026-06-26T22:40:00Z",
         "game_pk": 823363,
         "inning": 1,
         "exit_velo": "108.9",
-        "launch_angle": "28.0",
-        "source": "live"
+        "launch_angle": "28",
+        "source": "savant"
     },
     {
-        "player": "Hunter Goodman",
+        "player": "Goodman, Hunter",
         "distance": 451,
-        "team": "COL",
-        "opponent": "MIN",
+        "team": "MIN",
+        "opponent": "COL",
         "date": "2026-06-26",
-        "time_utc": "2026-06-27T02:42:42.793Z",
+        "time_utc": "2026-06-27T00:10:00Z",
         "game_pk": 823688,
         "inning": 9,
         "exit_velo": "116.2",
-        "launch_angle": "27.0",
-        "source": "live"
+        "launch_angle": "27",
+        "source": "savant"
     },
     {
-        "player": "William Contreras",
+        "player": "Contreras, William",
         "distance": 449,
         "team": "MIL",
         "opponent": "CHC",
         "date": "2026-06-26",
-        "time_utc": "2026-06-27T01:59:54.269Z",
+        "time_utc": "2026-06-26T23:45:00Z",
         "game_pk": 823773,
         "inning": 7,
         "exit_velo": "109.3",
-        "launch_angle": "23.0",
-        "source": "live"
+        "launch_angle": "23",
+        "source": "savant"
     }
 ]
