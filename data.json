@@ -6214,6 +6214,19 @@
         "source": "live"
     },
     {
+        "player": "Esmerlyn Valdez",
+        "distance": 461,
+        "team": "PIT",
+        "opponent": "CIN",
+        "date": "2026-06-28",
+        "time_utc": "2026-06-28T21:23:28.721Z",
+        "game_pk": 823362,
+        "inning": 8,
+        "exit_velo": "109.8",
+        "launch_angle": "32.0",
+        "source": "live"
+    },
+    {
         "player": "Ryan Kreidler",
         "distance": 421,
         "team": "MIN",
