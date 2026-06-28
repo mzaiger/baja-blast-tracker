@@ -6123,6 +6123,19 @@
         "source": "savant"
     },
     {
+        "player": "Ketel Marte",
+        "distance": 430,
+        "team": "AZ",
+        "opponent": "TB",
+        "date": "2026-06-27",
+        "time_utc": "2026-06-28T00:15:49.524Z",
+        "game_pk": 822960,
+        "inning": 8,
+        "exit_velo": "107.5",
+        "launch_angle": "23.0",
+        "source": "live"
+    },
+    {
         "player": "Hunter Goodman",
         "distance": 428,
         "team": "COL",
@@ -6133,6 +6146,32 @@
         "inning": 1,
         "exit_velo": "107.7",
         "launch_angle": "36.0",
+        "source": "live"
+    },
+    {
+        "player": "Jonah Heim",
+        "distance": 445,
+        "team": "ATH",
+        "opponent": "LAA",
+        "date": "2026-06-27",
+        "time_utc": "2026-06-28T01:55:44.856Z",
+        "game_pk": 824015,
+        "inning": 2,
+        "exit_velo": "109.1",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
+        "player": "Randy Arozarena",
+        "distance": 427,
+        "team": "SEA",
+        "opponent": "CLE",
+        "date": "2026-06-27",
+        "time_utc": "2026-06-28T01:22:52.165Z",
+        "game_pk": 824421,
+        "inning": 8,
+        "exit_velo": "108.3",
+        "launch_angle": "30.0",
         "source": "live"
     }
 ]
