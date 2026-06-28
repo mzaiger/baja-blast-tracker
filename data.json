@@ -6175,6 +6175,32 @@
         "source": "savant"
     },
     {
+        "player": "Junior Caminero",
+        "distance": 463,
+        "team": "TB",
+        "opponent": "AZ",
+        "date": "2026-06-28",
+        "time_utc": "2026-06-28T19:05:22.984Z",
+        "game_pk": 822959,
+        "inning": 5,
+        "exit_velo": "113.5",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
+        "player": "Ryan O'Hearn",
+        "distance": 421,
+        "team": "PIT",
+        "opponent": "CIN",
+        "date": "2026-06-28",
+        "time_utc": "2026-06-28T19:02:06.378Z",
+        "game_pk": 823362,
+        "inning": 5,
+        "exit_velo": "105.9",
+        "launch_angle": "31.0",
+        "source": "live"
+    },
+    {
         "player": "Pete Alonso",
         "distance": 437,
         "team": "BAL",
