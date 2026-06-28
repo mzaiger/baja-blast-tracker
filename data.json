@@ -6123,55 +6123,55 @@
         "source": "savant"
     },
     {
-        "player": "Ketel Marte",
+        "player": "Marte, Ketel",
         "distance": 430,
-        "team": "AZ",
-        "opponent": "TB",
+        "team": "TB",
+        "opponent": "AZ",
         "date": "2026-06-27",
-        "time_utc": "2026-06-28T00:15:49.524Z",
+        "time_utc": "2026-06-27T22:10:00Z",
         "game_pk": 822960,
         "inning": 8,
         "exit_velo": "107.5",
-        "launch_angle": "23.0",
-        "source": "live"
+        "launch_angle": "23",
+        "source": "savant"
     },
     {
-        "player": "Hunter Goodman",
+        "player": "Goodman, Hunter",
         "distance": 428,
-        "team": "COL",
-        "opponent": "MIN",
+        "team": "MIN",
+        "opponent": "COL",
         "date": "2026-06-27",
-        "time_utc": "2026-06-27T23:16:30.031Z",
+        "time_utc": "2026-06-27T23:10:00Z",
         "game_pk": 823689,
-        "inning": 1,
-        "exit_velo": "107.7",
-        "launch_angle": "36.0",
-        "source": "live"
+        "inning": 3,
+        "exit_velo": "107.5",
+        "launch_angle": "24",
+        "source": "savant"
     },
     {
-        "player": "Jonah Heim",
+        "player": "Heim, Jonah",
         "distance": 445,
-        "team": "ATH",
-        "opponent": "LAA",
+        "team": "LAA",
+        "opponent": "ATH",
         "date": "2026-06-27",
-        "time_utc": "2026-06-28T01:55:44.856Z",
+        "time_utc": "2026-06-28T01:38:00Z",
         "game_pk": 824015,
         "inning": 2,
         "exit_velo": "109.1",
-        "launch_angle": "29.0",
-        "source": "live"
+        "launch_angle": "29",
+        "source": "savant"
     },
     {
-        "player": "Randy Arozarena",
+        "player": "Arozarena, Randy",
         "distance": 427,
-        "team": "SEA",
-        "opponent": "CLE",
+        "team": "CLE",
+        "opponent": "SEA",
         "date": "2026-06-27",
-        "time_utc": "2026-06-28T01:22:52.165Z",
+        "time_utc": "2026-06-27T23:10:00Z",
         "game_pk": 824421,
         "inning": 8,
         "exit_velo": "108.3",
-        "launch_angle": "30.0",
-        "source": "live"
+        "launch_angle": "30",
+        "source": "savant"
     }
 ]
