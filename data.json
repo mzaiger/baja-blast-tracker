@@ -6173,5 +6173,18 @@
         "exit_velo": "108.3",
         "launch_angle": "30",
         "source": "savant"
+    },
+    {
+        "player": "Pete Alonso",
+        "distance": 437,
+        "team": "BAL",
+        "opponent": "WSH",
+        "date": "2026-06-28",
+        "time_utc": "2026-06-28T17:47:39.086Z",
+        "game_pk": 824821,
+        "inning": 1,
+        "exit_velo": "105.1",
+        "launch_angle": "27.0",
+        "source": "live"
     }
 ]
