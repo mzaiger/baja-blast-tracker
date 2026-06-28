@@ -6188,6 +6188,19 @@
         "source": "live"
     },
     {
+        "player": "Ketel Marte",
+        "distance": 424,
+        "team": "AZ",
+        "opponent": "TB",
+        "date": "2026-06-28",
+        "time_utc": "2026-06-28T19:41:16.632Z",
+        "game_pk": 822959,
+        "inning": 8,
+        "exit_velo": "106.3",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
         "player": "Ryan O'Hearn",
         "distance": 421,
         "team": "PIT",
@@ -6198,6 +6211,19 @@
         "inning": 5,
         "exit_velo": "105.9",
         "launch_angle": "31.0",
+        "source": "live"
+    },
+    {
+        "player": "Ryan Kreidler",
+        "distance": 421,
+        "team": "MIN",
+        "opponent": "COL",
+        "date": "2026-06-28",
+        "time_utc": "2026-06-28T20:02:17.254Z",
+        "game_pk": 823686,
+        "inning": 7,
+        "exit_velo": "105.2",
+        "launch_angle": "30.0",
         "source": "live"
     },
     {
