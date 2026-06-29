@@ -6251,5 +6251,18 @@
         "exit_velo": "105.1",
         "launch_angle": "27",
         "source": "savant"
+    },
+    {
+        "player": "Trea Turner",
+        "distance": 424,
+        "team": "PHI",
+        "opponent": "PIT",
+        "date": "2026-06-29",
+        "time_utc": "2026-06-29T22:46:08.216Z",
+        "game_pk": 823444,
+        "inning": 1,
+        "exit_velo": "104.0",
+        "launch_angle": "32.0",
+        "source": "live"
     }
 ]
