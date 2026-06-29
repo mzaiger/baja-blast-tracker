@@ -6264,5 +6264,31 @@
         "exit_velo": "104.0",
         "launch_angle": "32.0",
         "source": "live"
+    },
+    {
+        "player": "James Wood",
+        "distance": 441,
+        "team": "WSH",
+        "opponent": "BOS",
+        "date": "2026-06-29",
+        "time_utc": "2026-06-29T23:13:19.293Z",
+        "game_pk": 824741,
+        "inning": 1,
+        "exit_velo": "113.6",
+        "launch_angle": "24.0",
+        "source": "live"
+    },
+    {
+        "player": "Willson Contreras",
+        "distance": 421,
+        "team": "BOS",
+        "opponent": "WSH",
+        "date": "2026-06-29",
+        "time_utc": "2026-06-29T23:24:16.648Z",
+        "game_pk": 824741,
+        "inning": 1,
+        "exit_velo": "104.5",
+        "launch_angle": "32.0",
+        "source": "live"
     }
 ]
