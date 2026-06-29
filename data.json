@@ -6175,81 +6175,81 @@
         "source": "savant"
     },
     {
-        "player": "Junior Caminero",
+        "player": "Caminero, Junior",
         "distance": 463,
         "team": "TB",
         "opponent": "AZ",
         "date": "2026-06-28",
-        "time_utc": "2026-06-28T19:05:22.984Z",
+        "time_utc": "2026-06-28T17:40:00Z",
         "game_pk": 822959,
         "inning": 5,
         "exit_velo": "113.5",
-        "launch_angle": "29.0",
-        "source": "live"
+        "launch_angle": "29",
+        "source": "savant"
     },
     {
-        "player": "Ketel Marte",
+        "player": "Marte, Ketel",
         "distance": 424,
-        "team": "AZ",
-        "opponent": "TB",
+        "team": "TB",
+        "opponent": "AZ",
         "date": "2026-06-28",
-        "time_utc": "2026-06-28T19:41:16.632Z",
+        "time_utc": "2026-06-28T17:40:00Z",
         "game_pk": 822959,
         "inning": 8,
         "exit_velo": "106.3",
-        "launch_angle": "26.0",
-        "source": "live"
+        "launch_angle": "26",
+        "source": "savant"
     },
     {
-        "player": "Ryan O'Hearn",
+        "player": "O'Hearn, Ryan",
         "distance": 421,
         "team": "PIT",
         "opponent": "CIN",
         "date": "2026-06-28",
-        "time_utc": "2026-06-28T19:02:06.378Z",
+        "time_utc": "2026-06-28T17:35:00Z",
         "game_pk": 823362,
         "inning": 5,
         "exit_velo": "105.9",
-        "launch_angle": "31.0",
-        "source": "live"
+        "launch_angle": "31",
+        "source": "savant"
     },
     {
-        "player": "Esmerlyn Valdez",
+        "player": "Valdez, Esmerlyn",
         "distance": 461,
         "team": "PIT",
         "opponent": "CIN",
         "date": "2026-06-28",
-        "time_utc": "2026-06-28T21:23:28.721Z",
+        "time_utc": "2026-06-28T17:35:00Z",
         "game_pk": 823362,
         "inning": 8,
         "exit_velo": "109.8",
-        "launch_angle": "32.0",
-        "source": "live"
+        "launch_angle": "32",
+        "source": "savant"
     },
     {
-        "player": "Ryan Kreidler",
+        "player": "Kreidler, Ryan",
         "distance": 421,
         "team": "MIN",
         "opponent": "COL",
         "date": "2026-06-28",
-        "time_utc": "2026-06-28T20:02:17.254Z",
+        "time_utc": "2026-06-28T18:10:00Z",
         "game_pk": 823686,
         "inning": 7,
         "exit_velo": "105.2",
-        "launch_angle": "30.0",
-        "source": "live"
+        "launch_angle": "30",
+        "source": "savant"
     },
     {
-        "player": "Pete Alonso",
+        "player": "Alonso, Pete",
         "distance": 437,
         "team": "BAL",
         "opponent": "WSH",
         "date": "2026-06-28",
-        "time_utc": "2026-06-28T17:47:39.086Z",
+        "time_utc": "2026-06-28T17:35:00Z",
         "game_pk": 824821,
         "inning": 1,
         "exit_velo": "105.1",
-        "launch_angle": "27.0",
-        "source": "live"
+        "launch_angle": "27",
+        "source": "savant"
     }
 ]
