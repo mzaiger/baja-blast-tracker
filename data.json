@@ -6266,6 +6266,45 @@
         "source": "live"
     },
     {
+        "player": "Victor Caratini",
+        "distance": 426,
+        "team": "MIN",
+        "opponent": "HOU",
+        "date": "2026-06-29",
+        "time_utc": "2026-06-30T00:56:18.956Z",
+        "game_pk": 824176,
+        "inning": 4,
+        "exit_velo": "107.0",
+        "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
+        "player": "Griffin Conine",
+        "distance": 433,
+        "team": "MIA",
+        "opponent": "COL",
+        "date": "2026-06-29",
+        "time_utc": "2026-06-30T02:09:12.252Z",
+        "game_pk": 824339,
+        "inning": 5,
+        "exit_velo": "110.1",
+        "launch_angle": "34.0",
+        "source": "live"
+    },
+    {
+        "player": "Gabriel Arias",
+        "distance": 429,
+        "team": "CLE",
+        "opponent": "TEX",
+        "date": "2026-06-29",
+        "time_utc": "2026-06-30T00:17:10.925Z",
+        "game_pk": 824420,
+        "inning": 5,
+        "exit_velo": "107.5",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
         "player": "James Wood",
         "distance": 441,
         "team": "WSH",
