@@ -6253,6 +6253,19 @@
         "source": "savant"
     },
     {
+        "player": "Dominic Canzone",
+        "distance": 428,
+        "team": "SEA",
+        "opponent": "LAA",
+        "date": "2026-06-29",
+        "time_utc": "2026-06-30T03:04:35.606Z",
+        "game_pk": 823121,
+        "inning": 6,
+        "exit_velo": "108.4",
+        "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
         "player": "Trea Turner",
         "distance": 424,
         "team": "PHI",
@@ -6279,6 +6292,19 @@
         "source": "live"
     },
     {
+        "player": "Cam Smith",
+        "distance": 429,
+        "team": "HOU",
+        "opponent": "MIN",
+        "date": "2026-06-29",
+        "time_utc": "2026-06-30T02:51:34.115Z",
+        "game_pk": 824176,
+        "inning": 9,
+        "exit_velo": "107.3",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
         "player": "Griffin Conine",
         "distance": 433,
         "team": "MIA",
@@ -6289,6 +6315,19 @@
         "inning": 5,
         "exit_velo": "110.1",
         "launch_angle": "34.0",
+        "source": "live"
+    },
+    {
+        "player": "Hunter Goodman",
+        "distance": 442,
+        "team": "COL",
+        "opponent": "MIA",
+        "date": "2026-06-29",
+        "time_utc": "2026-06-30T03:03:36.436Z",
+        "game_pk": 824339,
+        "inning": 7,
+        "exit_velo": "107.0",
+        "launch_angle": "37.0",
         "source": "live"
     },
     {
@@ -6328,6 +6367,32 @@
         "inning": 1,
         "exit_velo": "104.5",
         "launch_angle": "32.0",
+        "source": "live"
+    },
+    {
+        "player": "Max Muncy",
+        "distance": 422,
+        "team": "LAD",
+        "opponent": "ATH",
+        "date": "2026-06-29",
+        "time_utc": "2026-06-30T02:43:37.239Z",
+        "game_pk": 824986,
+        "inning": 4,
+        "exit_velo": "104.0",
+        "launch_angle": "30.0",
+        "source": "live"
+    },
+    {
+        "player": "Shohei Ohtani",
+        "distance": 432,
+        "team": "LAD",
+        "opponent": "ATH",
+        "date": "2026-06-29",
+        "time_utc": "2026-06-30T03:22:15.016Z",
+        "game_pk": 824986,
+        "inning": 6,
+        "exit_velo": "112.3",
+        "launch_angle": "25.0",
         "source": "live"
     }
 ]
