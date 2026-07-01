@@ -6656,6 +6656,19 @@
         "source": "live"
     },
     {
+        "player": "Michael Conforto",
+        "distance": 433,
+        "team": "CHC",
+        "opponent": "SD",
+        "date": "2026-07-01",
+        "time_utc": "2026-07-01T19:52:21.187Z",
+        "game_pk": 824660,
+        "inning": 5,
+        "exit_velo": "103.4",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
         "player": "Tyler O'Neill",
         "distance": 430,
         "team": "BAL",
