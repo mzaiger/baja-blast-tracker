@@ -6615,5 +6615,57 @@
         "exit_velo": "111.3",
         "launch_angle": "24",
         "source": "savant"
+    },
+    {
+        "player": "Kevin McGonigle",
+        "distance": 422,
+        "team": "DET",
+        "opponent": "NYY",
+        "date": "2026-07-01",
+        "time_utc": "2026-07-01T18:10:46.830Z",
+        "game_pk": 823530,
+        "inning": 3,
+        "exit_velo": "102.5",
+        "launch_angle": "35.0",
+        "source": "live"
+    },
+    {
+        "player": "Seiya Suzuki",
+        "distance": 426,
+        "team": "CHC",
+        "opponent": "SD",
+        "date": "2026-07-01",
+        "time_utc": "2026-07-01T18:33:25.904Z",
+        "game_pk": 824660,
+        "inning": 1,
+        "exit_velo": "102.8",
+        "launch_angle": "33.0",
+        "source": "live"
+    },
+    {
+        "player": "Dansby Swanson",
+        "distance": 434,
+        "team": "CHC",
+        "opponent": "SD",
+        "date": "2026-07-01",
+        "time_utc": "2026-07-01T19:15:10.603Z",
+        "game_pk": 824660,
+        "inning": 3,
+        "exit_velo": "103.8",
+        "launch_angle": "32.0",
+        "source": "live"
+    },
+    {
+        "player": "Tyler O'Neill",
+        "distance": 430,
+        "team": "BAL",
+        "opponent": "CWS",
+        "date": "2026-07-01",
+        "time_utc": "2026-07-01T17:48:47.951Z",
+        "game_pk": 824818,
+        "inning": 5,
+        "exit_velo": "109.5",
+        "launch_angle": "30.0",
+        "source": "live"
     }
 ]
