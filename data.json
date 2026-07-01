@@ -6474,6 +6474,32 @@
         "source": "live"
     },
     {
+        "player": "Joe Mack",
+        "distance": 450,
+        "team": "MIA",
+        "opponent": "COL",
+        "date": "2026-06-30",
+        "time_utc": "2026-07-01T02:39:01.747Z",
+        "game_pk": 824338,
+        "inning": 7,
+        "exit_velo": "107.5",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
+        "player": "Owen Caissie",
+        "distance": 453,
+        "team": "MIA",
+        "opponent": "COL",
+        "date": "2026-06-30",
+        "time_utc": "2026-07-01T03:14:01.654Z",
+        "game_pk": 824338,
+        "inning": 8,
+        "exit_velo": "109.2",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
         "player": "Fernando Tatis Jr.",
         "distance": 425,
         "team": "SD",
@@ -6549,6 +6575,45 @@
         "inning": 3,
         "exit_velo": "105.8",
         "launch_angle": "22.0",
+        "source": "live"
+    },
+    {
+        "player": "Colby Thomas",
+        "distance": 424,
+        "team": "ATH",
+        "opponent": "LAD",
+        "date": "2026-06-30",
+        "time_utc": "2026-07-01T03:34:56.352Z",
+        "game_pk": 824984,
+        "inning": 7,
+        "exit_velo": "104.9",
+        "launch_angle": "35.0",
+        "source": "live"
+    },
+    {
+        "player": "Ketel Marte",
+        "distance": 431,
+        "team": "AZ",
+        "opponent": "SF",
+        "date": "2026-06-30",
+        "time_utc": "2026-07-01T03:22:45.759Z",
+        "game_pk": 825066,
+        "inning": 6,
+        "exit_velo": "106.0",
+        "launch_angle": "36.0",
+        "source": "live"
+    },
+    {
+        "player": "Rafael Devers",
+        "distance": 424,
+        "team": "SF",
+        "opponent": "AZ",
+        "date": "2026-06-30",
+        "time_utc": "2026-07-01T03:30:14.697Z",
+        "game_pk": 825066,
+        "inning": 7,
+        "exit_velo": "111.3",
+        "launch_angle": "24.0",
         "source": "live"
     }
 ]
