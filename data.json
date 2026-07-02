@@ -6630,6 +6630,71 @@
         "source": "live"
     },
     {
+        "player": "Junior Caminero",
+        "distance": 425,
+        "team": "TB",
+        "opponent": "KC",
+        "date": "2026-07-01",
+        "time_utc": "2026-07-01T23:44:04.142Z",
+        "game_pk": 824094,
+        "inning": 1,
+        "exit_velo": "104.8",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "Josh Bell",
+        "distance": 452,
+        "team": "MIN",
+        "opponent": "HOU",
+        "date": "2026-07-01",
+        "time_utc": "2026-07-02T00:14:33.531Z",
+        "game_pk": 824174,
+        "inning": 1,
+        "exit_velo": "112.6",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
+        "player": "Mickey Moniak",
+        "distance": 434,
+        "team": "COL",
+        "opponent": "MIA",
+        "date": "2026-07-01",
+        "time_utc": "2026-07-02T00:49:36.435Z",
+        "game_pk": 824337,
+        "inning": 1,
+        "exit_velo": "103.8",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
+        "player": "Joe Mack",
+        "distance": 424,
+        "team": "MIA",
+        "opponent": "COL",
+        "date": "2026-07-01",
+        "time_utc": "2026-07-02T02:18:42.816Z",
+        "game_pk": 824337,
+        "inning": 7,
+        "exit_velo": "103.6",
+        "launch_angle": "24.0",
+        "source": "live"
+    },
+    {
+        "player": "Kyle Karros",
+        "distance": 440,
+        "team": "COL",
+        "opponent": "MIA",
+        "date": "2026-07-01",
+        "time_utc": "2026-07-02T02:26:45.038Z",
+        "game_pk": 824337,
+        "inning": 7,
+        "exit_velo": "104.7",
+        "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
         "player": "Seiya Suzuki",
         "distance": 426,
         "team": "CHC",
@@ -6679,6 +6744,32 @@
         "inning": 5,
         "exit_velo": "109.5",
         "launch_angle": "30.0",
+        "source": "live"
+    },
+    {
+        "player": "Jonah Heim",
+        "distance": 444,
+        "team": "ATH",
+        "opponent": "LAD",
+        "date": "2026-07-01",
+        "time_utc": "2026-07-02T02:12:53.241Z",
+        "game_pk": 824985,
+        "inning": 2,
+        "exit_velo": "104.5",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
+        "player": "Freddie Freeman",
+        "distance": 431,
+        "team": "LAD",
+        "opponent": "ATH",
+        "date": "2026-07-01",
+        "time_utc": "2026-07-02T02:19:26.474Z",
+        "game_pk": 824985,
+        "inning": 3,
+        "exit_velo": "105.2",
+        "launch_angle": "32.0",
         "source": "live"
     }
 ]
