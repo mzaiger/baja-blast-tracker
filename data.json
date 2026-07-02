@@ -6812,6 +6812,19 @@
         "source": "savant"
     },
     {
+        "player": "Carter Jensen",
+        "distance": 449,
+        "team": "KC",
+        "opponent": "TB",
+        "date": "2026-07-02",
+        "time_utc": "2026-07-02T23:45:04.282Z",
+        "game_pk": 824093,
+        "inning": 1,
+        "exit_velo": "106.7",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
         "player": "Jake McCarthy",
         "distance": 429,
         "team": "COL",
