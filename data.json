@@ -6771,5 +6771,44 @@
         "exit_velo": "105.2",
         "launch_angle": "32.0",
         "source": "live"
+    },
+    {
+        "player": "Shea Langeliers",
+        "distance": 433,
+        "team": "ATH",
+        "opponent": "LAD",
+        "date": "2026-07-01",
+        "time_utc": "2026-07-02T03:01:45.638Z",
+        "game_pk": 824985,
+        "inning": 5,
+        "exit_velo": "104.3",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "Heliot Ramos",
+        "distance": 427,
+        "team": "SF",
+        "opponent": "AZ",
+        "date": "2026-07-01",
+        "time_utc": "2026-07-02T02:41:11.502Z",
+        "game_pk": 825064,
+        "inning": 5,
+        "exit_velo": "110.7",
+        "launch_angle": "22.0",
+        "source": "live"
+    },
+    {
+        "player": "Victor Bericoto",
+        "distance": 422,
+        "team": "SF",
+        "opponent": "AZ",
+        "date": "2026-07-01",
+        "time_utc": "2026-07-02T02:42:36.335Z",
+        "game_pk": 825064,
+        "inning": 5,
+        "exit_velo": "102.7",
+        "launch_angle": "26.0",
+        "source": "live"
     }
 ]
