@@ -6812,55 +6812,55 @@
         "source": "savant"
     },
     {
-        "player": "Evan Carter",
+        "player": "Carter, Evan",
         "distance": 422,
         "team": "TEX",
         "opponent": "DET",
         "date": "2026-07-02",
-        "time_utc": "2026-07-03T03:11:01.849Z",
+        "time_utc": "2026-07-03T00:05:00Z",
         "game_pk": 822884,
         "inning": 8,
         "exit_velo": "104.4",
-        "launch_angle": "24.0",
-        "source": "live"
+        "launch_angle": "24",
+        "source": "savant"
     },
     {
-        "player": "Carter Jensen",
+        "player": "Jensen, Carter",
         "distance": 449,
         "team": "KC",
         "opponent": "TB",
         "date": "2026-07-02",
-        "time_utc": "2026-07-02T23:45:04.282Z",
+        "time_utc": "2026-07-02T23:40:00Z",
         "game_pk": 824093,
         "inning": 1,
         "exit_velo": "106.7",
-        "launch_angle": "28.0",
-        "source": "live"
+        "launch_angle": "28",
+        "source": "savant"
     },
     {
-        "player": "Isaac Collins",
+        "player": "Collins, Isaac",
         "distance": 428,
         "team": "KC",
         "opponent": "TB",
         "date": "2026-07-02",
-        "time_utc": "2026-07-03T01:29:00.835Z",
+        "time_utc": "2026-07-02T23:40:00Z",
         "game_pk": 824093,
         "inning": 7,
         "exit_velo": "103.5",
-        "launch_angle": "31.0",
-        "source": "live"
+        "launch_angle": "31",
+        "source": "savant"
     },
     {
-        "player": "Jake McCarthy",
+        "player": "McCarthy, Jake",
         "distance": 429,
         "team": "COL",
         "opponent": "MIA",
         "date": "2026-07-02",
-        "time_utc": "2026-07-02T20:32:20.496Z",
+        "time_utc": "2026-07-02T19:10:00Z",
         "game_pk": 824335,
         "inning": 4,
         "exit_velo": "103.8",
-        "launch_angle": "30.0",
-        "source": "live"
+        "launch_angle": "30",
+        "source": "savant"
     }
 ]
