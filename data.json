@@ -6825,6 +6825,19 @@
         "source": "live"
     },
     {
+        "player": "Isaac Collins",
+        "distance": 428,
+        "team": "KC",
+        "opponent": "TB",
+        "date": "2026-07-02",
+        "time_utc": "2026-07-03T01:29:00.835Z",
+        "game_pk": 824093,
+        "inning": 7,
+        "exit_velo": "103.5",
+        "launch_angle": "31.0",
+        "source": "live"
+    },
+    {
         "player": "Jake McCarthy",
         "distance": 429,
         "team": "COL",
