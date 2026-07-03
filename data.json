@@ -6812,6 +6812,19 @@
         "source": "savant"
     },
     {
+        "player": "Evan Carter",
+        "distance": 422,
+        "team": "TEX",
+        "opponent": "DET",
+        "date": "2026-07-02",
+        "time_utc": "2026-07-03T03:11:01.849Z",
+        "game_pk": 822884,
+        "inning": 8,
+        "exit_velo": "104.4",
+        "launch_angle": "24.0",
+        "source": "live"
+    },
+    {
         "player": "Carter Jensen",
         "distance": 449,
         "team": "KC",
