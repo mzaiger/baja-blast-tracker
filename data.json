@@ -6890,6 +6890,19 @@
         "source": "live"
     },
     {
+        "player": "Jackson Merrill",
+        "distance": 423,
+        "team": "SD",
+        "opponent": "LAD",
+        "date": "2026-07-03",
+        "time_utc": "2026-07-04T02:55:18.910Z",
+        "game_pk": 823933,
+        "inning": 4,
+        "exit_velo": "106.1",
+        "launch_angle": "32.0",
+        "source": "live"
+    },
+    {
         "player": "Yordan Alvarez",
         "distance": 427,
         "team": "HOU",
@@ -6916,6 +6929,19 @@
         "source": "live"
     },
     {
+        "player": "Rafael Devers",
+        "distance": 432,
+        "team": "SF",
+        "opponent": "COL",
+        "date": "2026-07-03",
+        "time_utc": "2026-07-04T02:12:00.168Z",
+        "game_pk": 824336,
+        "inning": 6,
+        "exit_velo": "104.1",
+        "launch_angle": "31.0",
+        "source": "live"
+    },
+    {
         "player": "Matt Olson",
         "distance": 429,
         "team": "ATL",
@@ -6926,6 +6952,19 @@
         "inning": 5,
         "exit_velo": "103.9",
         "launch_angle": "34.0",
+        "source": "live"
+    },
+    {
+        "player": "Nick Kurtz",
+        "distance": 457,
+        "team": "ATH",
+        "opponent": "MIA",
+        "date": "2026-07-03",
+        "time_utc": "2026-07-04T02:33:09.340Z",
+        "game_pk": 824982,
+        "inning": 3,
+        "exit_velo": "112.9",
+        "launch_angle": "28.0",
         "source": "live"
     },
     {
