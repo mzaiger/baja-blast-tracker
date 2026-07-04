@@ -6862,5 +6862,83 @@
         "exit_velo": "103.8",
         "launch_angle": "30",
         "source": "savant"
+    },
+    {
+        "player": "Bryan Reynolds",
+        "distance": 426,
+        "team": "PIT",
+        "opponent": "WSH",
+        "date": "2026-07-03",
+        "time_utc": "2026-07-03T23:30:06.993Z",
+        "game_pk": 822714,
+        "inning": 3,
+        "exit_velo": "109.8",
+        "launch_angle": "23.0",
+        "source": "live"
+    },
+    {
+        "player": "Jos\u00e9 Tena",
+        "distance": 434,
+        "team": "WSH",
+        "opponent": "PIT",
+        "date": "2026-07-03",
+        "time_utc": "2026-07-03T23:36:50.026Z",
+        "game_pk": 822714,
+        "inning": 3,
+        "exit_velo": "105.5",
+        "launch_angle": "32.0",
+        "source": "live"
+    },
+    {
+        "player": "Yordan Alvarez",
+        "distance": 427,
+        "team": "HOU",
+        "opponent": "TB",
+        "date": "2026-07-03",
+        "time_utc": "2026-07-04T01:45:16.033Z",
+        "game_pk": 824173,
+        "inning": 6,
+        "exit_velo": "106.6",
+        "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
+        "player": "Jake McCarthy",
+        "distance": 440,
+        "team": "COL",
+        "opponent": "SF",
+        "date": "2026-07-03",
+        "time_utc": "2026-07-04T00:19:57.464Z",
+        "game_pk": 824336,
+        "inning": 1,
+        "exit_velo": "105.1",
+        "launch_angle": "24.0",
+        "source": "live"
+    },
+    {
+        "player": "Matt Olson",
+        "distance": 429,
+        "team": "ATL",
+        "opponent": "NYM",
+        "date": "2026-07-03",
+        "time_utc": "2026-07-04T00:43:22.894Z",
+        "game_pk": 824904,
+        "inning": 5,
+        "exit_velo": "103.9",
+        "launch_angle": "34.0",
+        "source": "live"
+    },
+    {
+        "player": "Garrett Mitchell",
+        "distance": 435,
+        "team": "MIL",
+        "opponent": "AZ",
+        "date": "2026-07-03",
+        "time_utc": "2026-07-04T02:00:44.862Z",
+        "game_pk": 825062,
+        "inning": 2,
+        "exit_velo": "111.8",
+        "launch_angle": "22.0",
+        "source": "live"
     }
 ]
