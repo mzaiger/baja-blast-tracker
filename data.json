@@ -7111,6 +7111,19 @@
         "source": "live"
     },
     {
+        "player": "Rafael Devers",
+        "distance": 463,
+        "team": "SF",
+        "opponent": "COL",
+        "date": "2026-07-05",
+        "time_utc": "2026-07-05T21:28:31.435Z",
+        "game_pk": 824333,
+        "inning": 5,
+        "exit_velo": "110.3",
+        "launch_angle": "35.0",
+        "source": "live"
+    },
+    {
         "player": "Chase DeLauter",
         "distance": 425,
         "team": "CLE",
@@ -7121,6 +7134,19 @@
         "inning": 1,
         "exit_velo": "107.5",
         "launch_angle": "31.0",
+        "source": "live"
+    },
+    {
+        "player": "Gabriel Arias",
+        "distance": 446,
+        "team": "CLE",
+        "opponent": "CWS",
+        "date": "2026-07-05",
+        "time_utc": "2026-07-05T21:00:51.499Z",
+        "game_pk": 824413,
+        "inning": 5,
+        "exit_velo": "108.6",
+        "launch_angle": "23.0",
         "source": "live"
     },
     {
