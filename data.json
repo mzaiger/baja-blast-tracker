@@ -7083,5 +7083,57 @@
         "exit_velo": "105.7",
         "launch_angle": "31",
         "source": "savant"
+    },
+    {
+        "player": "Jake Burger",
+        "distance": 447,
+        "team": "TEX",
+        "opponent": "DET",
+        "date": "2026-07-05",
+        "time_utc": "2026-07-05T20:23:02.837Z",
+        "game_pk": 822879,
+        "inning": 3,
+        "exit_velo": "106.6",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
+        "player": "Riley Greene",
+        "distance": 431,
+        "team": "DET",
+        "opponent": "TEX",
+        "date": "2026-07-05",
+        "time_utc": "2026-07-05T20:32:13.779Z",
+        "game_pk": 822879,
+        "inning": 4,
+        "exit_velo": "111.2",
+        "launch_angle": "36.0",
+        "source": "live"
+    },
+    {
+        "player": "Chase DeLauter",
+        "distance": 425,
+        "team": "CLE",
+        "opponent": "CWS",
+        "date": "2026-07-05",
+        "time_utc": "2026-07-05T19:49:43.159Z",
+        "game_pk": 824413,
+        "inning": 1,
+        "exit_velo": "107.5",
+        "launch_angle": "31.0",
+        "source": "live"
+    },
+    {
+        "player": "Heriberto Hern\u00e1ndez",
+        "distance": 437,
+        "team": "MIA",
+        "opponent": "ATH",
+        "date": "2026-07-05",
+        "time_utc": "2026-07-05T20:38:20.596Z",
+        "game_pk": 824980,
+        "inning": 1,
+        "exit_velo": "101.7",
+        "launch_angle": "29.0",
+        "source": "live"
     }
 ]
