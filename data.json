@@ -7111,6 +7111,19 @@
         "source": "live"
     },
     {
+        "player": "Ezequiel Duran",
+        "distance": 423,
+        "team": "TEX",
+        "opponent": "DET",
+        "date": "2026-07-05",
+        "time_utc": "2026-07-05T22:02:57.045Z",
+        "game_pk": 822879,
+        "inning": 8,
+        "exit_velo": "104.2",
+        "launch_angle": "31.0",
+        "source": "live"
+    },
+    {
         "player": "Rafael Devers",
         "distance": 463,
         "team": "SF",
@@ -7120,6 +7133,19 @@
         "game_pk": 824333,
         "inning": 5,
         "exit_velo": "110.3",
+        "launch_angle": "35.0",
+        "source": "live"
+    },
+    {
+        "player": "Kyle Karros",
+        "distance": 471,
+        "team": "COL",
+        "opponent": "SF",
+        "date": "2026-07-05",
+        "time_utc": "2026-07-05T22:41:57.716Z",
+        "game_pk": 824333,
+        "inning": 8,
+        "exit_velo": "105.8",
         "launch_angle": "35.0",
         "source": "live"
     },
@@ -7160,6 +7186,19 @@
         "inning": 1,
         "exit_velo": "101.7",
         "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
+        "player": "Otto Lopez",
+        "distance": 420,
+        "team": "MIA",
+        "opponent": "ATH",
+        "date": "2026-07-05",
+        "time_utc": "2026-07-05T22:12:45.749Z",
+        "game_pk": 824980,
+        "inning": 6,
+        "exit_velo": "105.7",
+        "launch_angle": "30.0",
         "source": "live"
     }
 ]
