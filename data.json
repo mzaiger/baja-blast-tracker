@@ -7124,6 +7124,32 @@
         "source": "live"
     },
     {
+        "player": "Jarren Duran",
+        "distance": 422,
+        "team": "BOS",
+        "opponent": "LAA",
+        "date": "2026-07-05",
+        "time_utc": "2026-07-06T02:01:25.991Z",
+        "game_pk": 824010,
+        "inning": 2,
+        "exit_velo": "103.6",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
+        "player": "Willson Contreras",
+        "distance": 446,
+        "team": "BOS",
+        "opponent": "LAA",
+        "date": "2026-07-05",
+        "time_utc": "2026-07-06T02:21:34.433Z",
+        "game_pk": 824010,
+        "inning": 3,
+        "exit_velo": "112.2",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
         "player": "Rafael Devers",
         "distance": 463,
         "team": "SF",
