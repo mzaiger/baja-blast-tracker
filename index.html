@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>420' Club: Regular Season</title>
+    <title>Baja Blast Promotion: Regular Season</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-gray-900 text-white p-8">
     <div class="max-w-5xl mx-auto">
         <header class="mb-8 text-center">
-            <h1 class="text-4xl font-bold text-green-400">🔥 The 420' Club</h1>
+            <h1 class="text-4xl font-bold text-cyan-400">🔥 Baja Blast Promotion</h1>
             <p class="text-gray-400">MLB Home Runs ≥ 420ft — <span id="year-sub"></span> Regular Season</p>
         </header>
 
@@ -30,7 +30,7 @@
         // Set current year in subtitle and browser tab
         const currentYear = new Date().getFullYear();
         document.getElementById('year-sub').textContent = currentYear;
-        document.title = `420' Club: ${currentYear} Regular Season`;
+        document.title = `Baja Blast Promotion: ${currentYear} Regular Season`;
 
         async function loadHRs() {
             const response = await fetch(`./data.json?v=${Date.now()}`);
@@ -56,7 +56,7 @@
                 const angle = hr.launch_angle ? `${parseFloat(hr.launch_angle).toFixed(1)}<span class="text-xs text-gray-500">°</span>`   : '<span class="text-gray-600">—</span>';
 
                 const card = `
-                    <div class="bg-gray-800 rounded-lg border-l-4 border-green-500 shadow-lg
+                    <div class="bg-gray-800 rounded-lg border-l-4 border-cyan-400 shadow-lg
                                 grid grid-cols-[1fr_auto] md:grid-cols-[1fr_auto_auto_auto]
                                 gap-x-4 items-center px-4 py-3">
                         <div>
@@ -72,7 +72,7 @@
                             <div class="text-xs text-gray-500 uppercase tracking-wide">Launch Angle</div>
                         </div>
                         <div class="flex flex-col items-center w-24">
-                            <div class="text-2xl font-black text-green-400">${hr.distance}<span class="text-base font-normal">'</span></div>
+                            <div class="text-2xl font-black text-cyan-400">${hr.distance}<span class="text-base font-normal">'</span></div>
                             <div class="text-xs text-gray-500 uppercase tracking-wide">Distance</div>
                         </div>
                         <div class="md:hidden col-span-2 flex gap-6 mt-2 pt-2 border-t border-gray-700">
