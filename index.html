@@ -4,25 +4,195 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Baja Blast Promotion: Regular Season</title>
-    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        * { box-sizing: border-box; }
+
+        body {
+            background-color: #111827;
+            color: #ffffff;
+            padding: 2rem;
+            margin: 0;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        }
+
+        .container {
+            max-width: 64rem;
+            margin: 0 auto;
+        }
+
+        header {
+            margin-bottom: 2rem;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 2.25rem;
+            font-weight: 700;
+            color: #22d3ee;
+            margin: 0 0 0.25rem 0;
+        }
+
+        .subtitle {
+            color: #9ca3af;
+            margin: 0;
+        }
+
+        .col-headers {
+            display: none;
+            grid-template-columns: 1fr auto auto auto;
+            gap: 1rem;
+            padding: 0 1rem;
+            margin-bottom: 0.5rem;
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: #6b7280;
+            font-weight: 600;
+        }
+
+        .col-headers span.stat-col {
+            text-align: center;
+            width: 6rem;
+        }
+
+        #hr-list {
+            display: grid;
+            gap: 0.75rem;
+        }
+
+        .loading, .empty {
+            text-align: center;
+            font-style: italic;
+            color: #6b7280;
+        }
+
+        .empty { font-style: normal; }
+
+        .hr-card {
+            background-color: #1f2937;
+            border-radius: 0.5rem;
+            border-left: 4px solid #22d3ee;
+            box-shadow: 0 10px 15px -3px rgba(0,0,0,0.3), 0 4px 6px -4px rgba(0,0,0,0.3);
+            display: grid;
+            grid-template-columns: 1fr auto;
+            gap: 0 1rem;
+            align-items: center;
+            padding: 0.75rem 1rem;
+        }
+
+        .player-name {
+            font-size: 1.125rem;
+            font-weight: 700;
+            line-height: 1.2;
+        }
+
+        .matchup {
+            font-size: 0.75rem;
+            color: #9ca3af;
+            margin-top: 0.125rem;
+        }
+
+        .stat-block {
+            display: none;
+            flex-direction: column;
+            align-items: center;
+            width: 6rem;
+        }
+
+        .stat-block .value {
+            font-size: 1.125rem;
+            font-weight: 600;
+        }
+
+        .stat-block .value.velo { color: #facc15; }
+        .stat-block .value.angle { color: #60a5fa; }
+
+        .stat-block .label {
+            font-size: 0.75rem;
+            color: #6b7280;
+            text-transform: uppercase;
+            letter-spacing: 0.03em;
+        }
+
+        .distance-block {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 6rem;
+        }
+
+        .distance-block .value {
+            font-size: 1.5rem;
+            font-weight: 900;
+            color: #22d3ee;
+        }
+
+        .distance-block .value .unit {
+            font-size: 1rem;
+            font-weight: 400;
+        }
+
+        .distance-block .label {
+            font-size: 0.75rem;
+            color: #6b7280;
+            text-transform: uppercase;
+            letter-spacing: 0.03em;
+        }
+
+        .mobile-stats {
+            grid-column: span 2;
+            display: flex;
+            gap: 1.5rem;
+            margin-top: 0.5rem;
+            padding-top: 0.5rem;
+            border-top: 1px solid #374151;
+        }
+
+        .mobile-stats .velo { color: #facc15; font-weight: 600; }
+        .mobile-stats .angle { color: #60a5fa; font-weight: 600; }
+        .mobile-stats .stat-label {
+            margin-left: 0.25rem;
+            font-size: 0.75rem;
+            color: #6b7280;
+        }
+
+        .unit-label, .muted {
+            font-size: 0.75rem;
+            color: #6b7280;
+        }
+
+        .dash { color: #4b5563; }
+
+        @media (min-width: 768px) {
+            .col-headers { display: grid; }
+
+            .hr-card {
+                grid-template-columns: 1fr auto auto auto;
+            }
+
+            .stat-block { display: flex; }
+
+            .mobile-stats { display: none; }
+        }
+    </style>
 </head>
-<body class="bg-gray-900 text-white p-8">
-    <div class="max-w-5xl mx-auto">
-        <header class="mb-8 text-center">
-            <h1 class="text-4xl font-bold text-cyan-400">🔥 Baja Blast Promotion</h1>
-            <p class="text-gray-400">MLB Home Runs ≥ 420ft — <span id="year-sub"></span> Regular Season</p>
+<body>
+    <div class="container">
+        <header>
+            <h1>🔥 Baja Blast Promotion</h1>
+            <p class="subtitle">MLB Home Runs ≥ 420ft — <span id="year-sub"></span> Regular Season</p>
         </header>
 
         <!-- Column headers -->
-        <div class="hidden md:grid grid-cols-[1fr_auto_auto_auto] gap-4 px-4 mb-2 text-xs uppercase tracking-widest text-gray-500 font-semibold">
+        <div class="col-headers">
             <span>Player / Matchup</span>
-            <span class="text-center w-24">Exit Velo</span>
-            <span class="text-center w-24">Launch Angle</span>
-            <span class="text-center w-24">Distance</span>
+            <span class="stat-col">Exit Velo</span>
+            <span class="stat-col">Launch Angle</span>
+            <span class="stat-col">Distance</span>
         </div>
 
-        <div id="hr-list" class="grid gap-3">
-            <p class="text-center italic text-gray-500">Loading the bombs...</p>
+        <div id="hr-list">
+            <p class="loading">Loading the bombs...</p>
         </div>
     </div>
 
@@ -34,7 +204,7 @@
 
         async function loadHRs() {
             const response = await fetch(`./data.json?v=${Date.now()}`);
-            const data = await response.json();
+            let data = await response.json();
             const container = document.getElementById('hr-list');
             container.innerHTML = '';
 
@@ -49,42 +219,40 @@
             data = data.slice(0, 100);
 
             if (data.length === 0) {
-                container.innerHTML = '<p class="text-center">No 420ft+ homers yet this season. Pitchers are winning.</p>';
+                container.innerHTML = '<p class="empty">No 420ft+ homers yet this season. Pitchers are winning.</p>';
                 return;
             }
 
             data.forEach(hr => {
-                const velo  = hr.exit_velo    ? `${parseFloat(hr.exit_velo).toFixed(1)} <span class="text-xs text-gray-500">mph</span>`  : '<span class="text-gray-600">—</span>';
-                const angle = hr.launch_angle ? `${parseFloat(hr.launch_angle).toFixed(1)}<span class="text-xs text-gray-500">°</span>`   : '<span class="text-gray-600">—</span>';
+                const velo  = hr.exit_velo    ? `${parseFloat(hr.exit_velo).toFixed(1)} <span class="unit-label">mph</span>`  : '<span class="dash">—</span>';
+                const angle = hr.launch_angle ? `${parseFloat(hr.launch_angle).toFixed(1)}<span class="unit-label">°</span>`   : '<span class="dash">—</span>';
 
                 const card = `
-                    <div class="bg-gray-800 rounded-lg border-l-4 border-cyan-400 shadow-lg
-                                grid grid-cols-[1fr_auto] md:grid-cols-[1fr_auto_auto_auto]
-                                gap-x-4 items-center px-4 py-3">
+                    <div class="hr-card">
                         <div>
-                            <div class="text-lg font-bold leading-tight">${hr.player}</div>
-                            <div class="text-xs text-gray-400 mt-0.5">${hr.team} vs ${hr.opponent} &bull; ${hr.date}</div>
+                            <div class="player-name">${hr.player}</div>
+                            <div class="matchup">${hr.team} vs ${hr.opponent} &bull; ${hr.date}</div>
                         </div>
-                        <div class="hidden md:flex flex-col items-center w-24">
-                            <div class="text-lg font-semibold text-yellow-400">${velo}</div>
-                            <div class="text-xs text-gray-500 uppercase tracking-wide">Exit Velo</div>
+                        <div class="stat-block">
+                            <div class="value velo">${velo}</div>
+                            <div class="label">Exit Velo</div>
                         </div>
-                        <div class="hidden md:flex flex-col items-center w-24">
-                            <div class="text-lg font-semibold text-blue-400">${angle}</div>
-                            <div class="text-xs text-gray-500 uppercase tracking-wide">Launch Angle</div>
+                        <div class="stat-block">
+                            <div class="value angle">${angle}</div>
+                            <div class="label">Launch Angle</div>
                         </div>
-                        <div class="flex flex-col items-center w-24">
-                            <div class="text-2xl font-black text-cyan-400">${hr.distance}<span class="text-base font-normal">'</span></div>
-                            <div class="text-xs text-gray-500 uppercase tracking-wide">Distance</div>
+                        <div class="distance-block">
+                            <div class="value">${hr.distance}<span class="unit">'</span></div>
+                            <div class="label">Distance</div>
                         </div>
-                        <div class="md:hidden col-span-2 flex gap-6 mt-2 pt-2 border-t border-gray-700">
+                        <div class="mobile-stats">
                             <div>
-                                <span class="text-yellow-400 font-semibold">${velo}</span>
-                                <span class="ml-1 text-xs text-gray-500">exit velo</span>
+                                <span class="velo">${velo}</span>
+                                <span class="stat-label">exit velo</span>
                             </div>
                             <div>
-                                <span class="text-blue-400 font-semibold">${angle}</span>
-                                <span class="ml-1 text-xs text-gray-500">launch angle</span>
+                                <span class="angle">${angle}</span>
+                                <span class="stat-label">launch angle</span>
                             </div>
                         </div>
                     </div>
