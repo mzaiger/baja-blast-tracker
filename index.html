@@ -216,8 +216,6 @@
                 return (b.inning || 0) - (a.inning || 0);
             });
 
-            data = data.slice(0, 100);
-
             if (data.length === 0) {
                 container.innerHTML = '<p class="empty">No 420ft+ homers yet this season. Pitchers are winning.</p>';
                 return;
