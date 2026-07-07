@@ -7228,42 +7228,42 @@
         "source": "savant"
     },
     {
-        "player": "James Wood",
+        "player": "Wood, James",
         "distance": 446,
         "team": "WSH",
         "opponent": "HOU",
         "date": "2026-07-06",
-        "time_utc": "2026-07-07T00:23:39.667Z",
+        "time_utc": "2026-07-06T22:45:00Z",
         "game_pk": 822712,
         "inning": 5,
         "exit_velo": "109.8",
-        "launch_angle": "32.0",
-        "source": "live"
+        "launch_angle": "32",
+        "source": "savant"
     },
     {
-        "player": "Heliot Ramos",
+        "player": "Ramos, Heliot",
         "distance": 444,
         "team": "SF",
         "opponent": "TOR",
         "date": "2026-07-06",
-        "time_utc": "2026-07-07T03:46:13.920Z",
+        "time_utc": "2026-07-07T01:45:00Z",
         "game_pk": 823205,
         "inning": 8,
         "exit_velo": "109.6",
-        "launch_angle": "33.0",
-        "source": "live"
+        "launch_angle": "33",
+        "source": "savant"
     },
     {
-        "player": "Juan Soto",
+        "player": "Soto, Juan",
         "distance": 430,
-        "team": "NYM",
-        "opponent": "ATL",
+        "team": "ATL",
+        "opponent": "NYM",
         "date": "2026-07-06",
-        "time_utc": "2026-07-07T02:02:40.964Z",
+        "time_utc": "2026-07-06T23:15:00Z",
         "game_pk": 824900,
         "inning": 9,
         "exit_velo": "107.8",
-        "launch_angle": "39.0",
-        "source": "live"
+        "launch_angle": "39",
+        "source": "savant"
     }
 ]
