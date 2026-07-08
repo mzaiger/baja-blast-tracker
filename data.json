@@ -7267,29 +7267,29 @@
         "source": "savant"
     },
     {
-        "player": "Heriberto Hern\u00e1ndez",
+        "player": "Hern\u00e1ndez, Heriberto",
         "distance": 422,
         "team": "MIA",
         "opponent": "SEA",
         "date": "2026-07-07",
-        "time_utc": "2026-07-08T01:19:33.466Z",
+        "time_utc": "2026-07-07T22:40:00Z",
         "game_pk": 823847,
         "inning": 8,
         "exit_velo": "110.4",
-        "launch_angle": "31.0",
-        "source": "live"
+        "launch_angle": "31",
+        "source": "savant"
     },
     {
-        "player": "Colt Keith",
+        "player": "Keith, Colt",
         "distance": 427,
         "team": "DET",
         "opponent": "ATH",
         "date": "2026-07-07",
-        "time_utc": "2026-07-07T22:51:13.548Z",
+        "time_utc": "2026-07-07T22:40:00Z",
         "game_pk": 824254,
         "inning": 1,
         "exit_velo": "103.1",
-        "launch_angle": "28.0",
-        "source": "live"
+        "launch_angle": "28",
+        "source": "savant"
     }
 ]
