@@ -7267,6 +7267,19 @@
         "source": "savant"
     },
     {
+        "player": "Heriberto Hern\u00e1ndez",
+        "distance": 422,
+        "team": "MIA",
+        "opponent": "SEA",
+        "date": "2026-07-07",
+        "time_utc": "2026-07-08T01:19:33.466Z",
+        "game_pk": 823847,
+        "inning": 8,
+        "exit_velo": "110.4",
+        "launch_angle": "31.0",
+        "source": "live"
+    },
+    {
         "player": "Colt Keith",
         "distance": 427,
         "team": "DET",
