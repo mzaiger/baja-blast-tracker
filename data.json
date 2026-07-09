@@ -7395,5 +7395,70 @@
         "exit_velo": "113",
         "launch_angle": "32",
         "source": "savant"
+    },
+    {
+        "player": "Junior Caminero",
+        "distance": 438,
+        "team": "TB",
+        "opponent": "NYY",
+        "date": "2026-07-09",
+        "time_utc": "2026-07-09T17:21:17.370Z",
+        "game_pk": 822954,
+        "inning": 1,
+        "exit_velo": "108.3",
+        "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
+        "player": "Ben Rice",
+        "distance": 422,
+        "team": "NYY",
+        "opponent": "TB",
+        "date": "2026-07-09",
+        "time_utc": "2026-07-09T19:08:30.550Z",
+        "game_pk": 822954,
+        "inning": 6,
+        "exit_velo": "103.9",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
+        "player": "Juan Soto",
+        "distance": 435,
+        "team": "NYM",
+        "opponent": "KC",
+        "date": "2026-07-09",
+        "time_utc": "2026-07-09T19:04:54.100Z",
+        "game_pk": 823606,
+        "inning": 7,
+        "exit_velo": "106.6",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
+        "player": "Gabriel Arias",
+        "distance": 442,
+        "team": "CLE",
+        "opponent": "MIN",
+        "date": "2026-07-09",
+        "time_utc": "2026-07-09T17:58:41.449Z",
+        "game_pk": 823683,
+        "inning": 2,
+        "exit_velo": "110.8",
+        "launch_angle": "23.0",
+        "source": "live"
+    },
+    {
+        "player": "Seiya Suzuki",
+        "distance": 432,
+        "team": "CHC",
+        "opponent": "BAL",
+        "date": "2026-07-09",
+        "time_utc": "2026-07-09T18:58:08.751Z",
+        "game_pk": 824816,
+        "inning": 6,
+        "exit_velo": "110.9",
+        "launch_angle": "25.0",
+        "source": "live"
     }
 ]
