@@ -7291,5 +7291,83 @@
         "exit_velo": "103.1",
         "launch_angle": "28",
         "source": "savant"
+    },
+    {
+        "player": "Jo Adell",
+        "distance": 433,
+        "team": "LAA",
+        "opponent": "TEX",
+        "date": "2026-07-08",
+        "time_utc": "2026-07-09T01:36:42.661Z",
+        "game_pk": 822880,
+        "inning": 5,
+        "exit_velo": "110.3",
+        "launch_angle": "21.0",
+        "source": "live"
+    },
+    {
+        "player": "Alec Burleson",
+        "distance": 443,
+        "team": "STL",
+        "opponent": "MIL",
+        "date": "2026-07-08",
+        "time_utc": "2026-07-09T01:25:08.927Z",
+        "game_pk": 823032,
+        "inning": 6,
+        "exit_velo": "109.4",
+        "launch_angle": "35.0",
+        "source": "live"
+    },
+    {
+        "player": "Joey Bart",
+        "distance": 422,
+        "team": "ATL",
+        "opponent": "PIT",
+        "date": "2026-07-08",
+        "time_utc": "2026-07-09T00:33:36.883Z",
+        "game_pk": 823360,
+        "inning": 8,
+        "exit_velo": "106.3",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
+        "player": "A.J. Ewing",
+        "distance": 420,
+        "team": "NYM",
+        "opponent": "KC",
+        "date": "2026-07-08",
+        "time_utc": "2026-07-08T23:20:52.791Z",
+        "game_pk": 823605,
+        "inning": 1,
+        "exit_velo": "105.5",
+        "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
+        "player": "Coby Mayo",
+        "distance": 420,
+        "team": "BAL",
+        "opponent": "CHC",
+        "date": "2026-07-08",
+        "time_utc": "2026-07-09T01:11:20.599Z",
+        "game_pk": 824815,
+        "inning": 8,
+        "exit_velo": "113.0",
+        "launch_angle": "32.0",
+        "source": "live"
+    },
+    {
+        "player": "Tyler O'Neill",
+        "distance": 433,
+        "team": "BAL",
+        "opponent": "CHC",
+        "date": "2026-07-08",
+        "time_utc": "2026-07-09T01:12:35.053Z",
+        "game_pk": 824815,
+        "inning": 8,
+        "exit_velo": "108.7",
+        "launch_angle": "27.0",
+        "source": "live"
     }
 ]
