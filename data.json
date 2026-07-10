@@ -7525,5 +7525,18 @@
         "exit_velo": "110.9",
         "launch_angle": "25",
         "source": "savant"
+    },
+    {
+        "player": "Derek Hill",
+        "distance": 427,
+        "team": "PHI",
+        "opponent": "DET",
+        "date": "2026-07-10",
+        "time_utc": "2026-07-10T23:10:49.560Z",
+        "game_pk": 824252,
+        "inning": 3,
+        "exit_velo": "104.1",
+        "launch_angle": "27.0",
+        "source": "live"
     }
 ]
