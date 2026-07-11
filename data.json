@@ -7553,6 +7553,19 @@
         "source": "live"
     },
     {
+        "player": "Tim Tawa",
+        "distance": 429,
+        "team": "AZ",
+        "opponent": "LAD",
+        "date": "2026-07-10",
+        "time_utc": "2026-07-11T03:11:19.600Z",
+        "game_pk": 823927,
+        "inning": 4,
+        "exit_velo": "105.4",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
         "player": "Derek Hill",
         "distance": 427,
         "team": "PHI",
