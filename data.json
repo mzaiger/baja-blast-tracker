@@ -7590,5 +7590,18 @@
         "exit_velo": "104.7",
         "launch_angle": "26",
         "source": "savant"
+    },
+    {
+        "player": "Esmerlyn Valdez",
+        "distance": 421,
+        "team": "PIT",
+        "opponent": "MIL",
+        "date": "2026-07-11",
+        "time_utc": "2026-07-11T17:05:00.668Z",
+        "game_pk": 823357,
+        "inning": 3,
+        "exit_velo": "108.1",
+        "launch_angle": "26.0",
+        "source": "live"
     }
 ]
