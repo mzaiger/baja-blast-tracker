@@ -7592,6 +7592,32 @@
         "source": "savant"
     },
     {
+        "player": "Yordan Alvarez",
+        "distance": 425,
+        "team": "HOU",
+        "opponent": "TEX",
+        "date": "2026-07-11",
+        "time_utc": "2026-07-11T23:10:00.798Z",
+        "game_pk": 822875,
+        "inning": 1,
+        "exit_velo": "112.8",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
+        "player": "Lars Nootbaar",
+        "distance": 435,
+        "team": "STL",
+        "opponent": "ATL",
+        "date": "2026-07-11",
+        "time_utc": "2026-07-11T23:33:36.266Z",
+        "game_pk": 823030,
+        "inning": 1,
+        "exit_velo": "108.8",
+        "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
         "player": "Kyle Karros",
         "distance": 435,
         "team": "COL",
