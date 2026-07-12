@@ -7683,6 +7683,45 @@
         "source": "live"
     },
     {
+        "player": "Chase DeLauter",
+        "distance": 435,
+        "team": "CLE",
+        "opponent": "MIA",
+        "date": "2026-07-12",
+        "time_utc": "2026-07-12T20:27:17.077Z",
+        "game_pk": 823842,
+        "inning": 9,
+        "exit_velo": "109.8",
+        "launch_angle": "24.0",
+        "source": "live"
+    },
+    {
+        "player": "Griffin Conine",
+        "distance": 442,
+        "team": "MIA",
+        "opponent": "CLE",
+        "date": "2026-07-12",
+        "time_utc": "2026-07-12T20:38:20.809Z",
+        "game_pk": 823842,
+        "inning": 9,
+        "exit_velo": "113.2",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
+        "player": "Shohei Ohtani",
+        "distance": 437,
+        "team": "LAD",
+        "opponent": "AZ",
+        "date": "2026-07-12",
+        "time_utc": "2026-07-12T20:22:59.013Z",
+        "game_pk": 823925,
+        "inning": 1,
+        "exit_velo": "111.8",
+        "launch_angle": "33.0",
+        "source": "live"
+    },
+    {
         "player": "Eugenio Su\u00e1rez",
         "distance": 433,
         "team": "CIN",
