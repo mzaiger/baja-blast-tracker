@@ -7642,5 +7642,31 @@
         "exit_velo": "108.1",
         "launch_angle": "26.0",
         "source": "live"
+    },
+    {
+        "player": "Pete Alonso",
+        "distance": 420,
+        "team": "BAL",
+        "opponent": "KC",
+        "date": "2026-07-11",
+        "time_utc": "2026-07-12T00:00:45.592Z",
+        "game_pk": 824813,
+        "inning": 4,
+        "exit_velo": "103.9",
+        "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
+        "player": "Coby Mayo",
+        "distance": 440,
+        "team": "BAL",
+        "opponent": "KC",
+        "date": "2026-07-11",
+        "time_utc": "2026-07-12T00:12:07.392Z",
+        "game_pk": 824813,
+        "inning": 5,
+        "exit_velo": "110.4",
+        "launch_angle": "29.0",
+        "source": "live"
     }
 ]
