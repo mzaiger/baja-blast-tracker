@@ -7681,5 +7681,31 @@
         "exit_velo": "110.0",
         "launch_angle": "26.0",
         "source": "live"
+    },
+    {
+        "player": "Eugenio Su\u00e1rez",
+        "distance": 433,
+        "team": "CIN",
+        "opponent": "CHC",
+        "date": "2026-07-12",
+        "time_utc": "2026-07-12T18:39:17.438Z",
+        "game_pk": 824491,
+        "inning": 3,
+        "exit_velo": "111.3",
+        "launch_angle": "31.0",
+        "source": "live"
+    },
+    {
+        "player": "Leody Taveras",
+        "distance": 448,
+        "team": "BAL",
+        "opponent": "KC",
+        "date": "2026-07-12",
+        "time_utc": "2026-07-12T18:16:20.276Z",
+        "game_pk": 824814,
+        "inning": 2,
+        "exit_velo": "107.8",
+        "launch_angle": "27.0",
+        "source": "live"
     }
 ]
