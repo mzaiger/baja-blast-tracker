@@ -7668,5 +7668,18 @@
         "exit_velo": "110.4",
         "launch_angle": "29",
         "source": "savant"
+    },
+    {
+        "player": "James Wood",
+        "distance": 434,
+        "team": "WSH",
+        "opponent": "NYY",
+        "date": "2026-07-12",
+        "time_utc": "2026-07-12T17:42:56.865Z",
+        "game_pk": 822708,
+        "inning": 1,
+        "exit_velo": "110.0",
+        "launch_angle": "26.0",
+        "source": "live"
     }
 ]
