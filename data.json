@@ -7670,81 +7670,81 @@
         "source": "savant"
     },
     {
-        "player": "James Wood",
+        "player": "Wood, James",
         "distance": 434,
         "team": "WSH",
         "opponent": "NYY",
         "date": "2026-07-12",
-        "time_utc": "2026-07-12T17:42:56.865Z",
+        "time_utc": "2026-07-12T17:35:00Z",
         "game_pk": 822708,
         "inning": 1,
-        "exit_velo": "110.0",
-        "launch_angle": "26.0",
-        "source": "live"
+        "exit_velo": "110",
+        "launch_angle": "26",
+        "source": "savant"
     },
     {
-        "player": "Chase DeLauter",
-        "distance": 435,
-        "team": "CLE",
-        "opponent": "MIA",
-        "date": "2026-07-12",
-        "time_utc": "2026-07-12T20:27:17.077Z",
-        "game_pk": 823842,
-        "inning": 9,
-        "exit_velo": "109.8",
-        "launch_angle": "24.0",
-        "source": "live"
-    },
-    {
-        "player": "Griffin Conine",
+        "player": "Conine, Griffin",
         "distance": 442,
         "team": "MIA",
         "opponent": "CLE",
         "date": "2026-07-12",
-        "time_utc": "2026-07-12T20:38:20.809Z",
+        "time_utc": "2026-07-12T17:40:00Z",
         "game_pk": 823842,
         "inning": 9,
         "exit_velo": "113.2",
-        "launch_angle": "26.0",
-        "source": "live"
+        "launch_angle": "26",
+        "source": "savant"
     },
     {
-        "player": "Shohei Ohtani",
+        "player": "DeLauter, Chase",
+        "distance": 435,
+        "team": "MIA",
+        "opponent": "CLE",
+        "date": "2026-07-12",
+        "time_utc": "2026-07-12T17:40:00Z",
+        "game_pk": 823842,
+        "inning": 9,
+        "exit_velo": "109.8",
+        "launch_angle": "24",
+        "source": "savant"
+    },
+    {
+        "player": "Ohtani, Shohei",
         "distance": 437,
         "team": "LAD",
         "opponent": "AZ",
         "date": "2026-07-12",
-        "time_utc": "2026-07-12T20:22:59.013Z",
+        "time_utc": "2026-07-12T20:10:00Z",
         "game_pk": 823925,
         "inning": 1,
         "exit_velo": "111.8",
-        "launch_angle": "33.0",
-        "source": "live"
+        "launch_angle": "33",
+        "source": "savant"
     },
     {
-        "player": "Eugenio Su\u00e1rez",
+        "player": "Su\u00e1rez, Eugenio",
         "distance": 433,
         "team": "CIN",
         "opponent": "CHC",
         "date": "2026-07-12",
-        "time_utc": "2026-07-12T18:39:17.438Z",
+        "time_utc": "2026-07-12T17:40:00Z",
         "game_pk": 824491,
         "inning": 3,
         "exit_velo": "111.3",
-        "launch_angle": "31.0",
-        "source": "live"
+        "launch_angle": "31",
+        "source": "savant"
     },
     {
-        "player": "Leody Taveras",
+        "player": "Taveras, Leody",
         "distance": 448,
         "team": "BAL",
         "opponent": "KC",
         "date": "2026-07-12",
-        "time_utc": "2026-07-12T18:16:20.276Z",
+        "time_utc": "2026-07-12T17:35:00Z",
         "game_pk": 824814,
         "inning": 2,
         "exit_velo": "107.8",
-        "launch_angle": "27.0",
-        "source": "live"
+        "launch_angle": "27",
+        "source": "savant"
     }
 ]
