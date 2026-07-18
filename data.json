@@ -7852,6 +7852,45 @@
         "source": "savant"
     },
     {
+        "player": "Lane Thomas",
+        "distance": 421,
+        "team": "KC",
+        "opponent": "SD",
+        "date": "2026-07-18",
+        "time_utc": "2026-07-18T20:26:34.071Z",
+        "game_pk": 824088,
+        "inning": 1,
+        "exit_velo": "103.8",
+        "launch_angle": "33.0",
+        "source": "live"
+    },
+    {
+        "player": "Jose Trevino",
+        "distance": 424,
+        "team": "CIN",
+        "opponent": "COL",
+        "date": "2026-07-18",
+        "time_utc": "2026-07-18T20:23:51.890Z",
+        "game_pk": 824331,
+        "inning": 5,
+        "exit_velo": "101.0",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
+        "player": "TJ Rumfield",
+        "distance": 456,
+        "team": "COL",
+        "opponent": "CIN",
+        "date": "2026-07-18",
+        "time_utc": "2026-07-18T20:47:59.753Z",
+        "game_pk": 824331,
+        "inning": 6,
+        "exit_velo": "105.1",
+        "launch_angle": "34.0",
+        "source": "live"
+    },
+    {
         "player": "Jacob Gonzalez",
         "distance": 428,
         "team": "PIT",
