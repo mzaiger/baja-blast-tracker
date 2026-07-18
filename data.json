@@ -7928,5 +7928,18 @@
         "exit_velo": "108.5",
         "launch_angle": "25.0",
         "source": "live"
+    },
+    {
+        "player": "Jimmy Crooks",
+        "distance": 443,
+        "team": "STL",
+        "opponent": "AZ",
+        "date": "2026-07-18",
+        "time_utc": "2026-07-18T22:50:38.871Z",
+        "game_pk": 825059,
+        "inning": 9,
+        "exit_velo": "108.8",
+        "launch_angle": "29.0",
+        "source": "live"
     }
 ]
