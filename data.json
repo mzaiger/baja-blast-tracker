@@ -7850,5 +7850,18 @@
         "exit_velo": "106.8",
         "launch_angle": "30",
         "source": "savant"
+    },
+    {
+        "player": "Jacob Gonzalez",
+        "distance": 428,
+        "team": "PIT",
+        "opponent": "CLE",
+        "date": "2026-07-18",
+        "time_utc": "2026-07-18T17:29:46.259Z",
+        "game_pk": 824414,
+        "inning": 2,
+        "exit_velo": "106.7",
+        "launch_angle": "32.0",
+        "source": "live"
     }
 ]
