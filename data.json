@@ -7865,6 +7865,19 @@
         "source": "live"
     },
     {
+        "player": "Salvador Perez",
+        "distance": 438,
+        "team": "KC",
+        "opponent": "SD",
+        "date": "2026-07-18",
+        "time_utc": "2026-07-18T22:01:54.861Z",
+        "game_pk": 824088,
+        "inning": 6,
+        "exit_velo": "105.0",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
         "player": "Jose Trevino",
         "distance": 424,
         "team": "CIN",
@@ -7901,6 +7914,19 @@
         "inning": 2,
         "exit_velo": "106.7",
         "launch_angle": "32.0",
+        "source": "live"
+    },
+    {
+        "player": "Wilyer Abreu",
+        "distance": 435,
+        "team": "BOS",
+        "opponent": "TB",
+        "date": "2026-07-18",
+        "time_utc": "2026-07-18T22:04:55.134Z",
+        "game_pk": 824738,
+        "inning": 3,
+        "exit_velo": "108.5",
+        "launch_angle": "25.0",
         "source": "live"
     }
 ]
