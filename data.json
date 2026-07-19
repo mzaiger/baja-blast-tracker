@@ -7967,5 +7967,31 @@
         "exit_velo": "106.7",
         "launch_angle": "37.0",
         "source": "live"
+    },
+    {
+        "player": "Esteury Ruiz",
+        "distance": 420,
+        "team": "MIA",
+        "opponent": "MIL",
+        "date": "2026-07-19",
+        "time_utc": "2026-07-19T18:44:29.711Z",
+        "game_pk": 823764,
+        "inning": 3,
+        "exit_velo": "108.0",
+        "launch_angle": "30.0",
+        "source": "live"
+    },
+    {
+        "player": "Jac Caglianone",
+        "distance": 432,
+        "team": "KC",
+        "opponent": "SD",
+        "date": "2026-07-19",
+        "time_utc": "2026-07-19T18:24:03.211Z",
+        "game_pk": 824086,
+        "inning": 1,
+        "exit_velo": "113.5",
+        "launch_angle": "33.0",
+        "source": "live"
     }
 ]
