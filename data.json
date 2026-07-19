@@ -8021,19 +8021,6 @@
         "source": "live"
     },
     {
-        "player": "Hunter Goodman",
-        "distance": 425,
-        "team": "COL",
-        "opponent": "CIN",
-        "date": "2026-07-19",
-        "time_utc": "2026-07-19T19:28:43.792Z",
-        "game_pk": 824330,
-        "inning": 1,
-        "exit_velo": "104.5",
-        "launch_angle": "27.0",
-        "source": "live"
-    },
-    {
         "player": "Sal Stewart",
         "distance": 456,
         "team": "CIN",
@@ -8044,6 +8031,58 @@
         "inning": 2,
         "exit_velo": "105.3",
         "launch_angle": "32.0",
+        "source": "live"
+    },
+    {
+        "player": "Hunter Goodman",
+        "distance": 442,
+        "team": "COL",
+        "opponent": "CIN",
+        "date": "2026-07-19",
+        "time_utc": "2026-07-19T21:25:35.339Z",
+        "game_pk": 824330,
+        "inning": 8,
+        "exit_velo": "105.1",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
+        "player": "Willi Castro",
+        "distance": 435,
+        "team": "COL",
+        "opponent": "CIN",
+        "date": "2026-07-19",
+        "time_utc": "2026-07-19T21:40:51.035Z",
+        "game_pk": 824330,
+        "inning": 9,
+        "exit_velo": "105.1",
+        "launch_angle": "35.0",
+        "source": "live"
+    },
+    {
+        "player": "Wyatt Langford",
+        "distance": 422,
+        "team": "TEX",
+        "opponent": "ATL",
+        "date": "2026-07-19",
+        "time_utc": "2026-07-19T20:21:30.318Z",
+        "game_pk": 824897,
+        "inning": 9,
+        "exit_velo": "105.2",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
+        "player": "CJ Abrams",
+        "distance": 422,
+        "team": "WSH",
+        "opponent": "ATH",
+        "date": "2026-07-19",
+        "time_utc": "2026-07-19T21:21:10.453Z",
+        "game_pk": 824978,
+        "inning": 5,
+        "exit_velo": "105.0",
+        "launch_angle": "26.0",
         "source": "live"
     }
 ]
