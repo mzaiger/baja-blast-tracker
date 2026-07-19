@@ -7954,5 +7954,18 @@
         "exit_velo": "108.8",
         "launch_angle": "29",
         "source": "savant"
+    },
+    {
+        "player": "Francisco Lindor",
+        "distance": 420,
+        "team": "NYM",
+        "opponent": "PHI",
+        "date": "2026-07-19",
+        "time_utc": "2026-07-19T17:43:15.321Z",
+        "game_pk": 823439,
+        "inning": 1,
+        "exit_velo": "106.7",
+        "launch_angle": "37.0",
+        "source": "live"
     }
 ]
