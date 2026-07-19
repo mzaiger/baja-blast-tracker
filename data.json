@@ -7852,6 +7852,19 @@
         "source": "savant"
     },
     {
+        "player": "Spencer Torkelson",
+        "distance": 420,
+        "team": "DET",
+        "opponent": "LAA",
+        "date": "2026-07-18",
+        "time_utc": "2026-07-19T03:20:31.976Z",
+        "game_pk": 824008,
+        "inning": 5,
+        "exit_velo": "107.5",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
         "player": "Lane Thomas",
         "distance": 421,
         "team": "KC",
