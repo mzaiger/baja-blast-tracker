@@ -8099,6 +8099,32 @@
         "source": "live"
     },
     {
+        "player": "Derek Hill",
+        "distance": 424,
+        "team": "PHI",
+        "opponent": "LAD",
+        "date": "2026-07-20",
+        "time_utc": "2026-07-21T01:53:10.323Z",
+        "game_pk": 823436,
+        "inning": 8,
+        "exit_velo": "105.7",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
+        "player": "Mookie Betts",
+        "distance": 421,
+        "team": "LAD",
+        "opponent": "PHI",
+        "date": "2026-07-20",
+        "time_utc": "2026-07-21T02:03:40.317Z",
+        "game_pk": 823436,
+        "inning": 9,
+        "exit_velo": "101.9",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
         "player": "Esmerlyn Valdez",
         "distance": 436,
         "team": "PIT",
@@ -8161,6 +8187,45 @@
         "inning": 1,
         "exit_velo": "105.4",
         "launch_angle": "33.0",
+        "source": "live"
+    },
+    {
+        "player": "Jacob Young",
+        "distance": 437,
+        "team": "WSH",
+        "opponent": "COL",
+        "date": "2026-07-20",
+        "time_utc": "2026-07-21T02:06:41.582Z",
+        "game_pk": 824328,
+        "inning": 6,
+        "exit_velo": "103.4",
+        "launch_angle": "35.0",
+        "source": "live"
+    },
+    {
+        "player": "CJ Abrams",
+        "distance": 420,
+        "team": "WSH",
+        "opponent": "COL",
+        "date": "2026-07-20",
+        "time_utc": "2026-07-21T02:31:54.625Z",
+        "game_pk": 824328,
+        "inning": 7,
+        "exit_velo": "100.9",
+        "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
+        "player": "Ian Happ",
+        "distance": 432,
+        "team": "CHC",
+        "opponent": "DET",
+        "date": "2026-07-20",
+        "time_utc": "2026-07-21T03:02:56.755Z",
+        "game_pk": 824654,
+        "inning": 8,
+        "exit_velo": "104.8",
+        "launch_angle": "32.0",
         "source": "live"
     }
 ]
