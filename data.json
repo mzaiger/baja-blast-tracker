@@ -8318,5 +8318,31 @@
         "exit_velo": "110.7",
         "launch_angle": "25",
         "source": "savant"
+    },
+    {
+        "player": "Salvador Perez",
+        "distance": 437,
+        "team": "KC",
+        "opponent": "SF",
+        "date": "2026-07-22",
+        "time_utc": "2026-07-22T19:45:47.793Z",
+        "game_pk": 824083,
+        "inning": 7,
+        "exit_velo": "108.7",
+        "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
+        "player": "Christian Encarnacion-Strand",
+        "distance": 424,
+        "team": "BAL",
+        "opponent": "BOS",
+        "date": "2026-07-22",
+        "time_utc": "2026-07-22T18:34:49.706Z",
+        "game_pk": 824735,
+        "inning": 4,
+        "exit_velo": "105.9",
+        "launch_angle": "30.0",
+        "source": "live"
     }
 ]
