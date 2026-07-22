@@ -8227,5 +8227,44 @@
         "exit_velo": "104.8",
         "launch_angle": "32",
         "source": "savant"
+    },
+    {
+        "player": "Max Muncy",
+        "distance": 421,
+        "team": "LAD",
+        "opponent": "PHI",
+        "date": "2026-07-21",
+        "time_utc": "2026-07-22T00:49:30.538Z",
+        "game_pk": 823437,
+        "inning": 4,
+        "exit_velo": "102.4",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
+        "player": "CJ Abrams",
+        "distance": 434,
+        "team": "WSH",
+        "opponent": "COL",
+        "date": "2026-07-21",
+        "time_utc": "2026-07-22T01:34:09.731Z",
+        "game_pk": 824329,
+        "inning": 3,
+        "exit_velo": "102.7",
+        "launch_angle": "35.0",
+        "source": "live"
+    },
+    {
+        "player": "Fernando Tatis Jr.",
+        "distance": 474,
+        "team": "SD",
+        "opponent": "ATL",
+        "date": "2026-07-21",
+        "time_utc": "2026-07-22T01:34:10.010Z",
+        "game_pk": 824895,
+        "inning": 8,
+        "exit_velo": "111.0",
+        "launch_angle": "27.0",
+        "source": "live"
     }
 ]
