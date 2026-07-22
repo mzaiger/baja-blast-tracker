@@ -8242,6 +8242,32 @@
         "source": "live"
     },
     {
+        "player": "Luis Robert Jr.",
+        "distance": 451,
+        "team": "NYM",
+        "opponent": "MIL",
+        "date": "2026-07-21",
+        "time_utc": "2026-07-22T02:00:03.829Z",
+        "game_pk": 823760,
+        "inning": 8,
+        "exit_velo": "112.2",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "Joe Mack",
+        "distance": 435,
+        "team": "MIA",
+        "opponent": "HOU",
+        "date": "2026-07-21",
+        "time_utc": "2026-07-22T02:03:05.791Z",
+        "game_pk": 824165,
+        "inning": 7,
+        "exit_velo": "109.3",
+        "launch_angle": "30.0",
+        "source": "live"
+    },
+    {
         "player": "CJ Abrams",
         "distance": 434,
         "team": "WSH",
@@ -8255,6 +8281,19 @@
         "source": "live"
     },
     {
+        "player": "Mickey Moniak",
+        "distance": 421,
+        "team": "COL",
+        "opponent": "WSH",
+        "date": "2026-07-21",
+        "time_utc": "2026-07-22T02:28:03.852Z",
+        "game_pk": 824329,
+        "inning": 6,
+        "exit_velo": "101.2",
+        "launch_angle": "38.0",
+        "source": "live"
+    },
+    {
         "player": "Fernando Tatis Jr.",
         "distance": 474,
         "team": "SD",
@@ -8265,6 +8304,19 @@
         "inning": 8,
         "exit_velo": "111.0",
         "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "Shea Langeliers",
+        "distance": 444,
+        "team": "ATH",
+        "opponent": "AZ",
+        "date": "2026-07-21",
+        "time_utc": "2026-07-22T03:58:44.679Z",
+        "game_pk": 825056,
+        "inning": 8,
+        "exit_velo": "110.7",
+        "launch_angle": "25.0",
         "source": "live"
     }
 ]
