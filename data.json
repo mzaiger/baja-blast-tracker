@@ -8320,6 +8320,19 @@
         "source": "savant"
     },
     {
+        "player": "Dalton Rushing",
+        "distance": 438,
+        "team": "LAD",
+        "opponent": "PHI",
+        "date": "2026-07-22",
+        "time_utc": "2026-07-22T23:18:30.606Z",
+        "game_pk": 823438,
+        "inning": 3,
+        "exit_velo": "107.7",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
         "player": "Salvador Perez",
         "distance": 437,
         "team": "KC",
@@ -8356,6 +8369,19 @@
         "inning": 4,
         "exit_velo": "105.9",
         "launch_angle": "30.0",
+        "source": "live"
+    },
+    {
+        "player": "Jackson Merrill",
+        "distance": 449,
+        "team": "SD",
+        "opponent": "ATL",
+        "date": "2026-07-22",
+        "time_utc": "2026-07-23T01:01:40.015Z",
+        "game_pk": 824896,
+        "inning": 7,
+        "exit_velo": "109.0",
+        "launch_angle": "26.0",
         "source": "live"
     },
     {
