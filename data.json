@@ -8422,5 +8422,18 @@
         "exit_velo": "106.7",
         "launch_angle": "27",
         "source": "savant"
+    },
+    {
+        "player": "Michael Harris II",
+        "distance": 420,
+        "team": "ATL",
+        "opponent": "SD",
+        "date": "2026-07-23",
+        "time_utc": "2026-07-23T16:44:25.506Z",
+        "game_pk": 824893,
+        "inning": 2,
+        "exit_velo": "109.6",
+        "launch_angle": "26.0",
+        "source": "live"
     }
 ]
