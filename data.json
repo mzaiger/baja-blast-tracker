@@ -8424,6 +8424,19 @@
         "source": "savant"
     },
     {
+        "player": "Patrick Bailey",
+        "distance": 420,
+        "team": "CLE",
+        "opponent": "MIN",
+        "date": "2026-07-23",
+        "time_utc": "2026-07-23T18:21:52.263Z",
+        "game_pk": 824406,
+        "inning": 5,
+        "exit_velo": "109.2",
+        "launch_angle": "32.0",
+        "source": "live"
+    },
+    {
         "player": "Michael Harris II",
         "distance": 420,
         "team": "ATL",
