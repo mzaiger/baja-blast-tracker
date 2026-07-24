@@ -8424,29 +8424,29 @@
         "source": "savant"
     },
     {
-        "player": "Patrick Bailey",
+        "player": "Bailey, Patrick",
         "distance": 420,
         "team": "CLE",
         "opponent": "MIN",
         "date": "2026-07-23",
-        "time_utc": "2026-07-23T18:21:52.263Z",
+        "time_utc": "2026-07-23T17:10:00Z",
         "game_pk": 824406,
         "inning": 5,
         "exit_velo": "109.2",
-        "launch_angle": "32.0",
-        "source": "live"
+        "launch_angle": "32",
+        "source": "savant"
     },
     {
-        "player": "Michael Harris II",
+        "player": "Harris II, Michael",
         "distance": 420,
         "team": "ATL",
         "opponent": "SD",
         "date": "2026-07-23",
-        "time_utc": "2026-07-23T16:44:25.506Z",
+        "time_utc": "2026-07-23T16:15:00Z",
         "game_pk": 824893,
         "inning": 2,
         "exit_velo": "109.6",
-        "launch_angle": "26.0",
-        "source": "live"
+        "launch_angle": "26",
+        "source": "savant"
     }
 ]
