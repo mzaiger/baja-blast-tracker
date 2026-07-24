@@ -8448,5 +8448,18 @@
         "exit_velo": "109.6",
         "launch_angle": "26",
         "source": "savant"
+    },
+    {
+        "player": "Brice Turang",
+        "distance": 434,
+        "team": "MIL",
+        "opponent": "COL",
+        "date": "2026-07-24",
+        "time_utc": "2026-07-24T21:45:03.846Z",
+        "game_pk": 823759,
+        "inning": 6,
+        "exit_velo": "108.6",
+        "launch_angle": "35.0",
+        "source": "live"
     }
 ]
