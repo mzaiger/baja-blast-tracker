@@ -8450,42 +8450,42 @@
         "source": "savant"
     },
     {
-        "player": "Eugenio Su\u00e1rez",
+        "player": "Su\u00e1rez, Eugenio",
         "distance": 435,
-        "team": "CIN",
-        "opponent": "STL",
+        "team": "STL",
+        "opponent": "CIN",
         "date": "2026-07-24",
-        "time_utc": "2026-07-25T02:02:55.537Z",
+        "time_utc": "2026-07-25T00:15:00Z",
         "game_pk": 823031,
         "inning": 7,
         "exit_velo": "110.5",
-        "launch_angle": "34.0",
-        "source": "live"
+        "launch_angle": "34",
+        "source": "savant"
     },
     {
-        "player": "Brice Turang",
+        "player": "Turang, Brice",
         "distance": 434,
         "team": "MIL",
         "opponent": "COL",
         "date": "2026-07-24",
-        "time_utc": "2026-07-24T21:45:03.846Z",
+        "time_utc": "2026-07-24T20:10:00Z",
         "game_pk": 823759,
         "inning": 6,
         "exit_velo": "108.6",
-        "launch_angle": "35.0",
-        "source": "live"
+        "launch_angle": "35",
+        "source": "savant"
     },
     {
-        "player": "Heriberto Hern\u00e1ndez",
+        "player": "Hern\u00e1ndez, Heriberto",
         "distance": 423,
         "team": "MIA",
         "opponent": "SD",
         "date": "2026-07-24",
-        "time_utc": "2026-07-25T00:47:46.724Z",
+        "time_utc": "2026-07-24T23:10:00Z",
         "game_pk": 823843,
         "inning": 5,
         "exit_velo": "110.8",
-        "launch_angle": "20.0",
-        "source": "live"
+        "launch_angle": "20",
+        "source": "savant"
     }
 ]
