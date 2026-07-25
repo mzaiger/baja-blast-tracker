@@ -8487,5 +8487,18 @@
         "exit_velo": "110.8",
         "launch_angle": "20",
         "source": "savant"
+    },
+    {
+        "player": "Austin Wells",
+        "distance": 430,
+        "team": "NYY",
+        "opponent": "PHI",
+        "date": "2026-07-25",
+        "time_utc": "2026-07-25T22:41:51.682Z",
+        "game_pk": 823435,
+        "inning": 3,
+        "exit_velo": "105.7",
+        "launch_angle": "27.0",
+        "source": "live"
     }
 ]
