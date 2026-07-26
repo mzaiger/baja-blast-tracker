@@ -8526,5 +8526,18 @@
         "exit_velo": "110.6",
         "launch_angle": "35.0",
         "source": "live"
+    },
+    {
+        "player": "Taylor Trammell",
+        "distance": 426,
+        "team": "HOU",
+        "opponent": "CWS",
+        "date": "2026-07-26",
+        "time_utc": "2026-07-26T19:10:21.680Z",
+        "game_pk": 824572,
+        "inning": 5,
+        "exit_velo": "112.6",
+        "launch_angle": "22.0",
+        "source": "live"
     }
 ]
