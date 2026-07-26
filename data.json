@@ -8489,29 +8489,29 @@
         "source": "savant"
     },
     {
-        "player": "Austin Wells",
+        "player": "Wells, Austin",
         "distance": 430,
-        "team": "NYY",
-        "opponent": "PHI",
+        "team": "PHI",
+        "opponent": "NYY",
         "date": "2026-07-25",
-        "time_utc": "2026-07-25T22:41:51.682Z",
+        "time_utc": "2026-07-25T22:05:00Z",
         "game_pk": 823435,
         "inning": 3,
         "exit_velo": "105.7",
-        "launch_angle": "27.0",
-        "source": "live"
+        "launch_angle": "27",
+        "source": "savant"
     },
     {
-        "player": "Jasson Dom\u00ednguez",
+        "player": "Dom\u00ednguez, Jasson",
         "distance": 420,
-        "team": "NYY",
-        "opponent": "PHI",
+        "team": "PHI",
+        "opponent": "NYY",
         "date": "2026-07-25",
-        "time_utc": "2026-07-25T23:55:24.355Z",
+        "time_utc": "2026-07-25T22:05:00Z",
         "game_pk": 823435,
         "inning": 7,
         "exit_velo": "105.6",
-        "launch_angle": "27.0",
-        "source": "live"
+        "launch_angle": "27",
+        "source": "savant"
     }
 ]
