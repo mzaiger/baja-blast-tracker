@@ -8500,5 +8500,18 @@
         "exit_velo": "105.7",
         "launch_angle": "27.0",
         "source": "live"
+    },
+    {
+        "player": "Jasson Dom\u00ednguez",
+        "distance": 420,
+        "team": "NYY",
+        "opponent": "PHI",
+        "date": "2026-07-25",
+        "time_utc": "2026-07-25T23:55:24.355Z",
+        "game_pk": 823435,
+        "inning": 7,
+        "exit_velo": "105.6",
+        "launch_angle": "27.0",
+        "source": "live"
     }
 ]
