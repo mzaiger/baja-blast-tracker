@@ -8513,5 +8513,18 @@
         "exit_velo": "105.6",
         "launch_angle": "27",
         "source": "savant"
+    },
+    {
+        "player": "Shawn Ross",
+        "distance": 438,
+        "team": "PIT",
+        "opponent": "CHC",
+        "date": "2026-07-26",
+        "time_utc": "2026-07-26T18:11:41.870Z",
+        "game_pk": 823354,
+        "inning": 2,
+        "exit_velo": "110.6",
+        "launch_angle": "35.0",
+        "source": "live"
     }
 ]
