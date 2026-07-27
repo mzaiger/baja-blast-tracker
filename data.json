@@ -8578,5 +8578,18 @@
         "exit_velo": "112.6",
         "launch_angle": "22",
         "source": "savant"
+    },
+    {
+        "player": "Ezequiel Duran",
+        "distance": 436,
+        "team": "TEX",
+        "opponent": "SEA",
+        "date": "2026-07-27",
+        "time_utc": "2026-07-27T19:21:04.445Z",
+        "game_pk": 822868,
+        "inning": 3,
+        "exit_velo": "106.3",
+        "launch_angle": "27.0",
+        "source": "live"
     }
 ]
