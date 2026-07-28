@@ -8580,6 +8580,19 @@
         "source": "savant"
     },
     {
+        "player": "Andr\u00e9s Chaparro",
+        "distance": 432,
+        "team": "WSH",
+        "opponent": "TOR",
+        "date": "2026-07-27",
+        "time_utc": "2026-07-28T00:27:52.015Z",
+        "game_pk": 822705,
+        "inning": 5,
+        "exit_velo": "108.3",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
         "player": "Ezequiel Duran",
         "distance": 436,
         "team": "TEX",
@@ -8590,6 +8603,19 @@
         "inning": 3,
         "exit_velo": "106.3",
         "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "Marcus Semien",
+        "distance": 424,
+        "team": "NYM",
+        "opponent": "ATL",
+        "date": "2026-07-27",
+        "time_utc": "2026-07-28T00:41:31.896Z",
+        "game_pk": 823597,
+        "inning": 6,
+        "exit_velo": "105.3",
+        "launch_angle": "33.0",
         "source": "live"
     }
 ]
