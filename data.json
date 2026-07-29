@@ -8138,19 +8138,6 @@
         "source": "savant"
     },
     {
-        "player": "Ramos, Heliot",
-        "distance": 430,
-        "team": "KC",
-        "opponent": "SF",
-        "date": "2026-07-20",
-        "time_utc": "2026-07-20T23:40:00Z",
-        "game_pk": 824087,
-        "inning": 4,
-        "exit_velo": "107.5",
-        "launch_angle": "26",
-        "source": "savant"
-    },
-    {
         "player": "Perez, Salvador",
         "distance": 440,
         "team": "KC",
@@ -8161,6 +8148,19 @@
         "inning": 4,
         "exit_velo": "105.4",
         "launch_angle": "25",
+        "source": "savant"
+    },
+    {
+        "player": "Ramos, Heliot",
+        "distance": 430,
+        "team": "KC",
+        "opponent": "SF",
+        "date": "2026-07-20",
+        "time_utc": "2026-07-20T23:40:00Z",
+        "game_pk": 824087,
+        "inning": 4,
+        "exit_velo": "107.5",
+        "launch_angle": "26",
         "source": "savant"
     },
     {
@@ -8619,68 +8619,68 @@
         "source": "savant"
     },
     {
-        "player": "George Springer",
+        "player": "Springer, George",
         "distance": 437,
-        "team": "TOR",
-        "opponent": "WSH",
+        "team": "WSH",
+        "opponent": "TOR",
         "date": "2026-07-28",
-        "time_utc": "2026-07-29T02:27:23.597Z",
+        "time_utc": "2026-07-28T22:45:00Z",
         "game_pk": 822703,
         "inning": 8,
         "exit_velo": "105.8",
-        "launch_angle": "26.0",
-        "source": "live"
+        "launch_angle": "26",
+        "source": "savant"
     },
     {
-        "player": "Shohei Ohtani",
+        "player": "Ohtani, Shohei",
         "distance": 432,
         "team": "LAD",
         "opponent": "SEA",
         "date": "2026-07-28",
-        "time_utc": "2026-07-29T02:17:31.548Z",
+        "time_utc": "2026-07-29T02:10:00Z",
         "game_pk": 823923,
         "inning": 1,
         "exit_velo": "109.1",
-        "launch_angle": "27.0",
-        "source": "live"
+        "launch_angle": "27",
+        "source": "savant"
     },
     {
-        "player": "Max Muncy",
+        "player": "Muncy, Max",
         "distance": 430,
         "team": "LAD",
         "opponent": "SEA",
         "date": "2026-07-28",
-        "time_utc": "2026-07-29T03:32:06.900Z",
+        "time_utc": "2026-07-29T02:10:00Z",
         "game_pk": 823923,
         "inning": 5,
         "exit_velo": "109.9",
-        "launch_angle": "28.0",
-        "source": "live"
+        "launch_angle": "28",
+        "source": "savant"
     },
     {
-        "player": "Dominic Canzone",
+        "player": "Canzone, Dominic",
         "distance": 433,
-        "team": "SEA",
-        "opponent": "LAD",
+        "team": "LAD",
+        "opponent": "SEA",
         "date": "2026-07-28",
-        "time_utc": "2026-07-29T03:40:40.049Z",
+        "time_utc": "2026-07-29T02:10:00Z",
         "game_pk": 823923,
         "inning": 6,
         "exit_velo": "107.9",
-        "launch_angle": "29.0",
-        "source": "live"
+        "launch_angle": "29",
+        "source": "savant"
     },
     {
-        "player": "Yordan Alvarez",
+        "player": "Alvarez, Yordan",
         "distance": 427,
-        "team": "HOU",
-        "opponent": "LAA",
+        "team": "LAA",
+        "opponent": "HOU",
         "date": "2026-07-28",
-        "time_utc": "2026-07-29T01:40:08.284Z",
+        "time_utc": "2026-07-29T01:38:00Z",
         "game_pk": 824003,
         "inning": 1,
         "exit_velo": "109.1",
-        "launch_angle": "29.0",
-        "source": "live"
+        "launch_angle": "29",
+        "source": "savant"
     }
 ]
