@@ -8619,6 +8619,58 @@
         "source": "savant"
     },
     {
+        "player": "George Springer",
+        "distance": 437,
+        "team": "TOR",
+        "opponent": "WSH",
+        "date": "2026-07-28",
+        "time_utc": "2026-07-29T02:27:23.597Z",
+        "game_pk": 822703,
+        "inning": 8,
+        "exit_velo": "105.8",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
+        "player": "Shohei Ohtani",
+        "distance": 432,
+        "team": "LAD",
+        "opponent": "SEA",
+        "date": "2026-07-28",
+        "time_utc": "2026-07-29T02:17:31.548Z",
+        "game_pk": 823923,
+        "inning": 1,
+        "exit_velo": "109.1",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "Max Muncy",
+        "distance": 430,
+        "team": "LAD",
+        "opponent": "SEA",
+        "date": "2026-07-28",
+        "time_utc": "2026-07-29T03:32:06.900Z",
+        "game_pk": 823923,
+        "inning": 5,
+        "exit_velo": "109.9",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
+        "player": "Dominic Canzone",
+        "distance": 433,
+        "team": "SEA",
+        "opponent": "LAD",
+        "date": "2026-07-28",
+        "time_utc": "2026-07-29T03:40:40.049Z",
+        "game_pk": 823923,
+        "inning": 6,
+        "exit_velo": "107.9",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
         "player": "Yordan Alvarez",
         "distance": 427,
         "team": "HOU",
