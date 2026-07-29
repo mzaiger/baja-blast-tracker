@@ -8682,5 +8682,18 @@
         "exit_velo": "109.1",
         "launch_angle": "29",
         "source": "savant"
+    },
+    {
+        "player": "Griffin Conine",
+        "distance": 424,
+        "team": "MIA",
+        "opponent": "PHI",
+        "date": "2026-07-29",
+        "time_utc": "2026-07-29T18:28:55.525Z",
+        "game_pk": 823837,
+        "inning": 8,
+        "exit_velo": "107.8",
+        "launch_angle": "34.0",
+        "source": "live"
     }
 ]
