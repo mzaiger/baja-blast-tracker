@@ -8708,5 +8708,18 @@
         "exit_velo": "107.8",
         "launch_angle": "34.0",
         "source": "live"
+    },
+    {
+        "player": "Kyle Manzardo",
+        "distance": 425,
+        "team": "CLE",
+        "opponent": "CIN",
+        "date": "2026-07-29",
+        "time_utc": "2026-07-30T01:16:24.977Z",
+        "game_pk": 824487,
+        "inning": 7,
+        "exit_velo": "104.1",
+        "launch_angle": "31.0",
+        "source": "live"
     }
 ]
