@@ -8697,6 +8697,19 @@
         "source": "live"
     },
     {
+        "player": "Pete Crow-Armstrong",
+        "distance": 424,
+        "team": "CHC",
+        "opponent": "STL",
+        "date": "2026-07-29",
+        "time_utc": "2026-07-30T02:20:08.922Z",
+        "game_pk": 823022,
+        "inning": 10,
+        "exit_velo": "109.1",
+        "launch_angle": "33.0",
+        "source": "live"
+    },
+    {
         "player": "Griffin Conine",
         "distance": 424,
         "team": "MIA",
@@ -8710,6 +8723,19 @@
         "source": "live"
     },
     {
+        "player": "Yainer Diaz",
+        "distance": 425,
+        "team": "HOU",
+        "opponent": "LAA",
+        "date": "2026-07-29",
+        "time_utc": "2026-07-30T02:05:31.491Z",
+        "game_pk": 824002,
+        "inning": 2,
+        "exit_velo": "106.5",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
         "player": "Kyle Manzardo",
         "distance": 425,
         "team": "CLE",
@@ -8720,6 +8746,32 @@
         "inning": 7,
         "exit_velo": "104.1",
         "launch_angle": "31.0",
+        "source": "live"
+    },
+    {
+        "player": "Lawrence Butler",
+        "distance": 422,
+        "team": "ATH",
+        "opponent": "BOS",
+        "date": "2026-07-29",
+        "time_utc": "2026-07-30T03:08:17.569Z",
+        "game_pk": 824973,
+        "inning": 5,
+        "exit_velo": "103.4",
+        "launch_angle": "33.0",
+        "source": "live"
+    },
+    {
+        "player": "Andruw Monasterio",
+        "distance": 428,
+        "team": "BOS",
+        "opponent": "ATH",
+        "date": "2026-07-29",
+        "time_utc": "2026-07-30T04:44:48.749Z",
+        "game_pk": 824973,
+        "inning": 10,
+        "exit_velo": "102.6",
+        "launch_angle": "33.0",
         "source": "live"
     }
 ]
