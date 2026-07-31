@@ -8786,5 +8786,31 @@
         "exit_velo": "113.7",
         "launch_angle": "31.0",
         "source": "live"
+    },
+    {
+        "player": "Luis Garc\u00eda Jr.",
+        "distance": 455,
+        "team": "WSH",
+        "opponent": "ATL",
+        "date": "2026-07-30",
+        "time_utc": "2026-07-30T23:43:19.331Z",
+        "game_pk": 824894,
+        "inning": 3,
+        "exit_velo": "111.1",
+        "launch_angle": "34.0",
+        "source": "live"
+    },
+    {
+        "player": "Ronald Acu\u00f1a Jr.",
+        "distance": 421,
+        "team": "ATL",
+        "opponent": "WSH",
+        "date": "2026-07-30",
+        "time_utc": "2026-07-31T00:02:41.505Z",
+        "game_pk": 824894,
+        "inning": 4,
+        "exit_velo": "104.9",
+        "launch_angle": "29.0",
+        "source": "live"
     }
 ]
