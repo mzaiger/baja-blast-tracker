@@ -8929,5 +8929,18 @@
         "exit_velo": "112.8",
         "launch_angle": "19",
         "source": "savant"
+    },
+    {
+        "player": "Rhys Hoskins",
+        "distance": 424,
+        "team": "CLE",
+        "opponent": "AZ",
+        "date": "2026-08-01",
+        "time_utc": "2026-08-01T23:31:53.388Z",
+        "game_pk": 824405,
+        "inning": 1,
+        "exit_velo": "105.0",
+        "launch_angle": "33.0",
+        "source": "live"
     }
 ]
