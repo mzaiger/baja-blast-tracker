@@ -8827,6 +8827,19 @@
         "source": "savant"
     },
     {
+        "player": "Miguel Vargas",
+        "distance": 433,
+        "team": "CWS",
+        "opponent": "TB",
+        "date": "2026-07-31",
+        "time_utc": "2026-07-31T23:12:43.665Z",
+        "game_pk": 822945,
+        "inning": 1,
+        "exit_velo": "107.8",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
         "player": "Amed Rosario",
         "distance": 450,
         "team": "NYY",
