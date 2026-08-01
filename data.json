@@ -8138,19 +8138,6 @@
         "source": "savant"
     },
     {
-        "player": "Perez, Salvador",
-        "distance": 440,
-        "team": "KC",
-        "opponent": "SF",
-        "date": "2026-07-20",
-        "time_utc": "2026-07-20T23:40:00Z",
-        "game_pk": 824087,
-        "inning": 4,
-        "exit_velo": "105.4",
-        "launch_angle": "25",
-        "source": "savant"
-    },
-    {
         "player": "Ramos, Heliot",
         "distance": 430,
         "team": "KC",
@@ -8161,6 +8148,19 @@
         "inning": 4,
         "exit_velo": "107.5",
         "launch_angle": "26",
+        "source": "savant"
+    },
+    {
+        "player": "Perez, Salvador",
+        "distance": 440,
+        "team": "KC",
+        "opponent": "SF",
+        "date": "2026-07-20",
+        "time_utc": "2026-07-20T23:40:00Z",
+        "game_pk": 824087,
+        "inning": 4,
+        "exit_velo": "105.4",
+        "launch_angle": "25",
         "source": "savant"
     },
     {
@@ -8827,107 +8827,107 @@
         "source": "savant"
     },
     {
-        "player": "Miguel Vargas",
+        "player": "Vargas, Miguel",
         "distance": 433,
-        "team": "CWS",
-        "opponent": "TB",
+        "team": "TB",
+        "opponent": "CWS",
         "date": "2026-07-31",
-        "time_utc": "2026-07-31T23:12:43.665Z",
+        "time_utc": "2026-07-31T23:10:00Z",
         "game_pk": 822945,
         "inning": 1,
         "exit_velo": "107.8",
-        "launch_angle": "26.0",
-        "source": "live"
+        "launch_angle": "26",
+        "source": "savant"
     },
     {
-        "player": "Junior Caminero",
+        "player": "Caminero, Junior",
         "distance": 453,
         "team": "TB",
         "opponent": "CWS",
         "date": "2026-07-31",
-        "time_utc": "2026-08-01T00:04:53.960Z",
+        "time_utc": "2026-07-31T23:10:00Z",
         "game_pk": 822945,
         "inning": 4,
         "exit_velo": "109.5",
-        "launch_angle": "29.0",
-        "source": "live"
+        "launch_angle": "29",
+        "source": "savant"
     },
     {
-        "player": "Colson Montgomery",
+        "player": "Montgomery, Colson",
         "distance": 425,
-        "team": "CWS",
-        "opponent": "TB",
+        "team": "TB",
+        "opponent": "CWS",
         "date": "2026-07-31",
-        "time_utc": "2026-08-01T00:35:13.416Z",
+        "time_utc": "2026-07-31T23:10:00Z",
         "game_pk": 822945,
         "inning": 6,
         "exit_velo": "107.4",
-        "launch_angle": "33.0",
-        "source": "live"
+        "launch_angle": "33",
+        "source": "savant"
     },
     {
-        "player": "Jake Bauers",
+        "player": "Bauers, Jake",
         "distance": 424,
-        "team": "MIL",
-        "opponent": "LAA",
+        "team": "LAA",
+        "opponent": "MIL",
         "date": "2026-07-31",
-        "time_utc": "2026-08-01T02:49:40.407Z",
+        "time_utc": "2026-08-01T01:38:00Z",
         "game_pk": 823999,
         "inning": 5,
         "exit_velo": "109.8",
-        "launch_angle": "33.0",
-        "source": "live"
+        "launch_angle": "33",
+        "source": "savant"
     },
     {
-        "player": "Christian Walker",
+        "player": "Walker, Christian",
         "distance": 428,
         "team": "HOU",
         "opponent": "TEX",
         "date": "2026-07-31",
-        "time_utc": "2026-08-01T01:45:09.400Z",
+        "time_utc": "2026-08-01T00:15:00Z",
         "game_pk": 824164,
         "inning": 5,
         "exit_velo": "110.1",
-        "launch_angle": "23.0",
-        "source": "live"
+        "launch_angle": "23",
+        "source": "savant"
     },
     {
-        "player": "Carter Jensen",
+        "player": "Jensen, Carter",
         "distance": 424,
-        "team": "KC",
-        "opponent": "COL",
+        "team": "COL",
+        "opponent": "KC",
         "date": "2026-07-31",
-        "time_utc": "2026-08-01T02:52:22.369Z",
+        "time_utc": "2026-08-01T00:40:00Z",
         "game_pk": 824325,
         "inning": 6,
         "exit_velo": "102.5",
-        "launch_angle": "30.0",
-        "source": "live"
+        "launch_angle": "30",
+        "source": "savant"
     },
     {
-        "player": "Amed Rosario",
+        "player": "Rosario, Amed",
         "distance": 450,
-        "team": "NYY",
-        "opponent": "CHC",
+        "team": "CHC",
+        "opponent": "NYY",
         "date": "2026-07-31",
-        "time_utc": "2026-07-31T19:10:03.235Z",
+        "time_utc": "2026-07-31T18:20:00Z",
         "game_pk": 824651,
         "inning": 4,
         "exit_velo": "108.4",
-        "launch_angle": "30.0",
-        "source": "live"
+        "launch_angle": "30",
+        "source": "savant"
     },
     {
-        "player": "Michael Harris II",
+        "player": "Harris II, Michael",
         "distance": 421,
         "team": "ATL",
         "opponent": "WSH",
         "date": "2026-07-31",
-        "time_utc": "2026-08-01T00:44:37.246Z",
+        "time_utc": "2026-07-31T23:15:00Z",
         "game_pk": 824892,
         "inning": 6,
         "exit_velo": "112.8",
-        "launch_angle": "19.0",
-        "source": "live"
+        "launch_angle": "19",
+        "source": "savant"
     }
 ]
