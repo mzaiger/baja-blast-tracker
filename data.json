@@ -8983,6 +8983,19 @@
         "source": "savant"
     },
     {
+        "player": "Jackson Merrill",
+        "distance": 422,
+        "team": "SD",
+        "opponent": "SF",
+        "date": "2026-08-02",
+        "time_utc": "2026-08-02T20:39:45.897Z",
+        "game_pk": 823270,
+        "inning": 2,
+        "exit_velo": "105.0",
+        "launch_angle": "30.0",
+        "source": "live"
+    },
+    {
         "player": "Sal Stewart",
         "distance": 420,
         "team": "CIN",
