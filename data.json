@@ -8957,6 +8957,19 @@
         "source": "live"
     },
     {
+        "player": "Hunter Goodman",
+        "distance": 424,
+        "team": "COL",
+        "opponent": "KC",
+        "date": "2026-08-01",
+        "time_utc": "2026-08-02T02:19:34.418Z",
+        "game_pk": 824326,
+        "inning": 7,
+        "exit_velo": "100.9",
+        "launch_angle": "34.0",
+        "source": "live"
+    },
+    {
         "player": "Rhys Hoskins",
         "distance": 424,
         "team": "CLE",
