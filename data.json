@@ -8931,6 +8931,32 @@
         "source": "savant"
     },
     {
+        "player": "Salvador Perez",
+        "distance": 425,
+        "team": "KC",
+        "opponent": "COL",
+        "date": "2026-08-01",
+        "time_utc": "2026-08-02T00:44:30.721Z",
+        "game_pk": 824326,
+        "inning": 3,
+        "exit_velo": "104.2",
+        "launch_angle": "33.0",
+        "source": "live"
+    },
+    {
+        "player": "Willi Castro",
+        "distance": 422,
+        "team": "COL",
+        "opponent": "KC",
+        "date": "2026-08-01",
+        "time_utc": "2026-08-02T01:49:48.948Z",
+        "game_pk": 824326,
+        "inning": 5,
+        "exit_velo": "102.7",
+        "launch_angle": "37.0",
+        "source": "live"
+    },
+    {
         "player": "Rhys Hoskins",
         "distance": 424,
         "team": "CLE",
