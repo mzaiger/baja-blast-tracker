@@ -8983,68 +8983,68 @@
         "source": "savant"
     },
     {
-        "player": "Jackson Merrill",
+        "player": "Merrill, Jackson",
         "distance": 422,
         "team": "SD",
         "opponent": "SF",
         "date": "2026-08-02",
-        "time_utc": "2026-08-02T20:39:45.897Z",
+        "time_utc": "2026-08-02T20:10:00Z",
         "game_pk": 823270,
         "inning": 2,
-        "exit_velo": "105.0",
-        "launch_angle": "30.0",
-        "source": "live"
+        "exit_velo": "105",
+        "launch_angle": "30",
+        "source": "savant"
     },
     {
-        "player": "Wilyer Abreu",
+        "player": "Abreu, Wilyer",
         "distance": 431,
-        "team": "BOS",
-        "opponent": "LAD",
+        "team": "LAD",
+        "opponent": "BOS",
         "date": "2026-08-02",
-        "time_utc": "2026-08-03T00:07:49.091Z",
+        "time_utc": "2026-08-02T23:20:00Z",
         "game_pk": 823919,
         "inning": 3,
         "exit_velo": "109.1",
-        "launch_angle": "24.0",
-        "source": "live"
+        "launch_angle": "24",
+        "source": "savant"
     },
     {
-        "player": "Jarren Duran",
+        "player": "Duran, Jarren",
         "distance": 420,
-        "team": "BOS",
-        "opponent": "LAD",
+        "team": "LAD",
+        "opponent": "BOS",
         "date": "2026-08-02",
-        "time_utc": "2026-08-03T01:01:19.853Z",
+        "time_utc": "2026-08-02T23:20:00Z",
         "game_pk": 823919,
         "inning": 6,
         "exit_velo": "106.2",
-        "launch_angle": "33.0",
-        "source": "live"
+        "launch_angle": "33",
+        "source": "savant"
     },
     {
-        "player": "Sal Stewart",
+        "player": "Stewart, Sal",
         "distance": 420,
         "team": "CIN",
         "opponent": "PIT",
         "date": "2026-08-02",
-        "time_utc": "2026-08-02T17:50:30.815Z",
+        "time_utc": "2026-08-02T17:40:00Z",
         "game_pk": 824483,
         "inning": 1,
         "exit_velo": "104.8",
-        "launch_angle": "33.0",
-        "source": "live"
+        "launch_angle": "33",
+        "source": "savant"
     },
     {
-        "player": "Ke'Bryan Hayes",
+        "player": "Hayes, Ke'Bryan",
         "distance": 429,
         "team": "CIN",
         "opponent": "PIT",
         "date": "2026-08-02",
-        "time_utc": "2026-08-02T18:10:16.984Z",
+        "time_utc": "2026-08-02T17:40:00Z",
         "game_pk": 824483,
         "inning": 2,
         "exit_velo": "106.9",
-        "launch_angle": "26.0",
-        "source": "live"
+        "launch_angle": "26",
+        "source": "savant"
     }
 ]
