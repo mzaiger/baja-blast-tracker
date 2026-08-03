@@ -8996,6 +8996,32 @@
         "source": "live"
     },
     {
+        "player": "Wilyer Abreu",
+        "distance": 431,
+        "team": "BOS",
+        "opponent": "LAD",
+        "date": "2026-08-02",
+        "time_utc": "2026-08-03T00:07:49.091Z",
+        "game_pk": 823919,
+        "inning": 3,
+        "exit_velo": "109.1",
+        "launch_angle": "24.0",
+        "source": "live"
+    },
+    {
+        "player": "Jarren Duran",
+        "distance": 420,
+        "team": "BOS",
+        "opponent": "LAD",
+        "date": "2026-08-02",
+        "time_utc": "2026-08-03T01:01:19.853Z",
+        "game_pk": 823919,
+        "inning": 6,
+        "exit_velo": "106.2",
+        "launch_angle": "33.0",
+        "source": "live"
+    },
+    {
         "player": "Sal Stewart",
         "distance": 420,
         "team": "CIN",
