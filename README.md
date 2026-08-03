@@ -22,6 +22,9 @@ regular-season home-run-distance promotion.
 and commits the refreshed `data.json` back to the repo. Also runnable
 manually via `workflow_dispatch`.
 
+**GitHub secrets required: none.** Both the MLB Stats API and Baseball
+Savant are public, unauthenticated endpoints — no API key needed.
+
 ## Running locally
 
 ```bash
