@@ -9111,5 +9111,18 @@
         "exit_velo": "111.2",
         "launch_angle": "33",
         "source": "savant"
+    },
+    {
+        "player": "Bo Bichette",
+        "distance": 422,
+        "team": "NYM",
+        "opponent": "CLE",
+        "date": "2026-08-04",
+        "time_utc": "2026-08-04T23:20:32.529Z",
+        "game_pk": 824403,
+        "inning": 3,
+        "exit_velo": "107.5",
+        "launch_angle": "30.0",
+        "source": "live"
     }
 ]
