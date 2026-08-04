@@ -8138,19 +8138,6 @@
         "source": "savant"
     },
     {
-        "player": "Perez, Salvador",
-        "distance": 440,
-        "team": "KC",
-        "opponent": "SF",
-        "date": "2026-07-20",
-        "time_utc": "2026-07-20T23:40:00Z",
-        "game_pk": 824087,
-        "inning": 4,
-        "exit_velo": "105.4",
-        "launch_angle": "25",
-        "source": "savant"
-    },
-    {
         "player": "Ramos, Heliot",
         "distance": 430,
         "team": "KC",
@@ -8161,6 +8148,19 @@
         "inning": 4,
         "exit_velo": "107.5",
         "launch_angle": "26",
+        "source": "savant"
+    },
+    {
+        "player": "Perez, Salvador",
+        "distance": 440,
+        "team": "KC",
+        "opponent": "SF",
+        "date": "2026-07-20",
+        "time_utc": "2026-07-20T23:40:00Z",
+        "game_pk": 824087,
+        "inning": 4,
+        "exit_velo": "105.4",
+        "launch_angle": "25",
         "source": "savant"
     },
     {
@@ -9048,68 +9048,68 @@
         "source": "savant"
     },
     {
-        "player": "Bryce Harper",
+        "player": "Harper, Bryce",
         "distance": 433,
         "team": "PHI",
         "opponent": "WSH",
         "date": "2026-08-03",
-        "time_utc": "2026-08-04T00:59:58.065Z",
+        "time_utc": "2026-08-03T22:40:00Z",
         "game_pk": 823431,
         "inning": 8,
         "exit_velo": "112.6",
-        "launch_angle": "22.0",
-        "source": "live"
+        "launch_angle": "22",
+        "source": "savant"
     },
     {
-        "player": "Luis Garc\u00eda Jr.",
+        "player": "Garc\u00eda Jr., Luis",
         "distance": 424,
         "team": "NYY",
         "opponent": "STL",
         "date": "2026-08-03",
-        "time_utc": "2026-08-04T01:47:06.180Z",
+        "time_utc": "2026-08-03T23:05:00Z",
         "game_pk": 823520,
         "inning": 7,
-        "exit_velo": "109.0",
-        "launch_angle": "19.0",
-        "source": "live"
+        "exit_velo": "109",
+        "launch_angle": "19",
+        "source": "savant"
     },
     {
-        "player": "Junior Caminero",
+        "player": "Caminero, Junior",
         "distance": 442,
-        "team": "TB",
-        "opponent": "COL",
+        "team": "COL",
+        "opponent": "TB",
         "date": "2026-08-03",
-        "time_utc": "2026-08-04T01:42:40.081Z",
+        "time_utc": "2026-08-04T00:40:00Z",
         "game_pk": 824324,
         "inning": 4,
         "exit_velo": "112.4",
-        "launch_angle": "22.0",
-        "source": "live"
+        "launch_angle": "22",
+        "source": "savant"
     },
     {
-        "player": "Mickey Moniak",
+        "player": "Moniak, Mickey",
         "distance": 447,
         "team": "COL",
         "opponent": "TB",
         "date": "2026-08-03",
-        "time_utc": "2026-08-04T02:50:11.662Z",
+        "time_utc": "2026-08-04T00:40:00Z",
         "game_pk": 824324,
         "inning": 8,
         "exit_velo": "104.3",
-        "launch_angle": "30.0",
-        "source": "live"
+        "launch_angle": "30",
+        "source": "savant"
     },
     {
-        "player": "Teoscar Hern\u00e1ndez",
+        "player": "Hern\u00e1ndez, Teoscar",
         "distance": 443,
-        "team": "LAD",
-        "opponent": "CHC",
+        "team": "CHC",
+        "opponent": "LAD",
         "date": "2026-08-03",
-        "time_utc": "2026-08-04T01:39:56.984Z",
+        "time_utc": "2026-08-04T00:05:00Z",
         "game_pk": 824647,
         "inning": 6,
         "exit_velo": "111.2",
-        "launch_angle": "33.0",
-        "source": "live"
+        "launch_angle": "33",
+        "source": "savant"
     }
 ]
