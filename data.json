@@ -9046,5 +9046,70 @@
         "exit_velo": "106.9",
         "launch_angle": "26",
         "source": "savant"
+    },
+    {
+        "player": "Bryce Harper",
+        "distance": 433,
+        "team": "PHI",
+        "opponent": "WSH",
+        "date": "2026-08-03",
+        "time_utc": "2026-08-04T00:59:58.065Z",
+        "game_pk": 823431,
+        "inning": 8,
+        "exit_velo": "112.6",
+        "launch_angle": "22.0",
+        "source": "live"
+    },
+    {
+        "player": "Luis Garc\u00eda Jr.",
+        "distance": 424,
+        "team": "NYY",
+        "opponent": "STL",
+        "date": "2026-08-03",
+        "time_utc": "2026-08-04T01:47:06.180Z",
+        "game_pk": 823520,
+        "inning": 7,
+        "exit_velo": "109.0",
+        "launch_angle": "19.0",
+        "source": "live"
+    },
+    {
+        "player": "Junior Caminero",
+        "distance": 442,
+        "team": "TB",
+        "opponent": "COL",
+        "date": "2026-08-03",
+        "time_utc": "2026-08-04T01:42:40.081Z",
+        "game_pk": 824324,
+        "inning": 4,
+        "exit_velo": "112.4",
+        "launch_angle": "22.0",
+        "source": "live"
+    },
+    {
+        "player": "Mickey Moniak",
+        "distance": 447,
+        "team": "COL",
+        "opponent": "TB",
+        "date": "2026-08-03",
+        "time_utc": "2026-08-04T02:50:11.662Z",
+        "game_pk": 824324,
+        "inning": 8,
+        "exit_velo": "104.3",
+        "launch_angle": "30.0",
+        "source": "live"
+    },
+    {
+        "player": "Teoscar Hern\u00e1ndez",
+        "distance": 443,
+        "team": "LAD",
+        "opponent": "CHC",
+        "date": "2026-08-03",
+        "time_utc": "2026-08-04T01:39:56.984Z",
+        "game_pk": 824647,
+        "inning": 6,
+        "exit_velo": "111.2",
+        "launch_angle": "33.0",
+        "source": "live"
     }
 ]
