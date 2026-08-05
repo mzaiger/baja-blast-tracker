@@ -8138,19 +8138,6 @@
         "source": "savant"
     },
     {
-        "player": "Ramos, Heliot",
-        "distance": 430,
-        "team": "KC",
-        "opponent": "SF",
-        "date": "2026-07-20",
-        "time_utc": "2026-07-20T23:40:00Z",
-        "game_pk": 824087,
-        "inning": 4,
-        "exit_velo": "107.5",
-        "launch_angle": "26",
-        "source": "savant"
-    },
-    {
         "player": "Perez, Salvador",
         "distance": 440,
         "team": "KC",
@@ -8161,6 +8148,19 @@
         "inning": 4,
         "exit_velo": "105.4",
         "launch_angle": "25",
+        "source": "savant"
+    },
+    {
+        "player": "Ramos, Heliot",
+        "distance": 430,
+        "team": "KC",
+        "opponent": "SF",
+        "date": "2026-07-20",
+        "time_utc": "2026-07-20T23:40:00Z",
+        "game_pk": 824087,
+        "inning": 4,
+        "exit_velo": "107.5",
+        "launch_angle": "26",
         "source": "savant"
     },
     {
@@ -9113,55 +9113,55 @@
         "source": "savant"
     },
     {
-        "player": "Bo Bichette",
+        "player": "Bichette, Bo",
         "distance": 422,
-        "team": "NYM",
-        "opponent": "CLE",
+        "team": "CLE",
+        "opponent": "NYM",
         "date": "2026-08-04",
-        "time_utc": "2026-08-04T23:20:32.529Z",
+        "time_utc": "2026-08-04T22:40:00Z",
         "game_pk": 824403,
         "inning": 3,
         "exit_velo": "107.5",
-        "launch_angle": "30.0",
-        "source": "live"
+        "launch_angle": "30",
+        "source": "savant"
     },
     {
-        "player": "Carson Benge",
+        "player": "Benge, Carson",
         "distance": 451,
-        "team": "NYM",
-        "opponent": "CLE",
+        "team": "CLE",
+        "opponent": "NYM",
         "date": "2026-08-04",
-        "time_utc": "2026-08-05T00:42:38.194Z",
+        "time_utc": "2026-08-04T22:40:00Z",
         "game_pk": 824403,
         "inning": 8,
         "exit_velo": "107.6",
-        "launch_angle": "26.0",
-        "source": "live"
+        "launch_angle": "26",
+        "source": "savant"
     },
     {
-        "player": "Wilyer Abreu",
+        "player": "Abreu, Wilyer",
         "distance": 430,
         "team": "BOS",
         "opponent": "CWS",
         "date": "2026-08-04",
-        "time_utc": "2026-08-05T00:34:25.068Z",
+        "time_utc": "2026-08-04T23:10:00Z",
         "game_pk": 824731,
         "inning": 5,
         "exit_velo": "106.8",
-        "launch_angle": "27.0",
-        "source": "live"
+        "launch_angle": "27",
+        "source": "savant"
     },
     {
-        "player": "Austin Riley",
+        "player": "Riley, Austin",
         "distance": 433,
         "team": "ATL",
         "opponent": "MIA",
         "date": "2026-08-04",
-        "time_utc": "2026-08-05T00:50:11.297Z",
+        "time_utc": "2026-08-04T23:15:00Z",
         "game_pk": 824888,
         "inning": 7,
         "exit_velo": "106.7",
-        "launch_angle": "30.0",
-        "source": "live"
+        "launch_angle": "30",
+        "source": "savant"
     }
 ]
