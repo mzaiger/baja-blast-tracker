@@ -9189,5 +9189,31 @@
         "exit_velo": "101.5",
         "launch_angle": "27.0",
         "source": "live"
+    },
+    {
+        "player": "Tyler O'Neill",
+        "distance": 426,
+        "team": "BAL",
+        "opponent": "LAA",
+        "date": "2026-08-05",
+        "time_utc": "2026-08-05T23:35:14.558Z",
+        "game_pk": 824806,
+        "inning": 4,
+        "exit_velo": "108.5",
+        "launch_angle": "30.0",
+        "source": "live"
+    },
+    {
+        "player": "Coby Mayo",
+        "distance": 436,
+        "team": "BAL",
+        "opponent": "LAA",
+        "date": "2026-08-05",
+        "time_utc": "2026-08-05T23:37:08.903Z",
+        "game_pk": 824806,
+        "inning": 4,
+        "exit_velo": "105.9",
+        "launch_angle": "31.0",
+        "source": "live"
     }
 ]
