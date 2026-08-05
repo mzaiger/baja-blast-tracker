@@ -9163,5 +9163,31 @@
         "exit_velo": "106.7",
         "launch_angle": "30",
         "source": "savant"
+    },
+    {
+        "player": "Junior Caminero",
+        "distance": 449,
+        "team": "TB",
+        "opponent": "COL",
+        "date": "2026-08-05",
+        "time_utc": "2026-08-05T19:52:50.400Z",
+        "game_pk": 824322,
+        "inning": 3,
+        "exit_velo": "105.1",
+        "launch_angle": "38.0",
+        "source": "live"
+    },
+    {
+        "player": "Pete Crow-Armstrong",
+        "distance": 420,
+        "team": "CHC",
+        "opponent": "LAD",
+        "date": "2026-08-05",
+        "time_utc": "2026-08-05T18:28:18.479Z",
+        "game_pk": 824646,
+        "inning": 1,
+        "exit_velo": "101.5",
+        "launch_angle": "27.0",
+        "source": "live"
     }
 ]
