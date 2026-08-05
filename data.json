@@ -9124,5 +9124,44 @@
         "exit_velo": "107.5",
         "launch_angle": "30.0",
         "source": "live"
+    },
+    {
+        "player": "Carson Benge",
+        "distance": 451,
+        "team": "NYM",
+        "opponent": "CLE",
+        "date": "2026-08-04",
+        "time_utc": "2026-08-05T00:42:38.194Z",
+        "game_pk": 824403,
+        "inning": 8,
+        "exit_velo": "107.6",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
+        "player": "Wilyer Abreu",
+        "distance": 430,
+        "team": "BOS",
+        "opponent": "CWS",
+        "date": "2026-08-04",
+        "time_utc": "2026-08-05T00:34:25.068Z",
+        "game_pk": 824731,
+        "inning": 5,
+        "exit_velo": "106.8",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "Austin Riley",
+        "distance": 433,
+        "team": "ATL",
+        "opponent": "MIA",
+        "date": "2026-08-04",
+        "time_utc": "2026-08-05T00:50:11.297Z",
+        "game_pk": 824888,
+        "inning": 7,
+        "exit_velo": "106.7",
+        "launch_angle": "30.0",
+        "source": "live"
     }
 ]
