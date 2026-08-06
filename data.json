@@ -9165,6 +9165,19 @@
         "source": "savant"
     },
     {
+        "player": "Michael Massey",
+        "distance": 422,
+        "team": "KC",
+        "opponent": "MIN",
+        "date": "2026-08-05",
+        "time_utc": "2026-08-06T01:28:00.998Z",
+        "game_pk": 824082,
+        "inning": 7,
+        "exit_velo": "103.3",
+        "launch_angle": "24.0",
+        "source": "live"
+    },
+    {
         "player": "Junior Caminero",
         "distance": 449,
         "team": "TB",
