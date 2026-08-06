@@ -9165,6 +9165,32 @@
         "source": "savant"
     },
     {
+        "player": "Dillon Dingler",
+        "distance": 424,
+        "team": "DET",
+        "opponent": "SEA",
+        "date": "2026-08-05",
+        "time_utc": "2026-08-06T03:45:32.684Z",
+        "game_pk": 823106,
+        "inning": 8,
+        "exit_velo": "109.3",
+        "launch_angle": "24.0",
+        "source": "live"
+    },
+    {
+        "player": "Colt Emerson",
+        "distance": 423,
+        "team": "SEA",
+        "opponent": "DET",
+        "date": "2026-08-05",
+        "time_utc": "2026-08-06T03:50:56.322Z",
+        "game_pk": 823106,
+        "inning": 8,
+        "exit_velo": "106.9",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
         "player": "Michael Massey",
         "distance": 422,
         "team": "KC",
@@ -9227,6 +9253,19 @@
         "inning": 4,
         "exit_velo": "105.9",
         "launch_angle": "31.0",
+        "source": "live"
+    },
+    {
+        "player": "Fernando Tatis Jr.",
+        "distance": 465,
+        "team": "SD",
+        "opponent": "AZ",
+        "date": "2026-08-05",
+        "time_utc": "2026-08-06T04:21:44.964Z",
+        "game_pk": 825052,
+        "inning": 9,
+        "exit_velo": "114.7",
+        "launch_angle": "24.0",
         "source": "live"
     }
 ]
