@@ -1,7 +1,7 @@
 # Baja Blast Tracker
 
 Tracks MLB home runs hit **420+ feet**, styled around the "Baja Blast"
-regular-season home-run-distance promotion.
+regular season home-run-distance promotion.
 
 ## How it works
 
