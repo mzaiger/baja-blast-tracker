@@ -8138,19 +8138,6 @@
         "source": "savant"
     },
     {
-        "player": "Perez, Salvador",
-        "distance": 440,
-        "team": "KC",
-        "opponent": "SF",
-        "date": "2026-07-20",
-        "time_utc": "2026-07-20T23:40:00Z",
-        "game_pk": 824087,
-        "inning": 4,
-        "exit_velo": "105.4",
-        "launch_angle": "25",
-        "source": "savant"
-    },
-    {
         "player": "Ramos, Heliot",
         "distance": 430,
         "team": "KC",
@@ -8161,6 +8148,19 @@
         "inning": 4,
         "exit_velo": "107.5",
         "launch_angle": "26",
+        "source": "savant"
+    },
+    {
+        "player": "Perez, Salvador",
+        "distance": 440,
+        "team": "KC",
+        "opponent": "SF",
+        "date": "2026-07-20",
+        "time_utc": "2026-07-20T23:40:00Z",
+        "game_pk": 824087,
+        "inning": 4,
+        "exit_velo": "105.4",
+        "launch_angle": "25",
         "source": "savant"
     },
     {
@@ -9165,107 +9165,107 @@
         "source": "savant"
     },
     {
-        "player": "Dillon Dingler",
-        "distance": 424,
-        "team": "DET",
-        "opponent": "SEA",
-        "date": "2026-08-05",
-        "time_utc": "2026-08-06T03:45:32.684Z",
-        "game_pk": 823106,
-        "inning": 8,
-        "exit_velo": "109.3",
-        "launch_angle": "24.0",
-        "source": "live"
-    },
-    {
-        "player": "Colt Emerson",
+        "player": "Emerson, Colt",
         "distance": 423,
         "team": "SEA",
         "opponent": "DET",
         "date": "2026-08-05",
-        "time_utc": "2026-08-06T03:50:56.322Z",
+        "time_utc": "2026-08-06T01:40:00Z",
         "game_pk": 823106,
         "inning": 8,
         "exit_velo": "106.9",
-        "launch_angle": "28.0",
-        "source": "live"
+        "launch_angle": "28",
+        "source": "savant"
     },
     {
-        "player": "Michael Massey",
+        "player": "Dingler, Dillon",
+        "distance": 424,
+        "team": "SEA",
+        "opponent": "DET",
+        "date": "2026-08-05",
+        "time_utc": "2026-08-06T01:40:00Z",
+        "game_pk": 823106,
+        "inning": 8,
+        "exit_velo": "109.3",
+        "launch_angle": "24",
+        "source": "savant"
+    },
+    {
+        "player": "Massey, Michael",
         "distance": 422,
         "team": "KC",
         "opponent": "MIN",
         "date": "2026-08-05",
-        "time_utc": "2026-08-06T01:28:00.998Z",
+        "time_utc": "2026-08-05T23:40:00Z",
         "game_pk": 824082,
         "inning": 7,
         "exit_velo": "103.3",
-        "launch_angle": "24.0",
-        "source": "live"
+        "launch_angle": "24",
+        "source": "savant"
     },
     {
-        "player": "Junior Caminero",
+        "player": "Caminero, Junior",
         "distance": 449,
-        "team": "TB",
-        "opponent": "COL",
+        "team": "COL",
+        "opponent": "TB",
         "date": "2026-08-05",
-        "time_utc": "2026-08-05T19:52:50.400Z",
+        "time_utc": "2026-08-05T19:10:00Z",
         "game_pk": 824322,
         "inning": 3,
         "exit_velo": "105.1",
-        "launch_angle": "38.0",
-        "source": "live"
+        "launch_angle": "38",
+        "source": "savant"
     },
     {
-        "player": "Pete Crow-Armstrong",
+        "player": "Crow-Armstrong, Pete",
         "distance": 420,
         "team": "CHC",
         "opponent": "LAD",
         "date": "2026-08-05",
-        "time_utc": "2026-08-05T18:28:18.479Z",
+        "time_utc": "2026-08-05T18:20:00Z",
         "game_pk": 824646,
         "inning": 1,
         "exit_velo": "101.5",
-        "launch_angle": "27.0",
-        "source": "live"
+        "launch_angle": "27",
+        "source": "savant"
     },
     {
-        "player": "Tyler O'Neill",
-        "distance": 426,
-        "team": "BAL",
-        "opponent": "LAA",
-        "date": "2026-08-05",
-        "time_utc": "2026-08-05T23:35:14.558Z",
-        "game_pk": 824806,
-        "inning": 4,
-        "exit_velo": "108.5",
-        "launch_angle": "30.0",
-        "source": "live"
-    },
-    {
-        "player": "Coby Mayo",
+        "player": "Mayo, Coby",
         "distance": 436,
         "team": "BAL",
         "opponent": "LAA",
         "date": "2026-08-05",
-        "time_utc": "2026-08-05T23:37:08.903Z",
+        "time_utc": "2026-08-05T22:35:00Z",
         "game_pk": 824806,
         "inning": 4,
         "exit_velo": "105.9",
-        "launch_angle": "31.0",
-        "source": "live"
+        "launch_angle": "31",
+        "source": "savant"
     },
     {
-        "player": "Fernando Tatis Jr.",
-        "distance": 465,
-        "team": "SD",
-        "opponent": "AZ",
+        "player": "O'Neill, Tyler",
+        "distance": 426,
+        "team": "BAL",
+        "opponent": "LAA",
         "date": "2026-08-05",
-        "time_utc": "2026-08-06T04:21:44.964Z",
+        "time_utc": "2026-08-05T22:35:00Z",
+        "game_pk": 824806,
+        "inning": 4,
+        "exit_velo": "108.5",
+        "launch_angle": "30",
+        "source": "savant"
+    },
+    {
+        "player": "Tatis Jr., Fernando",
+        "distance": 465,
+        "team": "AZ",
+        "opponent": "SD",
+        "date": "2026-08-05",
+        "time_utc": "2026-08-06T01:40:00Z",
         "game_pk": 825052,
         "inning": 9,
         "exit_velo": "114.7",
-        "launch_angle": "24.0",
-        "source": "live"
+        "launch_angle": "24",
+        "source": "savant"
     }
 ]
