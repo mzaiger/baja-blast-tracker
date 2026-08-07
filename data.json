@@ -9267,5 +9267,31 @@
         "exit_velo": "114.7",
         "launch_angle": "24",
         "source": "savant"
+    },
+    {
+        "player": "Royce Lewis",
+        "distance": 421,
+        "team": "MIN",
+        "opponent": "KC",
+        "date": "2026-08-06",
+        "time_utc": "2026-08-07T00:45:42.483Z",
+        "game_pk": 824080,
+        "inning": 5,
+        "exit_velo": "104.2",
+        "launch_angle": "32.0",
+        "source": "live"
+    },
+    {
+        "player": "Matt Olson",
+        "distance": 422,
+        "team": "ATL",
+        "opponent": "MIA",
+        "date": "2026-08-06",
+        "time_utc": "2026-08-07T01:59:22.375Z",
+        "game_pk": 824885,
+        "inning": 6,
+        "exit_velo": "105.7",
+        "launch_angle": "34.0",
+        "source": "live"
     }
 ]
