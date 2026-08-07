@@ -9269,29 +9269,29 @@
         "source": "savant"
     },
     {
-        "player": "Royce Lewis",
+        "player": "Lewis, Royce",
         "distance": 421,
-        "team": "MIN",
-        "opponent": "KC",
+        "team": "KC",
+        "opponent": "MIN",
         "date": "2026-08-06",
-        "time_utc": "2026-08-07T00:45:42.483Z",
+        "time_utc": "2026-08-06T23:40:00Z",
         "game_pk": 824080,
         "inning": 5,
         "exit_velo": "104.2",
-        "launch_angle": "32.0",
-        "source": "live"
+        "launch_angle": "32",
+        "source": "savant"
     },
     {
-        "player": "Matt Olson",
+        "player": "Olson, Matt",
         "distance": 422,
         "team": "ATL",
         "opponent": "MIA",
         "date": "2026-08-06",
-        "time_utc": "2026-08-07T01:59:22.375Z",
+        "time_utc": "2026-08-06T23:15:00Z",
         "game_pk": 824885,
         "inning": 6,
         "exit_velo": "105.7",
-        "launch_angle": "34.0",
-        "source": "live"
+        "launch_angle": "34",
+        "source": "savant"
     }
 ]
