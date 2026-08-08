@@ -9293,5 +9293,57 @@
         "exit_velo": "105.7",
         "launch_angle": "34",
         "source": "savant"
+    },
+    {
+        "player": "Eugenio Su\u00e1rez",
+        "distance": 422,
+        "team": "CIN",
+        "opponent": "WSH",
+        "date": "2026-08-07",
+        "time_utc": "2026-08-08T00:10:20.235Z",
+        "game_pk": 822699,
+        "inning": 2,
+        "exit_velo": "104.1",
+        "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
+        "player": "Matt McLain",
+        "distance": 420,
+        "team": "CIN",
+        "opponent": "WSH",
+        "date": "2026-08-07",
+        "time_utc": "2026-08-08T00:26:21.017Z",
+        "game_pk": 822699,
+        "inning": 3,
+        "exit_velo": "105.5",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "Jackson Chourio",
+        "distance": 423,
+        "team": "MIL",
+        "opponent": "MIN",
+        "date": "2026-08-07",
+        "time_utc": "2026-08-07T23:52:48.879Z",
+        "game_pk": 823750,
+        "inning": 1,
+        "exit_velo": "107.6",
+        "launch_angle": "30.0",
+        "source": "live"
+    },
+    {
+        "player": "Angel Mart\u00ednez",
+        "distance": 422,
+        "team": "CLE",
+        "opponent": "CWS",
+        "date": "2026-08-07",
+        "time_utc": "2026-08-08T00:52:33.029Z",
+        "game_pk": 824566,
+        "inning": 5,
+        "exit_velo": "106.4",
+        "launch_angle": "32.0",
+        "source": "live"
     }
 ]
