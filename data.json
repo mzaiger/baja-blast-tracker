@@ -9360,6 +9360,19 @@
         "source": "savant"
     },
     {
+        "player": "Jake McCarthy",
+        "distance": 420,
+        "team": "COL",
+        "opponent": "STL",
+        "date": "2026-08-08",
+        "time_utc": "2026-08-08T23:15:42.146Z",
+        "game_pk": 823021,
+        "inning": 1,
+        "exit_velo": "104.0",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
         "player": "Ben Rice",
         "distance": 431,
         "team": "NYY",
@@ -9370,6 +9383,19 @@
         "inning": 8,
         "exit_velo": "105.2",
         "launch_angle": "35.0",
+        "source": "live"
+    },
+    {
+        "player": "Henry Bolte",
+        "distance": 439,
+        "team": "ATH",
+        "opponent": "BOS",
+        "date": "2026-08-08",
+        "time_utc": "2026-08-08T22:41:59.259Z",
+        "game_pk": 824726,
+        "inning": 9,
+        "exit_velo": "111.5",
+        "launch_angle": "21.0",
         "source": "live"
     }
 ]
