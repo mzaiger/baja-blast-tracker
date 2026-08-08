@@ -9358,5 +9358,18 @@
         "exit_velo": "108.1",
         "launch_angle": "35",
         "source": "savant"
+    },
+    {
+        "player": "Ben Rice",
+        "distance": 431,
+        "team": "NYY",
+        "opponent": "ATL",
+        "date": "2026-08-08",
+        "time_utc": "2026-08-08T21:32:08.716Z",
+        "game_pk": 823514,
+        "inning": 8,
+        "exit_velo": "105.2",
+        "launch_angle": "35.0",
+        "source": "live"
     }
 ]
