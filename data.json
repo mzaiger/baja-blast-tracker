@@ -9345,5 +9345,18 @@
         "exit_velo": "106.4",
         "launch_angle": "32.0",
         "source": "live"
+    },
+    {
+        "player": "Andy Pages",
+        "distance": 425,
+        "team": "LAD",
+        "opponent": "AZ",
+        "date": "2026-08-07",
+        "time_utc": "2026-08-08T03:45:51.671Z",
+        "game_pk": 825051,
+        "inning": 8,
+        "exit_velo": "108.1",
+        "launch_angle": "35.0",
+        "source": "live"
     }
 ]
