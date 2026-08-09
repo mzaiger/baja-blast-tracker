@@ -9360,94 +9360,94 @@
         "source": "savant"
     },
     {
-        "player": "Jake McCarthy",
+        "player": "McCarthy, Jake",
         "distance": 420,
-        "team": "COL",
-        "opponent": "STL",
+        "team": "STL",
+        "opponent": "COL",
         "date": "2026-08-08",
-        "time_utc": "2026-08-08T23:15:42.146Z",
+        "time_utc": "2026-08-08T23:15:00Z",
         "game_pk": 823021,
         "inning": 1,
-        "exit_velo": "104.0",
-        "launch_angle": "29.0",
-        "source": "live"
+        "exit_velo": "104",
+        "launch_angle": "29",
+        "source": "savant"
     },
     {
-        "player": "Jordan Walker",
+        "player": "Walker, Jordan",
         "distance": 432,
         "team": "STL",
         "opponent": "COL",
         "date": "2026-08-08",
-        "time_utc": "2026-08-09T01:58:06.513Z",
+        "time_utc": "2026-08-08T23:15:00Z",
         "game_pk": 823021,
         "inning": 8,
         "exit_velo": "107.3",
-        "launch_angle": "31.0",
-        "source": "live"
+        "launch_angle": "31",
+        "source": "savant"
     },
     {
-        "player": "Josh Naylor",
+        "player": "Naylor, Josh",
         "distance": 434,
         "team": "SEA",
         "opponent": "TB",
         "date": "2026-08-08",
-        "time_utc": "2026-08-09T04:09:38.943Z",
+        "time_utc": "2026-08-09T01:50:00Z",
         "game_pk": 823102,
         "inning": 7,
         "exit_velo": "106.8",
-        "launch_angle": "27.0",
-        "source": "live"
+        "launch_angle": "27",
+        "source": "savant"
     },
     {
-        "player": "Jackson Merrill",
+        "player": "Merrill, Jackson",
         "distance": 421,
         "team": "SD",
         "opponent": "HOU",
         "date": "2026-08-08",
-        "time_utc": "2026-08-09T00:11:49.504Z",
+        "time_utc": "2026-08-08T23:15:00Z",
         "game_pk": 823267,
         "inning": 3,
         "exit_velo": "106.7",
-        "launch_angle": "28.0",
-        "source": "live"
+        "launch_angle": "28",
+        "source": "savant"
     },
     {
-        "player": "Ben Rice",
+        "player": "Rice, Ben",
         "distance": 431,
         "team": "NYY",
         "opponent": "ATL",
         "date": "2026-08-08",
-        "time_utc": "2026-08-08T21:32:08.716Z",
+        "time_utc": "2026-08-08T19:05:00Z",
         "game_pk": 823514,
         "inning": 8,
         "exit_velo": "105.2",
-        "launch_angle": "35.0",
-        "source": "live"
+        "launch_angle": "35",
+        "source": "savant"
     },
     {
-        "player": "Jac Caglianone",
+        "player": "Caglianone, Jac",
         "distance": 448,
         "team": "KC",
         "opponent": "CHC",
         "date": "2026-08-08",
-        "time_utc": "2026-08-08T23:19:29.476Z",
+        "time_utc": "2026-08-08T23:10:00Z",
         "game_pk": 824079,
         "inning": 1,
         "exit_velo": "111.9",
-        "launch_angle": "24.0",
-        "source": "live"
+        "launch_angle": "24",
+        "source": "savant"
     },
     {
-        "player": "Henry Bolte",
+        "player": "Bolte, Henry",
         "distance": 439,
-        "team": "ATH",
-        "opponent": "BOS",
+        "team": "BOS",
+        "opponent": "ATH",
         "date": "2026-08-08",
-        "time_utc": "2026-08-08T22:41:59.259Z",
+        "time_utc": "2026-08-08T20:10:00Z",
         "game_pk": 824726,
         "inning": 9,
         "exit_velo": "111.5",
-        "launch_angle": "21.0",
-        "source": "live"
+        "launch_angle": "21",
+        "source": "savant"
     }
 ]
