@@ -9477,6 +9477,19 @@
         "source": "live"
     },
     {
+        "player": "Tyler O'Neill",
+        "distance": 425,
+        "team": "BAL",
+        "opponent": "TEX",
+        "date": "2026-08-09",
+        "time_utc": "2026-08-09T20:32:36.891Z",
+        "game_pk": 822862,
+        "inning": 6,
+        "exit_velo": "108.2",
+        "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
         "player": "Alec Burleson",
         "distance": 441,
         "team": "STL",
