@@ -9373,6 +9373,19 @@
         "source": "live"
     },
     {
+        "player": "Jordan Walker",
+        "distance": 432,
+        "team": "STL",
+        "opponent": "COL",
+        "date": "2026-08-08",
+        "time_utc": "2026-08-09T01:58:06.513Z",
+        "game_pk": 823021,
+        "inning": 8,
+        "exit_velo": "107.3",
+        "launch_angle": "31.0",
+        "source": "live"
+    },
+    {
         "player": "Jackson Merrill",
         "distance": 421,
         "team": "SD",
