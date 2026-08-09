@@ -9464,6 +9464,32 @@
         "source": "live"
     },
     {
+        "player": "Brandon Nimmo",
+        "distance": 434,
+        "team": "TEX",
+        "opponent": "BAL",
+        "date": "2026-08-09",
+        "time_utc": "2026-08-09T19:36:23.079Z",
+        "game_pk": 822862,
+        "inning": 3,
+        "exit_velo": "107.1",
+        "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
+        "player": "Alec Burleson",
+        "distance": 441,
+        "team": "STL",
+        "opponent": "COL",
+        "date": "2026-08-09",
+        "time_utc": "2026-08-09T19:54:13.042Z",
+        "game_pk": 823020,
+        "inning": 5,
+        "exit_velo": "110.3",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
         "player": "Jake Mangum",
         "distance": 420,
         "team": "PIT",
