@@ -9451,6 +9451,19 @@
         "source": "savant"
     },
     {
+        "player": "Colton Cowser",
+        "distance": 441,
+        "team": "BAL",
+        "opponent": "TEX",
+        "date": "2026-08-09",
+        "time_utc": "2026-08-09T18:55:52.894Z",
+        "game_pk": 822862,
+        "inning": 2,
+        "exit_velo": "108.9",
+        "launch_angle": "23.0",
+        "source": "live"
+    },
+    {
         "player": "Jake Mangum",
         "distance": 420,
         "team": "PIT",
@@ -9461,6 +9474,32 @@
         "inning": 3,
         "exit_velo": "104.6",
         "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
+        "player": "Kyle Schwarber",
+        "distance": 448,
+        "team": "PHI",
+        "opponent": "TOR",
+        "date": "2026-08-09",
+        "time_utc": "2026-08-09T18:44:39.547Z",
+        "game_pk": 823425,
+        "inning": 5,
+        "exit_velo": "107.7",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
+        "player": "Griffin Conine",
+        "distance": 434,
+        "team": "MIA",
+        "opponent": "LAA",
+        "date": "2026-08-09",
+        "time_utc": "2026-08-09T19:09:22.225Z",
+        "game_pk": 823835,
+        "inning": 5,
+        "exit_velo": "115.0",
+        "launch_angle": "24.0",
         "source": "live"
     }
 ]
