@@ -9373,6 +9373,19 @@
         "source": "live"
     },
     {
+        "player": "Jackson Merrill",
+        "distance": 421,
+        "team": "SD",
+        "opponent": "HOU",
+        "date": "2026-08-08",
+        "time_utc": "2026-08-09T00:11:49.504Z",
+        "game_pk": 823267,
+        "inning": 3,
+        "exit_velo": "106.7",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
         "player": "Ben Rice",
         "distance": 431,
         "team": "NYY",
@@ -9383,6 +9396,19 @@
         "inning": 8,
         "exit_velo": "105.2",
         "launch_angle": "35.0",
+        "source": "live"
+    },
+    {
+        "player": "Jac Caglianone",
+        "distance": 448,
+        "team": "KC",
+        "opponent": "CHC",
+        "date": "2026-08-08",
+        "time_utc": "2026-08-08T23:19:29.476Z",
+        "game_pk": 824079,
+        "inning": 1,
+        "exit_velo": "111.9",
+        "launch_angle": "24.0",
         "source": "live"
     },
     {
