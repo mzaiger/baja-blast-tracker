@@ -9386,6 +9386,19 @@
         "source": "live"
     },
     {
+        "player": "Josh Naylor",
+        "distance": 434,
+        "team": "SEA",
+        "opponent": "TB",
+        "date": "2026-08-08",
+        "time_utc": "2026-08-09T04:09:38.943Z",
+        "game_pk": 823102,
+        "inning": 7,
+        "exit_velo": "106.8",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
         "player": "Jackson Merrill",
         "distance": 421,
         "team": "SD",
