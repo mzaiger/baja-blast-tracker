@@ -9503,6 +9503,19 @@
         "source": "live"
     },
     {
+        "player": "Fernando Tatis Jr.",
+        "distance": 421,
+        "team": "SD",
+        "opponent": "HOU",
+        "date": "2026-08-09",
+        "time_utc": "2026-08-10T01:28:52.804Z",
+        "game_pk": 823268,
+        "inning": 4,
+        "exit_velo": "110.6",
+        "launch_angle": "32.0",
+        "source": "live"
+    },
+    {
         "player": "Jake Mangum",
         "distance": 420,
         "team": "PIT",
