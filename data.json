@@ -9633,6 +9633,32 @@
         "source": "live"
     },
     {
+        "player": "Everson Pereira",
+        "distance": 430,
+        "team": "STL",
+        "opponent": "PHI",
+        "date": "2026-08-11",
+        "time_utc": "2026-08-12T02:12:11.043Z",
+        "game_pk": 823019,
+        "inning": 8,
+        "exit_velo": "106.6",
+        "launch_angle": "24.0",
+        "source": "live"
+    },
+    {
+        "player": "Bryce Eldridge",
+        "distance": 423,
+        "team": "SF",
+        "opponent": "HOU",
+        "date": "2026-08-11",
+        "time_utc": "2026-08-12T03:13:56.520Z",
+        "game_pk": 823186,
+        "inning": 5,
+        "exit_velo": "106.4",
+        "launch_angle": "31.0",
+        "source": "live"
+    },
+    {
         "player": "Christian Encarnacion-Strand",
         "distance": 460,
         "team": "BAL",
@@ -9669,6 +9695,45 @@
         "inning": 8,
         "exit_velo": "109.3",
         "launch_angle": "23.0",
+        "source": "live"
+    },
+    {
+        "player": "Matt Olson",
+        "distance": 423,
+        "team": "ATL",
+        "opponent": "NYM",
+        "date": "2026-08-11",
+        "time_utc": "2026-08-12T01:16:28.717Z",
+        "game_pk": 824886,
+        "inning": 8,
+        "exit_velo": "109.3",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
+        "player": "Carson Williams",
+        "distance": 420,
+        "team": "TB",
+        "opponent": "ATH",
+        "date": "2026-08-11",
+        "time_utc": "2026-08-12T03:39:00.037Z",
+        "game_pk": 824970,
+        "inning": 8,
+        "exit_velo": "104.6",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "Corbin Carroll",
+        "distance": 422,
+        "team": "AZ",
+        "opponent": "COL",
+        "date": "2026-08-11",
+        "time_utc": "2026-08-12T01:51:54.673Z",
+        "game_pk": 825046,
+        "inning": 1,
+        "exit_velo": "105.3",
+        "launch_angle": "30.0",
         "source": "live"
     }
 ]
