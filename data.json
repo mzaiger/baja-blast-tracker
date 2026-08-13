@@ -9737,6 +9737,19 @@
         "source": "savant"
     },
     {
+        "player": "Dansby Swanson",
+        "distance": 436,
+        "team": "CHC",
+        "opponent": "WSH",
+        "date": "2026-08-12",
+        "time_utc": "2026-08-13T01:17:21.075Z",
+        "game_pk": 822698,
+        "inning": 8,
+        "exit_velo": "106.4",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
         "player": "Gleyber Torres",
         "distance": 421,
         "team": "DET",
