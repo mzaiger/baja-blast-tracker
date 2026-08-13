@@ -9750,6 +9750,19 @@
         "source": "live"
     },
     {
+        "player": "Austin Riley",
+        "distance": 438,
+        "team": "ATL",
+        "opponent": "NYM",
+        "date": "2026-08-12",
+        "time_utc": "2026-08-13T00:56:06.749Z",
+        "game_pk": 824883,
+        "inning": 7,
+        "exit_velo": "108.5",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
         "player": "Lawrence Butler",
         "distance": 426,
         "team": "ATH",
