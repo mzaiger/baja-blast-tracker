@@ -8138,19 +8138,6 @@
         "source": "savant"
     },
     {
-        "player": "Perez, Salvador",
-        "distance": 440,
-        "team": "KC",
-        "opponent": "SF",
-        "date": "2026-07-20",
-        "time_utc": "2026-07-20T23:40:00Z",
-        "game_pk": 824087,
-        "inning": 4,
-        "exit_velo": "105.4",
-        "launch_angle": "25",
-        "source": "savant"
-    },
-    {
         "player": "Ramos, Heliot",
         "distance": 430,
         "team": "KC",
@@ -8161,6 +8148,19 @@
         "inning": 4,
         "exit_velo": "107.5",
         "launch_angle": "26",
+        "source": "savant"
+    },
+    {
+        "player": "Perez, Salvador",
+        "distance": 440,
+        "team": "KC",
+        "opponent": "SF",
+        "date": "2026-07-20",
+        "time_utc": "2026-07-20T23:40:00Z",
+        "game_pk": 824087,
+        "inning": 4,
+        "exit_velo": "105.4",
+        "launch_angle": "25",
         "source": "savant"
     },
     {
@@ -9711,6 +9711,19 @@
         "source": "savant"
     },
     {
+        "player": "Caminero, Junior",
+        "distance": 430,
+        "team": "ATH",
+        "opponent": "TB",
+        "date": "2026-08-11",
+        "time_utc": "2026-08-12T01:40:00Z",
+        "game_pk": 824970,
+        "inning": 1,
+        "exit_velo": "105.4",
+        "launch_angle": "25",
+        "source": "savant"
+    },
+    {
         "player": "Williams, Carson",
         "distance": 420,
         "team": "ATH",
@@ -9737,55 +9750,55 @@
         "source": "savant"
     },
     {
-        "player": "Dansby Swanson",
+        "player": "Swanson, Dansby",
         "distance": 436,
-        "team": "CHC",
-        "opponent": "WSH",
+        "team": "WSH",
+        "opponent": "CHC",
         "date": "2026-08-12",
-        "time_utc": "2026-08-13T01:17:21.075Z",
+        "time_utc": "2026-08-12T22:45:00Z",
         "game_pk": 822698,
         "inning": 8,
         "exit_velo": "106.4",
-        "launch_angle": "27.0",
-        "source": "live"
+        "launch_angle": "27",
+        "source": "savant"
     },
     {
-        "player": "Gleyber Torres",
+        "player": "Torres, Gleyber",
         "distance": 421,
         "team": "DET",
         "opponent": "CLE",
         "date": "2026-08-12",
-        "time_utc": "2026-08-12T23:29:21.114Z",
+        "time_utc": "2026-08-12T22:40:00Z",
         "game_pk": 824241,
         "inning": 3,
         "exit_velo": "105.5",
-        "launch_angle": "27.0",
-        "source": "live"
+        "launch_angle": "27",
+        "source": "savant"
     },
     {
-        "player": "Austin Riley",
+        "player": "Riley, Austin",
         "distance": 438,
         "team": "ATL",
         "opponent": "NYM",
         "date": "2026-08-12",
-        "time_utc": "2026-08-13T00:56:06.749Z",
+        "time_utc": "2026-08-12T23:15:00Z",
         "game_pk": 824883,
         "inning": 7,
         "exit_velo": "108.5",
-        "launch_angle": "28.0",
-        "source": "live"
+        "launch_angle": "28",
+        "source": "savant"
     },
     {
-        "player": "Lawrence Butler",
+        "player": "Butler, Lawrence",
         "distance": 426,
         "team": "ATH",
         "opponent": "TB",
         "date": "2026-08-12",
-        "time_utc": "2026-08-12T21:33:47.685Z",
+        "time_utc": "2026-08-12T19:05:00Z",
         "game_pk": 824967,
         "inning": 8,
         "exit_velo": "107.6",
-        "launch_angle": "27.0",
-        "source": "live"
+        "launch_angle": "27",
+        "source": "savant"
     }
 ]
