@@ -9815,42 +9815,42 @@
         "source": "savant"
     },
     {
-        "player": "Colton Cowser",
+        "player": "Cowser, Colton",
         "distance": 420,
-        "team": "BAL",
-        "opponent": "TB",
+        "team": "TB",
+        "opponent": "BAL",
         "date": "2026-08-14",
-        "time_utc": "2026-08-14T23:56:53.904Z",
+        "time_utc": "2026-08-14T23:10:00Z",
         "game_pk": 822942,
         "inning": 3,
-        "exit_velo": "103.0",
-        "launch_angle": "30.0",
-        "source": "live"
+        "exit_velo": "103",
+        "launch_angle": "30",
+        "source": "savant"
     },
     {
-        "player": "Xander Bogaerts",
+        "player": "Bogaerts, Xander",
         "distance": 426,
-        "team": "SD",
-        "opponent": "CLE",
+        "team": "CLE",
+        "opponent": "SD",
         "date": "2026-08-14",
-        "time_utc": "2026-08-15T00:07:41.084Z",
+        "time_utc": "2026-08-14T23:10:00Z",
         "game_pk": 824399,
         "inning": 4,
         "exit_velo": "104.7",
-        "launch_angle": "28.0",
-        "source": "live"
+        "launch_angle": "28",
+        "source": "savant"
     },
     {
-        "player": "Jake Burger",
+        "player": "Burger, Jake",
         "distance": 428,
-        "team": "TEX",
-        "opponent": "ATH",
+        "team": "ATH",
+        "opponent": "TEX",
         "date": "2026-08-14",
-        "time_utc": "2026-08-15T03:20:10.633Z",
+        "time_utc": "2026-08-15T01:40:00Z",
         "game_pk": 824968,
         "inning": 6,
-        "exit_velo": "106.0",
-        "launch_angle": "27.0",
-        "source": "live"
+        "exit_velo": "106",
+        "launch_angle": "27",
+        "source": "savant"
     }
 ]
