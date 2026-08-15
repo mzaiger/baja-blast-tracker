@@ -9839,5 +9839,18 @@
         "exit_velo": "104.7",
         "launch_angle": "28.0",
         "source": "live"
+    },
+    {
+        "player": "Jake Burger",
+        "distance": 428,
+        "team": "TEX",
+        "opponent": "ATH",
+        "date": "2026-08-14",
+        "time_utc": "2026-08-15T03:20:10.633Z",
+        "game_pk": 824968,
+        "inning": 6,
+        "exit_velo": "106.0",
+        "launch_angle": "27.0",
+        "source": "live"
     }
 ]
