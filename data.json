@@ -9891,5 +9891,18 @@
         "exit_velo": "105.4",
         "launch_angle": "30.0",
         "source": "live"
+    },
+    {
+        "player": "Wyatt Langford",
+        "distance": 421,
+        "team": "TEX",
+        "opponent": "ATH",
+        "date": "2026-08-15",
+        "time_utc": "2026-08-16T03:14:38.866Z",
+        "game_pk": 824966,
+        "inning": 6,
+        "exit_velo": "105.1",
+        "launch_angle": "35.0",
+        "source": "live"
     }
 ]
