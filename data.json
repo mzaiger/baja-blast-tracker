@@ -9917,5 +9917,31 @@
         "exit_velo": "106.9",
         "launch_angle": "23.0",
         "source": "live"
+    },
+    {
+        "player": "Alec Burleson",
+        "distance": 421,
+        "team": "STL",
+        "opponent": "CHC",
+        "date": "2026-08-16",
+        "time_utc": "2026-08-16T19:17:35.437Z",
+        "game_pk": 824642,
+        "inning": 1,
+        "exit_velo": "105.8",
+        "launch_angle": "33.0",
+        "source": "live"
+    },
+    {
+        "player": "Matt Olson",
+        "distance": 437,
+        "team": "ATL",
+        "opponent": "AZ",
+        "date": "2026-08-16",
+        "time_utc": "2026-08-16T19:30:42.856Z",
+        "game_pk": 824880,
+        "inning": 7,
+        "exit_velo": "109.5",
+        "launch_angle": "24.0",
+        "source": "live"
     }
 ]
