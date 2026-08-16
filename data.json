@@ -9854,6 +9854,19 @@
         "source": "savant"
     },
     {
+        "player": "Wilyer Abreu",
+        "distance": 420,
+        "team": "BOS",
+        "opponent": "PIT",
+        "date": "2026-08-15",
+        "time_utc": "2026-08-15T23:32:53.952Z",
+        "game_pk": 823347,
+        "inning": 2,
+        "exit_velo": "110.8",
+        "launch_angle": "24.0",
+        "source": "live"
+    },
+    {
         "player": "Joshua B\u00e1ez",
         "distance": 449,
         "team": "STL",
@@ -9864,6 +9877,19 @@
         "inning": 1,
         "exit_velo": "108.6",
         "launch_angle": "33.0",
+        "source": "live"
+    },
+    {
+        "player": "Ronald Acu\u00f1a Jr.",
+        "distance": 429,
+        "team": "ATL",
+        "opponent": "AZ",
+        "date": "2026-08-15",
+        "time_utc": "2026-08-15T23:22:55.784Z",
+        "game_pk": 824884,
+        "inning": 1,
+        "exit_velo": "105.4",
+        "launch_angle": "30.0",
         "source": "live"
     }
 ]
