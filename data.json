@@ -9854,55 +9854,55 @@
         "source": "savant"
     },
     {
-        "player": "Wilyer Abreu",
+        "player": "Abreu, Wilyer",
         "distance": 420,
-        "team": "BOS",
-        "opponent": "PIT",
+        "team": "PIT",
+        "opponent": "BOS",
         "date": "2026-08-15",
-        "time_utc": "2026-08-15T23:32:53.952Z",
+        "time_utc": "2026-08-15T23:15:00Z",
         "game_pk": 823347,
         "inning": 2,
         "exit_velo": "110.8",
-        "launch_angle": "24.0",
-        "source": "live"
+        "launch_angle": "24",
+        "source": "savant"
     },
     {
-        "player": "Joshua B\u00e1ez",
+        "player": "B\u00e1ez, Joshua",
         "distance": 449,
-        "team": "STL",
-        "opponent": "CHC",
+        "team": "CHC",
+        "opponent": "STL",
         "date": "2026-08-15",
-        "time_utc": "2026-08-15T18:28:42.212Z",
+        "time_utc": "2026-08-15T18:20:00Z",
         "game_pk": 824644,
         "inning": 1,
         "exit_velo": "108.6",
-        "launch_angle": "33.0",
-        "source": "live"
+        "launch_angle": "33",
+        "source": "savant"
     },
     {
-        "player": "Ronald Acu\u00f1a Jr.",
+        "player": "Acu\u00f1a Jr., Ronald",
         "distance": 429,
         "team": "ATL",
         "opponent": "AZ",
         "date": "2026-08-15",
-        "time_utc": "2026-08-15T23:22:55.784Z",
+        "time_utc": "2026-08-15T23:15:00Z",
         "game_pk": 824884,
         "inning": 1,
         "exit_velo": "105.4",
-        "launch_angle": "30.0",
-        "source": "live"
+        "launch_angle": "30",
+        "source": "savant"
     },
     {
-        "player": "Wyatt Langford",
+        "player": "Langford, Wyatt",
         "distance": 421,
-        "team": "TEX",
-        "opponent": "ATH",
+        "team": "ATH",
+        "opponent": "TEX",
         "date": "2026-08-15",
-        "time_utc": "2026-08-16T03:14:38.866Z",
+        "time_utc": "2026-08-16T01:40:00Z",
         "game_pk": 824966,
         "inning": 6,
         "exit_velo": "105.1",
-        "launch_angle": "35.0",
-        "source": "live"
+        "launch_angle": "35",
+        "source": "savant"
     }
 ]
