@@ -9904,5 +9904,18 @@
         "exit_velo": "105.1",
         "launch_angle": "35",
         "source": "savant"
+    },
+    {
+        "player": "Ryan Vilade",
+        "distance": 441,
+        "team": "TB",
+        "opponent": "BAL",
+        "date": "2026-08-16",
+        "time_utc": "2026-08-16T17:06:12.443Z",
+        "game_pk": 822940,
+        "inning": 4,
+        "exit_velo": "106.9",
+        "launch_angle": "23.0",
+        "source": "live"
     }
 ]
