@@ -9906,6 +9906,19 @@
         "source": "savant"
     },
     {
+        "player": "Ben Rice",
+        "distance": 438,
+        "team": "NYY",
+        "opponent": "TOR",
+        "date": "2026-08-16",
+        "time_utc": "2026-08-16T20:25:20.633Z",
+        "game_pk": 822774,
+        "inning": 10,
+        "exit_velo": "108.5",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
         "player": "Ryan Vilade",
         "distance": 441,
         "team": "TB",
