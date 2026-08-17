@@ -9956,5 +9956,18 @@
         "exit_velo": "109.5",
         "launch_angle": "24",
         "source": "savant"
+    },
+    {
+        "player": "Coby Mayo",
+        "distance": 468,
+        "team": "BAL",
+        "opponent": "TB",
+        "date": "2026-08-17",
+        "time_utc": "2026-08-17T22:16:57.021Z",
+        "game_pk": 822939,
+        "inning": 2,
+        "exit_velo": "114.2",
+        "launch_angle": "28.0",
+        "source": "live"
     }
 ]
