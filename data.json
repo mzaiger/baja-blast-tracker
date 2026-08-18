@@ -9984,6 +9984,32 @@
         "source": "live"
     },
     {
+        "player": "Max Muncy",
+        "distance": 461,
+        "team": "LAD",
+        "opponent": "COL",
+        "date": "2026-08-17",
+        "time_utc": "2026-08-18T01:17:53.654Z",
+        "game_pk": 824320,
+        "inning": 3,
+        "exit_velo": "110.2",
+        "launch_angle": "31.0",
+        "source": "live"
+    },
+    {
+        "player": "Shohei Ohtani",
+        "distance": 428,
+        "team": "LAD",
+        "opponent": "COL",
+        "date": "2026-08-17",
+        "time_utc": "2026-08-18T02:02:23.316Z",
+        "game_pk": 824320,
+        "inning": 5,
+        "exit_velo": "105.5",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
         "player": "Seiya Suzuki",
         "distance": 440,
         "team": "CHC",
