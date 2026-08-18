@@ -9969,5 +9969,31 @@
         "exit_velo": "114.2",
         "launch_angle": "28.0",
         "source": "live"
+    },
+    {
+        "player": "Ryan Vilade",
+        "distance": 428,
+        "team": "TB",
+        "opponent": "BAL",
+        "date": "2026-08-17",
+        "time_utc": "2026-08-17T23:12:49.560Z",
+        "game_pk": 822939,
+        "inning": 4,
+        "exit_velo": "107.4",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
+        "player": "Seiya Suzuki",
+        "distance": 440,
+        "team": "CHC",
+        "opponent": "CWS",
+        "date": "2026-08-17",
+        "time_utc": "2026-08-18T00:12:16.670Z",
+        "game_pk": 824641,
+        "inning": 1,
+        "exit_velo": "110.6",
+        "launch_angle": "24.0",
+        "source": "live"
     }
 ]
