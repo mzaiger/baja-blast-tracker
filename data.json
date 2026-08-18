@@ -10021,5 +10021,44 @@
         "exit_velo": "110.6",
         "launch_angle": "24",
         "source": "savant"
+    },
+    {
+        "player": "Griffin Conine",
+        "distance": 422,
+        "team": "MIA",
+        "opponent": "PHI",
+        "date": "2026-08-18",
+        "time_utc": "2026-08-18T22:57:14.128Z",
+        "game_pk": 823423,
+        "inning": 2,
+        "exit_velo": "109.4",
+        "launch_angle": "21.0",
+        "source": "live"
+    },
+    {
+        "player": "Fernando Tatis Jr.",
+        "distance": 452,
+        "team": "SD",
+        "opponent": "NYM",
+        "date": "2026-08-18",
+        "time_utc": "2026-08-18T23:10:20.564Z",
+        "game_pk": 823586,
+        "inning": 1,
+        "exit_velo": "113.2",
+        "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
+        "player": "Jo Adell",
+        "distance": 455,
+        "team": "CLE",
+        "opponent": "SF",
+        "date": "2026-08-18",
+        "time_utc": "2026-08-18T22:48:50.509Z",
+        "game_pk": 824398,
+        "inning": 1,
+        "exit_velo": "111.9",
+        "launch_angle": "30.0",
+        "source": "live"
     }
 ]
