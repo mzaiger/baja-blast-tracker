@@ -10151,5 +10151,18 @@
         "exit_velo": "110.0",
         "launch_angle": "30.0",
         "source": "live"
+    },
+    {
+        "player": "Lars Nootbaar",
+        "distance": 420,
+        "team": "AZ",
+        "opponent": "BOS",
+        "date": "2026-08-19",
+        "time_utc": "2026-08-19T21:48:02.507Z",
+        "game_pk": 824722,
+        "inning": 6,
+        "exit_velo": "110.5",
+        "launch_angle": "21.0",
+        "source": "live"
     }
 ]
