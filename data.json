@@ -10138,5 +10138,18 @@
         "exit_velo": "104.2",
         "launch_angle": "31",
         "source": "savant"
+    },
+    {
+        "player": "Rafael Flores Jr.",
+        "distance": 422,
+        "team": "PIT",
+        "opponent": "DET",
+        "date": "2026-08-19",
+        "time_utc": "2026-08-19T18:34:21.063Z",
+        "game_pk": 823342,
+        "inning": 7,
+        "exit_velo": "106.4",
+        "launch_angle": "35.0",
+        "source": "live"
     }
 ]
