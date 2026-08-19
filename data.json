@@ -10088,6 +10088,19 @@
         "source": "live"
     },
     {
+        "player": "Shohei Ohtani",
+        "distance": 448,
+        "team": "LAD",
+        "opponent": "COL",
+        "date": "2026-08-18",
+        "time_utc": "2026-08-19T01:23:39.576Z",
+        "game_pk": 824319,
+        "inning": 3,
+        "exit_velo": "105.6",
+        "launch_angle": "33.0",
+        "source": "live"
+    },
+    {
         "player": "Jo Adell",
         "distance": 455,
         "team": "CLE",
