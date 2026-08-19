@@ -10023,6 +10023,32 @@
         "source": "savant"
     },
     {
+        "player": "Kazuma Okamoto",
+        "distance": 442,
+        "team": "TOR",
+        "opponent": "TB",
+        "date": "2026-08-18",
+        "time_utc": "2026-08-19T00:09:33.189Z",
+        "game_pk": 822938,
+        "inning": 5,
+        "exit_velo": "106.8",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
+        "player": "Oneil Cruz",
+        "distance": 422,
+        "team": "PIT",
+        "opponent": "DET",
+        "date": "2026-08-18",
+        "time_utc": "2026-08-18T23:33:59.115Z",
+        "game_pk": 823341,
+        "inning": 5,
+        "exit_velo": "107.7",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
         "player": "Griffin Conine",
         "distance": 422,
         "team": "MIA",
@@ -10049,6 +10075,19 @@
         "source": "live"
     },
     {
+        "player": "Josh Bell",
+        "distance": 434,
+        "team": "MIN",
+        "opponent": "ATL",
+        "date": "2026-08-18",
+        "time_utc": "2026-08-18T23:50:53.657Z",
+        "game_pk": 823667,
+        "inning": 1,
+        "exit_velo": "110.0",
+        "launch_angle": "30.0",
+        "source": "live"
+    },
+    {
         "player": "Jo Adell",
         "distance": 455,
         "team": "CLE",
@@ -10059,6 +10098,32 @@
         "inning": 1,
         "exit_velo": "111.9",
         "launch_angle": "30.0",
+        "source": "live"
+    },
+    {
+        "player": "Michael Busch",
+        "distance": 421,
+        "team": "CHC",
+        "opponent": "CWS",
+        "date": "2026-08-18",
+        "time_utc": "2026-08-19T00:21:05.181Z",
+        "game_pk": 824639,
+        "inning": 1,
+        "exit_velo": "102.9",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "Gabriel Moreno",
+        "distance": 428,
+        "team": "AZ",
+        "opponent": "BOS",
+        "date": "2026-08-18",
+        "time_utc": "2026-08-18T23:58:07.465Z",
+        "game_pk": 824723,
+        "inning": 3,
+        "exit_velo": "104.2",
+        "launch_angle": "31.0",
         "source": "live"
     }
 ]
