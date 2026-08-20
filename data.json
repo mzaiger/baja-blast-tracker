@@ -8138,19 +8138,6 @@
         "source": "savant"
     },
     {
-        "player": "Perez, Salvador",
-        "distance": 440,
-        "team": "KC",
-        "opponent": "SF",
-        "date": "2026-07-20",
-        "time_utc": "2026-07-20T23:40:00Z",
-        "game_pk": 824087,
-        "inning": 4,
-        "exit_velo": "105.4",
-        "launch_angle": "25",
-        "source": "savant"
-    },
-    {
         "player": "Ramos, Heliot",
         "distance": 430,
         "team": "KC",
@@ -8161,6 +8148,19 @@
         "inning": 4,
         "exit_velo": "107.5",
         "launch_angle": "26",
+        "source": "savant"
+    },
+    {
+        "player": "Perez, Salvador",
+        "distance": 440,
+        "team": "KC",
+        "opponent": "SF",
+        "date": "2026-07-20",
+        "time_utc": "2026-07-20T23:40:00Z",
+        "game_pk": 824087,
+        "inning": 4,
+        "exit_velo": "105.4",
+        "launch_angle": "25",
         "source": "savant"
     },
     {
@@ -10127,6 +10127,19 @@
         "source": "savant"
     },
     {
+        "player": "Murakami, Munetaka",
+        "distance": 440,
+        "team": "CHC",
+        "opponent": "CWS",
+        "date": "2026-08-18",
+        "time_utc": "2026-08-19T00:05:00Z",
+        "game_pk": 824639,
+        "inning": 3,
+        "exit_velo": "111.1",
+        "launch_angle": "39",
+        "source": "savant"
+    },
+    {
         "player": "Moreno, Gabriel",
         "distance": 428,
         "team": "BOS",
@@ -10140,81 +10153,81 @@
         "source": "savant"
     },
     {
-        "player": "Rafael Flores Jr.",
+        "player": "Flores Jr., Rafael",
         "distance": 431,
         "team": "PIT",
         "opponent": "DET",
         "date": "2026-08-19",
-        "time_utc": "2026-08-19T19:22:41.907Z",
+        "time_utc": "2026-08-19T16:35:00Z",
         "game_pk": 823342,
         "inning": 9,
-        "exit_velo": "110.0",
-        "launch_angle": "30.0",
-        "source": "live"
+        "exit_velo": "110",
+        "launch_angle": "30",
+        "source": "savant"
     },
     {
-        "player": "Vinnie Pasquantino",
+        "player": "Pasquantino, Vinnie",
         "distance": 427,
         "team": "KC",
         "opponent": "ATH",
         "date": "2026-08-19",
-        "time_utc": "2026-08-20T01:07:57.376Z",
+        "time_utc": "2026-08-19T23:40:00Z",
         "game_pk": 824076,
         "inning": 6,
         "exit_velo": "105.9",
-        "launch_angle": "24.0",
-        "source": "live"
+        "launch_angle": "24",
+        "source": "savant"
     },
     {
-        "player": "Sal Stewart",
+        "player": "Stewart, Sal",
         "distance": 422,
         "team": "CIN",
         "opponent": "STL",
         "date": "2026-08-19",
-        "time_utc": "2026-08-20T00:32:26.913Z",
+        "time_utc": "2026-08-19T22:40:00Z",
         "game_pk": 824476,
         "inning": 6,
         "exit_velo": "108.2",
-        "launch_angle": "31.0",
-        "source": "live"
+        "launch_angle": "31",
+        "source": "savant"
     },
     {
-        "player": "Lars Nootbaar",
+        "player": "Nootbaar, Lars",
         "distance": 420,
-        "team": "AZ",
-        "opponent": "BOS",
+        "team": "BOS",
+        "opponent": "AZ",
         "date": "2026-08-19",
-        "time_utc": "2026-08-19T21:48:02.507Z",
+        "time_utc": "2026-08-19T20:10:00Z",
         "game_pk": 824722,
         "inning": 6,
         "exit_velo": "110.5",
-        "launch_angle": "21.0",
-        "source": "live"
+        "launch_angle": "21",
+        "source": "savant"
     },
     {
-        "player": "Ben Rice",
-        "distance": 447,
-        "team": "NYY",
-        "opponent": "BAL",
-        "date": "2026-08-19",
-        "time_utc": "2026-08-19T23:20:48.081Z",
-        "game_pk": 824801,
-        "inning": 3,
-        "exit_velo": "110.2",
-        "launch_angle": "33.0",
-        "source": "live"
-    },
-    {
-        "player": "Pete Alonso",
+        "player": "Alonso, Pete",
         "distance": 423,
         "team": "BAL",
         "opponent": "NYY",
         "date": "2026-08-19",
-        "time_utc": "2026-08-19T23:33:31.683Z",
+        "time_utc": "2026-08-19T22:35:00Z",
         "game_pk": 824801,
         "inning": 3,
         "exit_velo": "109.9",
-        "launch_angle": "27.0",
-        "source": "live"
+        "launch_angle": "27",
+        "source": "savant"
+    },
+    {
+        "player": "Rice, Ben",
+        "distance": 447,
+        "team": "BAL",
+        "opponent": "NYY",
+        "date": "2026-08-19",
+        "time_utc": "2026-08-19T22:35:00Z",
+        "game_pk": 824801,
+        "inning": 3,
+        "exit_velo": "110.2",
+        "launch_angle": "33",
+        "source": "savant"
     }
 ]
