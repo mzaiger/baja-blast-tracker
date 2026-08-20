@@ -10153,6 +10153,19 @@
         "source": "live"
     },
     {
+        "player": "Vinnie Pasquantino",
+        "distance": 427,
+        "team": "KC",
+        "opponent": "ATH",
+        "date": "2026-08-19",
+        "time_utc": "2026-08-20T01:07:57.376Z",
+        "game_pk": 824076,
+        "inning": 6,
+        "exit_velo": "105.9",
+        "launch_angle": "24.0",
+        "source": "live"
+    },
+    {
         "player": "Sal Stewart",
         "distance": 422,
         "team": "CIN",
@@ -10180,7 +10193,7 @@
     },
     {
         "player": "Ben Rice",
-        "distance": 431,
+        "distance": 447,
         "team": "NYY",
         "opponent": "BAL",
         "date": "2026-08-19",
