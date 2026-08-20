@@ -10153,6 +10153,19 @@
         "source": "live"
     },
     {
+        "player": "Sal Stewart",
+        "distance": 422,
+        "team": "CIN",
+        "opponent": "STL",
+        "date": "2026-08-19",
+        "time_utc": "2026-08-20T00:32:26.913Z",
+        "game_pk": 824476,
+        "inning": 6,
+        "exit_velo": "108.2",
+        "launch_angle": "31.0",
+        "source": "live"
+    },
+    {
         "player": "Lars Nootbaar",
         "distance": 420,
         "team": "AZ",
@@ -10163,6 +10176,32 @@
         "inning": 6,
         "exit_velo": "110.5",
         "launch_angle": "21.0",
+        "source": "live"
+    },
+    {
+        "player": "Ben Rice",
+        "distance": 431,
+        "team": "NYY",
+        "opponent": "BAL",
+        "date": "2026-08-19",
+        "time_utc": "2026-08-19T23:20:48.081Z",
+        "game_pk": 824801,
+        "inning": 3,
+        "exit_velo": "110.2",
+        "launch_angle": "33.0",
+        "source": "live"
+    },
+    {
+        "player": "Pete Alonso",
+        "distance": 423,
+        "team": "BAL",
+        "opponent": "NYY",
+        "date": "2026-08-19",
+        "time_utc": "2026-08-19T23:33:31.683Z",
+        "game_pk": 824801,
+        "inning": 3,
+        "exit_velo": "109.9",
+        "launch_angle": "27.0",
         "source": "live"
     }
 ]
