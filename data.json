@@ -10229,5 +10229,18 @@
         "exit_velo": "110.2",
         "launch_angle": "33",
         "source": "savant"
+    },
+    {
+        "player": "Daz Cameron",
+        "distance": 442,
+        "team": "TOR",
+        "opponent": "TB",
+        "date": "2026-08-20",
+        "time_utc": "2026-08-20T18:25:02.047Z",
+        "game_pk": 822934,
+        "inning": 5,
+        "exit_velo": "105.8",
+        "launch_angle": "31.0",
+        "source": "live"
     }
 ]
