@@ -10255,5 +10255,18 @@
         "exit_velo": "107.6",
         "launch_angle": "31.0",
         "source": "live"
+    },
+    {
+        "player": "Zach Neto",
+        "distance": 428,
+        "team": "LAA",
+        "opponent": "HOU",
+        "date": "2026-08-20",
+        "time_utc": "2026-08-21T01:44:46.467Z",
+        "game_pk": 824153,
+        "inning": 5,
+        "exit_velo": "107.6",
+        "launch_angle": "36.0",
+        "source": "live"
     }
 ]
