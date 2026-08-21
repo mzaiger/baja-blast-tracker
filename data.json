@@ -10231,42 +10231,42 @@
         "source": "savant"
     },
     {
-        "player": "Daz Cameron",
+        "player": "Cameron, Daz",
         "distance": 442,
-        "team": "TOR",
-        "opponent": "TB",
+        "team": "TB",
+        "opponent": "TOR",
         "date": "2026-08-20",
-        "time_utc": "2026-08-20T18:25:02.047Z",
+        "time_utc": "2026-08-20T17:10:00Z",
         "game_pk": 822934,
         "inning": 5,
         "exit_velo": "105.8",
-        "launch_angle": "31.0",
-        "source": "live"
+        "launch_angle": "31",
+        "source": "savant"
     },
     {
-        "player": "Garrett Mitchell",
+        "player": "Mitchell, Garrett",
         "distance": 420,
         "team": "MIL",
         "opponent": "SEA",
         "date": "2026-08-20",
-        "time_utc": "2026-08-20T20:56:34.277Z",
+        "time_utc": "2026-08-20T18:10:00Z",
         "game_pk": 823747,
         "inning": 8,
         "exit_velo": "107.6",
-        "launch_angle": "31.0",
-        "source": "live"
+        "launch_angle": "31",
+        "source": "savant"
     },
     {
-        "player": "Zach Neto",
+        "player": "Neto, Zach",
         "distance": 428,
-        "team": "LAA",
-        "opponent": "HOU",
+        "team": "HOU",
+        "opponent": "LAA",
         "date": "2026-08-20",
-        "time_utc": "2026-08-21T01:44:46.467Z",
+        "time_utc": "2026-08-21T00:10:00Z",
         "game_pk": 824153,
         "inning": 5,
         "exit_velo": "107.6",
-        "launch_angle": "36.0",
-        "source": "live"
+        "launch_angle": "36",
+        "source": "savant"
     }
 ]
