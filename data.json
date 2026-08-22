@@ -10296,6 +10296,19 @@
         "source": "live"
     },
     {
+        "player": "Oneil Cruz",
+        "distance": 424,
+        "team": "PIT",
+        "opponent": "LAD",
+        "date": "2026-08-21",
+        "time_utc": "2026-08-22T04:34:47.159Z",
+        "game_pk": 823911,
+        "inning": 8,
+        "exit_velo": "112.8",
+        "launch_angle": "32.0",
+        "source": "live"
+    },
+    {
         "player": "Vinnie Pasquantino",
         "distance": 420,
         "team": "KC",
