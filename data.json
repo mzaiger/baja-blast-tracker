@@ -10270,6 +10270,45 @@
         "source": "savant"
     },
     {
+        "player": "Ty France",
+        "distance": 421,
+        "team": "SD",
+        "opponent": "MIN",
+        "date": "2026-08-21",
+        "time_utc": "2026-08-22T01:48:27.654Z",
+        "game_pk": 823262,
+        "inning": 1,
+        "exit_velo": "107.4",
+        "launch_angle": "30.0",
+        "source": "live"
+    },
+    {
+        "player": "Vinnie Pasquantino",
+        "distance": 420,
+        "team": "KC",
+        "opponent": "DET",
+        "date": "2026-08-21",
+        "time_utc": "2026-08-22T01:45:45.497Z",
+        "game_pk": 824072,
+        "inning": 6,
+        "exit_velo": "106.4",
+        "launch_angle": "32.0",
+        "source": "live"
+    },
+    {
+        "player": "Petey Halpin",
+        "distance": 422,
+        "team": "CLE",
+        "opponent": "COL",
+        "date": "2026-08-21",
+        "time_utc": "2026-08-22T01:13:45.673Z",
+        "game_pk": 824317,
+        "inning": 3,
+        "exit_velo": "100.5",
+        "launch_angle": "35.0",
+        "source": "live"
+    },
+    {
         "player": "Pete Alonso",
         "distance": 443,
         "team": "BAL",
