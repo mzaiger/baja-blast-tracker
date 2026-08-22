@@ -10268,5 +10268,18 @@
         "exit_velo": "107.6",
         "launch_angle": "36",
         "source": "savant"
+    },
+    {
+        "player": "Pete Alonso",
+        "distance": 443,
+        "team": "BAL",
+        "opponent": "TB",
+        "date": "2026-08-21",
+        "time_utc": "2026-08-22T00:34:42.936Z",
+        "game_pk": 824800,
+        "inning": 5,
+        "exit_velo": "111.0",
+        "launch_angle": "30.0",
+        "source": "live"
     }
 ]
