@@ -10450,5 +10450,18 @@
         "exit_velo": "110.7",
         "launch_angle": "21",
         "source": "savant"
+    },
+    {
+        "player": "Elias D\u00edaz",
+        "distance": 421,
+        "team": "TEX",
+        "opponent": "LAA",
+        "date": "2026-08-23",
+        "time_utc": "2026-08-23T20:01:11.657Z",
+        "game_pk": 822856,
+        "inning": 5,
+        "exit_velo": "103.7",
+        "launch_angle": "29.0",
+        "source": "live"
     }
 ]
