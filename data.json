@@ -10372,5 +10372,44 @@
         "exit_velo": "111",
         "launch_angle": "30",
         "source": "savant"
+    },
+    {
+        "player": "Salvador Perez",
+        "distance": 424,
+        "team": "KC",
+        "opponent": "DET",
+        "date": "2026-08-22",
+        "time_utc": "2026-08-23T00:03:48.862Z",
+        "game_pk": 824073,
+        "inning": 4,
+        "exit_velo": "106.3",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "Hao-Yu Lee",
+        "distance": 446,
+        "team": "DET",
+        "opponent": "KC",
+        "date": "2026-08-22",
+        "time_utc": "2026-08-23T00:16:16.958Z",
+        "game_pk": 824073,
+        "inning": 5,
+        "exit_velo": "110.0",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "Donovan Walton",
+        "distance": 422,
+        "team": "ATH",
+        "opponent": "HOU",
+        "date": "2026-08-22",
+        "time_utc": "2026-08-22T23:47:22.176Z",
+        "game_pk": 824151,
+        "inning": 3,
+        "exit_velo": "103.4",
+        "launch_angle": "28.0",
+        "source": "live"
     }
 ]
