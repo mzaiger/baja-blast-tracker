@@ -10476,5 +10476,18 @@
         "exit_velo": "108.5",
         "launch_angle": "33",
         "source": "savant"
+    },
+    {
+        "player": "Daylen Lile",
+        "distance": 420,
+        "team": "WSH",
+        "opponent": "COL",
+        "date": "2026-08-24",
+        "time_utc": "2026-08-25T01:31:49.021Z",
+        "game_pk": 822695,
+        "inning": 8,
+        "exit_velo": "105.2",
+        "launch_angle": "31.0",
+        "source": "live"
     }
 ]
