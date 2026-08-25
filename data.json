@@ -10489,5 +10489,31 @@
         "exit_velo": "105.2",
         "launch_angle": "31.0",
         "source": "live"
+    },
+    {
+        "player": "Rafael Devers",
+        "distance": 427,
+        "team": "SF",
+        "opponent": "CIN",
+        "date": "2026-08-24",
+        "time_utc": "2026-08-25T02:17:55.293Z",
+        "game_pk": 823183,
+        "inning": 2,
+        "exit_velo": "108.9",
+        "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
+        "player": "Michael Conforto",
+        "distance": 431,
+        "team": "CHC",
+        "opponent": "AZ",
+        "date": "2026-08-24",
+        "time_utc": "2026-08-25T03:13:47.335Z",
+        "game_pk": 825041,
+        "inning": 6,
+        "exit_velo": "110.9",
+        "launch_angle": "28.0",
+        "source": "live"
     }
 ]
