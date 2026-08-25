@@ -8138,19 +8138,6 @@
         "source": "savant"
     },
     {
-        "player": "Ramos, Heliot",
-        "distance": 430,
-        "team": "KC",
-        "opponent": "SF",
-        "date": "2026-07-20",
-        "time_utc": "2026-07-20T23:40:00Z",
-        "game_pk": 824087,
-        "inning": 4,
-        "exit_velo": "107.5",
-        "launch_angle": "26",
-        "source": "savant"
-    },
-    {
         "player": "Perez, Salvador",
         "distance": 440,
         "team": "KC",
@@ -8161,6 +8148,19 @@
         "inning": 4,
         "exit_velo": "105.4",
         "launch_angle": "25",
+        "source": "savant"
+    },
+    {
+        "player": "Ramos, Heliot",
+        "distance": 430,
+        "team": "KC",
+        "opponent": "SF",
+        "date": "2026-07-20",
+        "time_utc": "2026-07-20T23:40:00Z",
+        "game_pk": 824087,
+        "inning": 4,
+        "exit_velo": "107.5",
+        "launch_angle": "26",
         "source": "savant"
     },
     {
@@ -10478,42 +10478,42 @@
         "source": "savant"
     },
     {
-        "player": "Daylen Lile",
+        "player": "Lile, Daylen",
         "distance": 420,
         "team": "WSH",
         "opponent": "COL",
         "date": "2026-08-24",
-        "time_utc": "2026-08-25T01:31:49.021Z",
+        "time_utc": "2026-08-24T22:45:00Z",
         "game_pk": 822695,
         "inning": 8,
         "exit_velo": "105.2",
-        "launch_angle": "31.0",
-        "source": "live"
+        "launch_angle": "31",
+        "source": "savant"
     },
     {
-        "player": "Rafael Devers",
+        "player": "Devers, Rafael",
         "distance": 427,
         "team": "SF",
         "opponent": "CIN",
         "date": "2026-08-24",
-        "time_utc": "2026-08-25T02:17:55.293Z",
+        "time_utc": "2026-08-25T01:45:00Z",
         "game_pk": 823183,
         "inning": 2,
         "exit_velo": "108.9",
-        "launch_angle": "25.0",
-        "source": "live"
+        "launch_angle": "25",
+        "source": "savant"
     },
     {
-        "player": "Michael Conforto",
+        "player": "Conforto, Michael",
         "distance": 431,
-        "team": "CHC",
-        "opponent": "AZ",
+        "team": "AZ",
+        "opponent": "CHC",
         "date": "2026-08-24",
-        "time_utc": "2026-08-25T03:13:47.335Z",
+        "time_utc": "2026-08-25T01:40:00Z",
         "game_pk": 825041,
         "inning": 6,
         "exit_velo": "110.9",
-        "launch_angle": "28.0",
-        "source": "live"
+        "launch_angle": "28",
+        "source": "savant"
     }
 ]
