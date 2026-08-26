@@ -10567,5 +10567,31 @@
         "exit_velo": "110.2",
         "launch_angle": "25",
         "source": "savant"
+    },
+    {
+        "player": "Kyle Schwarber",
+        "distance": 425,
+        "team": "PHI",
+        "opponent": "SEA",
+        "date": "2026-08-26",
+        "time_utc": "2026-08-26T20:38:16.055Z",
+        "game_pk": 823096,
+        "inning": 2,
+        "exit_velo": "104.8",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "Jonah Cox",
+        "distance": 421,
+        "team": "SF",
+        "opponent": "CIN",
+        "date": "2026-08-26",
+        "time_utc": "2026-08-26T20:27:07.454Z",
+        "game_pk": 823180,
+        "inning": 2,
+        "exit_velo": "103.7",
+        "launch_angle": "30.0",
+        "source": "live"
     }
 ]
