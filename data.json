@@ -10515,5 +10515,57 @@
         "exit_velo": "110.9",
         "launch_angle": "28",
         "source": "savant"
+    },
+    {
+        "player": "Hunter Goodman",
+        "distance": 432,
+        "team": "COL",
+        "opponent": "WSH",
+        "date": "2026-08-25",
+        "time_utc": "2026-08-25T23:35:56.667Z",
+        "game_pk": 822693,
+        "inning": 4,
+        "exit_velo": "109.5",
+        "launch_angle": "31.0",
+        "source": "live"
+    },
+    {
+        "player": "Pete Alonso",
+        "distance": 435,
+        "team": "BAL",
+        "opponent": "STL",
+        "date": "2026-08-25",
+        "time_utc": "2026-08-26T00:27:21.571Z",
+        "game_pk": 823016,
+        "inning": 3,
+        "exit_velo": "111.3",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "Christian Encarnacion-Strand",
+        "distance": 450,
+        "team": "BAL",
+        "opponent": "STL",
+        "date": "2026-08-25",
+        "time_utc": "2026-08-26T00:33:04.261Z",
+        "game_pk": 823016,
+        "inning": 3,
+        "exit_velo": "111.8",
+        "launch_angle": "30.0",
+        "source": "live"
+    },
+    {
+        "player": "Jake Burger",
+        "distance": 424,
+        "team": "TEX",
+        "opponent": "CWS",
+        "date": "2026-08-25",
+        "time_utc": "2026-08-26T00:14:06.752Z",
+        "game_pk": 824556,
+        "inning": 2,
+        "exit_velo": "110.2",
+        "launch_angle": "25.0",
+        "source": "live"
     }
 ]
