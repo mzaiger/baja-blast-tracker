@@ -8138,19 +8138,6 @@
         "source": "savant"
     },
     {
-        "player": "Perez, Salvador",
-        "distance": 440,
-        "team": "KC",
-        "opponent": "SF",
-        "date": "2026-07-20",
-        "time_utc": "2026-07-20T23:40:00Z",
-        "game_pk": 824087,
-        "inning": 4,
-        "exit_velo": "105.4",
-        "launch_angle": "25",
-        "source": "savant"
-    },
-    {
         "player": "Ramos, Heliot",
         "distance": 430,
         "team": "KC",
@@ -8161,6 +8148,19 @@
         "inning": 4,
         "exit_velo": "107.5",
         "launch_angle": "26",
+        "source": "savant"
+    },
+    {
+        "player": "Perez, Salvador",
+        "distance": 440,
+        "team": "KC",
+        "opponent": "SF",
+        "date": "2026-07-20",
+        "time_utc": "2026-07-20T23:40:00Z",
+        "game_pk": 824087,
+        "inning": 4,
+        "exit_velo": "105.4",
+        "launch_angle": "25",
         "source": "savant"
     },
     {
@@ -10673,81 +10673,81 @@
         "source": "savant"
     },
     {
-        "player": "Brady House",
+        "player": "House, Brady",
         "distance": 445,
         "team": "WSH",
         "opponent": "MIA",
         "date": "2026-08-28",
-        "time_utc": "2026-08-28T23:45:06.101Z",
+        "time_utc": "2026-08-28T22:45:00Z",
         "game_pk": 822691,
         "inning": 3,
         "exit_velo": "110.9",
-        "launch_angle": "28.0",
-        "source": "live"
+        "launch_angle": "28",
+        "source": "savant"
     },
     {
-        "player": "Heriberto Hern\u00e1ndez",
+        "player": "Hern\u00e1ndez, Heriberto",
         "distance": 445,
-        "team": "MIA",
-        "opponent": "WSH",
+        "team": "WSH",
+        "opponent": "MIA",
         "date": "2026-08-28",
-        "time_utc": "2026-08-29T01:03:12.644Z",
+        "time_utc": "2026-08-28T22:45:00Z",
         "game_pk": 822691,
         "inning": 8,
         "exit_velo": "106.9",
-        "launch_angle": "31.0",
-        "source": "live"
+        "launch_angle": "31",
+        "source": "savant"
     },
     {
-        "player": "Dominic Canzone",
+        "player": "Canzone, Dominic",
         "distance": 433,
-        "team": "SEA",
-        "opponent": "TOR",
+        "team": "TOR",
+        "opponent": "SEA",
         "date": "2026-08-28",
-        "time_utc": "2026-08-28T23:18:08.488Z",
+        "time_utc": "2026-08-28T23:15:00Z",
         "game_pk": 822769,
         "inning": 1,
         "exit_velo": "112.8",
-        "launch_angle": "23.0",
-        "source": "live"
+        "launch_angle": "23",
+        "source": "savant"
     },
     {
-        "player": "Jackson Merrill",
+        "player": "Merrill, Jackson",
         "distance": 425,
-        "team": "SD",
-        "opponent": "TB",
+        "team": "TB",
+        "opponent": "SD",
         "date": "2026-08-28",
-        "time_utc": "2026-08-29T00:35:38.468Z",
+        "time_utc": "2026-08-28T23:10:00Z",
         "game_pk": 822935,
         "inning": 6,
         "exit_velo": "104.4",
-        "launch_angle": "29.0",
-        "source": "live"
+        "launch_angle": "29",
+        "source": "savant"
     },
     {
-        "player": "Lars Nootbaar",
+        "player": "Nootbaar, Lars",
         "distance": 432,
-        "team": "AZ",
-        "opponent": "SF",
+        "team": "SF",
+        "opponent": "AZ",
         "date": "2026-08-28",
-        "time_utc": "2026-08-29T02:15:32.708Z",
+        "time_utc": "2026-08-29T02:15:00Z",
         "game_pk": 823178,
         "inning": 1,
         "exit_velo": "109.9",
-        "launch_angle": "26.0",
-        "source": "live"
+        "launch_angle": "26",
+        "source": "savant"
     },
     {
-        "player": "Paul Goldschmidt",
+        "player": "Goldschmidt, Paul",
         "distance": 430,
         "team": "NYY",
         "opponent": "BOS",
         "date": "2026-08-28",
-        "time_utc": "2026-08-29T00:10:55.577Z",
+        "time_utc": "2026-08-28T23:15:00Z",
         "game_pk": 823504,
         "inning": 3,
         "exit_velo": "106.5",
-        "launch_angle": "32.0",
-        "source": "live"
+        "launch_angle": "32",
+        "source": "savant"
     }
 ]
