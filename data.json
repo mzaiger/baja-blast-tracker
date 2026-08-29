@@ -10764,6 +10764,19 @@
         "source": "live"
     },
     {
+        "player": "Junior Caminero",
+        "distance": 426,
+        "team": "TB",
+        "opponent": "SD",
+        "date": "2026-08-29",
+        "time_utc": "2026-08-29T21:33:19.777Z",
+        "game_pk": 822936,
+        "inning": 6,
+        "exit_velo": "107.8",
+        "launch_angle": "17.0",
+        "source": "live"
+    },
+    {
         "player": "Rafael Flores Jr.",
         "distance": 434,
         "team": "PIT",
@@ -10774,6 +10787,32 @@
         "inning": 5,
         "exit_velo": "108.6",
         "launch_angle": "31.0",
+        "source": "live"
+    },
+    {
+        "player": "Lars Nootbaar",
+        "distance": 432,
+        "team": "AZ",
+        "opponent": "SF",
+        "date": "2026-08-29",
+        "time_utc": "2026-08-29T21:51:30.306Z",
+        "game_pk": 823177,
+        "inning": 7,
+        "exit_velo": "110.2",
+        "launch_angle": "30.0",
+        "source": "live"
+    },
+    {
+        "player": "Yordan Alvarez",
+        "distance": 436,
+        "team": "HOU",
+        "opponent": "NYM",
+        "date": "2026-08-29",
+        "time_utc": "2026-08-29T22:24:28.832Z",
+        "game_pk": 823582,
+        "inning": 8,
+        "exit_velo": "113.4",
+        "launch_angle": "23.0",
         "source": "live"
     },
     {
