@@ -10674,15 +10674,28 @@
     },
     {
         "player": "Brady House",
-        "distance": 474,
+        "distance": 445,
         "team": "WSH",
         "opponent": "MIA",
         "date": "2026-08-28",
-        "time_utc": "2026-08-28T23:45:19.210Z",
+        "time_utc": "2026-08-28T23:45:06.101Z",
         "game_pk": 822691,
         "inning": 3,
         "exit_velo": "110.9",
         "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
+        "player": "Heriberto Hern\u00e1ndez",
+        "distance": 445,
+        "team": "MIA",
+        "opponent": "WSH",
+        "date": "2026-08-28",
+        "time_utc": "2026-08-29T01:03:12.644Z",
+        "game_pk": 822691,
+        "inning": 8,
+        "exit_velo": "106.9",
+        "launch_angle": "31.0",
         "source": "live"
     },
     {
@@ -10696,6 +10709,45 @@
         "inning": 1,
         "exit_velo": "112.8",
         "launch_angle": "23.0",
+        "source": "live"
+    },
+    {
+        "player": "Jackson Merrill",
+        "distance": 425,
+        "team": "SD",
+        "opponent": "TB",
+        "date": "2026-08-28",
+        "time_utc": "2026-08-29T00:35:38.468Z",
+        "game_pk": 822935,
+        "inning": 6,
+        "exit_velo": "104.4",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
+        "player": "Lars Nootbaar",
+        "distance": 432,
+        "team": "AZ",
+        "opponent": "SF",
+        "date": "2026-08-28",
+        "time_utc": "2026-08-29T02:15:32.708Z",
+        "game_pk": 823178,
+        "inning": 1,
+        "exit_velo": "109.9",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
+        "player": "Paul Goldschmidt",
+        "distance": 430,
+        "team": "NYY",
+        "opponent": "BOS",
+        "date": "2026-08-28",
+        "time_utc": "2026-08-29T00:10:55.577Z",
+        "game_pk": 823504,
+        "inning": 3,
+        "exit_velo": "106.5",
+        "launch_angle": "32.0",
         "source": "live"
     }
 ]
