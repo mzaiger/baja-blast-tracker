@@ -10749,5 +10749,57 @@
         "exit_velo": "106.5",
         "launch_angle": "32",
         "source": "savant"
+    },
+    {
+        "player": "Jonathan Aranda",
+        "distance": 453,
+        "team": "TB",
+        "opponent": "SD",
+        "date": "2026-08-29",
+        "time_utc": "2026-08-29T20:51:15.633Z",
+        "game_pk": 822936,
+        "inning": 3,
+        "exit_velo": "110.0",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
+        "player": "Rafael Flores Jr.",
+        "distance": 434,
+        "team": "PIT",
+        "opponent": "STL",
+        "date": "2026-08-29",
+        "time_utc": "2026-08-29T19:39:27.197Z",
+        "game_pk": 823011,
+        "inning": 5,
+        "exit_velo": "108.6",
+        "launch_angle": "31.0",
+        "source": "live"
+    },
+    {
+        "player": "Sal Stewart",
+        "distance": 431,
+        "team": "CIN",
+        "opponent": "CHC",
+        "date": "2026-08-29",
+        "time_utc": "2026-08-29T18:59:07.900Z",
+        "game_pk": 824637,
+        "inning": 3,
+        "exit_velo": "105.9",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
+        "player": "Pete Crow-Armstrong",
+        "distance": 444,
+        "team": "CHC",
+        "opponent": "CIN",
+        "date": "2026-08-29",
+        "time_utc": "2026-08-29T20:34:46.291Z",
+        "game_pk": 824637,
+        "inning": 7,
+        "exit_velo": "105.3",
+        "launch_angle": "28.0",
+        "source": "live"
     }
 ]
