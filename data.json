@@ -10816,6 +10816,19 @@
         "source": "live"
     },
     {
+        "player": "Brandon Nimmo",
+        "distance": 426,
+        "team": "TEX",
+        "opponent": "MIL",
+        "date": "2026-08-29",
+        "time_utc": "2026-08-30T01:23:56.393Z",
+        "game_pk": 823741,
+        "inning": 8,
+        "exit_velo": "107.7",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
         "player": "Sal Stewart",
         "distance": 431,
         "team": "CIN",
