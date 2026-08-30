@@ -10853,5 +10853,44 @@
         "exit_velo": "105.3",
         "launch_angle": "28",
         "source": "savant"
+    },
+    {
+        "player": "Junior Caminero",
+        "distance": 440,
+        "team": "TB",
+        "opponent": "SD",
+        "date": "2026-08-30",
+        "time_utc": "2026-08-30T18:40:35.407Z",
+        "game_pk": 822933,
+        "inning": 4,
+        "exit_velo": "111.3",
+        "launch_angle": "24.0",
+        "source": "live"
+    },
+    {
+        "player": "Jeremy Pe\u00f1a",
+        "distance": 435,
+        "team": "HOU",
+        "opponent": "NYM",
+        "date": "2026-08-30",
+        "time_utc": "2026-08-30T19:11:00.470Z",
+        "game_pk": 823580,
+        "inning": 1,
+        "exit_velo": "105.9",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
+        "player": "Teoscar Hern\u00e1ndez",
+        "distance": 434,
+        "team": "LAD",
+        "opponent": "DET",
+        "date": "2026-08-30",
+        "time_utc": "2026-08-30T20:07:42.367Z",
+        "game_pk": 824232,
+        "inning": 6,
+        "exit_velo": "106.5",
+        "launch_angle": "30.0",
+        "source": "live"
     }
 ]
