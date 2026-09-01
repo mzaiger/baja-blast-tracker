@@ -10905,5 +10905,44 @@
         "exit_velo": "105.4",
         "launch_angle": "33",
         "source": "savant"
+    },
+    {
+        "player": "Ryan Jeffers",
+        "distance": 420,
+        "team": "MIN",
+        "opponent": "DET",
+        "date": "2026-08-31",
+        "time_utc": "2026-09-01T00:56:30.091Z",
+        "game_pk": 823663,
+        "inning": 5,
+        "exit_velo": "104.6",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
+        "player": "Hao-Yu Lee",
+        "distance": 439,
+        "team": "DET",
+        "opponent": "MIN",
+        "date": "2026-08-31",
+        "time_utc": "2026-09-01T01:03:56.421Z",
+        "game_pk": 823663,
+        "inning": 6,
+        "exit_velo": "109.6",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
+        "player": "Bryson Stott",
+        "distance": 464,
+        "team": "PHI",
+        "opponent": "AZ",
+        "date": "2026-08-31",
+        "time_utc": "2026-09-01T01:58:22.867Z",
+        "game_pk": 825040,
+        "inning": 2,
+        "exit_velo": "109.9",
+        "launch_angle": "29.0",
+        "source": "live"
     }
 ]
