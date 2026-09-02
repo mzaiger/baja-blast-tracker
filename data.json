@@ -10946,42 +10946,42 @@
         "source": "savant"
     },
     {
-        "player": "Royce Lewis",
+        "player": "Lewis, Royce",
         "distance": 427,
         "team": "MIN",
         "opponent": "DET",
         "date": "2026-09-01",
-        "time_utc": "2026-09-02T01:23:41.358Z",
+        "time_utc": "2026-09-01T23:40:00Z",
         "game_pk": 823661,
         "inning": 6,
         "exit_velo": "105.2",
-        "launch_angle": "28.0",
-        "source": "live"
+        "launch_angle": "28",
+        "source": "savant"
     },
     {
-        "player": "Angel Genao",
+        "player": "Genao, Angel",
         "distance": 426,
         "team": "CLE",
         "opponent": "TOR",
         "date": "2026-09-01",
-        "time_utc": "2026-09-02T00:35:50.509Z",
+        "time_utc": "2026-09-01T22:40:00Z",
         "game_pk": 824391,
         "inning": 7,
         "exit_velo": "105.1",
-        "launch_angle": "30.0",
-        "source": "live"
+        "launch_angle": "30",
+        "source": "savant"
     },
     {
-        "player": "Jahmai Jones",
+        "player": "Jones, Jahmai",
         "distance": 420,
         "team": "BOS",
         "opponent": "SEA",
         "date": "2026-09-01",
-        "time_utc": "2026-09-02T02:03:31.700Z",
+        "time_utc": "2026-09-01T22:45:00Z",
         "game_pk": 824716,
         "inning": 9,
         "exit_velo": "111.9",
-        "launch_angle": "33.0",
-        "source": "live"
+        "launch_angle": "33",
+        "source": "savant"
     }
 ]
