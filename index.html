@@ -163,6 +163,51 @@
 
         .dash { color: #4b5563; }
 
+        .pagination {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+            gap: 0.5rem;
+            margin-top: 1.5rem;
+        }
+
+        .pagination button {
+            background-color: #1f2937;
+            color: #e5e7eb;
+            border: 1px solid #374151;
+            border-radius: 0.375rem;
+            padding: 0.4rem 0.75rem;
+            font-size: 0.875rem;
+            cursor: pointer;
+            font-family: inherit;
+        }
+
+        .pagination button:hover:not(:disabled) {
+            background-color: #374151;
+        }
+
+        .pagination button:disabled {
+            opacity: 0.4;
+            cursor: default;
+        }
+
+        .pagination button.active {
+            background-color: #22d3ee;
+            color: #111827;
+            border-color: #22d3ee;
+            font-weight: 700;
+        }
+
+        .pagination .page-info {
+            color: #9ca3af;
+            font-size: 0.8rem;
+            width: 100%;
+            text-align: center;
+            margin-top: 0.25rem;
+            order: 10;
+        }
+
         @media (min-width: 768px) {
             .col-headers { display: grid; }
 
@@ -194,6 +239,8 @@
         <div id="hr-list">
             <p class="loading">Loading the bombs...</p>
         </div>
+
+        <div id="pagination" class="pagination"></div>
     </div>
 
     <script>
@@ -202,11 +249,13 @@
         document.getElementById('year-sub').textContent = currentYear;
         document.title = `Baja Blast Promotion: ${currentYear} Regular Season`;
 
+        const PAGE_SIZE = 100;
+        let allData = [];
+        let currentPage = 1;
+
         async function loadHRs() {
             const response = await fetch(`./data.json?v=${Date.now()}`);
             let data = await response.json();
-            const container = document.getElementById('hr-list');
-            container.innerHTML = '';
 
             // Sort most recent first — prefer exact timestamp, fall back to game/inning
             data.sort((a, b) => {
@@ -216,12 +265,29 @@
                 return (b.inning || 0) - (a.inning || 0);
             });
 
-            if (data.length === 0) {
+            allData = data;
+            currentPage = 1;
+            renderPage();
+        }
+
+        function renderPage() {
+            const container = document.getElementById('hr-list');
+            const paginationEl = document.getElementById('pagination');
+            container.innerHTML = '';
+            paginationEl.innerHTML = '';
+
+            if (allData.length === 0) {
                 container.innerHTML = '<p class="empty">No 420ft+ homers yet this season. Pitchers are winning.</p>';
                 return;
             }
 
-            data.forEach(hr => {
+            const totalPages = Math.max(1, Math.ceil(allData.length / PAGE_SIZE));
+            currentPage = Math.min(Math.max(1, currentPage), totalPages);
+
+            const start = (currentPage - 1) * PAGE_SIZE;
+            const pageItems = allData.slice(start, start + PAGE_SIZE);
+
+            pageItems.forEach(hr => {
                 const velo  = hr.exit_velo    ? `${parseFloat(hr.exit_velo).toFixed(1)} <span class="unit-label">mph</span>`  : '<span class="dash">—</span>';
                 const angle = hr.launch_angle ? `${parseFloat(hr.launch_angle).toFixed(1)}<span class="unit-label">°</span>`   : '<span class="dash">—</span>';
 
@@ -257,6 +323,61 @@
                 `;
                 container.innerHTML += card;
             });
+
+            renderPagination(totalPages);
+        }
+
+        function renderPagination(totalPages) {
+            const paginationEl = document.getElementById('pagination');
+            if (totalPages <= 1) return;
+
+            function makeBtn(label, page, opts = {}) {
+                const btn = document.createElement('button');
+                btn.textContent = label;
+                if (opts.active) btn.classList.add('active');
+                if (opts.disabled) btn.disabled = true;
+                btn.addEventListener('click', () => {
+                    currentPage = page;
+                    renderPage();
+                    window.scrollTo({ top: 0, behavior: 'smooth' });
+                });
+                return btn;
+            }
+
+            // Top / Prev
+            paginationEl.appendChild(makeBtn('« Top 100', 1, { disabled: currentPage === 1 }));
+            paginationEl.appendChild(makeBtn('‹ Prev', currentPage - 1, { disabled: currentPage === 1 }));
+
+            // Windowed page numbers around current page
+            const windowSize = 2;
+            let pages = new Set([1, totalPages]);
+            for (let p = currentPage - windowSize; p <= currentPage + windowSize; p++) {
+                if (p >= 1 && p <= totalPages) pages.add(p);
+            }
+            const sortedPages = Array.from(pages).sort((a, b) => a - b);
+
+            let prevPage = null;
+            sortedPages.forEach(p => {
+                if (prevPage !== null && p - prevPage > 1) {
+                    const ellipsis = document.createElement('span');
+                    ellipsis.textContent = '…';
+                    ellipsis.className = 'muted';
+                    paginationEl.appendChild(ellipsis);
+                }
+                paginationEl.appendChild(makeBtn(String(p), p, { active: p === currentPage }));
+                prevPage = p;
+            });
+
+            // Next / Last
+            paginationEl.appendChild(makeBtn('Next ›', currentPage + 1, { disabled: currentPage === totalPages }));
+            paginationEl.appendChild(makeBtn(`Last 100 »`, totalPages, { disabled: currentPage === totalPages }));
+
+            const info = document.createElement('div');
+            info.className = 'page-info';
+            const start = (currentPage - 1) * PAGE_SIZE + 1;
+            const end = Math.min(currentPage * PAGE_SIZE, allData.length);
+            info.textContent = `Showing ${start}–${end} of ${allData.length}`;
+            paginationEl.appendChild(info);
         }
 
         loadHRs();
