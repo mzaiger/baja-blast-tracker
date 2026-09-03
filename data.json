@@ -10985,29 +10985,29 @@
         "source": "savant"
     },
     {
-        "player": "Justin Foscue",
+        "player": "Foscue, Justin",
         "distance": 424,
         "team": "TEX",
         "opponent": "ATH",
         "date": "2026-09-02",
-        "time_utc": "2026-09-02T19:09:48.804Z",
+        "time_utc": "2026-09-02T18:35:00Z",
         "game_pk": 822851,
         "inning": 2,
         "exit_velo": "107.3",
-        "launch_angle": "22.0",
-        "source": "live"
+        "launch_angle": "22",
+        "source": "savant"
     },
     {
-        "player": "Jonah Heim",
+        "player": "Heim, Jonah",
         "distance": 421,
-        "team": "ATH",
-        "opponent": "TEX",
+        "team": "TEX",
+        "opponent": "ATH",
         "date": "2026-09-02",
-        "time_utc": "2026-09-02T20:05:18.450Z",
+        "time_utc": "2026-09-02T18:35:00Z",
         "game_pk": 822851,
         "inning": 5,
-        "exit_velo": "105.0",
-        "launch_angle": "22.0",
-        "source": "live"
+        "exit_velo": "105",
+        "launch_angle": "22",
+        "source": "savant"
     }
 ]
