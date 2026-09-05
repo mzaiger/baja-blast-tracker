@@ -11048,5 +11048,83 @@
         "exit_velo": "105.5",
         "launch_angle": "35",
         "source": "savant"
+    },
+    {
+        "player": "Ben Rice",
+        "distance": 444,
+        "team": "NYY",
+        "opponent": "SD",
+        "date": "2026-09-04",
+        "time_utc": "2026-09-05T02:19:10.549Z",
+        "game_pk": 823256,
+        "inning": 3,
+        "exit_velo": "108.6",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
+        "player": "Michael Busch",
+        "distance": 427,
+        "team": "CHC",
+        "opponent": "MIA",
+        "date": "2026-09-04",
+        "time_utc": "2026-09-05T01:51:38.639Z",
+        "game_pk": 823824,
+        "inning": 9,
+        "exit_velo": "105.6",
+        "launch_angle": "32.0",
+        "source": "live"
+    },
+    {
+        "player": "Cole Carrigg",
+        "distance": 428,
+        "team": "COL",
+        "opponent": "STL",
+        "date": "2026-09-04",
+        "time_utc": "2026-09-05T02:19:57.469Z",
+        "game_pk": 824311,
+        "inning": 6,
+        "exit_velo": "103.7",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
+        "player": "TJ Rumfield",
+        "distance": 441,
+        "team": "COL",
+        "opponent": "STL",
+        "date": "2026-09-04",
+        "time_utc": "2026-09-05T02:47:06.620Z",
+        "game_pk": 824311,
+        "inning": 7,
+        "exit_velo": "105.1",
+        "launch_angle": "33.0",
+        "source": "live"
+    },
+    {
+        "player": "Iv\u00e1n Herrera",
+        "distance": 430,
+        "team": "STL",
+        "opponent": "COL",
+        "date": "2026-09-04",
+        "time_utc": "2026-09-05T03:18:48.871Z",
+        "game_pk": 824311,
+        "inning": 9,
+        "exit_velo": "103.5",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
+        "player": "Josh Bell",
+        "distance": 460,
+        "team": "MIN",
+        "opponent": "CWS",
+        "date": "2026-09-04",
+        "time_utc": "2026-09-05T01:52:17.180Z",
+        "game_pk": 824554,
+        "inning": 9,
+        "exit_velo": "113.7",
+        "launch_angle": "30.0",
+        "source": "live"
     }
 ]
