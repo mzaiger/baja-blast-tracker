@@ -11141,6 +11141,45 @@
         "source": "live"
     },
     {
+        "player": "Evan Carter",
+        "distance": 421,
+        "team": "TEX",
+        "opponent": "TB",
+        "date": "2026-09-05",
+        "time_utc": "2026-09-06T01:07:35.142Z",
+        "game_pk": 822850,
+        "inning": 8,
+        "exit_velo": "105.9",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
+        "player": "Max Muncy",
+        "distance": 428,
+        "team": "ATH",
+        "opponent": "SEA",
+        "date": "2026-09-05",
+        "time_utc": "2026-09-06T01:59:24.063Z",
+        "game_pk": 823094,
+        "inning": 2,
+        "exit_velo": "108.3",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
+        "player": "Bryan Reynolds",
+        "distance": 421,
+        "team": "PIT",
+        "opponent": "LAA",
+        "date": "2026-09-05",
+        "time_utc": "2026-09-06T00:53:13.774Z",
+        "game_pk": 823335,
+        "inning": 8,
+        "exit_velo": "108.8",
+        "launch_angle": "32.0",
+        "source": "live"
+    },
+    {
         "player": "Ronald Acu\u00f1a Jr.",
         "distance": 450,
         "team": "ATL",
@@ -11164,6 +11203,19 @@
         "inning": 4,
         "exit_velo": "108.7",
         "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
+        "player": "Austin Riley",
+        "distance": 428,
+        "team": "ATL",
+        "opponent": "PHI",
+        "date": "2026-09-05",
+        "time_utc": "2026-09-05T23:54:06.999Z",
+        "game_pk": 823419,
+        "inning": 7,
+        "exit_velo": "103.1",
+        "launch_angle": "28.0",
         "source": "live"
     },
     {
@@ -11203,6 +11255,32 @@
         "inning": 7,
         "exit_velo": "109.4",
         "launch_angle": "32.0",
+        "source": "live"
+    },
+    {
+        "player": "Joshua B\u00e1ez",
+        "distance": 422,
+        "team": "STL",
+        "opponent": "COL",
+        "date": "2026-09-05",
+        "time_utc": "2026-09-06T00:28:02.112Z",
+        "game_pk": 824310,
+        "inning": 2,
+        "exit_velo": "109.1",
+        "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
+        "player": "Iv\u00e1n Herrera",
+        "distance": 443,
+        "team": "STL",
+        "opponent": "COL",
+        "date": "2026-09-05",
+        "time_utc": "2026-09-06T01:18:48.497Z",
+        "game_pk": 824310,
+        "inning": 5,
+        "exit_velo": "107.2",
+        "launch_angle": "27.0",
         "source": "live"
     },
     {
