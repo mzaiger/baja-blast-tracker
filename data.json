@@ -11308,5 +11308,57 @@
         "exit_velo": "112.1",
         "launch_angle": "25",
         "source": "savant"
+    },
+    {
+        "player": "Jake Burger",
+        "distance": 428,
+        "team": "TEX",
+        "opponent": "TB",
+        "date": "2026-09-06",
+        "time_utc": "2026-09-06T20:01:33.363Z",
+        "game_pk": 822848,
+        "inning": 4,
+        "exit_velo": "105.7",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
+        "player": "Mickey Moniak",
+        "distance": 436,
+        "team": "COL",
+        "opponent": "STL",
+        "date": "2026-09-06",
+        "time_utc": "2026-09-06T20:03:24.888Z",
+        "game_pk": 824309,
+        "inning": 3,
+        "exit_velo": "108.7",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
+        "player": "Nolan Gorman",
+        "distance": 426,
+        "team": "STL",
+        "opponent": "COL",
+        "date": "2026-09-06",
+        "time_utc": "2026-09-06T20:37:44.785Z",
+        "game_pk": 824309,
+        "inning": 5,
+        "exit_velo": "103.6",
+        "launch_angle": "31.0",
+        "source": "live"
+    },
+    {
+        "player": "Jake McCarthy",
+        "distance": 435,
+        "team": "COL",
+        "opponent": "STL",
+        "date": "2026-09-06",
+        "time_utc": "2026-09-06T21:46:06.361Z",
+        "game_pk": 824309,
+        "inning": 8,
+        "exit_velo": "104.1",
+        "launch_angle": "32.0",
+        "source": "live"
     }
 ]
