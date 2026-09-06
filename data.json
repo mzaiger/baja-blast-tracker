@@ -11323,6 +11323,19 @@
         "source": "live"
     },
     {
+        "player": "Luis Campusano",
+        "distance": 433,
+        "team": "SD",
+        "opponent": "NYY",
+        "date": "2026-09-06",
+        "time_utc": "2026-09-06T21:58:55.735Z",
+        "game_pk": 823253,
+        "inning": 7,
+        "exit_velo": "108.1",
+        "launch_angle": "32.0",
+        "source": "live"
+    },
+    {
         "player": "Mickey Moniak",
         "distance": 436,
         "team": "COL",
