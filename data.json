@@ -11388,55 +11388,55 @@
         "source": "savant"
     },
     {
-        "player": "Alec Burleson",
+        "player": "Burleson, Alec",
         "distance": 431,
-        "team": "STL",
-        "opponent": "SF",
+        "team": "SF",
+        "opponent": "STL",
         "date": "2026-09-07",
-        "time_utc": "2026-09-08T01:41:36.886Z",
+        "time_utc": "2026-09-08T00:10:00Z",
         "game_pk": 823175,
         "inning": 6,
         "exit_velo": "109.5",
-        "launch_angle": "31.0",
-        "source": "live"
+        "launch_angle": "31",
+        "source": "savant"
     },
     {
-        "player": "Jarren Duran",
+        "player": "Duran, Jarren",
         "distance": 425,
         "team": "BOS",
         "opponent": "LAA",
         "date": "2026-09-07",
-        "time_utc": "2026-09-07T18:08:57.797Z",
+        "time_utc": "2026-09-07T17:35:00Z",
         "game_pk": 824715,
         "inning": 2,
         "exit_velo": "111.7",
-        "launch_angle": "25.0",
-        "source": "live"
+        "launch_angle": "25",
+        "source": "savant"
     },
     {
-        "player": "Coby Mayo",
+        "player": "Mayo, Coby",
         "distance": 426,
         "team": "BAL",
         "opponent": "CLE",
         "date": "2026-09-07",
-        "time_utc": "2026-09-07T18:34:40.276Z",
+        "time_utc": "2026-09-07T17:35:00Z",
         "game_pk": 824793,
         "inning": 3,
         "exit_velo": "110.2",
-        "launch_angle": "30.0",
-        "source": "live"
+        "launch_angle": "30",
+        "source": "savant"
     },
     {
-        "player": "Kazuma Okamoto",
+        "player": "Okamoto, Kazuma",
         "distance": 423,
-        "team": "TOR",
-        "opponent": "ATH",
+        "team": "ATH",
+        "opponent": "TOR",
         "date": "2026-09-07",
-        "time_utc": "2026-09-08T03:50:49.004Z",
+        "time_utc": "2026-09-08T02:05:00Z",
         "game_pk": 824958,
         "inning": 7,
         "exit_velo": "109.8",
-        "launch_angle": "31.0",
-        "source": "live"
+        "launch_angle": "31",
+        "source": "savant"
     }
 ]
