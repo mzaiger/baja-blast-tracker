@@ -11425,5 +11425,18 @@
         "exit_velo": "110.2",
         "launch_angle": "30.0",
         "source": "live"
+    },
+    {
+        "player": "Kazuma Okamoto",
+        "distance": 423,
+        "team": "TOR",
+        "opponent": "ATH",
+        "date": "2026-09-07",
+        "time_utc": "2026-09-08T03:50:49.004Z",
+        "game_pk": 824958,
+        "inning": 7,
+        "exit_velo": "109.8",
+        "launch_angle": "31.0",
+        "source": "live"
     }
 ]
