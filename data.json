@@ -11388,6 +11388,19 @@
         "source": "savant"
     },
     {
+        "player": "Alec Burleson",
+        "distance": 431,
+        "team": "STL",
+        "opponent": "SF",
+        "date": "2026-09-07",
+        "time_utc": "2026-09-08T01:41:36.886Z",
+        "game_pk": 823175,
+        "inning": 6,
+        "exit_velo": "109.5",
+        "launch_angle": "31.0",
+        "source": "live"
+    },
+    {
         "player": "Jarren Duran",
         "distance": 425,
         "team": "BOS",
