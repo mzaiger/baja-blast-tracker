@@ -11440,6 +11440,32 @@
         "source": "savant"
     },
     {
+        "player": "Lazaro Montes",
+        "distance": 474,
+        "team": "SEA",
+        "opponent": "TEX",
+        "date": "2026-09-08",
+        "time_utc": "2026-09-09T03:08:46.865Z",
+        "game_pk": 823092,
+        "inning": 4,
+        "exit_velo": "116.1",
+        "launch_angle": "24.0",
+        "source": "live"
+    },
+    {
+        "player": "Wyatt Langford",
+        "distance": 438,
+        "team": "TEX",
+        "opponent": "SEA",
+        "date": "2026-09-08",
+        "time_utc": "2026-09-09T03:21:36.876Z",
+        "game_pk": 823092,
+        "inning": 5,
+        "exit_velo": "107.3",
+        "launch_angle": "23.0",
+        "source": "live"
+    },
+    {
         "player": "Christian Walker",
         "distance": 440,
         "team": "HOU",
@@ -11463,6 +11489,19 @@
         "inning": 3,
         "exit_velo": "111.7",
         "launch_angle": "34.0",
+        "source": "live"
+    },
+    {
+        "player": "Elly De La Cruz",
+        "distance": 444,
+        "team": "CIN",
+        "opponent": "LAD",
+        "date": "2026-09-08",
+        "time_utc": "2026-09-09T02:56:43.012Z",
+        "game_pk": 823901,
+        "inning": 3,
+        "exit_velo": "109.4",
+        "launch_angle": "31.0",
         "source": "live"
     },
     {
