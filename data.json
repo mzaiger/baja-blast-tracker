@@ -11466,6 +11466,19 @@
         "source": "live"
     },
     {
+        "player": "Pete Alonso",
+        "distance": 420,
+        "team": "BAL",
+        "opponent": "CLE",
+        "date": "2026-09-08",
+        "time_utc": "2026-09-09T00:11:26.763Z",
+        "game_pk": 824792,
+        "inning": 5,
+        "exit_velo": "107.1",
+        "launch_angle": "30.0",
+        "source": "live"
+    },
+    {
         "player": "Junior Caminero",
         "distance": 455,
         "team": "TB",
