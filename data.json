@@ -11516,5 +11516,31 @@
         "exit_velo": "110.2",
         "launch_angle": "25",
         "source": "savant"
+    },
+    {
+        "player": "Jackson Chourio",
+        "distance": 436,
+        "team": "MIL",
+        "opponent": "CHC",
+        "date": "2026-09-09",
+        "time_utc": "2026-09-10T00:17:02.997Z",
+        "game_pk": 823739,
+        "inning": 2,
+        "exit_velo": "108.5",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
+        "player": "Nolan Arenado",
+        "distance": 430,
+        "team": "AZ",
+        "opponent": "KC",
+        "date": "2026-09-09",
+        "time_utc": "2026-09-10T01:22:20.462Z",
+        "game_pk": 824064,
+        "inning": 4,
+        "exit_velo": "106.5",
+        "launch_angle": "28.0",
+        "source": "live"
     }
 ]
