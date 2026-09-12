@@ -11633,5 +11633,44 @@
         "exit_velo": "110.8",
         "launch_angle": "31",
         "source": "savant"
+    },
+    {
+        "player": "Fernando Tatis Jr.",
+        "distance": 421,
+        "team": "SD",
+        "opponent": "SF",
+        "date": "2026-09-12",
+        "time_utc": "2026-09-12T21:26:56.945Z",
+        "game_pk": 823170,
+        "inning": 6,
+        "exit_velo": "112.0",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "Emmanuel Rodriguez",
+        "distance": 420,
+        "team": "MIN",
+        "opponent": "CLE",
+        "date": "2026-09-12",
+        "time_utc": "2026-09-12T20:55:04.027Z",
+        "game_pk": 823657,
+        "inning": 3,
+        "exit_velo": "111.1",
+        "launch_angle": "21.0",
+        "source": "live"
+    },
+    {
+        "player": "Graham Pauley",
+        "distance": 429,
+        "team": "MIA",
+        "opponent": "LAD",
+        "date": "2026-09-12",
+        "time_utc": "2026-09-12T20:51:26.366Z",
+        "game_pk": 823819,
+        "inning": 2,
+        "exit_velo": "107.8",
+        "launch_angle": "29.0",
+        "source": "live"
     }
 ]
