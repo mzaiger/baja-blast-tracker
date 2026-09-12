@@ -11661,6 +11661,19 @@
         "source": "live"
     },
     {
+        "player": "Garrett Mitchell",
+        "distance": 425,
+        "team": "MIL",
+        "opponent": "CIN",
+        "date": "2026-09-12",
+        "time_utc": "2026-09-12T23:25:43.208Z",
+        "game_pk": 823737,
+        "inning": 1,
+        "exit_velo": "108.1",
+        "launch_angle": "33.0",
+        "source": "live"
+    },
+    {
         "player": "Graham Pauley",
         "distance": 429,
         "team": "MIA",
@@ -11671,6 +11684,19 @@
         "inning": 2,
         "exit_velo": "107.8",
         "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
+        "player": "Bryce Harper",
+        "distance": 426,
+        "team": "PHI",
+        "opponent": "ATL",
+        "date": "2026-09-12",
+        "time_utc": "2026-09-12T23:22:50.648Z",
+        "game_pk": 824870,
+        "inning": 1,
+        "exit_velo": "108.2",
+        "launch_angle": "26.0",
         "source": "live"
     }
 ]
