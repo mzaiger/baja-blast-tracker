@@ -11620,5 +11620,18 @@
         "exit_velo": "109.8",
         "launch_angle": "28.0",
         "source": "live"
+    },
+    {
+        "player": "Lazaro Montes",
+        "distance": 430,
+        "team": "SEA",
+        "opponent": "ATH",
+        "date": "2026-09-11",
+        "time_utc": "2026-09-12T03:28:59.854Z",
+        "game_pk": 824954,
+        "inning": 6,
+        "exit_velo": "110.8",
+        "launch_angle": "31.0",
+        "source": "live"
     }
 ]
