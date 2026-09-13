@@ -11635,6 +11635,19 @@
         "source": "savant"
     },
     {
+        "player": "Leo Bernal",
+        "distance": 421,
+        "team": "STL",
+        "opponent": "CWS",
+        "date": "2026-09-12",
+        "time_utc": "2026-09-13T02:13:07.830Z",
+        "game_pk": 823009,
+        "inning": 8,
+        "exit_velo": "106.2",
+        "launch_angle": "23.0",
+        "source": "live"
+    },
+    {
         "player": "Fernando Tatis Jr.",
         "distance": 421,
         "team": "SD",
@@ -11697,6 +11710,32 @@
         "inning": 1,
         "exit_velo": "108.2",
         "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
+        "player": "Justin Crawford",
+        "distance": 421,
+        "team": "PHI",
+        "opponent": "ATL",
+        "date": "2026-09-12",
+        "time_utc": "2026-09-13T01:31:01.915Z",
+        "game_pk": 824870,
+        "inning": 8,
+        "exit_velo": "104.7",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "Wyatt Langford",
+        "distance": 435,
+        "team": "TEX",
+        "opponent": "AZ",
+        "date": "2026-09-12",
+        "time_utc": "2026-09-13T01:06:18.633Z",
+        "game_pk": 825035,
+        "inning": 5,
+        "exit_velo": "105.5",
+        "launch_angle": "24.0",
         "source": "live"
     }
 ]
