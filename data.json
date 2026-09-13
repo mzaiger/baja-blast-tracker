@@ -11737,5 +11737,44 @@
         "exit_velo": "105.5",
         "launch_angle": "24",
         "source": "savant"
+    },
+    {
+        "player": "Zach Neto",
+        "distance": 440,
+        "team": "LAA",
+        "opponent": "WSH",
+        "date": "2026-09-13",
+        "time_utc": "2026-09-13T18:41:49.722Z",
+        "game_pk": 822682,
+        "inning": 5,
+        "exit_velo": "107.1",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
+        "player": "Nelson Vel\u00e1zquez",
+        "distance": 439,
+        "team": "HOU",
+        "opponent": "TB",
+        "date": "2026-09-13",
+        "time_utc": "2026-09-13T20:00:00.381Z",
+        "game_pk": 822928,
+        "inning": 8,
+        "exit_velo": "110.1",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
+        "player": "Jo Adell",
+        "distance": 451,
+        "team": "CLE",
+        "opponent": "MIN",
+        "date": "2026-09-13",
+        "time_utc": "2026-09-13T18:56:44.716Z",
+        "game_pk": 823658,
+        "inning": 3,
+        "exit_velo": "116.8",
+        "launch_angle": "29.0",
+        "source": "live"
     }
 ]
