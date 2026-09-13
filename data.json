@@ -11776,5 +11776,18 @@
         "exit_velo": "116.8",
         "launch_angle": "29.0",
         "source": "live"
+    },
+    {
+        "player": "Corey Seager",
+        "distance": 458,
+        "team": "TEX",
+        "opponent": "AZ",
+        "date": "2026-09-13",
+        "time_utc": "2026-09-13T20:13:21.716Z",
+        "game_pk": 825033,
+        "inning": 1,
+        "exit_velo": "110.3",
+        "launch_angle": "31.0",
+        "source": "live"
     }
 ]
