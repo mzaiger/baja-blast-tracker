@@ -8138,19 +8138,6 @@
         "source": "savant"
     },
     {
-        "player": "Ramos, Heliot",
-        "distance": 430,
-        "team": "KC",
-        "opponent": "SF",
-        "date": "2026-07-20",
-        "time_utc": "2026-07-20T23:40:00Z",
-        "game_pk": 824087,
-        "inning": 4,
-        "exit_velo": "107.5",
-        "launch_angle": "26",
-        "source": "savant"
-    },
-    {
         "player": "Perez, Salvador",
         "distance": 440,
         "team": "KC",
@@ -8161,6 +8148,19 @@
         "inning": 4,
         "exit_velo": "105.4",
         "launch_angle": "25",
+        "source": "savant"
+    },
+    {
+        "player": "Ramos, Heliot",
+        "distance": 430,
+        "team": "KC",
+        "opponent": "SF",
+        "date": "2026-07-20",
+        "time_utc": "2026-07-20T23:40:00Z",
+        "game_pk": 824087,
+        "inning": 4,
+        "exit_velo": "107.5",
+        "launch_angle": "26",
         "source": "savant"
     },
     {
@@ -11739,55 +11739,55 @@
         "source": "savant"
     },
     {
-        "player": "Zach Neto",
+        "player": "Neto, Zach",
         "distance": 440,
-        "team": "LAA",
-        "opponent": "WSH",
+        "team": "WSH",
+        "opponent": "LAA",
         "date": "2026-09-13",
-        "time_utc": "2026-09-13T18:41:49.722Z",
+        "time_utc": "2026-09-13T17:35:00Z",
         "game_pk": 822682,
         "inning": 5,
         "exit_velo": "107.1",
-        "launch_angle": "26.0",
-        "source": "live"
+        "launch_angle": "26",
+        "source": "savant"
     },
     {
-        "player": "Nelson Vel\u00e1zquez",
+        "player": "Vel\u00e1zquez, Nelson",
         "distance": 439,
-        "team": "HOU",
-        "opponent": "TB",
+        "team": "TB",
+        "opponent": "HOU",
         "date": "2026-09-13",
-        "time_utc": "2026-09-13T20:00:00.381Z",
+        "time_utc": "2026-09-13T17:40:00Z",
         "game_pk": 822928,
         "inning": 8,
         "exit_velo": "110.1",
-        "launch_angle": "26.0",
-        "source": "live"
+        "launch_angle": "26",
+        "source": "savant"
     },
     {
-        "player": "Jo Adell",
+        "player": "Adell, Jo",
         "distance": 451,
-        "team": "CLE",
-        "opponent": "MIN",
+        "team": "MIN",
+        "opponent": "CLE",
         "date": "2026-09-13",
-        "time_utc": "2026-09-13T18:56:44.716Z",
+        "time_utc": "2026-09-13T18:10:00Z",
         "game_pk": 823658,
         "inning": 3,
         "exit_velo": "116.8",
-        "launch_angle": "29.0",
-        "source": "live"
+        "launch_angle": "29",
+        "source": "savant"
     },
     {
-        "player": "Corey Seager",
+        "player": "Seager, Corey",
         "distance": 458,
-        "team": "TEX",
-        "opponent": "AZ",
+        "team": "AZ",
+        "opponent": "TEX",
         "date": "2026-09-13",
-        "time_utc": "2026-09-13T20:13:21.716Z",
+        "time_utc": "2026-09-13T20:10:00Z",
         "game_pk": 825033,
         "inning": 1,
         "exit_velo": "110.3",
-        "launch_angle": "31.0",
-        "source": "live"
+        "launch_angle": "31",
+        "source": "savant"
     }
 ]
