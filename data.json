@@ -11791,55 +11791,55 @@
         "source": "savant"
     },
     {
-        "player": "Fernando Tatis Jr.",
+        "player": "Tatis Jr., Fernando",
         "distance": 449,
-        "team": "SD",
-        "opponent": "COL",
+        "team": "COL",
+        "opponent": "SD",
         "date": "2026-09-14",
-        "time_utc": "2026-09-15T01:07:14.881Z",
+        "time_utc": "2026-09-15T00:40:00Z",
         "game_pk": 824308,
         "inning": 2,
         "exit_velo": "111.1",
-        "launch_angle": "35.0",
-        "source": "live"
+        "launch_angle": "35",
+        "source": "savant"
     },
     {
-        "player": "Cole Carrigg",
+        "player": "Carrigg, Cole",
         "distance": 424,
         "team": "COL",
         "opponent": "SD",
         "date": "2026-09-14",
-        "time_utc": "2026-09-15T03:01:35.987Z",
+        "time_utc": "2026-09-15T00:40:00Z",
         "game_pk": 824308,
         "inning": 7,
         "exit_velo": "100.2",
-        "launch_angle": "36.0",
-        "source": "live"
+        "launch_angle": "36",
+        "source": "savant"
     },
     {
-        "player": "Elly De La Cruz",
+        "player": "De La Cruz, Elly",
         "distance": 457,
         "team": "CIN",
         "opponent": "LAD",
         "date": "2026-09-14",
-        "time_utc": "2026-09-15T00:51:05.010Z",
+        "time_utc": "2026-09-14T22:40:00Z",
         "game_pk": 824465,
         "inning": 9,
         "exit_velo": "114.1",
-        "launch_angle": "32.0",
-        "source": "live"
+        "launch_angle": "32",
+        "source": "savant"
     },
     {
-        "player": "Corbin Carroll",
+        "player": "Carroll, Corbin",
         "distance": 423,
         "team": "AZ",
         "opponent": "MIA",
         "date": "2026-09-14",
-        "time_utc": "2026-09-15T04:43:35.460Z",
+        "time_utc": "2026-09-15T01:40:00Z",
         "game_pk": 825034,
         "inning": 9,
         "exit_velo": "108.4",
-        "launch_angle": "28.0",
-        "source": "live"
+        "launch_angle": "28",
+        "source": "savant"
     }
 ]
