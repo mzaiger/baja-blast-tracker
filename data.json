@@ -11789,5 +11789,18 @@
         "exit_velo": "110.3",
         "launch_angle": "31",
         "source": "savant"
+    },
+    {
+        "player": "Elly De La Cruz",
+        "distance": 457,
+        "team": "CIN",
+        "opponent": "LAD",
+        "date": "2026-09-14",
+        "time_utc": "2026-09-15T00:51:05.010Z",
+        "game_pk": 824465,
+        "inning": 9,
+        "exit_velo": "114.1",
+        "launch_angle": "32.0",
+        "source": "live"
     }
 ]
