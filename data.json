@@ -11791,6 +11791,32 @@
         "source": "savant"
     },
     {
+        "player": "Fernando Tatis Jr.",
+        "distance": 449,
+        "team": "SD",
+        "opponent": "COL",
+        "date": "2026-09-14",
+        "time_utc": "2026-09-15T01:07:14.881Z",
+        "game_pk": 824308,
+        "inning": 2,
+        "exit_velo": "111.1",
+        "launch_angle": "35.0",
+        "source": "live"
+    },
+    {
+        "player": "Cole Carrigg",
+        "distance": 424,
+        "team": "COL",
+        "opponent": "SD",
+        "date": "2026-09-14",
+        "time_utc": "2026-09-15T03:01:35.987Z",
+        "game_pk": 824308,
+        "inning": 7,
+        "exit_velo": "100.2",
+        "launch_angle": "36.0",
+        "source": "live"
+    },
+    {
         "player": "Elly De La Cruz",
         "distance": 457,
         "team": "CIN",
@@ -11801,6 +11827,19 @@
         "inning": 9,
         "exit_velo": "114.1",
         "launch_angle": "32.0",
+        "source": "live"
+    },
+    {
+        "player": "Corbin Carroll",
+        "distance": 423,
+        "team": "AZ",
+        "opponent": "MIA",
+        "date": "2026-09-14",
+        "time_utc": "2026-09-15T04:43:35.460Z",
+        "game_pk": 825034,
+        "inning": 9,
+        "exit_velo": "108.4",
+        "launch_angle": "28.0",
         "source": "live"
     }
 ]
