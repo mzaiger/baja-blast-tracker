@@ -11841,5 +11841,31 @@
         "exit_velo": "108.4",
         "launch_angle": "28",
         "source": "savant"
+    },
+    {
+        "player": "Bryce Eldridge",
+        "distance": 461,
+        "team": "SF",
+        "opponent": "STL",
+        "date": "2026-09-15",
+        "time_utc": "2026-09-15T23:47:53.335Z",
+        "game_pk": 823007,
+        "inning": 1,
+        "exit_velo": "112.7",
+        "launch_angle": "30.0",
+        "source": "live"
+    },
+    {
+        "player": "Jo Adell",
+        "distance": 442,
+        "team": "CLE",
+        "opponent": "CWS",
+        "date": "2026-09-15",
+        "time_utc": "2026-09-15T22:55:09.575Z",
+        "game_pk": 824384,
+        "inning": 1,
+        "exit_velo": "110.1",
+        "launch_angle": "27.0",
+        "source": "live"
     }
 ]
