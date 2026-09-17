@@ -11932,5 +11932,18 @@
         "exit_velo": "107.1",
         "launch_angle": "32",
         "source": "savant"
+    },
+    {
+        "player": "Samuel Basallo",
+        "distance": 425,
+        "team": "BAL",
+        "opponent": "NYM",
+        "date": "2026-09-16",
+        "time_utc": "2026-09-16T23:55:43.026Z",
+        "game_pk": 823576,
+        "inning": 3,
+        "exit_velo": "107.8",
+        "launch_angle": "31.0",
+        "source": "live"
     }
 ]
