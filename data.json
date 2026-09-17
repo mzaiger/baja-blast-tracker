@@ -8138,19 +8138,6 @@
         "source": "savant"
     },
     {
-        "player": "Perez, Salvador",
-        "distance": 440,
-        "team": "KC",
-        "opponent": "SF",
-        "date": "2026-07-20",
-        "time_utc": "2026-07-20T23:40:00Z",
-        "game_pk": 824087,
-        "inning": 4,
-        "exit_velo": "105.4",
-        "launch_angle": "25",
-        "source": "savant"
-    },
-    {
         "player": "Ramos, Heliot",
         "distance": 430,
         "team": "KC",
@@ -8161,6 +8148,19 @@
         "inning": 4,
         "exit_velo": "107.5",
         "launch_angle": "26",
+        "source": "savant"
+    },
+    {
+        "player": "Perez, Salvador",
+        "distance": 440,
+        "team": "KC",
+        "opponent": "SF",
+        "date": "2026-07-20",
+        "time_utc": "2026-07-20T23:40:00Z",
+        "game_pk": 824087,
+        "inning": 4,
+        "exit_velo": "105.4",
+        "launch_angle": "25",
         "source": "savant"
     },
     {
@@ -11934,68 +11934,68 @@
         "source": "savant"
     },
     {
-        "player": "Samuel Basallo",
+        "player": "Basallo, Samuel",
         "distance": 425,
-        "team": "BAL",
-        "opponent": "NYM",
+        "team": "NYM",
+        "opponent": "BAL",
         "date": "2026-09-16",
-        "time_utc": "2026-09-16T23:55:43.026Z",
+        "time_utc": "2026-09-16T23:10:00Z",
         "game_pk": 823576,
         "inning": 3,
         "exit_velo": "107.8",
-        "launch_angle": "31.0",
-        "source": "live"
+        "launch_angle": "31",
+        "source": "savant"
     },
     {
-        "player": "Ethan Salas",
+        "player": "Salas, Ethan",
         "distance": 426,
-        "team": "SD",
-        "opponent": "COL",
+        "team": "COL",
+        "opponent": "SD",
         "date": "2026-09-16",
-        "time_utc": "2026-09-17T01:14:40.372Z",
+        "time_utc": "2026-09-17T00:40:00Z",
         "game_pk": 824306,
         "inning": 2,
         "exit_velo": "105.8",
-        "launch_angle": "33.0",
-        "source": "live"
+        "launch_angle": "33",
+        "source": "savant"
     },
     {
-        "player": "Kyle Karros",
+        "player": "Karros, Kyle",
         "distance": 424,
         "team": "COL",
         "opponent": "SD",
         "date": "2026-09-16",
-        "time_utc": "2026-09-17T02:31:31.196Z",
+        "time_utc": "2026-09-17T00:40:00Z",
         "game_pk": 824306,
         "inning": 6,
         "exit_velo": "101.2",
-        "launch_angle": "30.0",
-        "source": "live"
+        "launch_angle": "30",
+        "source": "savant"
     },
     {
-        "player": "Pavin Smith",
+        "player": "Smith, Pavin",
         "distance": 424,
         "team": "AZ",
         "opponent": "MIA",
         "date": "2026-09-16",
-        "time_utc": "2026-09-17T02:22:58.819Z",
+        "time_utc": "2026-09-17T01:40:00Z",
         "game_pk": 825031,
         "inning": 2,
         "exit_velo": "109.7",
-        "launch_angle": "25.0",
-        "source": "live"
+        "launch_angle": "25",
+        "source": "savant"
     },
     {
-        "player": "Jakob Marsee",
+        "player": "Marsee, Jakob",
         "distance": 420,
-        "team": "MIA",
-        "opponent": "AZ",
+        "team": "AZ",
+        "opponent": "MIA",
         "date": "2026-09-16",
-        "time_utc": "2026-09-17T02:33:35.188Z",
+        "time_utc": "2026-09-17T01:40:00Z",
         "game_pk": 825031,
         "inning": 3,
         "exit_velo": "103.9",
-        "launch_angle": "29.0",
-        "source": "live"
+        "launch_angle": "29",
+        "source": "savant"
     }
 ]
