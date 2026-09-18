@@ -10756,7 +10756,7 @@
         "team": "TB",
         "opponent": "SD",
         "date": "2026-08-29",
-        "time_utc": "2026-08-29T20:10:00Z",
+        "time_utc": "",
         "game_pk": 822936,
         "inning": 3,
         "exit_velo": "110",
@@ -10769,7 +10769,7 @@
         "team": "TB",
         "opponent": "SD",
         "date": "2026-08-29",
-        "time_utc": "2026-08-29T20:10:00Z",
+        "time_utc": "",
         "game_pk": 822936,
         "inning": 6,
         "exit_velo": "107.8",
@@ -11999,55 +11999,55 @@
         "source": "savant"
     },
     {
-        "player": "Lawrence Butler",
+        "player": "Butler, Lawrence",
         "distance": 437,
-        "team": "ATH",
-        "opponent": "TB",
+        "team": "TB",
+        "opponent": "ATH",
         "date": "2026-09-17",
-        "time_utc": "2026-09-17T18:37:54.723Z",
+        "time_utc": "2026-09-17T17:10:00Z",
         "game_pk": 822924,
         "inning": 6,
         "exit_velo": "109.3",
-        "launch_angle": "33.0",
-        "source": "live"
+        "launch_angle": "33",
+        "source": "savant"
     },
     {
-        "player": "Henry Davis",
+        "player": "Davis, Henry",
         "distance": 423,
         "team": "PIT",
         "opponent": "MIL",
         "date": "2026-09-17",
-        "time_utc": "2026-09-17T19:16:10.015Z",
+        "time_utc": "2026-09-17T16:35:00Z",
         "game_pk": 823334,
         "inning": 8,
         "exit_velo": "110.2",
-        "launch_angle": "26.0",
-        "source": "live"
+        "launch_angle": "26",
+        "source": "savant"
     },
     {
-        "player": "Xander Bogaerts",
+        "player": "Bogaerts, Xander",
         "distance": 441,
-        "team": "SD",
-        "opponent": "COL",
+        "team": "COL",
+        "opponent": "SD",
         "date": "2026-09-17",
-        "time_utc": "2026-09-17T19:34:00.929Z",
+        "time_utc": "2026-09-17T19:10:00Z",
         "game_pk": 824305,
         "inning": 2,
         "exit_velo": "108.3",
-        "launch_angle": "24.0",
-        "source": "live"
+        "launch_angle": "24",
+        "source": "savant"
     },
     {
-        "player": "Munetaka Murakami",
+        "player": "Murakami, Munetaka",
         "distance": 423,
         "team": "CWS",
         "opponent": "DET",
         "date": "2026-09-17",
-        "time_utc": "2026-09-17T23:53:33.837Z",
+        "time_utc": "2026-09-17T23:40:00Z",
         "game_pk": 824548,
         "inning": 1,
         "exit_velo": "109.1",
-        "launch_angle": "35.0",
-        "source": "live"
+        "launch_angle": "35",
+        "source": "savant"
     }
 ]
