@@ -12036,5 +12036,18 @@
         "exit_velo": "108.3",
         "launch_angle": "24.0",
         "source": "live"
+    },
+    {
+        "player": "Munetaka Murakami",
+        "distance": 423,
+        "team": "CWS",
+        "opponent": "DET",
+        "date": "2026-09-17",
+        "time_utc": "2026-09-17T23:53:33.837Z",
+        "game_pk": 824548,
+        "inning": 1,
+        "exit_velo": "109.1",
+        "launch_angle": "35.0",
+        "source": "live"
     }
 ]
