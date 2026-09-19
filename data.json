@@ -12051,81 +12051,81 @@
         "source": "savant"
     },
     {
-        "player": "Roman Anthony",
+        "player": "Anthony, Roman",
         "distance": 438,
-        "team": "BOS",
-        "opponent": "TB",
+        "team": "TB",
+        "opponent": "BOS",
         "date": "2026-09-18",
-        "time_utc": "2026-09-18T23:10:33.470Z",
+        "time_utc": "2026-09-18T23:10:00Z",
         "game_pk": 822923,
         "inning": 1,
         "exit_velo": "107.7",
-        "launch_angle": "29.0",
-        "source": "live"
+        "launch_angle": "29",
+        "source": "savant"
     },
     {
-        "player": "Jackson Merrill",
+        "player": "Merrill, Jackson",
         "distance": 432,
         "team": "SD",
         "opponent": "MIA",
         "date": "2026-09-18",
-        "time_utc": "2026-09-19T04:07:26.033Z",
+        "time_utc": "2026-09-19T01:40:00Z",
         "game_pk": 823252,
         "inning": 8,
         "exit_velo": "111.4",
-        "launch_angle": "29.0",
-        "source": "live"
+        "launch_angle": "29",
+        "source": "savant"
     },
     {
-        "player": "Juan Soto",
+        "player": "Soto, Juan",
         "distance": 428,
         "team": "NYM",
         "opponent": "PHI",
         "date": "2026-09-18",
-        "time_utc": "2026-09-19T01:06:40.088Z",
+        "time_utc": "2026-09-18T23:15:00Z",
         "game_pk": 823572,
         "inning": 6,
         "exit_velo": "109.4",
-        "launch_angle": "27.0",
-        "source": "live"
+        "launch_angle": "27",
+        "source": "savant"
     },
     {
-        "player": "Max Muncy",
+        "player": "Muncy, Max",
         "distance": 420,
         "team": "LAD",
         "opponent": "SF",
         "date": "2026-09-18",
-        "time_utc": "2026-09-19T04:31:55.898Z",
+        "time_utc": "2026-09-19T02:15:00Z",
         "game_pk": 823898,
         "inning": 8,
         "exit_velo": "106.1",
-        "launch_angle": "29.0",
-        "source": "live"
+        "launch_angle": "29",
+        "source": "savant"
     },
     {
-        "player": "J.P. Crawford",
+        "player": "Crawford, J.P.",
         "distance": 421,
-        "team": "SEA",
-        "opponent": "COL",
+        "team": "COL",
+        "opponent": "SEA",
         "date": "2026-09-18",
-        "time_utc": "2026-09-19T00:11:46.568Z",
+        "time_utc": "2026-09-19T00:10:00Z",
         "game_pk": 824303,
         "inning": 1,
         "exit_velo": "104.5",
-        "launch_angle": "28.0",
-        "source": "live"
+        "launch_angle": "28",
+        "source": "savant"
     },
     {
-        "player": "Lazaro Montes",
+        "player": "Montes, Lazaro",
         "distance": 426,
-        "team": "SEA",
-        "opponent": "COL",
+        "team": "COL",
+        "opponent": "SEA",
         "date": "2026-09-18",
-        "time_utc": "2026-09-19T03:03:02.104Z",
+        "time_utc": "2026-09-19T00:10:00Z",
         "game_pk": 824303,
         "inning": 9,
         "exit_velo": "107.6",
-        "launch_angle": "38.0",
-        "source": "live"
+        "launch_angle": "38",
+        "source": "savant"
     }
 ]
