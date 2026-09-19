@@ -12049,5 +12049,31 @@
         "exit_velo": "109.1",
         "launch_angle": "35",
         "source": "savant"
+    },
+    {
+        "player": "Roman Anthony",
+        "distance": 438,
+        "team": "BOS",
+        "opponent": "TB",
+        "date": "2026-09-18",
+        "time_utc": "2026-09-18T23:10:33.470Z",
+        "game_pk": 822923,
+        "inning": 1,
+        "exit_velo": "107.7",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
+        "player": "J.P. Crawford",
+        "distance": 421,
+        "team": "SEA",
+        "opponent": "COL",
+        "date": "2026-09-18",
+        "time_utc": "2026-09-19T00:11:46.568Z",
+        "game_pk": 824303,
+        "inning": 1,
+        "exit_velo": "104.5",
+        "launch_angle": "28.0",
+        "source": "live"
     }
 ]
