@@ -12064,6 +12064,45 @@
         "source": "live"
     },
     {
+        "player": "Jackson Merrill",
+        "distance": 432,
+        "team": "SD",
+        "opponent": "MIA",
+        "date": "2026-09-18",
+        "time_utc": "2026-09-19T04:07:26.033Z",
+        "game_pk": 823252,
+        "inning": 8,
+        "exit_velo": "111.4",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
+        "player": "Juan Soto",
+        "distance": 428,
+        "team": "NYM",
+        "opponent": "PHI",
+        "date": "2026-09-18",
+        "time_utc": "2026-09-19T01:06:40.088Z",
+        "game_pk": 823572,
+        "inning": 6,
+        "exit_velo": "109.4",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "Max Muncy",
+        "distance": 420,
+        "team": "LAD",
+        "opponent": "SF",
+        "date": "2026-09-18",
+        "time_utc": "2026-09-19T04:31:55.898Z",
+        "game_pk": 823898,
+        "inning": 8,
+        "exit_velo": "106.1",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
         "player": "J.P. Crawford",
         "distance": 421,
         "team": "SEA",
@@ -12074,6 +12113,19 @@
         "inning": 1,
         "exit_velo": "104.5",
         "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
+        "player": "Lazaro Montes",
+        "distance": 426,
+        "team": "SEA",
+        "opponent": "COL",
+        "date": "2026-09-18",
+        "time_utc": "2026-09-19T03:03:02.104Z",
+        "game_pk": 824303,
+        "inning": 9,
+        "exit_velo": "107.6",
+        "launch_angle": "38.0",
         "source": "live"
     }
 ]
