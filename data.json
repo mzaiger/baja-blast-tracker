@@ -12192,5 +12192,31 @@
         "exit_velo": "106.8",
         "launch_angle": "35",
         "source": "savant"
+    },
+    {
+        "player": "Oneil Cruz",
+        "distance": 420,
+        "team": "PIT",
+        "opponent": "KC",
+        "date": "2026-09-20",
+        "time_utc": "2026-09-20T18:36:48.669Z",
+        "game_pk": 823329,
+        "inning": 4,
+        "exit_velo": "104.5",
+        "launch_angle": "32.0",
+        "source": "live"
+    },
+    {
+        "player": "Seiya Suzuki",
+        "distance": 440,
+        "team": "CHC",
+        "opponent": "CIN",
+        "date": "2026-09-20",
+        "time_utc": "2026-09-20T19:47:56.421Z",
+        "game_pk": 824462,
+        "inning": 8,
+        "exit_velo": "108.9",
+        "launch_angle": "24.0",
+        "source": "live"
     }
 ]
