@@ -12194,6 +12194,32 @@
         "source": "savant"
     },
     {
+        "player": "Iv\u00e1n Herrera",
+        "distance": 439,
+        "team": "STL",
+        "opponent": "WSH",
+        "date": "2026-09-20",
+        "time_utc": "2026-09-20T20:27:21.604Z",
+        "game_pk": 823001,
+        "inning": 8,
+        "exit_velo": "111.1",
+        "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
+        "player": "Leo Bernal",
+        "distance": 424,
+        "team": "STL",
+        "opponent": "WSH",
+        "date": "2026-09-20",
+        "time_utc": "2026-09-20T20:37:36.611Z",
+        "game_pk": 823001,
+        "inning": 8,
+        "exit_velo": "108.5",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
         "player": "Oneil Cruz",
         "distance": 420,
         "team": "PIT",
@@ -12207,6 +12233,19 @@
         "source": "live"
     },
     {
+        "player": "Rafael Flores Jr.",
+        "distance": 426,
+        "team": "PIT",
+        "opponent": "KC",
+        "date": "2026-09-20",
+        "time_utc": "2026-09-20T20:18:43.037Z",
+        "game_pk": 823329,
+        "inning": 8,
+        "exit_velo": "110.2",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
         "player": "Seiya Suzuki",
         "distance": 440,
         "team": "CHC",
@@ -12217,6 +12256,32 @@
         "inning": 8,
         "exit_velo": "108.9",
         "launch_angle": "24.0",
+        "source": "live"
+    },
+    {
+        "player": "George Lombard Jr.",
+        "distance": 424,
+        "team": "NYY",
+        "opponent": "AZ",
+        "date": "2026-09-20",
+        "time_utc": "2026-09-20T20:52:36.978Z",
+        "game_pk": 825028,
+        "inning": 3,
+        "exit_velo": "108.7",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
+        "player": "Spencer Jones",
+        "distance": 448,
+        "team": "NYY",
+        "opponent": "AZ",
+        "date": "2026-09-20",
+        "time_utc": "2026-09-20T20:55:28.184Z",
+        "game_pk": 825028,
+        "inning": 3,
+        "exit_velo": "109.8",
+        "launch_angle": "34.0",
         "source": "live"
     }
 ]
