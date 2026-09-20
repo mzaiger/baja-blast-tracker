@@ -12129,68 +12129,68 @@
         "source": "savant"
     },
     {
-        "player": "Griffin Conine",
+        "player": "Conine, Griffin",
         "distance": 427,
-        "team": "MIA",
-        "opponent": "SD",
+        "team": "SD",
+        "opponent": "MIA",
         "date": "2026-09-19",
-        "time_utc": "2026-09-20T03:59:53.303Z",
+        "time_utc": "2026-09-20T00:40:00Z",
         "game_pk": 823249,
         "inning": 9,
         "exit_velo": "110.8",
-        "launch_angle": "29.0",
-        "source": "live"
+        "launch_angle": "29",
+        "source": "savant"
     },
     {
-        "player": "Victor Bericoto",
+        "player": "Bericoto, Victor",
         "distance": 425,
-        "team": "SF",
-        "opponent": "LAD",
+        "team": "LAD",
+        "opponent": "SF",
         "date": "2026-09-19",
-        "time_utc": "2026-09-20T01:49:00.657Z",
+        "time_utc": "2026-09-20T01:10:00Z",
         "game_pk": 823899,
         "inning": 3,
-        "exit_velo": "107.0",
-        "launch_angle": "28.0",
-        "source": "live"
+        "exit_velo": "107",
+        "launch_angle": "28",
+        "source": "savant"
     },
     {
-        "player": "Will Smith",
+        "player": "Smith, Will",
         "distance": 422,
         "team": "LAD",
         "opponent": "SF",
         "date": "2026-09-19",
-        "time_utc": "2026-09-20T02:00:26.413Z",
+        "time_utc": "2026-09-20T01:10:00Z",
         "game_pk": 823899,
         "inning": 3,
         "exit_velo": "105.4",
-        "launch_angle": "32.0",
-        "source": "live"
+        "launch_angle": "32",
+        "source": "savant"
     },
     {
-        "player": "Cal Raleigh",
+        "player": "Raleigh, Cal",
         "distance": 459,
-        "team": "SEA",
-        "opponent": "COL",
+        "team": "COL",
+        "opponent": "SEA",
         "date": "2026-09-19",
-        "time_utc": "2026-09-20T00:17:36.771Z",
+        "time_utc": "2026-09-20T00:10:00Z",
         "game_pk": 824304,
         "inning": 1,
         "exit_velo": "111.7",
-        "launch_angle": "32.0",
-        "source": "live"
+        "launch_angle": "32",
+        "source": "savant"
     },
     {
-        "player": "Randy Arozarena",
+        "player": "Arozarena, Randy",
         "distance": 435,
-        "team": "SEA",
-        "opponent": "COL",
+        "team": "COL",
+        "opponent": "SEA",
         "date": "2026-09-19",
-        "time_utc": "2026-09-20T00:53:17.207Z",
+        "time_utc": "2026-09-20T00:10:00Z",
         "game_pk": 824304,
         "inning": 3,
         "exit_velo": "106.8",
-        "launch_angle": "35.0",
-        "source": "live"
+        "launch_angle": "35",
+        "source": "savant"
     }
 ]
