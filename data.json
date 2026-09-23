@@ -12296,5 +12296,31 @@
         "exit_velo": "107.8",
         "launch_angle": "29",
         "source": "savant"
+    },
+    {
+        "player": "Mickey Moniak",
+        "distance": 431,
+        "team": "COL",
+        "opponent": "AZ",
+        "date": "2026-09-22",
+        "time_utc": "2026-09-23T01:31:26.960Z",
+        "game_pk": 824302,
+        "inning": 3,
+        "exit_velo": "106.8",
+        "launch_angle": "40.0",
+        "source": "live"
+    },
+    {
+        "player": "Nolan Arenado",
+        "distance": 421,
+        "team": "AZ",
+        "opponent": "COL",
+        "date": "2026-09-22",
+        "time_utc": "2026-09-23T02:28:58.664Z",
+        "game_pk": 824302,
+        "inning": 7,
+        "exit_velo": "106.2",
+        "launch_angle": "25.0",
+        "source": "live"
     }
 ]
