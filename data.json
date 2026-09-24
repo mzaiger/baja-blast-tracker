@@ -8138,19 +8138,6 @@
         "source": "savant"
     },
     {
-        "player": "Ramos, Heliot",
-        "distance": 430,
-        "team": "KC",
-        "opponent": "SF",
-        "date": "2026-07-20",
-        "time_utc": "2026-07-20T23:40:00Z",
-        "game_pk": 824087,
-        "inning": 4,
-        "exit_velo": "107.5",
-        "launch_angle": "26",
-        "source": "savant"
-    },
-    {
         "player": "Perez, Salvador",
         "distance": 440,
         "team": "KC",
@@ -8161,6 +8148,19 @@
         "inning": 4,
         "exit_velo": "105.4",
         "launch_angle": "25",
+        "source": "savant"
+    },
+    {
+        "player": "Ramos, Heliot",
+        "distance": 430,
+        "team": "KC",
+        "opponent": "SF",
+        "date": "2026-07-20",
+        "time_utc": "2026-07-20T23:40:00Z",
+        "game_pk": 824087,
+        "inning": 4,
+        "exit_velo": "107.5",
+        "launch_angle": "26",
         "source": "savant"
     },
     {
@@ -12324,55 +12324,55 @@
         "source": "savant"
     },
     {
-        "player": "Juan Soto",
+        "player": "Soto, Juan",
         "distance": 429,
-        "team": "NYM",
-        "opponent": "TEX",
+        "team": "TEX",
+        "opponent": "NYM",
         "date": "2026-09-23",
-        "time_utc": "2026-09-24T00:38:52.110Z",
+        "time_utc": "2026-09-24T00:05:00Z",
         "game_pk": 822841,
         "inning": 3,
         "exit_velo": "106.2",
-        "launch_angle": "35.0",
-        "source": "live"
+        "launch_angle": "35",
+        "source": "savant"
     },
     {
-        "player": "Brett Baty",
+        "player": "Baty, Brett",
         "distance": 455,
-        "team": "NYM",
-        "opponent": "TEX",
+        "team": "TEX",
+        "opponent": "NYM",
         "date": "2026-09-23",
-        "time_utc": "2026-09-24T02:23:16.313Z",
+        "time_utc": "2026-09-24T00:05:00Z",
         "game_pk": 822841,
         "inning": 9,
         "exit_velo": "110.2",
-        "launch_angle": "36.0",
-        "source": "live"
+        "launch_angle": "36",
+        "source": "savant"
     },
     {
-        "player": "Brandon Lowe",
+        "player": "Lowe, Brandon",
         "distance": 434,
         "team": "PIT",
         "opponent": "STL",
         "date": "2026-09-23",
-        "time_utc": "2026-09-23T23:07:47.214Z",
+        "time_utc": "2026-09-23T22:40:00Z",
         "game_pk": 823327,
         "inning": 2,
         "exit_velo": "108.4",
-        "launch_angle": "29.0",
-        "source": "live"
+        "launch_angle": "29",
+        "source": "savant"
     },
     {
-        "player": "Yohandy Morales",
+        "player": "Morales, Yohandy",
         "distance": 422,
-        "team": "WSH",
-        "opponent": "DET",
+        "team": "DET",
+        "opponent": "WSH",
         "date": "2026-09-23",
-        "time_utc": "2026-09-23T18:42:00.865Z",
+        "time_utc": "2026-09-23T17:10:00Z",
         "game_pk": 824223,
         "inning": 6,
         "exit_velo": "107.1",
-        "launch_angle": "28.0",
-        "source": "live"
+        "launch_angle": "28",
+        "source": "savant"
     }
 ]
