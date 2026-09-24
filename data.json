@@ -12374,5 +12374,18 @@
         "exit_velo": "107.1",
         "launch_angle": "28",
         "source": "savant"
+    },
+    {
+        "player": "Kyle Teel",
+        "distance": 424,
+        "team": "CWS",
+        "opponent": "KC",
+        "date": "2026-09-24",
+        "time_utc": "2026-09-24T19:08:52.503Z",
+        "game_pk": 824059,
+        "inning": 4,
+        "exit_velo": "105.6",
+        "launch_angle": "28.0",
+        "source": "live"
     }
 ]
