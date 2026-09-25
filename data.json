@@ -12376,6 +12376,19 @@
         "source": "savant"
     },
     {
+        "player": "Julio Rodr\u00edguez",
+        "distance": 451,
+        "team": "SEA",
+        "opponent": "LAA",
+        "date": "2026-09-24",
+        "time_utc": "2026-09-25T02:09:47.070Z",
+        "game_pk": 823087,
+        "inning": 2,
+        "exit_velo": "109.2",
+        "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
         "player": "Kyle Teel",
         "distance": 424,
         "team": "CWS",
@@ -12386,6 +12399,58 @@
         "inning": 4,
         "exit_velo": "105.6",
         "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
+        "player": "Austin Riley",
+        "distance": 421,
+        "team": "ATL",
+        "opponent": "CIN",
+        "date": "2026-09-24",
+        "time_utc": "2026-09-25T00:12:49.942Z",
+        "game_pk": 824866,
+        "inning": 3,
+        "exit_velo": "106.4",
+        "launch_angle": "29.0",
+        "source": "live"
+    },
+    {
+        "player": "H\u00e9ctor Rodr\u00edguez",
+        "distance": 423,
+        "team": "CIN",
+        "opponent": "ATL",
+        "date": "2026-09-24",
+        "time_utc": "2026-09-25T00:58:57.815Z",
+        "game_pk": 824866,
+        "inning": 6,
+        "exit_velo": "108.8",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "Lucas Spence",
+        "distance": 429,
+        "team": "HOU",
+        "opponent": "ATH",
+        "date": "2026-09-24",
+        "time_utc": "2026-09-25T01:59:44.429Z",
+        "game_pk": 824950,
+        "inning": 2,
+        "exit_velo": "105.8",
+        "launch_angle": "24.0",
+        "source": "live"
+    },
+    {
+        "player": "Christian Walker",
+        "distance": 436,
+        "team": "HOU",
+        "opponent": "ATH",
+        "date": "2026-09-24",
+        "time_utc": "2026-09-25T03:51:12.946Z",
+        "game_pk": 824950,
+        "inning": 8,
+        "exit_velo": "109.7",
+        "launch_angle": "22.0",
         "source": "live"
     }
 ]
