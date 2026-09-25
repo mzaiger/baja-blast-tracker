@@ -8138,19 +8138,6 @@
         "source": "savant"
     },
     {
-        "player": "Perez, Salvador",
-        "distance": 440,
-        "team": "KC",
-        "opponent": "SF",
-        "date": "2026-07-20",
-        "time_utc": "2026-07-20T23:40:00Z",
-        "game_pk": 824087,
-        "inning": 4,
-        "exit_velo": "105.4",
-        "launch_angle": "25",
-        "source": "savant"
-    },
-    {
         "player": "Ramos, Heliot",
         "distance": 430,
         "team": "KC",
@@ -8161,6 +8148,19 @@
         "inning": 4,
         "exit_velo": "107.5",
         "launch_angle": "26",
+        "source": "savant"
+    },
+    {
+        "player": "Perez, Salvador",
+        "distance": 440,
+        "team": "KC",
+        "opponent": "SF",
+        "date": "2026-07-20",
+        "time_utc": "2026-07-20T23:40:00Z",
+        "game_pk": 824087,
+        "inning": 4,
+        "exit_velo": "105.4",
+        "launch_angle": "25",
         "source": "savant"
     },
     {
@@ -12376,81 +12376,81 @@
         "source": "savant"
     },
     {
-        "player": "Julio Rodr\u00edguez",
+        "player": "Rodr\u00edguez, Julio",
         "distance": 451,
         "team": "SEA",
         "opponent": "LAA",
         "date": "2026-09-24",
-        "time_utc": "2026-09-25T02:09:47.070Z",
+        "time_utc": "2026-09-25T01:40:00Z",
         "game_pk": 823087,
         "inning": 2,
         "exit_velo": "109.2",
-        "launch_angle": "25.0",
-        "source": "live"
+        "launch_angle": "25",
+        "source": "savant"
     },
     {
-        "player": "Kyle Teel",
+        "player": "Teel, Kyle",
         "distance": 424,
-        "team": "CWS",
-        "opponent": "KC",
+        "team": "KC",
+        "opponent": "CWS",
         "date": "2026-09-24",
-        "time_utc": "2026-09-24T19:08:52.503Z",
+        "time_utc": "2026-09-24T18:10:00Z",
         "game_pk": 824059,
         "inning": 4,
         "exit_velo": "105.6",
-        "launch_angle": "28.0",
-        "source": "live"
+        "launch_angle": "28",
+        "source": "savant"
     },
     {
-        "player": "Austin Riley",
+        "player": "Riley, Austin",
         "distance": 421,
         "team": "ATL",
         "opponent": "CIN",
         "date": "2026-09-24",
-        "time_utc": "2026-09-25T00:12:49.942Z",
+        "time_utc": "2026-09-24T23:15:00Z",
         "game_pk": 824866,
         "inning": 3,
         "exit_velo": "106.4",
-        "launch_angle": "29.0",
-        "source": "live"
+        "launch_angle": "29",
+        "source": "savant"
     },
     {
-        "player": "H\u00e9ctor Rodr\u00edguez",
+        "player": "Rodr\u00edguez, H\u00e9ctor",
         "distance": 423,
-        "team": "CIN",
-        "opponent": "ATL",
+        "team": "ATL",
+        "opponent": "CIN",
         "date": "2026-09-24",
-        "time_utc": "2026-09-25T00:58:57.815Z",
+        "time_utc": "2026-09-24T23:15:00Z",
         "game_pk": 824866,
         "inning": 6,
         "exit_velo": "108.8",
-        "launch_angle": "27.0",
-        "source": "live"
+        "launch_angle": "27",
+        "source": "savant"
     },
     {
-        "player": "Lucas Spence",
+        "player": "Spence, Lucas",
         "distance": 429,
-        "team": "HOU",
-        "opponent": "ATH",
+        "team": "ATH",
+        "opponent": "HOU",
         "date": "2026-09-24",
-        "time_utc": "2026-09-25T01:59:44.429Z",
+        "time_utc": "2026-09-25T01:40:00Z",
         "game_pk": 824950,
         "inning": 2,
         "exit_velo": "105.8",
-        "launch_angle": "24.0",
-        "source": "live"
+        "launch_angle": "24",
+        "source": "savant"
     },
     {
-        "player": "Christian Walker",
+        "player": "Walker, Christian",
         "distance": 436,
-        "team": "HOU",
-        "opponent": "ATH",
+        "team": "ATH",
+        "opponent": "HOU",
         "date": "2026-09-24",
-        "time_utc": "2026-09-25T03:51:12.946Z",
+        "time_utc": "2026-09-25T01:40:00Z",
         "game_pk": 824950,
         "inning": 8,
         "exit_velo": "109.7",
-        "launch_angle": "22.0",
-        "source": "live"
+        "launch_angle": "22",
+        "source": "savant"
     }
 ]
