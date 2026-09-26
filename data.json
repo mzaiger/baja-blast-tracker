@@ -12491,5 +12491,57 @@
         "exit_velo": "107.5",
         "launch_angle": "27.0",
         "source": "live"
+    },
+    {
+        "player": "David Fry",
+        "distance": 422,
+        "team": "CLE",
+        "opponent": "KC",
+        "date": "2026-09-25",
+        "time_utc": "2026-09-26T01:54:39.895Z",
+        "game_pk": 824058,
+        "inning": 5,
+        "exit_velo": "104.3",
+        "launch_angle": "30.0",
+        "source": "live"
+    },
+    {
+        "player": "Salvador Perez",
+        "distance": 434,
+        "team": "KC",
+        "opponent": "CLE",
+        "date": "2026-09-25",
+        "time_utc": "2026-09-26T03:28:33.118Z",
+        "game_pk": 824058,
+        "inning": 9,
+        "exit_velo": "107.3",
+        "launch_angle": "28.0",
+        "source": "live"
+    },
+    {
+        "player": "Rafael Flores Jr.",
+        "distance": 422,
+        "team": "PIT",
+        "opponent": "DET",
+        "date": "2026-09-25",
+        "time_utc": "2026-09-26T01:35:41.269Z",
+        "game_pk": 824220,
+        "inning": 8,
+        "exit_velo": "105.1",
+        "launch_angle": "31.0",
+        "source": "live"
+    },
+    {
+        "player": "Christian Walker",
+        "distance": 425,
+        "team": "HOU",
+        "opponent": "ATH",
+        "date": "2026-09-25",
+        "time_utc": "2026-09-26T02:42:56.799Z",
+        "game_pk": 824947,
+        "inning": 4,
+        "exit_velo": "106.1",
+        "launch_angle": "32.0",
+        "source": "live"
     }
 ]
