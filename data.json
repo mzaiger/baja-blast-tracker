@@ -12454,6 +12454,19 @@
         "source": "savant"
     },
     {
+        "player": "Bo Bichette",
+        "distance": 427,
+        "team": "NYM",
+        "opponent": "WSH",
+        "date": "2026-09-25",
+        "time_utc": "2026-09-26T00:26:32.360Z",
+        "game_pk": 822681,
+        "inning": 5,
+        "exit_velo": "108.2",
+        "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
         "player": "Pete Alonso",
         "distance": 471,
         "team": "BAL",
@@ -12463,6 +12476,19 @@
         "game_pk": 823491,
         "inning": 7,
         "exit_velo": "112.8",
+        "launch_angle": "27.0",
+        "source": "live"
+    },
+    {
+        "player": "Joe Mack",
+        "distance": 428,
+        "team": "MIA",
+        "opponent": "ATL",
+        "date": "2026-09-25",
+        "time_utc": "2026-09-26T00:40:13.565Z",
+        "game_pk": 823816,
+        "inning": 7,
+        "exit_velo": "107.5",
         "launch_angle": "27.0",
         "source": "live"
     }
