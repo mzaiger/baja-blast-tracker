@@ -8138,19 +8138,6 @@
         "source": "savant"
     },
     {
-        "player": "Ramos, Heliot",
-        "distance": 430,
-        "team": "KC",
-        "opponent": "SF",
-        "date": "2026-07-20",
-        "time_utc": "2026-07-20T23:40:00Z",
-        "game_pk": 824087,
-        "inning": 4,
-        "exit_velo": "107.5",
-        "launch_angle": "26",
-        "source": "savant"
-    },
-    {
         "player": "Perez, Salvador",
         "distance": 440,
         "team": "KC",
@@ -8161,6 +8148,19 @@
         "inning": 4,
         "exit_velo": "105.4",
         "launch_angle": "25",
+        "source": "savant"
+    },
+    {
+        "player": "Ramos, Heliot",
+        "distance": 430,
+        "team": "KC",
+        "opponent": "SF",
+        "date": "2026-07-20",
+        "time_utc": "2026-07-20T23:40:00Z",
+        "game_pk": 824087,
+        "inning": 4,
+        "exit_velo": "107.5",
+        "launch_angle": "26",
         "source": "savant"
     },
     {
@@ -12454,94 +12454,94 @@
         "source": "savant"
     },
     {
-        "player": "Bo Bichette",
+        "player": "Bichette, Bo",
         "distance": 427,
-        "team": "NYM",
-        "opponent": "WSH",
+        "team": "WSH",
+        "opponent": "NYM",
         "date": "2026-09-25",
-        "time_utc": "2026-09-26T00:26:32.360Z",
+        "time_utc": "2026-09-25T22:45:00Z",
         "game_pk": 822681,
         "inning": 5,
         "exit_velo": "108.2",
-        "launch_angle": "25.0",
-        "source": "live"
+        "launch_angle": "25",
+        "source": "savant"
     },
     {
-        "player": "Pete Alonso",
+        "player": "Alonso, Pete",
         "distance": 471,
-        "team": "BAL",
-        "opponent": "NYY",
+        "team": "NYY",
+        "opponent": "BAL",
         "date": "2026-09-25",
-        "time_utc": "2026-09-25T21:48:26.056Z",
+        "time_utc": "2026-09-25T20:05:00Z",
         "game_pk": 823491,
         "inning": 7,
         "exit_velo": "112.8",
-        "launch_angle": "27.0",
-        "source": "live"
+        "launch_angle": "27",
+        "source": "savant"
     },
     {
-        "player": "Joe Mack",
+        "player": "Mack, Joe",
         "distance": 428,
         "team": "MIA",
         "opponent": "ATL",
         "date": "2026-09-25",
-        "time_utc": "2026-09-26T00:40:13.565Z",
+        "time_utc": "2026-09-25T23:10:00Z",
         "game_pk": 823816,
         "inning": 7,
         "exit_velo": "107.5",
-        "launch_angle": "27.0",
-        "source": "live"
+        "launch_angle": "27",
+        "source": "savant"
     },
     {
-        "player": "David Fry",
+        "player": "Fry, David",
         "distance": 422,
-        "team": "CLE",
-        "opponent": "KC",
+        "team": "KC",
+        "opponent": "CLE",
         "date": "2026-09-25",
-        "time_utc": "2026-09-26T01:54:39.895Z",
+        "time_utc": "2026-09-25T23:40:00Z",
         "game_pk": 824058,
         "inning": 5,
         "exit_velo": "104.3",
-        "launch_angle": "30.0",
-        "source": "live"
+        "launch_angle": "30",
+        "source": "savant"
     },
     {
-        "player": "Salvador Perez",
+        "player": "Perez, Salvador",
         "distance": 434,
         "team": "KC",
         "opponent": "CLE",
         "date": "2026-09-25",
-        "time_utc": "2026-09-26T03:28:33.118Z",
+        "time_utc": "2026-09-25T23:40:00Z",
         "game_pk": 824058,
         "inning": 9,
         "exit_velo": "107.3",
-        "launch_angle": "28.0",
-        "source": "live"
+        "launch_angle": "28",
+        "source": "savant"
     },
     {
-        "player": "Rafael Flores Jr.",
+        "player": "Flores Jr., Rafael",
         "distance": 422,
-        "team": "PIT",
-        "opponent": "DET",
+        "team": "DET",
+        "opponent": "PIT",
         "date": "2026-09-25",
-        "time_utc": "2026-09-26T01:35:41.269Z",
+        "time_utc": "2026-09-25T22:40:00Z",
         "game_pk": 824220,
         "inning": 8,
         "exit_velo": "105.1",
-        "launch_angle": "31.0",
-        "source": "live"
+        "launch_angle": "31",
+        "source": "savant"
     },
     {
-        "player": "Christian Walker",
+        "player": "Walker, Christian",
         "distance": 425,
-        "team": "HOU",
-        "opponent": "ATH",
+        "team": "ATH",
+        "opponent": "HOU",
         "date": "2026-09-25",
-        "time_utc": "2026-09-26T02:42:56.799Z",
+        "time_utc": "2026-09-26T01:40:00Z",
         "game_pk": 824947,
         "inning": 4,
         "exit_velo": "106.1",
-        "launch_angle": "32.0",
-        "source": "live"
+        "launch_angle": "32",
+        "source": "savant"
     }
 ]
