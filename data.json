@@ -12543,5 +12543,31 @@
         "exit_velo": "106.1",
         "launch_angle": "32",
         "source": "savant"
+    },
+    {
+        "player": "Enrique Hern\u00e1ndez",
+        "distance": 429,
+        "team": "LAD",
+        "opponent": "SF",
+        "date": "2026-09-26",
+        "time_utc": "2026-09-26T22:36:00.280Z",
+        "game_pk": 823165,
+        "inning": 9,
+        "exit_velo": "106.9",
+        "launch_angle": "25.0",
+        "source": "live"
+    },
+    {
+        "player": "Alec Burleson",
+        "distance": 432,
+        "team": "STL",
+        "opponent": "MIL",
+        "date": "2026-09-26",
+        "time_utc": "2026-09-26T23:50:48.940Z",
+        "game_pk": 823733,
+        "inning": 3,
+        "exit_velo": "111.6",
+        "launch_angle": "27.0",
+        "source": "live"
     }
 ]
