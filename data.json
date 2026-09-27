@@ -12608,5 +12608,70 @@
         "exit_velo": "109",
         "launch_angle": "28",
         "source": "savant"
+    },
+    {
+        "player": "Charles McAdoo",
+        "distance": 446,
+        "team": "TOR",
+        "opponent": "CIN",
+        "date": "2026-09-27",
+        "time_utc": "2026-09-27T21:24:41.791Z",
+        "game_pk": 822761,
+        "inning": 8,
+        "exit_velo": "108.6",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
+        "player": "Gavin Sheets",
+        "distance": 423,
+        "team": "SD",
+        "opponent": "AZ",
+        "date": "2026-09-27",
+        "time_utc": "2026-09-27T20:01:50.270Z",
+        "game_pk": 823246,
+        "inning": 4,
+        "exit_velo": "105.9",
+        "launch_angle": "24.0",
+        "source": "live"
+    },
+    {
+        "player": "Vinnie Pasquantino",
+        "distance": 434,
+        "team": "KC",
+        "opponent": "CLE",
+        "date": "2026-09-27",
+        "time_utc": "2026-09-27T20:20:36.087Z",
+        "game_pk": 824055,
+        "inning": 5,
+        "exit_velo": "106.0",
+        "launch_angle": "26.0",
+        "source": "live"
+    },
+    {
+        "player": "Jo Adell",
+        "distance": 440,
+        "team": "CLE",
+        "opponent": "KC",
+        "date": "2026-09-27",
+        "time_utc": "2026-09-27T20:27:15.136Z",
+        "game_pk": 824055,
+        "inning": 6,
+        "exit_velo": "112.0",
+        "launch_angle": "24.0",
+        "source": "live"
+    },
+    {
+        "player": "Eduardo Valencia",
+        "distance": 443,
+        "team": "DET",
+        "opponent": "PIT",
+        "date": "2026-09-27",
+        "time_utc": "2026-09-27T21:00:18.489Z",
+        "game_pk": 824217,
+        "inning": 7,
+        "exit_velo": "109.8",
+        "launch_angle": "29.0",
+        "source": "live"
     }
 ]
