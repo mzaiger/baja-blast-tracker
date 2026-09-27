@@ -8138,19 +8138,6 @@
         "source": "savant"
     },
     {
-        "player": "Perez, Salvador",
-        "distance": 440,
-        "team": "KC",
-        "opponent": "SF",
-        "date": "2026-07-20",
-        "time_utc": "2026-07-20T23:40:00Z",
-        "game_pk": 824087,
-        "inning": 4,
-        "exit_velo": "105.4",
-        "launch_angle": "25",
-        "source": "savant"
-    },
-    {
         "player": "Ramos, Heliot",
         "distance": 430,
         "team": "KC",
@@ -8161,6 +8148,19 @@
         "inning": 4,
         "exit_velo": "107.5",
         "launch_angle": "26",
+        "source": "savant"
+    },
+    {
+        "player": "Perez, Salvador",
+        "distance": 440,
+        "team": "KC",
+        "opponent": "SF",
+        "date": "2026-07-20",
+        "time_utc": "2026-07-20T23:40:00Z",
+        "game_pk": 824087,
+        "inning": 4,
+        "exit_velo": "105.4",
+        "launch_angle": "25",
         "source": "savant"
     },
     {
@@ -12545,68 +12545,68 @@
         "source": "savant"
     },
     {
-        "player": "Enrique Hern\u00e1ndez",
+        "player": "Hern\u00e1ndez, Enrique",
         "distance": 429,
-        "team": "LAD",
-        "opponent": "SF",
+        "team": "SF",
+        "opponent": "LAD",
         "date": "2026-09-26",
-        "time_utc": "2026-09-26T22:36:00.280Z",
+        "time_utc": "2026-09-26T20:05:00Z",
         "game_pk": 823165,
         "inning": 9,
         "exit_velo": "106.9",
-        "launch_angle": "25.0",
-        "source": "live"
+        "launch_angle": "25",
+        "source": "savant"
     },
     {
-        "player": "Alec Burleson",
+        "player": "Burleson, Alec",
         "distance": 432,
-        "team": "STL",
-        "opponent": "MIL",
+        "team": "MIL",
+        "opponent": "STL",
         "date": "2026-09-26",
-        "time_utc": "2026-09-26T23:50:48.940Z",
+        "time_utc": "2026-09-26T23:10:00Z",
         "game_pk": 823733,
         "inning": 3,
         "exit_velo": "111.6",
-        "launch_angle": "27.0",
-        "source": "live"
+        "launch_angle": "27",
+        "source": "savant"
     },
     {
-        "player": "Brice Turang",
+        "player": "Turang, Brice",
         "distance": 421,
         "team": "MIL",
         "opponent": "STL",
         "date": "2026-09-26",
-        "time_utc": "2026-09-27T00:37:59.083Z",
+        "time_utc": "2026-09-26T23:10:00Z",
         "game_pk": 823733,
         "inning": 5,
         "exit_velo": "105.3",
-        "launch_angle": "31.0",
-        "source": "live"
+        "launch_angle": "31",
+        "source": "savant"
     },
     {
-        "player": "Ezequiel Tovar",
+        "player": "Tovar, Ezequiel",
         "distance": 422,
-        "team": "COL",
-        "opponent": "CWS",
+        "team": "CWS",
+        "opponent": "COL",
         "date": "2026-09-26",
-        "time_utc": "2026-09-27T00:15:20.073Z",
+        "time_utc": "2026-09-26T23:10:00Z",
         "game_pk": 824543,
         "inning": 4,
         "exit_velo": "105.7",
-        "launch_angle": "31.0",
-        "source": "live"
+        "launch_angle": "31",
+        "source": "savant"
     },
     {
-        "player": "Jeremy Pe\u00f1a",
+        "player": "Pe\u00f1a, Jeremy",
         "distance": 425,
-        "team": "HOU",
-        "opponent": "ATH",
+        "team": "ATH",
+        "opponent": "HOU",
         "date": "2026-09-26",
-        "time_utc": "2026-09-27T03:55:27.728Z",
+        "time_utc": "2026-09-27T01:40:00Z",
         "game_pk": 824949,
         "inning": 8,
-        "exit_velo": "109.0",
-        "launch_angle": "28.0",
-        "source": "live"
+        "exit_velo": "109",
+        "launch_angle": "28",
+        "source": "savant"
     }
 ]
