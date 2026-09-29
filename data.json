@@ -12636,6 +12636,19 @@
         "source": "savant"
     },
     {
+        "player": "Conine, Griffin",
+        "distance": 439,
+        "team": "MIA",
+        "opponent": "ATL",
+        "date": "2026-09-27",
+        "time_utc": "2026-09-27T19:10:00Z",
+        "game_pk": 823814,
+        "inning": 7,
+        "exit_velo": "110.2",
+        "launch_angle": "34",
+        "source": "savant"
+    },
+    {
         "player": "Pasquantino, Vinnie",
         "distance": 434,
         "team": "KC",
